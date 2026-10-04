@@ -1,0 +1,1445 @@
+{
+  "category": {
+    "name": "Sickness",
+    "url": "sickness",
+    "icon": "sickness.svg",
+    "meta": "3 Subcategories"
+  },
+  "total_subcategories": 3,
+  "total_duas": 35,
+  "subcategories": [
+    {
+      "id": 101,
+      "title": "Duas for the sick person",
+      "category": "sickness",
+      "dua-ids": [
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        913,
+        914,
+        915,
+        916,
+        917,
+        918
+      ],
+      "duas": [
+        {
+          "dua_id": 531,
+          "title": "Dua for Healing (Surah Al-Fatiha)",
+          "category_tags": [],
+          "introduction": "Surah Fatiha",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+          "audio": "/audio/dua/531.mp3",
+          "transliteration": "(1) Bismillaahir Rahmaanir Raheem. (2) Alhamdu lillaahi Rabbil 'aalameen. (3) Ar-Rahmaanir-Raheem. (4) Maaliki Yawmid-Deen. (5) Iyyaaka na'budu wa lyyaaka nasta'een. (6) Ihdinas-Siraatal-Mustaqeem. (7) Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
+          "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray. (Sura Fatiha: 1-7)\n\nNarrated Al-Aswad (RA): I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, \"The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.\"",
+          "reference": "Bukhari: 5741",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا سُلَيْمَانُ الشَّيْبَانِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ، عَنْ أَبِيهِ، قَالَ سَأَلْتُ عَائِشَةَ عَنِ الرُّقْيَةِ، مِنَ الْحُمَةِ فَقَالَتْ رَخَّصَ النَّبِيُّ صلى الله عليه وسلم الرُّقْيَةَ مِنْ كُلِّ ذِي حُمَةٍ‏.‏",
+            "translation": "Narrated Al-Aswad: I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, \"The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.\" [Bukhari: 5741]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 532,
+          "title": "Dua for evil eye (Masnoon dua)",
+          "category_tags": [],
+          "introduction": "When one of you sees something in his brother's, or his own, or his own possessions that makes him wonder, let him say:",
+          "arabic": "بَارَكَ اللَّهُ لَكَ",
+          "audio": "/audio/dua/532.mp3",
+          "transliteration": "Barakallahu lak",
+          "translation": "Allah give blessings to you.\n\nBecause, for the evil eye is real.",
+          "reference": "Sahih (Albani). Ibn Majah: 3508, 3509",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو هِشَامٍ الْمَخْزُومِيُّ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَبِي وَاقِدٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ اسْتَعِيذُوا بِاللَّهِ فَإِنَّ الْعَيْنَ حَقٌّ ‏\" ‏ ‏.‏",
+            "translation": "It was narrated from ‘Aishah that the Messenger of Allah (ﷺ) said: ‘Seek refuge with Allah, for the evil eye is real.” [Sahih (Albani). Ibn Majah: 3508, 3509]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 533,
+          "title": "Prophet’s Healing Dua (Hadith)",
+          "category_tags": [],
+          "introduction": "‘Ayesha (RA) said that when the Prophet (ﷺ) was afflicted, he would recite Surah Nas, Falaq, blow on his body and wipe the body with his hands.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 4439",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 534,
+          "title": "Prophet’s Dua for Sickness",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اِشْفِ وَأَنْتَ الشَّافِي لَا شِفَاءَ إِلاَّ شِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا",
+          "audio": "/audio/dua/534.mp3",
+          "transliteration": "Allaahumma Rabban-nas Adhhibil-ba’s, Ishfi wa Antash-Shafi, laa shifa’a illaa shifaa’uka, shifaa’an laa yughadiru saqama",
+          "translation": "O Allah, the Lord of the people! Remove the trouble and heal the patient, for You are the Healer. No healing is of any avail but Yours; healing that will leave behind no ailment.\n\nNarrated `Aisha (RA): The Prophet (ﷺ) used to treat some of his wives by passing his right hand over the place of ailment and used to say: (The dua is mentioned above)",
+          "reference": "Bukhari: 5743",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي سُلَيْمَانُ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُعَوِّذُ بَعْضَ أَهْلِهِ، يَمْسَحُ بِيَدِهِ الْيُمْنَى وَيَقُولُ ‏ \"‏ اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا ‏\" ‏‏.‏ قَالَ سُفْيَانُ حَدَّثْتُ بِهِ مَنْصُورًا فَحَدَّثَنِي عَنْ إِبْرَاهِيمَ عَنْ مَسْرُوقٍ عَنْ عَائِشَةَ نَحْوَهُ‏.‏",
+            "translation": "Narrated `Aisha: The Prophet (ﷺ) used to treat some of his wives by passing his right hand over the place of ailment and used to say, \"O Allah, the Lord of the people! Remove the trouble and heal the patient, for You are the Healer. No healing is of any avail but Yours; healing that will leave behind no ailment.\" [Bukhari: 5743]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 535,
+          "title": "Powerful Dua for pain relief",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "باِسْمِ اللَّهِ تُرْبَةُ أَرْضِنَا بِرِيْقَةِ بَعْضِنَا يُشْفَى (بِهِ) سَقِيْمُنَا بِإِذْنِ رَبِّنَا",
+          "audio": "/audio/dua/535.mp3",
+          "transliteration": "Bismil-laahi, turbatu ardina, biriqati ba`dina, yushfa (bihi) saqimuna, bi 'idhni Rabbina",
+          "translation": "In the Name of Allah The earth of our land and the saliva of some of us cure our patient.\n\nAyesha (RA) said that if there was any illness, pain or wound on any part of the body, Rasulullah (ﷺ) would place his (Shahadat) finger on the ground and lift it and recite this Dua. In another narration, he would put a little saliva of his mouth on his finger and put his finger on the ground and then put it in the place of pain and say this dua.",
+          "reference": "Bukhari: 5745, Muslim : 2194",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي عَبْدُ رَبِّهِ بْنُ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ لِلْمَرِيضِ ‏ \"‏ بِسْمِ اللَّهِ، تُرْبَةُ أَرْضِنَا‏.‏ بِرِيقَةِ بَعْضِنَا، يُشْفَى سَقِيمُنَا بِإِذْنِ رَبِّنَا ‏\" ‏‏.‏",
+            "translation": "Narrated `Aisha: The Prophet (ﷺ) used to say to the patient, \"In the Name of Allah The earth of our land and the saliva of some of us cure our patient.\" [Bukhari: 5745, Muslim : 2194]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 536,
+          "title": "Dua for Protection and pain relief",
+          "category_tags": [],
+          "introduction": "Say three times:",
+          "arabic": "بِسْمِ اللَّهِ",
+          "audio": "/audio/dua/536.mp3",
+          "transliteration": "Bismillaah",
+          "translation": "In the Name of Allah. (3 Times)",
+          "reference": "Muslim: 2202, Sahih (Albani). Abu Dawud: 3891",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 537,
+          "title": "Powerful Dua for healing (Surah Nas, Falaq, Ikhlas)",
+          "category_tags": [],
+          "introduction": "Surah Ikhlas",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿",
+          "audio": "/audio/dua/537.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. (1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+          "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful. (1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas: 1-4)",
+          "reference": "Bukhari: 5735",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 538,
+          "title": "Virtue of Visiting the Sick (Sahih Hadith)",
+          "category_tags": [],
+          "introduction": "Abdur rahman ibn abu laila (RA) narrated that: His father said: \"Ali took me by the hand and said: 'Come with us to pay a visit to Al-Hasan.' So we found that Abu Musa was with him.' Ali - peace be upon him - said: 'O Abu Musa! Did you come to visit (the sick) or merely (stop by to) visit?' He said: 'No, to visit (the sick).' So Ali said: 'I heard the Messenger of Allah (ﷺ) saying: \"No Muslim visits (the sick) Muslims in the morning, except that sevety-thousand angels, sent Salat upon him until the evening, and he does not visit at night except that seventy thousand angels sent Salat upon him until the morning, and there will be a garden for him in Paradise.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Tirmidhi: 969",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 539,
+          "title": "Virtue of Visiting a Patient (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated Sawban: The Messenger of Allah (ﷺ), said, \"Whoever goes to see a patient, he is wandering in the orchards of Paradise.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 2568",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 540,
+          "title": "Dua for Health & Healing",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَذْهِبِ الْبَأْسَ رَبَّ النَّاسِ، وَاشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+          "audio": "/audio/dua/540.mp3",
+          "transliteration": "Adhhibil-ba’s Rabban-naas, washfi Antash-Shaafi, laa shifaa’a illaa shifaa’uka, shifaa’an laa yughadiru saqama",
+          "translation": "Take away the disease, O the Lord of the people! Cure him as You are the One Who cures. There is no cure but Yours, a cure that leaves no disease.\n\nWhenever Allah's Messenger (ﷺ) paid a visit to a patient, or a patient was brought to him, he used to invoke Allah, saying (The dua is mentioned above)",
+          "reference": "Bukhari: 5675",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَتَى مَرِيضًا ـ أَوْ أُتِيَ بِهِ ـ قَالَ ‏ \"‏ أَذْهِبِ الْبَاسَ رَبَّ النَّاسِ، اشْفِ وَأَنْتَ الشَّافِي لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا ‏\" ‏‏.‏ قَالَ عَمْرُو بْنُ أَبِي قَيْسٍ وَإِبْرَاهِيمُ بْنُ طَهْمَانَ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ وَأَبِي الضُّحَى إِذَا أُتِيَ بِالْمَرِيضِ، وَقَالَ جَرِيرٌ عَنْ مَنْصُورٍ عَنْ أَبِي الضُّحَى وَحْدَهُ، وَقَالَ إِذَا أَتَى مَرِيضًا‏.‏",
+            "translation": "Narrated `Aisha: Whenever Allah's Messenger (ﷺ) paid a visit to a patient, or a patient was brought to him, he used to invoke Allah, saying, \"Take away the disease, O the Lord of the people! Cure him as You are the One Who cures. There is no cure but Yours, a cure that leaves no disease.\" [Bukhari: 5675]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 541,
+          "title": "Dua for Sick Person (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+          "audio": "/audio/dua/541.mp3",
+          "transliteration": "Laa ba'sa tahoorun 'inshaa'Allah.",
+          "translation": "Do not worry, it will be a purification (for you), Allah willing.\n\nThe Prophet (ﷺ) used to say this dua when he went to see a sick person.",
+          "reference": "Bukhari: 3616",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ، حَدَّثَنَا خَالِدٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَى أَعْرَابِيٍّ ـ يَعُودُهُ ـ قَالَ وَكَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا دَخَلَ عَلَى مَرِيضٍ يَعُودُهُ قَالَ لاَ بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ‏.‏ فَقَالَ لَهُ ‏\"‏ لاَ بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ ‏\"‏‏.‏ قَالَ قُلْتَ طَهُورٌ كَلاَّ بَلْ هِيَ حُمَّى تَفُورُ ـ أَوْ تَثُورُ ـ عَلَى شَيْخٍ كَبِيرٍ، تُزِيرُهُ الْقُبُورَ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ فَنَعَمْ إِذًا ‏\"‏‏.‏",
+            "translation": "Narrated Ibn `Abbas: The Prophet (ﷺ) paid a visit to a sick bedouin. The Prophet (ﷺ) when visiting a patient used to say, \"No harm will befall you! May Allah cure you! May Allah cure you!\" So the Prophet (ﷺ) said to the bedouin. \"No harm will befall you. May Allah cure you!\" The bedouin said, \"You say, may Allah cure me? No, for it is a fever which boils in (the body of) an old man, and will lead him to the grave.\" The Prophet (ﷺ) said, \"Yes, then may it be as you say.\" [Bukhari: 3616]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 542,
+          "title": "Islamic Prayer for the Sick Person",
+          "category_tags": [],
+          "introduction": "(Seven times)",
+          "arabic": "أَسْأَلُ اللَّهَ الْعَظِيْمَ رَبَّ الْعَرْشِ الْعَظِيْمِ أَنْ يَشْفِيَكَ",
+          "audio": "/audio/dua/542.mp3",
+          "transliteration": "As'alullaahal-'Adheem Rabbal-'Arshil-'Adheem 'an yashfiyak",
+          "translation": "I ask Almighty Allah, Lord of the Magnificent Throne, to make you well.\n\nIbn 'Abbas (RA) narrated that the Prophet (ﷺ) said: \"There is no Muslim worshiper who visits one who is ill - other than at the time of death - and he says seven times: (The dua is mentioned above) except when he will be cured.\" (The dua is mentioned above)",
+          "reference": "Sahih. Tirmidhi: 2083",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قال حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قال حَدَّثَنَا شُعْبَةُ، عَنْ يَزِيدَ أَبِي خَالِدٍ، قَالَ سَمِعْتُ الْمِنْهَالَ بْنَ عَمْرٍو، يُحَدِّثُ عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ مَا مِنْ عَبْدٍ مُسْلِمٍ يَعُودُ مَرِيضًا لَمْ يَحْضُرْ أَجَلُهُ فَيَقُولُ سَبْعَ مَرَّاتٍ أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ إِلاَّ عُوفِيَ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ الْمِنْهَالِ بْنِ عَمْرٍو ‏.‏",
+            "translation": "Ibn 'Abbas narrated that the Prophet (S.A.W) said: \"There is no Muslim worshiper who visits one who is ill - other than at the time of death - and he says seven times: As'alullah Al-'Azeem Rabbal 'Arshil 'Azeem an yashfik ('I ask Allah the Magnificent, Lord of the Magnificent Throne to cure you') except when he will be cured.\" [Sahih (Albani). Tirmidhi: 2083]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 543,
+          "title": "Dua for Forgiveness and Paradise",
+          "category_tags": [],
+          "introduction": "Narrated Aisha (RA), she said, ‘The Prophet (ﷺ) was leaning towards me. Then I heard him say -",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَأَلْحِقْنِي بِالرَّفِيقِ الْأَعْلَى",
+          "audio": "/audio/dua/543.mp3",
+          "transliteration": "Allahum-maghfir lee warhamnee wa 'alhiqnee bir-rafeeqil-'a'laa",
+          "translation": "O Allah, forgive me and have mercy upon me and join me with the highest companions (in Paradise).",
+          "reference": "Sahih (Albani) Sahih Al Jame: 1267",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 544,
+          "title": "Dua When Death Is Near (Masnun Duas)",
+          "category_tags": [],
+          "introduction": "Narrated Abu Huraira (RA): The Prophet (ﷺ) said: The person who says -",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/544.mp3",
+          "transliteration": "Laa ilaaha ill-Allahu wAllahu akbar",
+          "translation": "None has the right to be worshipped except Allah and Allah is the greatest.\n\nHis Lord affirms his statement and says: ‘There is none worthy of worship except Me, and I am the Greatest,’",
+          "reference": "Sahih (Albani). Tirmidhi: 3430",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 545,
+          "title": "Virtue of Saying La ilaha illallah",
+          "category_tags": [],
+          "introduction": "Narrated Mu'adh Ibn Jabal (RA): The Messenger of Allah (ﷺ) said: Whose last words will be -",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+          "audio": "/audio/dua/545.mp3",
+          "transliteration": "Laa 'ilaaha 'illAllah",
+          "translation": "There is none worthy of worship but Allah.\n\nHe will go to paradise.",
+          "reference": "Sahih. Abu Dawud: 3116",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَالِكُ بْنُ عَبْدِ الْوَاحِدِ الْمِسْمَعِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، حَدَّثَنِي صَالِحُ بْنُ أَبِي عَرِيبٍ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَ آخِرُ كَلاَمِهِ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Mu’adh bin Jabal : The Messenger of Allah (ﷺ) as saying: If anyone's last words are \"There is no god but Allah\" he will enter Paradise. [Sahih (Albani). Abu Dawud: 3116]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 546,
+          "title": "Dua for Dying Person (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Allah's Messenger (ﷺ) as saying: Exhort to recite:",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+          "audio": "/audio/dua/546.mp3",
+          "transliteration": "Laa 'ilaaha 'illAllah",
+          "translation": "There is none worthy of worship but Allah.",
+          "reference": "Muslim: 916",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، فُضَيْلُ بْنُ حُسَيْنٍ وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ كِلاَهُمَا عَنْ بِشْرٍ، - قَالَ أَبُو كَامِلٍ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، - حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ، حَدَّثَنَا يَحْيَى، بْنُ عُمَارَةَ قَالَ سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لَقِّنُوا مَوْتَاكُمْ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\" ‏ ‏.‏",
+            "translation": "Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying: Exhort to recite\" There is no god but Allah\" to those of you who are dying. [Muslim: 916]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 547,
+          "title": "Dua for Death Agony from Prophet Muhammad ﷺ",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) dipped his hands in water at the time of his death, wiped his face with it and said,",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ إِنَّ لِلْمَوْتِ سَكَرَاتٍ",
+          "audio": "/audio/dua/547.mp3",
+          "transliteration": "Laa 'ilaaha 'illAllahu 'inna lilmawti sakaraat",
+          "translation": "There is none worthy of worship but Allah, surely death has agonies.",
+          "reference": "Bukhari: 4449",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ عُمَرَ بْنِ سَعِيدٍ، قَالَ أَخْبَرَنِي ابْنُ أَبِي مُلَيْكَةَ، أَنَّ أَبَا عَمْرٍو، ذَكْوَانَ مَوْلَى عَائِشَةَ أَخْبَرَهُ أَنَّ عَائِشَةَ كَانَتْ تَقُولُ إِنَّ مِنْ نِعَمِ اللَّهِ عَلَىَّ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم تُوُفِّيَ فِي بَيْتِي وَفِي يَوْمِي، وَبَيْنَ سَحْرِي وَنَحْرِي، وَأَنَّ اللَّهَ جَمَعَ بَيْنَ رِيقِي وَرِيقِهِ عِنْدَ مَوْتِهِ، دَخَلَ عَلَىَّ عَبْدُ الرَّحْمَنِ وَبِيَدِهِ السِّوَاكُ وَأَنَا مُسْنِدَةٌ رَسُولَ اللَّهِ صلى الله عليه وسلم فَرَأَيْتُهُ يَنْظُرُ إِلَيْهِ، وَعَرَفْتُ أَنَّهُ يُحِبُّ السِّوَاكَ فَقُلْتُ آخُذُهُ لَكَ فَأَشَارَ بِرَأْسِهِ أَنْ نَعَمْ، فَتَنَاوَلْتُهُ فَاشْتَدَّ عَلَيْهِ وَقُلْتُ أُلَيِّنُهُ لَكَ فَأَشَارَ بِرَأْسِهِ أَنْ نَعَمْ، فَلَيَّنْتُهُ، وَبَيْنَ يَدَيْهِ رَكْوَةٌ ـ أَوْ عُلْبَةٌ يَشُكُّ عُمَرُ ـ فِيهَا مَاءٌ، فَجَعَلَ يُدْخِلُ يَدَيْهِ فِي الْمَاءِ فَيَمْسَحُ بِهِمَا وَجْهَهُ يَقُولُ ‏\"‏ لاَ إِلَهَ إِلاَّ اللَّهُ، إِنَّ لِلْمَوْتِ سَكَرَاتٍ ‏\"‏‏.‏ ثُمَّ نَصَبَ يَدَهُ فَجَعَلَ يَقُولُ ‏\"‏ فِي الرَّفِيقِ الأَعْلَى ‏\"‏‏.‏ حَتَّى قُبِضَ وَمَالَتْ يَدُهُ‏.‏",
+            "translation": "Narrated Aisha: It was one of the favors of Allah towards me that Allah's Messenger (ﷺ) expired in my house on the day of my turn while he was leaning against my chest and Allah made my saliva mix with his saliva at his death. `Abdur-Rahman entered upon me with a Siwak in his hand and I was supporting (the back of) Allah's Messenger (ﷺ) (against my chest ). I saw the Prophet (ﷺ) looking at it (i.e. Siwak) and I knew that he loved the Siwak, so I said ( to him ), \"Shall I take it for you ? \" He nodded in agreement. So I took it and it was too stiff for him to use, so I said, \"Shall I soften it for you ?\" He nodded his approval. So I softened it and he cleaned his teeth with it. In front of him there was a jug or a tin, (The sub-narrator, `Umar is in doubt as to which was right) containing water. He started dipping his hand in the water and rubbing his face with it, he said, \"None has the right to be worshipped except Allah. Death has its agonies.\" He then lifted his hands (towards the sky) and started saying, \"With the highest companion,\" till he expired and his hand dropped down. [Bukhari: 4449]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Death Agony from Prophet Muhammad ﷺ",
+            "description": "This dua of death reminds every muslim to keep faith strong and remember Allah’s mercy, especially when facing the pain and fear of sakaratul maut in the last moments of life.",
+            "points": [
+              "Allah gives peace to the heart of a muslim who says this dua of death.",
+              "Saying la ilaha ilallah in sakaratul maut helps keep Iman strong till the end.",
+              "This islamic prayer for death brings hope and eases the pain of maut for believers.",
+              "The remembrance of Allah in this dua for death brings Barakah in the last breath.",
+              "Kalima in this dua helps a muslim leave the world with Allah’s name on the tongue."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua of Death",
+            "description": "This dua of death reminds us to remember Allah and the pain of sakaratul maut, bringing Barakah and peace to the heart when facing death or seeing someone in their last moments.",
+            "points": [
+              "When a loved one is in sakaratul maut, softly recite the dua of death for ease.",
+              "At the bedside of a dying Muslim, say la ilaha ilallah as islamic prayer for death.",
+              "If you feel scared of maut, remember this dua for death to keep your Iman strong.",
+              "During illness or pain, use the dua of death to seek Allah’s mercy and Barakah.",
+              "After hearing news of someone’s passing, make this dua in remembrance of Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of Death",
+            "description": "This dua of death is a strong reminder that only Allah is worthy of worship and that death brings pain. Saying la ilaha ilallah during sakaratul maut helps the dying person and brings peace to the heart.",
+            "steps": [
+              "Sit by the person in sakaratul maut and softly recite la ilaha ilallah for comfort.",
+              "Remind the dying one with this islamic prayer for death, keeping your words gentle and slow.",
+              "Say this dua for death agony, thinking about Allah’s mercy and the truth of life and death.",
+              "Ask family to join in this remembrance of Allah, repeating the kalima for Barakah and unity.",
+              "After the person passes, keep reciting this dua of death, seeking forgiveness and peace from Allah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 548,
+          "title": "Remembrance of Allah (La ilaha illallah Dhikr)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَا إِلَهَ إِلَّا اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا إِلَهَ إِلَّا اللَّهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+          "audio": "/audio/dua/548.mp3",
+          "transliteration": "Laa 'ilaaha 'illAllahu wAllahu 'Akbar, laa 'ilaaha 'illAllahu wahdahu, laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, laa 'ilaaha 'illAllahu lahul-mulku wa lahul-hamdu, laa 'ilaaha 'illAllahu wa laa hawla wa laa quwwata 'illaa billaah",
+          "translation": "There is none worthy of worship but Allah, Allah is the Most Great. None has the right to be worshipped but Allah alone. None has the right to be worshipped but Allah alone, Who has no partner. There is none worthy of worship but Allah, His is the dominion and His is the praise. There is none worthy of worship but Allah, there is no power and no might but by Allah.",
+          "reference": "Sahih. Tirmidhi: 3430",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُحَمَّدِ بْنِ جُحَادَةَ، حَدَّثَنَا عَبْدُ الْجَبَّارِ بْنُ عَبَّاسٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَغَرِّ أَبِي مُسْلِمٍ، قَالَ أَشْهَدُ عَلَى أَبِي سَعِيدٍ وَأَبِي هُرَيْرَةَ أَنَّهُمَا شَهِدَا عَلَى النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ ‏.‏ صَدَّقَهُ رَبُّهُ فَقَالَ لاَ إِلَهَ إِلاَّ أَنَا وَأَنَا أَكْبَرُ ‏.‏ وَإِذَا قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ ‏.‏ قَالَ يَقُولُ اللَّهُ لاَ إِلَهَ إِلاَّ أَنَا وَأَنَا وَحْدِي ‏.‏ وَإِذَا قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ ‏.‏ قَالَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنَا وَحْدِي لاَ شَرِيكَ لِي ‏.‏ وَإِذَا قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ‏.‏ قَالَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنَا لِيَ الْمُلْكُ وَلِيَ الْحَمْدُ ‏.‏ وَإِذَا قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏.‏ قَالَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنَا وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِي ‏.‏ وَكَانَ يَقُولُ مَنْ قَالَهَا فِي مَرَضِهِ ثُمَّ مَاتَ لَمْ تَطْعَمْهُ النَّارُ ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ رَوَاهُ شُعْبَةُ عَنْ أَبِي إِسْحَاقَ، عَنِ الأَغَرِّ أَبِي مُسْلِمٍ، عَنْ أَبِي هُرَيْرَةَ، وَأَبِي، سَعِيدٍ بِنَحْوِ هَذَا الْحَدِيثِ بِمَعْنَاهُ وَلَمَ يَرْفَعْهُ شُعْبَةُ ‏.‏ حَدَّثَنَا بِذَلِكَ، بُنْدَارٌ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، بِهَذَا ‏.‏",
+            "translation": "Al-Agharr Abu Muslim narrated that he bears witness from Abu Sa’eed Al-Khudri and Abu Hurairah, that they bear witness that : the Prophet (ﷺ) said: “Whoever says: ‘There is none worthy of worship except Allah, and Allah is the Greatest, (Lā ilāha illallāh, wa Allāhu akbar)’ His Lord affirms his statement and says: ‘There is none worthy of worship except Me, and I am the Greatest,’ and when he say: ‘There is none worthy of worship except for Allah, Alone, (Lā ilāha illallāh, waḥdahu)’ Allah says: ‘There is none worthy of worship except for Me and I am Alone.’ And when he say: ‘There is none worthy of worship except for Allah, Alone, without partner, (Lā ilāha illallāh, waḥdahu lā sharīka lahu)’ Allah says: ‘There is none worthy of worship except Me, Alone, I have no partner.’ And when he say: ‘There is none worthy of worship except for Allah, to Him belongs all that exists, and to Him is the praise, (Lā ilāha illallāh, lahul-mulku wa lahul-ḥamdu)’ Allah says: ‘There is none worthy of worship except Me, to Me belongs all that exists, and to Me is the praise.’ And when he says: ‘There is none worthy of worship except Allah, and there is no might or power except by Allah, (Lā ilāha illallāh, wa lā ḥawla wa lā quwwata illā billāh)’ Allah says: ‘There is none worthy of worship except Me, and there is no might or power except by Me.’” And he used to say: “Whoever says it in his illness, then dies, the Fire shall not consume him.” [Sahih (Albani). Tirmidhi: 3430]"
+          },
+          "benefits": {
+            "title": "Benefits of Remembrance of Allah (La ilaha illallah Dhikr)",
+            "description": "This remembrance of Allah fills the heart with peace and brings Barakah in daily life, making every muslim feel close to Allah with every word of dhikr and tasbih on the tongue.",
+            "points": [
+              "Allahu Akbar in this dhikr brings calm and keeps the heart away from waswasah.",
+              "La ilaha illallahu wahdahu la sharika lahu gives strong Iman and Amal in life.",
+              "Zikrullah with this best dhikr wipes away sins and brings Allah’s mercy closer.",
+              "Tasbih and takbeer in this remembrance of Allah brings Barakah in every Amal.",
+              "Saying la ilaha ilallah daily helps a muslim get reward and peace from Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Remembrance of Allah",
+            "description": "This remembrance of Allah fills the heart with Iman and Barakah, making every moment better with dhikr, takbeer, and la ilaha illallah, bringing peace and reward in daily Amal and Salah.",
+            "points": [
+              "After finishing salah, keep the remembrance of Allah on your tongue for Barakah.",
+              "While walking or working, repeat la ilaha illallahu wahdahu la sharika lahu for reward.",
+              "In the morning and evening, use this dhikr to start and end your day with Iman.",
+              "When feeling weak or sad, say the remembrance of Allah to find strength and peace.",
+              "Before going to bed, make this powerful zikr for forgiveness and calm in your heart."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Remembrance of Allah",
+            "description": "This remembrance of Allah is a powerful zikrullah that fills the heart with Iman and brings Barakah. Reciting la ilaha illallah and allahu akbar daily is the best dhikr for every Muslim, making the day full of peace and blessings.",
+            "steps": [
+              "Start your morning by saying la ilaha illallahu wahdahu la sharika lahu with a clean heart.",
+              "After every salah, repeat this daily dhikr and let your tongue stay busy with tasbih.",
+              "While walking or working, softly say allahu akbar and subhanallah to keep zikrullah alive.",
+              "In times of worry, use this powerful zikr to calm your mind and remember Allah’s help.",
+              "Before going to bed, end your day with this masnun dua, asking for mercy and forgiveness."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 549,
+          "title": "Dua for Patience in Hard Times",
+          "category_tags": [],
+          "introduction": "Narrated Umm Salama (RA): I heard the Messenger of Allah (ﷺ), said: If a servant, in the face of adversity, then says:",
+          "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اَللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي، وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+          "audio": "/audio/dua/549.mp3",
+          "transliteration": "Innaa lillaahi wa innaa ilayhi raaji‛oon, Allaahumma’ jurnee fee museebatee, wakhlif lee khayran minhaa",
+          "translation": "We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it.\n\nAllah will surely give him something better than that. After the death of Abu Salamah, I recite this du'a according to the instructions of the Messenger of Allah (ﷺ), then Allah has given me better than him, that is, to the Messenger of Allah (ﷺ).",
+          "reference": "Muslim: 918",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، - قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَاعِيلُ، - أَخْبَرَنِي سَعْدُ بْنُ سَعِيدٍ، عَنْ عُمَرَ بْنِ كَثِيرِ بْنِ أَفْلَحَ، عَنِ ابْنِ، سَفِينَةَ عَنْ أُمِّ سَلَمَةَ، أَنَّهَا قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَا مِنْ مُسْلِمٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ مَا أَمَرَهُ اللَّهُ إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا ‏.‏ إِلاَّ أَخْلَفَ اللَّهُ لَهُ خَيْرًا مِنْهَا ‏\"‏ ‏.‏ قَالَتْ فَلَمَّا مَاتَ أَبُو سَلَمَةَ قُلْتُ أَىُّ الْمُسْلِمِينَ خَيْرٌ مِنْ أَبِي سَلَمَةَ أَوَّلُ بَيْتٍ هَاجَرَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ ثُمَّ إِنِّي قُلْتُهَا فَأَخْلَفَ اللَّهُ لِي رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَتْ أَرْسَلَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم حَاطِبَ بْنَ أَبِي بَلْتَعَةَ يَخْطُبُنِي لَهُ فَقُلْتُ إِنَّ لِي بِنْتًا وَأَنَا غَيُورٌ ‏.‏ فَقَالَ ‏\"‏ أَمَّا ابْنَتُهَا فَنَدْعُو اللَّهَ أَنْ يُغْنِيَهَا عَنْهَا وَأَدْعُو اللَّهَ أَنْ يَذْهَبَ بِالْغَيْرَةِ ‏\"‏ ‏.‏",
+            "translation": "Umm Salama reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,\" We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it,\" Allah will give him something better than it in exchange. When Abu Salama died she said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange. She said: The Messenger of Allah (ﷺ) sent Hatib b. Abu Balta'a to deliver me the message of marriage with him. I said to him: I have a daughter (as my dependant) and I am of jealous temperament. He (the Holy Prophet) said: So far as her daughter is concerned, we would supplicate Allah, that He may free her (of her responsibility) and I would also supplicate Allah to do away with (her) jealous (temperament). [Muslim: 918]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Patience in Hard Times",
+            "description": "This dua for patience helps muslims find hope and Sabr in every musibah, letting the heart trust Allah’s plan and wait for better days with faith and calmness.",
+            "points": [
+              "Inna lillahi wa inna ilayhi raji'un brings Sabr and peace in times of sadness.",
+              "Allahumma ajurni fi musibati gives reward and Barakah for every hard time faced.",
+              "This dua for patience in islam helps a muslim stay strong when calamity comes.",
+              "Saying this dua for hard times lets Allah replace pain with something better.",
+              "Innalillahiwainnailaihirojiun gives comfort and hope when someone feels lost."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Patience",
+            "description": "This dua for patience helps Muslims find sabr and Barakah in hard times, using inna lillahi wa inna ilayhi raji'un to ask Allah for strength, comfort, and better days after sadness or loss.",
+            "points": [
+              "When hearing sad news, recite inna lillahi wa inna ilayhi raji'un for patience.",
+              "After losing something or someone, use this dua for patience in hard times.",
+              "During stress or pain, say allahumma ajurni fi musibati to seek Allah’s help.",
+              "If you feel your sabr is weak, remember this dua for patience to keep your Iman.",
+              "When giving islamic condolences, share this dua for patience with others in musibah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Patience in Hard Times",
+            "description": "When life gets tough and your heart feels heavy, this dua for patience helps you remember Allah’s mercy and brings calmness. It is a simple Islamic dua that gives hope and teaches sabr in every hard moment.",
+            "steps": [
+              "Start by saying inna lillahi wa inna ilayhi raji'un with full yaqeen in your heart.",
+              "When you hear sad news or face musibah, recite allahumma ajurni fi musibati for sabr.",
+              "After namaz, make this dua for patience and ask Allah to give you strength and ease.",
+              "If you feel stress or sadness, repeat this patience dua to find peace and trust in Allah.",
+              "While giving islamic condolences, use this dua for hard times to comfort others with sabr."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 550,
+          "title": "Dua for the Sick and Dead Person (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لِي وَلَهُ وَأَعْقِبْنِي مِنْهُ عُقْبٰى حَسَنَةً",
+          "audio": "/audio/dua/550.mp3",
+          "transliteration": "Allaahummaghfir li walahu, wa a’qibni minhu ‘uqba hasanah",
+          "translation": "O Allah, forgive me and him, and compensate me with someone better than him.\n\nUmm Salama (RA) reported Allah's Messenger (ﷺ) as saying: Whenever you visit the sick or the dead, supplicate for good because angels say\" Amen\" to whatever you say. She added: When Abu Salama died, I went to the Messenger of Allah (ﷺ) and said: Messenger of Allah, Abu Salama has died. He told me to recite:(The dua is mentioned above) So I said (this), and Allah gave me in exchange Muhammad (ﷺ), who is better for me than him (Abu Salama).",
+          "reference": "Muslim: 919",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا حَضَرْتُمُ الْمَرِيضَ أَوِ الْمَيِّتَ فَقُولُوا خَيْرًا فَإِنَّ الْمَلاَئِكَةَ يُؤَمِّنُونَ عَلَى مَا تَقُولُونَ ‏\"‏ ‏.‏ قَالَتْ فَلَمَّا مَاتَ أَبُو سَلَمَةَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّ أَبَا سَلَمَةَ قَدْ مَاتَ قَالَ ‏\"‏ قُولِي اللَّهُمَّ اغْفِرْ لِي وَلَهُ وَأَعْقِبْنِي مِنْهُ عُقْبَى حَسَنَةً ‏\"‏ ‏.‏ قَالَتْ فَقُلْتُ فَأَعْقَبَنِي اللَّهُ مَنْ هُوَ خَيْرٌ لِي مِنْهُ مُحَمَّدًا صلى الله عليه وسلم ‏.‏",
+            "translation": "Umm Salama reported Allah's Messenger (ﷺ) as saying: Whenever you visit the sick or the dead, supplicate for good because angels say\" Amen\" to whatever you say. She added: When Abu Salama died, I went to the Messenger of Allah (ﷺ) and said: Messenger of Allah, Abu Salama has died. He told me to recite:\" O Allah! forgive me and him (Abu Salama) and give me a better substitute than he.\" So I said (this), and Allah gave me in exchange Muhammad, who is better for me than him (Abu Salama). [Muslim: 919]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Deceased and Sick Person (Masnoon Dua)",
+            "description": "This dua for deceased brings hope and maghfirat for both the sick and the dead, letting muslims ask Allah for forgiveness and a better future with every heartfelt word.",
+            "points": [
+              "Allahummaghfirli in this dua for deceased brings maghfirat for both persons.",
+              "Asking Allah in this masnoon dua gives peace to the heart after someone’s death.",
+              "This dua for the dead helps a muslim wish for Jannah and forgiveness in islam.",
+              "Dua for the sick and dead person brings Barakah and hope for a better tomorrow.",
+              "Prayer for the dead islam gives comfort and Amal to those left behind."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Deceased",
+            "description": "This dua for deceased brings Barakah and forgiveness, asking Allah for maghfirat and a good end for both the sick and the dead, giving hope and comfort in times of loss and illness.",
+            "points": [
+              "When visiting a sick Muslim, recite this dua for the sick and ask for forgiveness.",
+              "After someone passes away, use the dua for deceased to pray for maghfirat.",
+              "During janaza prayer, remember this masnoon dua for the dead for Allah’s mercy.",
+              "If you feel sad for a lost loved one, say this dua for deceased for peace and Barakah.",
+              "When giving islamic condolences, share this dua for forgiveness and hope with others."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Deceased and Sick Person",
+            "description": "When you visit someone sick or hear about a death, this dua for deceased brings comfort and hope. It is a masnoon dua that asks Allah for forgiveness and betterment for both you and the person.",
+            "steps": [
+              "Begin by softly saying allahummaghfirli walahu with a clean heart and pure niyyah.",
+              "When standing near the sick or dead, recite this dua for deceased to seek maghfirat.",
+              "After janaza salah, make this dua for forgiveness and ask Allah to grant Jannah.",
+              "If you feel sad for a lost one, repeat this dua for dead person to find peace and sabr.",
+              "While giving islamic condolences message, use this masnoon dua to comfort the family."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 913,
+          "title": "Dua for Incurable disease",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَحْيِنِيْ مَا كَانَتِ الْحَيَاةُ خَيْرًا لِّيْ، وَتَوَفَّنِيْ إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِّيْ",
+          "audio": "",
+          "transliteration": "Allaahumma ahyinee maa kaanatil hayaatu khayran lee, wa tawaffanee idhaa kaanatil wafaatu khayran lee.",
+          "translation": "O Allah! Keep me alive as long as life is better for me, and let me die if death is better for me.",
+          "reference": "Bukhari: 5671",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ مِنْ ضُرٍّ أَصَابَهُ، فَإِنْ كَانَ لاَ بُدَّ فَاعِلاً فَلْيَقُلِ اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي، وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي ‏\" ‏‏.‏",
+            "translation": "Narrated Anas bin Malik: The Prophet (ﷺ) said, \"None of you should wish for death because of a calamity befalling him; but if he has to wish for death, he should say: \"O Allah! Keep me alive as long as life is better for me, and let me die if death is better for me.' \" [Bukhari: 5671]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 914,
+          "title": "Dua for Sick Person (Healing Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اشْفِ عَبْدَكَ يَنْكَأُ لَكَ عَدُوًّا، أَوْ يَمْشِيْ لَكَ إِلٰى جَنَازَةٍ.",
+          "audio": "",
+          "transliteration": "Allaahummashfi abdaka yankau laka aduyya, aw yamshi laka ilaa janaazah.",
+          "translation": "O Allah, cure Thy servant, who may then wreak havoc on an enemy for your sake, or walk at a funeral for your sake.",
+          "reference": "Sahih. Abu Dawud: 3107",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدٍ الرَّمْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ حُيَىِّ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ، عَنِ ابْنِ عَمْرٍو، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِذَا جَاءَ الرَّجُلُ يَعُودُ مَرِيضًا فَلْيَقُلِ اللَّهُمَّ اشْفِ عَبْدَكَ يَنْكَأُ لَكَ عَدُوًّا أَوْ يَمْشِي لَكَ إِلَى جَنَازَةٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَقَالَ ابْنُ السَّرْحِ ‏\"‏ إِلَى صَلاَةٍ ‏\"‏ ‏.‏",
+            "translation": "Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: When a man comes to visit a sick person, he should say: O Allah, cure Thy servant, who may then wreak havoc on an enemy for your sake, or walk at a funeral for your sake. Abu Dawud said: Ibn As-Sarh (one of the narrators) said: \"Ilas-salat (To the Salat)\". Sunan Abi Dawud 3107 [Sahih (Albani). Abu Dawood: 3107]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 915,
+          "title": "Powerful Dua for Martyrdom (Shahada)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ ارْزُقْنِيْ شَهَادَةً فِيْ سَبِيْلِكَ، وَاجْعَلْ مَوْتِيْ فِي بَلَدِ رَسُوْلِكَ (ﷺ).",
+          "audio": "",
+          "transliteration": "Allaahummar zuqni shahaadatan fee sabilik, waj’al mawti fee baladi rasulik (ﷺ).",
+          "translation": "O Allah! Grant me martyrdom in Your cause, and let my death be in the city of Your Apostle (Madina).",
+          "reference": "Bukhari: 1890",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ خَالِدِ بْنِ يَزِيدَ، عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ ـ رضى الله عنه ـ قَالَ اللَّهُمَّ ارْزُقْنِي شَهَادَةً فِي سَبِيلِكَ، وَاجْعَلْ مَوْتِي فِي بَلَدِ رَسُولِكَ صلى الله عليه وسلم‏.‏ وَقَالَ ابْنُ زُرَيْعٍ عَنْ رَوْحِ بْنِ الْقَاسِمِ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أُمِّهِ، عَنْ حَفْصَةَ بِنْتِ عُمَرَ ـ رضى الله عنهما ـ قَالَتْ سَمِعْتُ عُمَرَ، نَحْوَهُ‏.‏ وَقَالَ هِشَامٌ عَنْ زَيْدٍ، عَنْ أَبِيهِ، عَنْ حَفْصَةَ، سَمِعْتُ عُمَرَ، رضى الله عنه‏.‏",
+            "translation": "Narrated Zaid bin Aslam from his father: `Umar said, O Allah! Grant me martyrdom in Your cause, and let my death be in the city of Your Apostle.\" [Bukhari: 1890]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 916,
+          "title": "Dua for Pain Relief (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "First say Bismillah 3 times and after that say 7 times:",
+          "arabic": "أَعُوْذُ بِعِزَّةِ اللَّهِ وَقُدْرَتَهٖ مِنْ شَرِّ مَا أَجِدُ مِنْ وَجَعِي هٰذَا",
+          "audio": "",
+          "transliteration": "A`udhu bi-`izzatillahi wa qudratihi min sharri ma ajidu min waja`i hadhaa.",
+          "translation": "I seek refuge in Allah’s might and power from the evil of this pain I feel.",
+          "reference": "Sahih. Tirmidhi: 3588",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ عَبْدِ الصَّمَدِ، حَدَّثَنِي أَبِي، حَدَّثَنَا مُحَمَّدُ بْنُ سَالِمٍ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، قَالَ قَالَ لِي يَا مُحَمَّدُ إِذَا اشْتَكَيْتَ فَضَعْ يَدَكَ حَيْثُ تَشْتَكِي وَقُلْ بِسْمِ اللَّهِ أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ مِنْ وَجَعِي هَذَا ثُمَّ ارْفَعْ يَدَكَ ثُمَّ أَعِدْ ذَلِكَ وِتْرًا فَإِنَّ أَنَسَ بْنَ مَالِكٍ حَدَّثَنِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَدَّثَهُ بِذَلِكَ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ وَمُحَمَّدُ بْنُ سَالِمٍ هَذَا شَيْخٌ بَصْرِيٌّ ‏.‏",
+            "translation": "Muhammad bin Sulaim narrated: “Thabit Al-Bunani narrated to me, he said to me: ‘O Muhammad, when you suffer from some ailment, then place your hand at the place of the ailment, then say: “In the Name of Allah, I seek refuge in Allah’s might and power from the evil of this pain I feel (Bismillāh, a`ūdhu bi-`izzatillāhi wa qudratihī min sharri mā ajidu min waja`ī hādhā).” Then lift your hand and repeat that an odd number of times. For indeed, Anas bin Malik narrated to me, that the Messenger of Allah (ﷺ) narrated that to him.’” [Sahih (Albani). Tirmidhi: 3588]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 917,
+          "title": "Dua for Protection of Iman Till Death",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنَّكَ قُلْتَ : اُدْعُوْنِيْ أَسْتَجِبْ لَكُمْ، وَإِنَّكَ لَا تُخْلِفُ الْمِيعَادَ، وَإِنِّيْ أَسْأَلُكَ كَمَا هَدَيْتَنِيْ لِلْإِسْلَامِ أَنْ لَّا تَنْزِعَهُ مِنِّيْ حَتّٰى تَتَوَفَّانِيْ وَأَنَا مُسْلِمٌ",
+          "audio": "",
+          "transliteration": "Allaahumma innaka qulta: ud’uni astajib lakum, wa ainnaka laa tukhliful miyaada, wa inni as’aluka kamaa hadaytani leel-islaami an’laa tanzi’ahu minni hatta tatawaffaani wa annaa muslimun.",
+          "translation": "O Allah, surely you have said, pray to Me, I will answer your prayers. Surely you do not break the promise. I pray to you, do not deprive me of the way you have given me Islam (and the blessings of faith). Finally, let me die on Islam.",
+          "reference": "Zayyid Sanad (Muhammad ibn Abdil Wahhab). Al-Hadith Libni Abdil Wahhab 3/145",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 918,
+          "title": "Powerful Dua for Pain Relief",
+          "category_tags": [],
+          "introduction": "Read this seven times:",
+          "arabic": "أَعُوْذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهٖ عَلٰى كُلِّ شَيْءٍ مِّنْ شَرِّ مَا أَجِدُ",
+          "audio": "",
+          "transliteration": "A‛oodhu bi-'izzatillahi wa qudratihi alaa kulli shayyin min sharri maa 'ajidu.",
+          "translation": "I seek refuge in the dignity of Allah and His might over all things from the pain I feel.",
+          "reference": "Sahih ligairih (Albani). Silsilatus Sahihah 1415",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Duas for the dead person",
+      "category": "sickness",
+      "dua-ids": [
+        551,
+        552
+      ],
+      "duas": [
+        {
+          "dua_id": 551,
+          "title": "Forgiveness Dua for the Deceased (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لَهُ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ، وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهُ فِي قَبْرِهِ، وَنَوِّرْ لَهُ فِيهِ",
+          "audio": "/audio/dua/551.mp3",
+          "transliteration": "Allahumm-aghfir lahu [mention the person's name] warfa‛ darajatahu fil-mahdiyyin, wakhlufhu fee ‛aqibihi fil-ghaabireena, waghfir lanaa wa lahu yaa rabbal-‛aalameena, wafsah lahu fee qabrihi wa nawwir lahu feeh",
+          "translation": "O Allah, forgive – [so-and-so] - and raise his rank among the rightly guided, and be a successor to whom he has left behind, and forgive us and him O Lord of the worlds. Make spacious his grave and illuminate it for him.\n\nThe Messenger of Allah (ﷺ) came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: (The dua is mentioned above)",
+          "reference": "Muslim: 920",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو إِسْحَاقَ الْفَزَارِيُّ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ قَبِيصَةَ بْنِ ذُؤَيْبٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى أَبِي سَلَمَةَ وَقَدْ شَقَّ بَصَرُهُ فَأَغْمَضَهُ ثُمَّ قَالَ ‏\"‏ إِنَّ الرُّوحَ إِذَا قُبِضَ تَبِعَهُ الْبَصَرُ ‏\"‏ ‏.‏ فَضَجَّ نَاسٌ مِنْ أَهْلِهِ فَقَالَ ‏\"‏ لاَ تَدْعُوا عَلَى أَنْفُسِكُمْ إِلاَّ بِخَيْرٍ فَإِنَّ الْمَلاَئِكَةَ يُؤَمِّنُونَ عَلَى مَا تَقُولُونَ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ اغْفِرْ لأَبِي سَلَمَةَ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِينَ وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِينَ وَافْسَحْ لَهُ فِي قَبْرِهِ ‏.‏ وَنَوِّرْ لَهُ فِيهِ ‏\"‏ ‏.‏",
+            "translation": "Umm Salama reported: The Messenger of Allah (may peace be upon came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say\" Amen\" to what you say. He then said: O Allah, forgive Abu Salama, raise his degree among those who are rightly guided, grant him a successor in his descendants who remain. Forgive us and him, O Lord of the Universe, and make his grave spacious, and grant him light in it. [Muslim: 920]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Forgiveness for the Deceased (Masnun Dua)",
+            "description": "This dua for forgiveness brings hope for the dead, asking Allah to give maghfirat, raise their rank, and fill the grave with light and peace for the one who has passed away.",
+            "points": [
+              "Allahumma in this dua for forgiveness brings maghfirat for the deceased muslim.",
+              "Janaza dua asks Allah to raise the rank of the dead among the rightly guided.",
+              "Prayer for the deceased gives Barakah and comfort to the family left behind.",
+              "This dua for maghfirat makes the grave wide and full of Noor for the dead person.",
+              "Asking rabbil alamin in this masnun dua brings hope for Jannah and peace in akhirah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Forgiveness",
+            "description": "This dua for forgiveness is a strong masnun dua for the deceased, asking Allah for maghfirat, Barakah, and light in the grave, bringing hope and comfort to families after janaza and during burial in Islam.",
+            "points": [
+              "At the time of janaza prayer, recite this dua for forgiveness for the dead person.",
+              "When visiting the graveyard, use this dua for the deceased to ask for maghfirat.",
+              "After burial, remember the forgiveness dua to pray for light and peace in the grave.",
+              "If you feel sad for a lost loved one, say this dua for forgiveness for their Barakah.",
+              "When giving condolences, share this dua for the deceased with family and friends."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Forgiveness of the Deceased",
+            "description": "When someone passes away, this dua for forgiveness is a strong way to ask Allah for mercy and light for the dead. It is a masnun dua that brings hope, comfort, and Barakah for the family and the one who left.",
+            "steps": [
+              "Start by saying allahumm-aghfir lahu and mention the person’s name with full ikhlas.",
+              "At the graveyard, recite this dua for the deceased to ask Allah to raise their rank.",
+              "After janaza salah, make this forgiveness dua for maghfirat and light in the grave.",
+              "When meeting the family, use this condolences prayer to give them hope and sabr.",
+              "While making dua in namaz, include this janaza dua for all muslims who passed away."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 552,
+          "title": "Forgiveness Dua for Deceased Woman",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لَهَا وَارْفَعْ دَرَجَتَهَا فِي الْمَهْدِيِّيْنَ، وَاخْلُفْهَآ فِي عَقِبِهَا فِي الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهَا يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهَا فِي قَبْرِهَا، وَنَوِّرْ لَهَا فِيهِ",
+          "audio": "/audio/dua/552.mp3",
+          "transliteration": "Allahumm-aghfir laha [mention the person's name] warfa‛ darajataha fil-mahdiyyin, wakhlufha fee ‛aqibiha fil-ghaabireen, waghfir lanaa wa laha yaa rabbal-‛aalameen, wafsah laha fee qabriha wa nawwir laha feeh",
+          "translation": "O Allah, forgive – [so-and-so] - and raise her rank among the rightly guided, and be a successor to whom she has left behind, and forgive us and her O Lord of the worlds. Make spacious her grave and illuminate it for her.",
+          "reference": "Muslim: 920",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو إِسْحَاقَ الْفَزَارِيُّ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ قَبِيصَةَ بْنِ ذُؤَيْبٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى أَبِي سَلَمَةَ وَقَدْ شَقَّ بَصَرُهُ فَأَغْمَضَهُ ثُمَّ قَالَ ‏\"‏ إِنَّ الرُّوحَ إِذَا قُبِضَ تَبِعَهُ الْبَصَرُ ‏\"‏ ‏.‏ فَضَجَّ نَاسٌ مِنْ أَهْلِهِ فَقَالَ ‏\"‏ لاَ تَدْعُوا عَلَى أَنْفُسِكُمْ إِلاَّ بِخَيْرٍ فَإِنَّ الْمَلاَئِكَةَ يُؤَمِّنُونَ عَلَى مَا تَقُولُونَ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ اغْفِرْ لأَبِي سَلَمَةَ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِينَ وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِينَ وَافْسَحْ لَهُ فِي قَبْرِهِ ‏.‏ وَنَوِّرْ لَهُ فِيهِ ‏\"‏ ‏.‏",
+            "translation": "Umm Salama reported: The Messenger of Allah (may peace be upon came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say\" Amen\" to what you say. He then said: O Allah, forgive Abu Salama, raise his degree among those who are rightly guided, grant him a successor in his descendants who remain. Forgive us and him, O Lord of the Universe, and make his grave spacious, and grant him light in it. [Muslim: 920]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Deceased Woman",
+            "description": "This dua for deceased woman asks Allah for maghfirat, Noor in the grave, and comfort for her family, bringing hope and Barakah for the one who has left this world.",
+            "points": [
+              "Allahummaghfirli in this dua for deceased woman brings forgiveness and mercy.",
+              "Janaza dua for her asks Allah to raise her rank with the rightly guided people.",
+              "This forgiveness dua gives peace and Barakah to the family she left behind.",
+              "Dua for grave makes her resting place wide and full of Noor from Allah.",
+              "Asking forgiveness in islam with this dua brings hope for Jannah and ease in akhirah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Forgiveness Dua for Deceased Woman",
+            "description": "This dua for deceased woman is recited to ask Allah for forgiveness, Barakah, and light in the grave for a Muslim woman who has passed away, bringing comfort and hope to her family and loved ones.",
+            "points": [
+              "After completing janaza salah, recite the dua for deceased woman to ask Allah for maghfirat.",
+              "When visiting the graveyard, use this dua for deceased woman to pray for her Barakah.",
+              "During moments of remembering a loved one, make dua for deceased woman for forgiveness in Islam.",
+              "At the time of hearing news of a Muslimah’s death, recite this forgiveness dua for the dead.",
+              "While making dua after burial, ask Allah to grant her light and ease in her grave."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Deceased Woman",
+            "description": "When a woman passes away, this dua for deceased woman is a gentle way to ask Allah for her forgiveness and light in her grave. It is a masnoon dua that brings comfort, hope, and Barakah for her and her family.",
+            "steps": [
+              "Begin by saying allahumm-aghfir laha and mention her name with a soft heart and niyyah.",
+              "At the grave, recite this dua for forgiveness to ask Allah to raise her rank and give her Noor.",
+              "After janaza salah, make this dua for deceased woman to seek maghfirat and ease in her grave.",
+              "When meeting her family, use this islamic condolences dua to bring them peace and sabr.",
+              "While making dua in namaz, include this forgiveness dua for all muslim women who passed away."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Duas related to evil eye",
+      "category": "sickness",
+      "dua-ids": [
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        919
+      ],
+      "duas": [
+        {
+          "dua_id": 553,
+          "title": "Dua for Evil Eye & Protection",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَّامَّةٍ",
+          "audio": "",
+          "transliteration": "A'oodhu bi kalimaat-illaahit-taammati min kulli shaytaanin, wa haammah, wa min kulli 'aynin laammah",
+          "translation": "I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye.\n\nThe Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting the following: (the dua is mentioned above) All believing fathers and mothers should recite these verses in the morning and in the evening, blow their children and make dua. Besides, everyone should recite the dua in the morning and evening for their own protection.",
+          "reference": "Bukhari: 3371",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنِ الْمِنْهَالِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُعَوِّذُ الْحَسَنَ وَالْحُسَيْنَ وَيَقُولُ ‏ \"‏ إِنَّ أَبَاكُمَا كَانَ يُعَوِّذُ بِهَا إِسْمَاعِيلَ وَإِسْحَاقَ، أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ ‏\" ‏‏.‏",
+            "translation": "Narrated Ibn `Abbas: The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: \"Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting the following: 'O Allah! I seek Refuge with Your Perfect Words from every devil and from poisonous pests and from every evil, harmful, envious eye.' \" [Bukhari: 3371]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Evil Eye & Protection",
+            "description": "This dua for evil eye & protection keeps a muslim safe from nazar, shaytan, and all harm, letting Allah’s perfect words guard every step and bring peace in daily life.",
+            "points": [
+              "Audhubillah in this dua for evil eye gives strong shield from nazar and hasad.",
+              "Allah’s perfect words in this protection dua keep shaytan and harm far away.",
+              "Roqya with this dua for evil eye & protection brings Barakah and calm to the heart.",
+              "Nazar ki dua helps a muslim stay safe from every evil eye and hidden danger.",
+              "Dua for protection from evil eye brings Allah’s mercy and safety in every Amal."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Evil Eye & Protection",
+            "description": "This dua for evil eye & protection is recited to seek Allah’s help from nazar, shaytan, and all harm, keeping you and your loved ones safe with the Barakah of Allah’s perfect words in every part of life.",
+            "points": [
+              "Before leaving home, recite the dua for evil eye & protection to guard against nazar.",
+              "When feeling sudden illness or harm, use this dua for evil eye & protection for safety.",
+              "At night before going to bed, make dua for protection from evil eye and shaytan.",
+              "After seeing something you like in your child, recite this evil eye protection dua for Barakah.",
+              "While traveling or starting a new journey, ask Allah with this dua for protection from hasad."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Evil Eye & Protection",
+            "description": "When you feel nazar or fear harm, this dua for evil eye & protection is a strong shield from Allah. It is a masnoon dua that keeps you safe from shaytan, hasad, and every bad look or harm.",
+            "steps": [
+              "Start by saying a'oodhu bi kalimaat-illaahit-taammati with full trust in Allah’s words.",
+              "Before going outside or sending kids to school, recite this evil eye protection dua for safety.",
+              "If you feel nazar or sudden sickness, use this dua for protection from evil eye and hasad.",
+              "After maghrib or before sleeping, repeat this dua for evil eye & protection for your family.",
+              "While doing roqya or feeling scared, say this protection dua to keep away shaytan and harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 554,
+          "title": "Dua for Protection from Evil & Envy",
+          "category_tags": [],
+          "introduction": "Surah Falaq",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ أَعُوْذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+          "audio": "/audio/dua/554.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. (1) Qul 'A'oodhu birabbil-falaq. (2) Min sharri maa khalaq. (3) Wa min sharri ghaasiqin 'ithaa waqab. (4) Wa min sharrin-naffaathaati fil-'uqad. (5) Wa min sharri haasidin 'ithaa hasad",
+          "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\" (Sura Falaq: 1-5)",
+          "reference": "[1] Surah Falaq: 1-5 [2] Surah Nas: 1-6 [3] Sahih (Albani). Ibn Majah: 3511",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Protection from Evil Eye and Jealousy (Surah Falaq)",
+            "description": "This surah falaq gives strong protection from evil eye and jealousy, letting every muslim ask Allah to keep harm, hasad, and darkness away from their life and family.",
+            "points": [
+              "Bismillah in surah falaq starts the dua for protection with Allah’s mercy.",
+              "Qul auzu bi rabbil falaq keeps a muslim safe from evil and hidden danger.",
+              "Al falaq helps protect from hasad and the harm of jealousy in daily life.",
+              "Reciting this dua for protection from evil brings peace and Barakah to the home.",
+              "Sura falaq shields from nazar and every kind of evil that can hurt a believer."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Protection from Evil Eye and Jealousy",
+            "description": "This protection from evil eye and jealousy dua is recited to keep yourself safe from hasad, darkness, and all harm, asking Allah for Barakah and His mercy through the words of Surah Falaq in daily life.",
+            "points": [
+              "After every fard salah, recite surah falaq for protection from evil eye and jealousy.",
+              "In the morning after fajr, use surah al falaq to start your day with Allah’s safety.",
+              "Before going to bed at night, make dua for protection from evil by reading surah falaq.",
+              "When feeling hasad or fear from others, recite surah falaq for Allah’s help and Barakah.",
+              "While doing daily zikr allah, include surah falaq for protection from nazar and hasad."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Evil & Envy",
+            "description": "Reciting Surah Falaq is a strong way to ask Allah for protection from evil eye and jealousy, and it is a masnoon dua that brings peace and safety to your heart and home when read with Iman and trust.",
+            "steps": [
+              "Start by saying bismillah with full belief and then recite surah falaq for protection from evil eye and jealousy.",
+              "After every salah, read this dua for protection from evil and hasad to keep your day safe.",
+              "When you feel nazar or jealousy around, recite surah al falaq and blow gently over yourself.",
+              "Before going to bed, read surah falak with the other 3 qul for full night safety and Barakah.",
+              "If your child feels scared, softly recite surat al falaq as a muslim prayer for their peace and comfort."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 555,
+          "title": "Ruqyah Dua for Protection and Shifa",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ أَرْقِيْكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيْكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنٍ حَاسِدٍ، اَللَّهُ يَشْفِيكْ، بِسْمِ اللَّهِ أَرْقِيْكَ",
+          "audio": "/audio/dua/555.mp3",
+          "transliteration": "Bismillaahi arqik, min kulli shay’in yu’dhik, min sharri kulli nafsin aw ‘aynin haasidin. Allahu yashfik, bismillaahi arqik",
+          "translation": "In the Name of Allah I perform Ruqyah for you, from everything that is harming you, from the evil of every soul or envious eye, may Allah heal you. In the Name of Allah I perform Ruqyah for you.\n\nAbu Sayed Khudri (RA) said, Gabriel (As) came to the Messenger of Allah (ﷺ) (he was feverish at that time). Gabriel (As) said, Muhammad, are you sick? He said: Yes. Then he said the above words.",
+          "reference": "Muslim: 2186",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، أَنَّ جِبْرِيلَ، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا مُحَمَّدُ اشْتَكَيْتَ فَقَالَ ‏ \"‏ نَعَمْ ‏\" ‏ ‏.‏ قَالَ بِاسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَىْءٍ يُؤْذِيكَ مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ اللَّهُ يَشْفِيكَ بِاسْمِ اللَّهِ أَرْقِيكَ ‏.‏",
+            "translation": "Abu Sa'id reported that Gabriel came to Allah's Messenger (ﷺ) and said: Muhammad, have you fallen ill? Thereupon he said: Yes. He (Gabriel) said: \"In the name of Allah I exorcise you from everything and safeguard you from every evil that may harm you and from the eye of a jealous one. Allah would cure you and I invoke the name of Allah for you.\" [Muslim: 2186]"
+          },
+          "benefits": {
+            "title": "Benefits of Ruqyah Dua for Protection and Shifa",
+            "description": "This dua for shifa and ruqyah brings Allah’s healing and protection, keeping harm, nazar, and every pain away from the believer who trusts in Allah’s name.",
+            "points": [
+              "Bismillah in ruqyah dua starts healing with Allah’s mercy and Barakah.",
+              "Bismillahi arqika keeps a muslim safe from evil eye and every jealous heart.",
+              "Dua for shifa asks Allah to remove pain and give full healing to the sick.",
+              "Ruqyah dua for protection shields from harm and brings peace to the heart.",
+              "This healing dua brings hope and comfort for anyone facing illness or nazar."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Shifa",
+            "description": "This dua for shifa is recited to ask Allah for healing, Barakah, and protection from every harm, using the words of ruqyah for those who are sick or facing evil eye, with hope for Allah’s mercy and cure.",
+            "points": [
+              "When someone is sick, recite the dua for shifa and ruqyah for healing and protection.",
+              "After feeling sudden pain or illness, use this ruqyah dua for shifa and safety from evil eye.",
+              "Before giving medicine to a loved one, make dua for shifa with bismillah for Barakah.",
+              "While visiting a patient, recite this healing dua for shifa and protection from nazar.",
+              "During times of weakness or fear, ask Allah with this ruqyah dua for shifa and strength."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Ruqyah Dua for Protection and Shifa",
+            "description": "This ruqyah dua for shifa is a healing islamic supplication that asks Allah for protection from evil eye and harm, and brings comfort to the heart of every Muslim who trusts in Allah’s power to cure and protect.",
+            "steps": [
+              "Begin by saying bismillah and recite bismillahi arqika with full hope for shifa and safety.",
+              "Place your hand on the area of pain and softly read this dua for shifa and healing from Allah.",
+              "When you feel nazar or evil eye, recite this ruqyah dua for protection and blow gently over yourself.",
+              "For your family’s health, read this dua for healing over water and let them drink for Barakah.",
+              "If someone is very sick, repeat this ayat shifa as a muslim prayer and ask Allah for quick recovery."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 556,
+          "title": "Dua for Pain Relief from Evil Eye",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَذْهِبْ حَرَّهَا وَبَرْدَهَا، وَوَصَبَهَا",
+          "audio": "",
+          "transliteration": "Allaahumma adh-hib harrahaa wa bardahaa wa wa-sabahaa",
+          "translation": "O Allah ! Remove its [evil eye] heat and cold and its pain.",
+          "reference": "Jayyid/Good chain of narration (Hussein Saleem Asad). Musnad Abi Ya’la al-Mawsili: 8195",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Pain Relief from Evil Eye",
+            "description": "This dua for pain relief helps a muslim ask Allah to remove pain, fever, and the harm of evil eye, bringing comfort and hope for quick health recovery in times of sickness.",
+            "points": [
+              "Allahumma in this dua for pain relief asks Allah to take away body pain and fever.",
+              "Evil eye dua helps protect from nazar lagna and its lasting pain in the body.",
+              "Dua for pain brings hope and Barakah for anyone feeling sick or weak.",
+              "This pain relief dua gives comfort and helps the sick feel better with Allah’s help.",
+              "Prayer for sick people with this dua brings quick shifa and peace to the heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Pain Relief",
+            "description": "This dua for pain relief is recited to ask Allah to remove pain, fever, and the harm of evil eye, bringing Barakah and comfort to the body with hope for quick health recovery and ease from all suffering.",
+            "points": [
+              "When body pain starts suddenly, recite the dua for pain relief from evil eye for comfort.",
+              "After feeling fever or sickness, use this dua for pain relief to ask Allah for shifa.",
+              "While caring for someone with nazar lagna, make dua for pain relief and health recovery.",
+              "Before giving medicine to a sick person, recite this pain relief dua for Barakah and ease.",
+              "During times of weakness or ongoing pain, ask Allah with this dua for pain relief and strength."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Pain Relief from Evil Eye",
+            "description": "This dua for pain relief is a simple muslim prayer that asks Allah to take away pain, fever, and the harm of evil eye, bringing comfort and health to anyone who reads it with true Iman and trust in Allah’s mercy.",
+            "steps": [
+              "First, say bismillah and recite this dua for pain relief with full yaqeen in Allah’s help.",
+              "Place your hand on the spot of body pain and read this pain dua for quick shifa and ease.",
+              "If fever or nazar lagna happens, softly recite this dua for fever and blow over the sick person.",
+              "For children or elders, use this dua for body pain as a muslim prayer to ask for health recovery.",
+              "When someone feels weak from sickness, repeat this dua for the sick and ask Allah for Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 557,
+          "title": "Powerful Dua for Admiring Others (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said, “If you see something (good) in your brother (or yourself or wealth, which you find impressing), then invoke blessings for it.\"",
+          "arabic": "بَارَكَ اللَّهُ لَكَ",
+          "audio": "/audio/dua/557.mp3",
+          "transliteration": "BaarakAllahu lak",
+          "translation": "O Allah, send blessing upon him.",
+          "reference": "Sahih. Ibn Majah: 3509",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، قَالَ مَرَّ عَامِرُ بْنُ رَبِيعَةَ بِسَهْلِ بْنِ حُنَيْفٍ وَهُوَ يَغْتَسِلُ فَقَالَ لَمْ أَرَ كَالْيَوْمِ وَلاَ جِلْدَ مُخَبَّأَةٍ ‏.‏ فَمَا لَبِثَ أَنْ لُبِطَ بِهِ فَأُتِيَ بِهِ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقِيلَ لَهُ أَدْرِكْ سَهْلاً صَرِيعًا ‏.‏ قَالَ ‏\"‏ مَنْ تَتَّهِمُونَ بِهِ ‏\"‏ ‏.‏ قَالُوا عَامِرَ بْنَ رَبِيعَةَ ‏.‏ قَالَ ‏\"‏ عَلاَمَ يَقْتُلُ أَحَدُكُمْ أَخَاهُ إِذَا رَأَى أَحَدُكُمْ مِنْ أَخِيهِ مَا يُعْجِبُهُ فَلْيَدْعُ لَهُ بِالْبَرَكَةِ ‏\"‏ ‏.‏ ثُمَّ دَعَا بِمَاءٍ فَأَمَرَ عَامِرًا أَنْ يَتَوَضَّأَ فَيَغْسِلَ وَجْهَهُ وَيَدَيْهِ إِلَى الْمِرْفَقَيْنِ وَرُكْبَتَيْهِ وَدَاخِلَةَ إِزَارِهِ وَأَمَرَهُ أَنْ يَصُبَّ عَلَيْهِ ‏.‏ قَالَ سُفْيَانُ قَالَ مَعْمَرٌ عَنِ الزُّهْرِيِّ وَأَمَرَهُ أَنْ يَكْفَأَ الإِنَاءَ مِنْ خَلْفِهِ ‏.‏",
+            "translation": "It was narrated that Abu Umamah bin Sahl bin Hunaif said: “ ‘Amir bin Rabi’ah passed by Sahl bin Hunaif when he was having a bath, and said: ‘I have never seen such beautiful skin.’ Straightaway, he (Sahl) fell to the ground. He was brought to the Prophet (ﷺ) and it was said: ‘Sahl has had a fit.’ He said: ‘Whom do you accuse with regard to him?’ They said: “ ‘Amir bin Rabi’ah.’ They said: ‘Why would anyone of you kill his brother? If he sees something that he likes, then let him pray for blessing for him.’ Then he called for water, and he told ‘Amir to perform ablution, then he washed his face and his arms up to the elbows, his knees and inside his lower garment, then he told him to pour the water over him.” [Sahih (Albani). Ibn Majah: 3509]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Blessing Others (Masnun Dua)",
+            "description": "This simple masnun dua brings Barakah and goodness to those you admire, making it a beautiful way to share love and keep hearts safe from jealousy and harm in daily life.",
+            "points": [
+              "Allah gives Barakah to the person when muslims say this dua for blessing.",
+              "Saying mashallah tabarakallah keeps nazar away and hearts free from hasad.",
+              "Masnun dua like barakallahu laka brings peace and love among muslims.",
+              "Using may Allah bless you in daily talk grows unity and good Amal in family.",
+              "Tabarakallah and masha allah help muslims remember Allah’s mercy in every joy."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Blessing",
+            "description": "This dua for blessing is a simple masnun dua that brings Barakah and goodness to others, showing love and care in Islam whenever you see something nice or want to protect from nazar.",
+            "points": [
+              "Whenever you see someone’s good deed or achievement, use this dua for blessing to ask Allah for Barakah.",
+              "When you admire a child or someone’s beauty, softly say barakallahu laka to protect from nazar.",
+              "After hearing good news about a friend, recite this masnun dua for blessing in islam for them.",
+              "If you see something nice in someone’s home, say mashallah tabarakallah with this dua for blessing.",
+              "While visiting family or friends, use barakallahulak to wish may Allah bless you with more goodness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Blessing Others",
+            "description": "When you see something nice in someone’s life, this dua for blessing helps protect from jealousy and brings Barakah, making it a simple masnun dua every Muslim should use with a clean heart and good niyyah.",
+            "steps": [
+              "Whenever you admire someone’s good, say barakallahu lak to ask Allah for blessing.",
+              "If you see a child or new thing, use this dua for blessing to keep away nazar.",
+              "After hearing good news, softly say mashallah tabarakallah for more Barakah.",
+              "When you feel happy for others, recite barakallah fiik as a muslim prayer for them.",
+              "At family gatherings, use this masnun dua to spread blessing in islam and protect from envy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 558,
+          "title": "Dua for protection from Evil and Night",
+          "category_tags": [],
+          "introduction": "Jibriel (As) said to the Prophet (ﷺ) to resist the devil:",
+          "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وَبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ مَا ذَرَأَ فِي الْأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+          "audio": "/audio/dua/558.mp3",
+          "transliteration": "A'oodhu bikalimaatil-laahit-taammaatil-latee laa yujaawizuhunna barrun wa laa faajirum min sharri maa khalaqa, wa bara'a wa dhara'a, wa min sharri maa yanzilu minas-samaa'i, wa min sharri maa ya'ruju feehaa, wa min sharri maa dhara'a fil-'ardhi, wa min sharri ma yakhruju minhaa, wa min sharri fitanil-layli wan-nahaari, wa min sharri kulli taariqin 'illaa taariqan yatruqu bikhayrin yaa Rahmaan",
+          "translation": "I take refuge within Allah's perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made and originated. [I take refuge] from the evil that descends from the sky and the evil that rises up to it. [I take refuge] from the evil that is spread on earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.",
+          "reference": "Sheikh Arnaut (Rah) said that the sanad of this hadith is saheeh.Takhrij Litahabiyah (p. 133)",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Protection Dua from Evil and Night",
+            "description": "This powerful protection dua keeps a muslim safe from harm, evil, and fear, asking Allah’s mercy to cover every night and day with His care and keep hearts strong in Iman.",
+            "points": [
+              "Allah’s words in this protection dua keep shaitan and jinn away from muslims.",
+              "Hifazat ki dua gives safety from evil eye and buri nazar in every home.",
+              "Powerful dua for protection from night fears brings calm before going to bed.",
+              "Using this dua for protection from enemies helps muslims feel safe in daily life.",
+              "Morning and evening azkar with this masnun dua grows Iman and Amal strong."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Protection Dua",
+            "description": "This protection dua is a strong masnun dua for safety from evil, jinn, shaitan, and harm of night or day, asking Allah for hifazat and peace in every moment when fear or danger comes close.",
+            "points": [
+              "At the time of sunset, recite this protection dua for safety from evil and shaitan.",
+              "Before going to bed, use this dua for protection from jinn and bad dreams for calm sleep.",
+              "When feeling fear at night, make this powerful dua for protection from enemies and harm.",
+              "After maghrib salah, say the protection dua for hifazat from evil eye and night fitnah.",
+              "While hearing strange sounds at night, ask Allah with this dua for protection from shaitan."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Protection Dua from Evil and Night",
+            "description": "This protection dua is a strong muslim prayer for safety from evil, bad dreams, and harm at night, and it is a masnoon dua that every Muslim can use to ask Allah for peace and comfort in their home and heart.",
+            "steps": [
+              "Before going to bed, recite this protection dua with full yaqeen for safety from evil.",
+              "When you feel fear at night, softly read this dua for protection from jinn and shaitan.",
+              "After maghrib or isha salah, use this dua for night to keep away bad dreams and harm.",
+              "If you sense danger or worry, say this powerful dua for protection and ask ya Rahman for help.",
+              "For children or family, recite this islamic prayer for protection to bring peace and Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 919,
+          "title": "Ma Sha Allah Dua for Protection (Surah Al-Kahf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ",
+          "audio": "",
+          "transliteration": "Maa shaa allaahu laa quwwata illaa billaah.",
+          "translation": "(This is) what Allah wills, and there is no might except by Allah.",
+          "reference": "Surah Al-Kahf: 39",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

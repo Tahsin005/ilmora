@@ -1,0 +1,455 @@
+{
+  "category": {
+    "name": "Marriage",
+    "url": "marriage",
+    "icon": "marriage.svg",
+    "meta": "3 Subcategories"
+  },
+  "total_subcategories": 3,
+  "total_duas": 8,
+  "subcategories": [
+    {
+      "id": 73,
+      "title": "Sermon of Marriage",
+      "category": "marriage",
+      "dua-ids": [
+        390
+      ],
+      "duas": [
+        {
+          "dua_id": 390,
+          "title": "Khutbah for Nikah (Khutbah al-Hajah)",
+          "category_tags": [],
+          "introduction": "Abdullah bin Mas'ud (RA) narrated: \"The Messenger of Allah (ﷺ) taught us the Tashah-hud for Salat and the Tashah-hud for Al-Hajjah.\" He said: \"The Tashah-hud for Salat is:",
+          "arabic": "إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِينُهُ وَنَسْتَغْفِرُهُ وَنَعُوذُ بِاللَّهِ مِنْ شُرُورِ أَنْفُسِنَا وَمِنْ سَيِّئَاتِ أَعْمَالِنَا، مَنْ يَهْدِهِ اللَّهُ فَلَا مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلَا هَادِيَ لَهُ أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُّسْلِمُونَ يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًۭا سَدِيدًا يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+          "audio": "/audio/dua/390.mp3",
+          "transliteration": "Innal-hamda lillaah nahmaduhu wa nasta‛eenuhu wa nastaghfiruhu, wa na‛oodhu billaahi min shuroori anfusinaa wa min sayyi’aati a‛maalinaa, man yahdih-illaahu fa laa mudilla lah, wa man yudlil fa laa haadiya lah, ash-hadu an laa ilaaha ill-Allaahu, wa ash-hadu anna muhammadan ‛abduhu wa rasooluh Yaa ayyuhal-ladheena aamanut-taqullaaha ‘haqqa tuqaatihi walaa tamootunna illaa wa antum muslimoon yaa ayyuhan-naasut-taqoo rabbakum-ul-ladhee khalaqakum min nafsin wa’hidatin, wa khalaqa minhaa zawjahaa, wa bath-tha minhumaa rijaalan katheeran wanisaa’-an, wat-taqullaahal-ladhee tasaa’aloona bihi wal ar’haam, inn-Allaaha kaana ‛alaykum raqeebaa Yaa ayyuhal-ladheena aamanut-taqullaaha wa qooloo qawlan sadeeda, yusli’h lakum a‛maalakum wa yaghfir lakum dhunoobakum, wa man yuti‛illaaha wa rasoolahu faqad faaza fawz-an ‛azeemaa",
+          "translation": "Indeed all Praise is for Allah, we praise Him, we seek His help and we ask His forgiveness. We seek refuge with Allah from the evil of our own souls and from the evil of our actions. Whoever Allah guides will never be led astray,and whomever Allah leads astray, no one can guide. I bear witness that there is no deity worthy of worship except Allah, and I bear witness that Muhammad is His slave and Messenger. (then reads the following verses) O you who believe! Fear Allah as He should be feared, and die not except as Muslims; [1] O Mankind! Fear your Lord, Who created you from a single person, and from him created his wife, and from them he created many men and women, and fear Allah through Whom you demand your mutual (rights). Surely, Allah is Ever Watchful over you; [2] O you who believe! Fear Allah, and speak (always) the truth He will direct you to do righteous good deeds and will forgive you your sins. And whosoever obeys Allah and His Messenger has indeed achieved a great success. [3]\n\nThen he would talk about his needs. [4]",
+          "reference": "[1] Surah Al Imran : 3:102 [2] Sura An-nisa : 4:1 [3] Suah Al-Ahjab: 33:70-71 Sohih(albani) Timiji : 1105",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Khutbah for Nikah (Khutbah al-Hajah)",
+            "description": "This khutbah brings Barakah to the islamic marriage ceremony, reminding muslims about taqwa, truth, and the real meaning of marriage in islam, while asking Allah for help and forgiveness.",
+            "points": [
+              "Khutbah for nikah gives Barakah and peace to the marriage and new couple.",
+              "Innal hamda lillah nahmaduhu in this dua for nikah brings Allah’s help and mercy.",
+              "Sunnah of nikah is followed by reading this khutbah in every islamic marriage.",
+              "Dua for newly married couple in this khutbah asks Allah to fix their Amal and Iman.",
+              "Marriage and prayer together in this khutbah teach muslims about taqwa and unity."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Khutbah For Nikah",
+            "description": "The khutbah for nikah is a blessed start for marriage in Islam, bringing Barakah, guidance, and strong Iman for the couple and all who join the Islamic marriage ceremony.",
+            "points": [
+              "At the start of the islamic marriage ceremony, recite the khutbah for nikah for Barakah.",
+              "Before the nikah contract is signed, use the khutbah for nikah to seek Allah’s help.",
+              "When joining a sunnah of nikah, begin with this khutbah for nikah for guidance and unity.",
+              "After the marriage is done, make dua for newly married couple for a happy and blessed life.",
+              "During family gatherings about marriage, share the khutbah for nikah to remind about Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Khutbah for Nikah",
+            "description": "The khutbah for nikah is a blessed start for any Islamic marriage ceremony, reminding all about taqwa, unity, and the sunnah of nikah. This khutbah brings Barakah and sets the right path for the couple and their families.",
+            "steps": [
+              "Begin the nikah by reciting innal hamda lillah nahmaduhu with full Iman and clear voice.",
+              "Let the imam or wali read the full khutbah for nikah before the marriage contract.",
+              "After the khutbah, make dua for nikah and ask Allah to give Barakah to the new couple.",
+              "Remind everyone about the sunnah of nikah and the importance of taqwa in marriage in islam.",
+              "End the gathering with a short marriage dua and pray for love, mercy, and good Amal for both."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Blessings after marriage",
+      "category": "marriage",
+      "dua-ids": [
+        391,
+        392,
+        393,
+        394,
+        395
+      ],
+      "duas": [
+        {
+          "dua_id": 391,
+          "title": "Dua for Righteous Family (Marriage Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+          "audio": "/audio/dua/391.mp3",
+          "transliteration": "Rabbanaa hab lanaa min azwaajinaa wa zurriyyaatinaa qurrata a'yunin waj'alnaa lil-muttaqeena imaamaa.",
+          "translation": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+          "reference": "Surah Furqan 25:74",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Marriage Dua for Righteous Family (Rabbana Hablana)",
+            "description": "This beautiful dua from Surah Furqan helps muslims ask Allah for a happy family, good spouse, and children who bring joy, while making the home a place of Iman and good Amal.",
+            "points": [
+              "Marriage dua rabbana hablana brings peace and love to the muslim family life.",
+              "Dua for spouse in this ayah helps Allah give Barakah in every islamic marriage.",
+              "Rabbana hablana min azwajina arabic makes children and wife a comfort to the eyes.",
+              "Prayer for family in this dua asks Allah to make the home strong in Iman and unity.",
+              "Dua to get married and have good family teaches muslims to lead with taqwa."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Marriage Dua",
+            "description": "This marriage dua from Surah Furqan asks Allah for a loving family, Barakah in your spouse and kids, and to be a good example for others in Iman and Amal every day.",
+            "points": [
+              "After every salah, recite the marriage dua to ask Allah for a righteous family.",
+              "When making dua for spouse, use this rabbana hablana verse for Barakah and love.",
+              "Before a nikah or wedding, say the marriage dua for a happy and blessed start.",
+              "During family gatherings, make this prayer for family to keep hearts close and Iman strong.",
+              "In times of worry about kids, turn to this marriage dua for guidance and comfort."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Marriage Dua",
+            "description": "This marriage dua from Surah Furqan is a beautiful prayer for family, asking Allah to bless your spouse and children with Iman and make your home a place of peace. It is a strong islamic dua for anyone wanting Barakah in their family life.",
+            "steps": [
+              "Start your day by reciting rabbana hablana min azwajina with hope for a good family.",
+              "After every salah, read this dua for marriage and ask Allah for a loving spouse and kids.",
+              "When you feel alone, use this prayer for family to ask Allah for comfort and good Amal.",
+              "During family gatherings, recite this marriage dua to bring unity and Barakah in your home.",
+              "Before going to bed, say this rabbana dua for your spouse and children to keep them safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 392,
+          "title": "Dua for a Newly Married Couple (Marriage Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+          "audio": "/audio/dua/392.mp3",
+          "transliteration": "BaarakAllaahu laka, wa baaraka 'alayka, wa jama'a baynakumaa fee khayr",
+          "translation": "May Allah bless you, and shower His blessings upon you, and join you together in goodness.\n\nAbu Hurairah (RA) said, \"The Messenger of Allah (ﷺ) used to say this to congratulate the newlyweds.\"",
+          "reference": "Sahih (Albani). Abu Dawud: 2130",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا رَفَّأَ الإِنْسَانَ إِذَا تَزَوَّجَ قَالَ ‏ \"‏ بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ ‏\" ‏ ‏.‏",
+            "translation": "Narrated AbuHurayrah: When the Prophet (ﷺ) congratulated a man on his marriage, he said: May Allah bless for you, and may He bless on you, and combine both of you in good (works). [Sahih (Albani). Abu Dawud: 2130]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for a Newly Married Couple (Marriage Dua)",
+            "description": "This short dua brings Barakah and happiness to the new couple, asking Allah to keep their hearts together in goodness and fill their marriage with love and mercy from the very start.",
+            "points": [
+              "Barakallahu laka in this dua of marriage brings Allah’s blessings to the couple.",
+              "Wedding dua helps Allah join the hearts of husband and wife in khayr and peace.",
+              "Dua for newly married couple asks for Barakah in every step of their new life.",
+              "May Allah bless your marriage is a prayer that brings unity and strong Iman.",
+              "Nikah dua teaches muslims to start marriage with hope and good Amal always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For a Newly Married Couple",
+            "description": "This dua of marriage is a lovely way to ask Allah for Barakah, happiness, and unity for the couple, making their nikah strong and full of goodness, as taught in Islamic wedding wishes and masnoon duas.",
+            "points": [
+              "Right after the nikah ceremony, recite the dua of marriage for Barakah and unity.",
+              "When visiting a wedding, greet the couple with barakallahu laka as an islamic wedding wish.",
+              "At the wedding gathering, use this dua for newly married couple to pray for their happiness.",
+              "When sending gifts or cards, write this marriage dua to wish may Allah bless your marriage.",
+              "After hearing news of a nikah, make dua for wedding to ask Allah for khayr and strong Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of marriage",
+            "description": "This dua of marriage is a simple and strong way to ask Allah for Barakah and goodness for a newly married couple. It is a sunnah to say this wedding dua and bring happiness and unity in their new life together.",
+            "steps": [
+              "When you meet a new couple, greet them and say barakallahu laka with a happy heart.",
+              "After the nikah, recite this dua for newly married couple to wish them a blessed marriage.",
+              "At wedding gatherings, use this nikah dua to pray for love and good Amal in their home.",
+              "If you write a card, add this dua for wedding to send islamic marriage quotes and Barakah.",
+              "During family talks, say this prayer for newly married couple to keep their Iman and unity strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 393,
+          "title": "Dua for Accepting Wife or Husband",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+          "audio": "/audio/dua/393.mp3",
+          "transliteration": "Allaahumma 'innee 'as'aluka khayrahaa wa khayra ma jabaltahaa 'alayhi wa 'A'oodhu bika min sharrihaa wa min sharri maa jabaltahaa 'alayhi",
+          "translation": "O Allah, I ask You for the goodness of her and the goodness upon which You have created her, and I seek refuge in You from the evil of her and from the evil upon which You have created her.",
+          "reference": "Hasan. Abu Dawud: 2160",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَعَبْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا أَبُو خَالِدٍ، - يَعْنِي سُلَيْمَانَ بْنَ حَيَّانَ - عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا تَزَوَّجَ أَحَدُكُمُ امْرَأَةً أَوِ اشْتَرَى خَادِمًا فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ وَإِذَا اشْتَرَى بَعِيرًا فَلْيَأْخُذْ بِذِرْوَةِ سَنَامِهِ وَلْيَقُلْ مِثْلَ ذَلِكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ زَادَ أَبُو سَعِيدٍ ‏\"‏ ثُمَّ لْيَأْخُذْ بِنَاصِيَتِهَا وَلْيَدْعُ بِالْبَرَكَةِ ‏\"‏ ‏.‏ فِي الْمَرْأَةِ وَالْخَادِمِ ‏.‏ '",
+            "translation": "Amr b. Shu'aib on his father's authority said that his grandfather (Abdullah ibn Amr ibn al-'As) reported the Prophet (ﷺ) said: If one of you marries a woman or buys a slave, he should say: \"O Allah, I ask You for the good in her, and in the disposition You have given her; I take refuge in You from the evil in her, and in the disposition You have given her.\" When he buys a camel, he should take hold of the top of its hump and say the same kind of thing. Abu Dawud said: Abu Sa'id added the following words in his version: He should then tale hold of her forelock and pray for blessing in the case of a woman or a slave. [Hasan (Albani). Abu Dawud: 2160]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Accepting Wife or Husband",
+            "description": "This dua helps a muslim ask Allah for the best in their spouse, bringing peace and Barakah to the marriage, and keeping hearts safe from harm and bad things in daily life.",
+            "points": [
+              "Dua for marriage allahumma inni asaluka brings goodness to husband and wife.",
+              "Dua for spouse in this prayer helps Allah protect from harm and bad Amal.",
+              "Marriage dua makes love and peace grow strong between husband and wife.",
+              "Dua for husband and wife love asks Allah to keep hearts close and happy.",
+              "Prayer for husband or wife in this dua brings Barakah to every muslim home."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Marriage Acceptance",
+            "description": "This dua for marriage is a strong way to ask Allah for khayr and Barakah in your spouse, making your nikah full of love, peace, and good Amal, as taught in islamic marriage duas and masnoon zikr.",
+            "points": [
+              "After the nikah, recite the dua for marriage to seek goodness in your spouse.",
+              "When meeting your wife or husband for the first time, use this dua for spouse for Barakah.",
+              "At the start of married life, make dua for husband and wife love to grow Iman and unity.",
+              "If you feel worry about your partner, remember this dua for wife or husband for Allah’s help.",
+              "Before sleeping beside your spouse, say this marriage dua to keep your hearts close in Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for marriage",
+            "description": "This dua for marriage is a special prayer for husband and wife, asking Allah for goodness and protection in their relationship. It helps bring love, Barakah, and peace between spouses in every home.",
+            "steps": [
+              "Before meeting your spouse, quietly recite allahumma inni asaluka for a good start.",
+              "After nikah, use this dua for wife or husband to ask Allah for love and good Amal.",
+              "When you feel worried, say this dua for spouse to keep away any harm and get Barakah.",
+              "During family talks, read this marriage dua to make your bond strong and full of Iman.",
+              "At night before going to bed, use this prayer for husband and wife love for peace in your heart."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 394,
+          "title": "Dua for First Wedding Night",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said that when a woman comes to her husband, the husband will stand for salat and his wife will also stand behind him and both of them will say after performing two rak'ats of salat.",
+          "arabic": "اَللَّهُمَّ بَارِكْ لِي فِي أَهْلِي، وَبَارِكْ لِأَهْلِي فِيَّ اَللَّهُمَّ ارْزُقْهُمْ مِنِّي، وَارْزُقْنِي مِنْهُمْ، اَللَّهُمَّ اجْمَعْ بَيْنَنَا مَا جَمَعْتَ فِي خَيْرٍ، وفَرِّقْ بَيْنَنَا إِذَا فَرَّقْتَ فِي خَيْرٍ",
+          "audio": "/audio/dua/394.mp3",
+          "transliteration": "Allaahumma barik li fi ahli, wa barik li ahli fiyya. Allahumar-zuqhum minni, war zuqni minhum. Allahum-majma’ bainana ma jama’ta fi khairin. wa farriq bainana idha far-raqta fi khair",
+          "translation": "Ya Allah! Give barakah for me in my family and give barakah to me for my family. Ya Allah! give provision to them from me and give provision to me from them. Ya Allah! collect all the good in between us which you collected and if you separate any good from us then separate it with good.",
+          "reference": "Sahih (Albani). Adabuj Zifaf: 24",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "\"حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ‏:‏ حَدَّثَنَا إِسْرَائِيلُ، قَالَ‏:‏ حَدَّثَنَا سِمَاكٌ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ أَبِيهِ سَعْدِ بْنِ أَبِي وَقَّاصٍ قَالَ‏:‏ نَزَلَتْ فِيَّ أَرْبَعُ آيَاتٍ مِنْ كِتَابِ اللهِ تَعَالَى‏:‏ كَانَتْ أُمِّي حَلَفَتْ أَنْ لاَ تَأْكُلَ وَلاَ تَشْرَبَ حَتَّى أُفَارِقَ مُحَمَّدًا صلى الله عليه وسلم، فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ‏:‏ ‏{‏وَإِنْ جَاهَدَاكَ عَلَى أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلاَ تُطُعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا‏}‏‏.‏ وَالثَّانِيَةُ‏:‏ أَنِّي كُنْتُ أَخَذْتُ سَيْفًا أَعْجَبَنِي، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، هَبْ لِي هَذَا، فَنَزَلَتْ‏:‏ ‏{‏يَسْأَلُونَكَ عَنِ الأَنْفَالِ‏}‏‏.‏ وَالثَّالِثَةُ‏:‏ أَنِّي مَرِضْتُ فَأَتَانِي رَسُولُ اللهِ صلى الله عليه وسلم، فَقُلْتُ‏:‏ يَا رَسُولَ اللهِ، إِنِّي أُرِيدُ أَنْ أَقْسِمَ مَالِي، أَفَأُوصِي بِالنِّصْفِ‏؟‏ فَقَالَ‏:‏ لاَ، فَقُلْتُ‏:‏ الثُّلُثُ‏؟‏ فَسَكَتَ، فَكَانَ الثُّلُثُ بَعْدَهُ جَائِزًا‏.‏ وَالرَّابِعَةُ‏:‏ إِنِّي شَرِبْتُ الْخَمْرَ مَعَ قَوْمٍ مِنَ الأَنْصَارِ، فَضَرَبَ رَجُلٌ مِنْهُمْ أَنْفِي بِلَحْيِ جَمَلٍ، فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَأَنْزَلَ عَزَّ وَجَلَّ تَحْرِيمَ الْخَمْرِ‏.‏",
+            "translation": "Sa'id ibn Abi Waqqas said: \"\"Four ayats were revealed about me. The first was when my mother swore she would neither eat nor drink until I left Muhammad, may Allah bless him and grant him peace. Allah Almighty revealed, 'But if they try to make you associate something with Me about which you have no knowledge, do not obey them. Keep company with them correctly and courteously in this world' (31:15) The second was when I took a sword that I admired and said, 'Messenger of Allah, give me this!' Then the ayat was revealed: 'They will ask you about booty.' (8:1) The third was when I was ill and the Messenger of Allah, may Allah bless him and grant him peace, came to me and I said, 'Messenger of Allah, I want to divide my property. Can I will away a half?' He said, 'No.' 'A third?' I asked. He was silent and so after that it was allowed to will away a third. The fourth was when I had been drinking wine with some of the Ansar. One of them hit my nose with the jawbone of a camel. I went to the Prophet, may Allah bless him and grant him peace, and Allah Almighty revealed the prohibition of wine.\"\" [Sahih (Albani). Adabuj Zifaf: 24]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for First Wedding Night",
+            "description": "This marriage dua brings peace and Barakah to the new couple, asking Allah to fill their first night and life together with love, kindness, and good Rizq in every step.",
+            "points": [
+              "Allahumma barik in arabic brings Barakah and love to the new marriage bond.",
+              "First night dua helps a muslim couple start their life with pure Amal and Iman.",
+              "Marriage dua in islam keeps Rizq and happiness flowing between husband and wife.",
+              "Using this masnoon dua on wedding night in islam brings Allah’s mercy and unity.",
+              "Islamic dua for marriage protects the couple from shaytan and brings peace in home."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Marriage Dua for First Wedding Night",
+            "description": "This marriage dua is a gentle way to ask Allah for Barakah, Rizq, and unity in your new family, making the first night in Islam full of love, peace, and good Amal, as taught in masnoon duas and zikr Allah.",
+            "points": [
+              "On the first night after nikah, recite the marriage dua for Barakah and strong family.",
+              "Before meeting your spouse alone, use the first night dua to ask Allah for Rizq and unity.",
+              "When feeling shy or nervous on wedding night in Islam, remember this marriage dua for peace.",
+              "At the start of your new life, make dua for marriage to keep love and khayr in your home.",
+              "If you want Allah’s help for a happy family, say allahumma barik in arabic before sleeping together."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for First Wedding Night",
+            "description": "On the first night of marriage, this marriage dua brings Barakah and love between husband and wife. It is a masnoon dua that helps start the new life with Allah’s blessings and keeps the bond strong.",
+            "steps": [
+              "Start by sitting with your spouse in a calm place and softly recite allahumma barik in arabic.",
+              "After nikah, make this first night dua together to ask for barakah in your new family.",
+              "Before going to bed, say this wedding night in islam dua to seek Allah’s mercy and rizq.",
+              "When feeling shy or nervous, remember this dua for marriage to bring peace in your heart.",
+              "If you wish for a happy home, use this islamic dua daily to keep your marriage full of love."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 395,
+          "title": "Dua Before Sexual Intercourse",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِاسْمِ اللَّهِ اَللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
+          "audio": "/audio/dua/395.mp3",
+          "transliteration": "Bismillaahi, Allaahumma jannibnash-Shaytaana, wa jannibish-Shaytaana maa razaqtanaa",
+          "translation": "With the Name of Allah. O Allah, keep the I Devil away from us and keep the Devil away from that which You provide for us.\n\nThe Prophet (ﷺ) said, “If anyone says this before sexual intercourse is consummated, the Shaytaan will not harm him if a child is born to them.",
+          "reference": "Bukhari: 141",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَوْ أَنَّ أَحَدَكُمْ إِذَا أَتَى أَهْلَهُ قَالَ بِسْمِ اللَّهِ اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا‏.‏ فَقُضِيَ بَيْنَهُمَا وَلَدٌ، لَمْ يَضُرَّهُ ‏\" ‏‏.‏",
+            "translation": "Narrated Ibn `Abbas: The Prophet (ﷺ) said, \"If anyone of you on having sexual relations with his wife said (and he must say it before starting) 'In the name of Allah. O Allah! Protect us from Satan and also protect what you bestow upon us (i.e. the coming offspring) from Satan, and if it is destined that they should have a child then, Satan will never be able to harm that offspring.\" [Bukhari: 141]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Sexual Intercourse",
+            "description": "This dua before sex keeps shaytan away and brings Allah’s Barakah, making the act pure and safe for both husband and wife, as taught in islamic prayers for married life.",
+            "points": [
+              "Dua before intercourse keeps shaytan away from the couple and their Rizq.",
+              "First night dua in islam helps muslims start with pure Amal and clean niyyah.",
+              "Saying this marriage dua brings Barakah and peace in the family life.",
+              "Masnoon dua for intercourse protects future children from shaytan’s harm.",
+              "Using this islamic dua for marriage brings Allah’s mercy in every step of life."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Sex",
+            "description": "This dua before sex is a simple way to ask Allah for Barakah, safety from Shaytan, and pure Rizq, making your marriage strong and your Amal clean, as taught in masnoon duas and zikr Allah.",
+            "points": [
+              "Before starting intercourse, recite the dua before sex to keep Shaytan away.",
+              "On the first night after nikah, use the dua for intercourse for Barakah and pure Rizq.",
+              "When feeling shy or worried, remember this dua before intercourse for peace in marriage.",
+              "If you want Allah’s help for good children, say the dua for sex before being close.",
+              "At any time of intimacy, make dua for marriage to protect your Amal and Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Sexual Intercourse",
+            "description": "This dua before sex is a simple masnoon dua that keeps Shaytan away and brings Barakah in your marriage. It is a strong way to start your married life with Allah’s help and protect your family from harm.",
+            "steps": [
+              "Begin by saying bismillah and recite this dua before intercourse with full Iman.",
+              "When you are with your spouse, softly say this dua for intercourse before starting.",
+              "If you want Allah’s help, use this dua for sex to keep Shaytan away from your rizq.",
+              "Before any close moment, remember this marriage dua to get Allah’s mercy and peace.",
+              "For every new start, make this islamic dua a habit to protect your family and future."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Duas related to the newborn",
+      "category": "marriage",
+      "dua-ids": [
+        396,
+        397
+      ],
+      "duas": [
+        {
+          "dua_id": 396,
+          "title": "Dua for Congratulating New Parents",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوْبِ لَكَ، وَشَكَرْتَ الْوَاهِبَ، وَبَلَغَ أَشُدَّهُ، وَرُزِقْتَ بِرَّهُ.",
+          "audio": "/audio/dua/396.mp3",
+          "transliteration": "BaarakAllahu laka fil-mawhoobi laka, wa shakartal-waahiba, wa balagha 'ashuddahu, wa ruziqta birrahu",
+          "translation": "May Allah bless you with His gift to you, and may you (the new parent) give thanks, may the child reach the maturity of years, and may you be granted its righteousness.",
+          "reference": "This is menioned as a saying of Hasan Al basri Rahimullah. See tuhfatul maodud fi Ibn Qaiiyum, Page. 20",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Congratulating New Parents",
+            "description": "This dua for parents brings Barakah to the newborn and family, asking Allah to bless the child with goodness, strong Iman, and a life full of thankfulness and kindness to parents.",
+            "points": [
+              "Barakallahu laka brings Allah’s Barakah to the newborn and the whole family.",
+              "Dua for parents helps the child grow with Iman and Amal in every step of life.",
+              "Using this masnoon dua for parents brings thankfulness to Allah’s big gift.",
+              "Dua about parents asks Allah to grant the child good manners and kindness.",
+              "Islamic dua for parents prays for the child to reach maturity with strong faith."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Parents of a Newborn",
+            "description": "This dua for parents is a kind way to ask Allah for Barakah, shukr, and good Amal for the new family, wishing the child grows with Iman and the parents get happiness, as taught in islamic duas and zikr Allah.",
+            "points": [
+              "After hearing news of a baby, recite the dua for parents to wish Barakah for the newborn.",
+              "When visiting new parents, use barakallahu laka as a duas for parents for their happiness.",
+              "At aqeeqah or naming ceremony, make dua about parents for the child’s good Amal and Iman.",
+              "When sending gifts to new parents, write this dua to parents for shukr and Barakah in family.",
+              "If you see a newborn, remember this dua for parents to ask Allah for the child’s righteousness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Congratulating New Parents",
+            "description": "When a baby is born, this dua for parents is a lovely way to show care and ask Allah for Barakah. It is a masnoon dua that brings joy and makes the new parents feel blessed and thankful for Allah’s gift.",
+            "steps": [
+              "Meet the new parents and warmly say barakallahu laka with a happy heart and smile.",
+              "After hearing the good news, recite this dua for parents to wish them Allah’s blessings.",
+              "When you visit the baby, use this duas for parents to pray for the child’s good future.",
+              "If you write a card or message, add this dua about parents to share your love and dua.",
+              "At family gatherings, remember this islamic dua to make the moment full of happiness."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 397,
+          "title": "Reply to Congratulations in Islam (Barakallahu Laka Wa JazakAllah Khairan)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَزَاكَ اللَّهُ خَيْرًا، وَرَزَقَكَ اللَّهُ مِثْلَهُ، وَأَجْزَلَ ثَوَابَكَ",
+          "audio": "/audio/dua/397.mp3",
+          "transliteration": "Baarakallahu laka wa baaraka 'alayka, wa jazaakAllahu khayran, wa razaqakAllahu mithlahu, wa 'ajzala thawaabaka",
+          "translation": "May Allah bless you, and shower His blessings upon you, and may Allah reward you well and bestow upon you its like and reward you abundantly.\n\nThe above congratulations and answer are narrated from some of the Companions.",
+          "reference": "An-Nawawi Al-Azkar Page. 349. Also see Sahih Azkar fil Nawawi, Salim al Hilali 2/713. For more details, read Az Zikr wa dua Wal Ilaj bir Ruqwa Page. 1/416",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Reply to Congratulations in Islam",
+            "description": "This dua of parents and jazakallah brings more Barakah and rewards, showing thankfulness and spreading kindness among muslims with every reply to good wishes.",
+            "points": [
+              "Barakallahu laka in reply brings Allah’s Barakah and happiness to both hearts.",
+              "Jazakallahu khairan rewards the one who gave good wishes with more Amal.",
+              "Saying thank you in islam with this dua spreads love and unity in the ummah.",
+              "Barakallah and jazakillah in reply asks Allah to give back even better gifts.",
+              "Using this masnoon dua for parents and friends brings more reward from Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Of Parents",
+            "description": "This dua of parents is a kind way to reply when someone gives you good wishes, showing Barakah, thank you in Islam, and asking Allah to reward them with jazakallah and more blessings.",
+            "points": [
+              "When someone says jazakallahu khairan, reply with this dua of parents for Barakah.",
+              "After hearing barakallahu laka from a friend, answer with this dua for more reward.",
+              "If a family member gives you congratulations, use this dua of parents to thank them.",
+              "When you get a gift or help, respond with this dua of parents for jazakallah and Barakah.",
+              "At happy times like weddings or new baby, share this dua of parents for blessings and Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Reply to Congratulations in Islam",
+            "description": "When someone gives you good wishes, this dua of parents is a beautiful way to reply with Barakah and thanks. It is a masnoon dua that shows your Iman and brings more blessings to both hearts.",
+            "steps": [
+              "Listen to the congratulation and gently say barakallahu laka wa jazakallah khairan.",
+              "After someone says jazakallahu khairan, reply with this barakallah dua for more reward.",
+              "When you feel happy from their words, use this thank you in islam dua to show your love.",
+              "If you get a gift or help, remember this dua of parents to ask Allah for blessings for them.",
+              "At any happy time, make this islamic dua a habit to spread kindness and Barakah always."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

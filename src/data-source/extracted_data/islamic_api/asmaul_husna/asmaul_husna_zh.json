@@ -1,0 +1,808 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "names": [
+      {
+        "number": 1,
+        "name": "الرَّحْمَنُ",
+        "transliteration": "Ar-Rahman",
+        "translation": "普慈主",
+        "meaning": "在今世对万物普施慈恩的主。",
+        "audio": "/audio/asma-ul-husna/rahman.mp3"
+      },
+      {
+        "number": 2,
+        "name": "الرَّحِيمُ",
+        "transliteration": "Ar-Rahim",
+        "translation": "特慈主",
+        "meaning": "在后世只对信士特施慈恩的主。",
+        "audio": "/audio/asma-ul-husna/rahim.mp3"
+      },
+      {
+        "number": 3,
+        "name": "الْمَلِكُ",
+        "transliteration": "Al-Malik",
+        "translation": "君王",
+        "meaning": "拥有绝对主权的主，宇宙的统治者。",
+        "audio": "/audio/asma-ul-husna/malik.mp3"
+      },
+      {
+        "number": 4,
+        "name": "الْقُدُّوسُ",
+        "transliteration": "Al-Quddus",
+        "translation": "至圣主",
+        "meaning": "远离一切缺陷和不洁的主。",
+        "audio": "/audio/asma-ul-husna/quddus.mp3"
+      },
+      {
+        "number": 5,
+        "name": "السَّلاَمُ",
+        "transliteration": "As-Salam",
+        "translation": "赐安主",
+        "meaning": "赐予和平与安宁的主，无任何缺陷的主。",
+        "audio": "/audio/asma-ul-husna/salam.mp3"
+      },
+      {
+        "number": 6,
+        "name": "الْمُؤْمِنُ",
+        "transliteration": "Al-Mu'min",
+        "translation": "保佑主",
+        "meaning": "赐予安全和信心的主，实践诺言的主。",
+        "audio": "/audio/asma-ul-husna/mumin.mp3"
+      },
+      {
+        "number": 7,
+        "name": "الْمُهَيْمِنُ",
+        "transliteration": "Al-Muhaymin",
+        "translation": "监护主",
+        "meaning": "监察、保护和维护万物的主。",
+        "audio": "/audio/asma-ul-husna/muhaimin.mp3"
+      },
+      {
+        "number": 8,
+        "name": "الْعَزِيزُ",
+        "transliteration": "Al-Aziz",
+        "translation": "万能主",
+        "meaning": "尊严和权力的主，不可战胜的主。",
+        "audio": "/audio/asma-ul-husna/aziz.mp3"
+      },
+      {
+        "number": 9,
+        "name": "الْجَبَّارُ",
+        "transliteration": "Al-Jabbar",
+        "translation": "强盛主",
+        "meaning": "执行其意志的主，修复破碎事物的主。",
+        "audio": "/audio/asma-ul-husna/jabbar.mp3"
+      },
+      {
+        "number": 10,
+        "name": "الْمُتَكَبِّرُ",
+        "transliteration": "Al-Mutakabbir",
+        "translation": "至尊主",
+        "meaning": "拥有至高无上伟大和尊严的主。",
+        "audio": "/audio/asma-ul-husna/mutakabbir.mp3"
+      },
+      {
+        "number": 11,
+        "name": "الْخَالِقُ",
+        "transliteration": "Al-Khaliq",
+        "translation": "创造主",
+        "meaning": "从无到有创造万物的主。",
+        "audio": "/audio/asma-ul-husna/khaliq.mp3"
+      },
+      {
+        "number": 12,
+        "name": "الْبَارِئُ",
+        "transliteration": "Al-Bari",
+        "translation": "造化主",
+        "meaning": "使万物从无到有，并赋予其形态的主。",
+        "audio": "/audio/asma-ul-husna/bari.mp3"
+      },
+      {
+        "number": 13,
+        "name": "الْمُصَوِّرُ",
+        "transliteration": "Al-Musawwir",
+        "translation": "绘形主",
+        "meaning": "赋予万物独特形象和特征的主。",
+        "audio": "/audio/asma-ul-husna/musawwir.mp3"
+      },
+      {
+        "number": 14,
+        "name": "الْغَفَّارُ",
+        "transliteration": "Al-Ghaffar",
+        "translation": "至赦主",
+        "meaning": "不断宽恕罪过的主。",
+        "audio": "/audio/asma-ul-husna/ghaffar.mp3"
+      },
+      {
+        "number": 15,
+        "name": "الْقَهَّارُ",
+        "transliteration": "Al-Qahhar",
+        "translation": "征服主",
+        "meaning": "对万物拥有绝对统治权和支配权的主。",
+        "audio": "/audio/asma-ul-husna/qahhar.mp3"
+      },
+      {
+        "number": 16,
+        "name": "الْوَهَّابُ",
+        "transliteration": "Al-Wahhab",
+        "translation": "厚施主",
+        "meaning": "无条件地赐予恩典的主。",
+        "audio": "/audio/asma-ul-husna/wahhab.mp3"
+      },
+      {
+        "number": 17,
+        "name": "الرَّزَّاقُ",
+        "transliteration": "Ar-Razzaq",
+        "translation": "供给主",
+        "meaning": "为万物提供给养的主。",
+        "audio": "/audio/asma-ul-husna/razzaq.mp3"
+      },
+      {
+        "number": 18,
+        "name": "الْفَتَّاحُ",
+        "transliteration": "Al-Fattah",
+        "translation": "开启主",
+        "meaning": "开启仁慈之门，解决困难的主。",
+        "audio": "/audio/asma-ul-husna/fattah.mp3"
+      },
+      {
+        "number": 19,
+        "name": "اَلْعَلِيْمُ",
+        "transliteration": "Al-Alim",
+        "translation": "全知主",
+        "meaning": "知晓一切显隐事物的主。",
+        "audio": "/audio/asma-ul-husna/alim.mp3"
+      },
+      {
+        "number": 20,
+        "name": "الْقَابِضُ",
+        "transliteration": "Al-Qabid",
+        "translation": "紧握主",
+        "meaning": "根据意愿紧缩给养或收取灵魂的主。",
+        "audio": "/audio/asma-ul-husna/qabid.mp3"
+      },
+      {
+        "number": 21,
+        "name": "الْبَاسِطُ",
+        "transliteration": "Al-Basit",
+        "translation": "宽展主",
+        "meaning": "根据意愿宽展给养或赋予生命的主。",
+        "audio": "/audio/asma-ul-husna/basit.mp3"
+      },
+      {
+        "number": 22,
+        "name": "الْخَافِضُ",
+        "transliteration": "Al-Khafid",
+        "translation": "降低主",
+        "meaning": "使不信者和傲慢者降级的主。",
+        "audio": "/audio/asma-ul-husna/khafid.mp3"
+      },
+      {
+        "number": 23,
+        "name": "الرَّافِعُ",
+        "transliteration": "Ar-Rafi",
+        "translation": "擢升主",
+        "meaning": "提升信士品级的主。",
+        "audio": "/audio/asma-ul-husna/rafi.mp3"
+      },
+      {
+        "number": 24,
+        "name": "الْمُعِزُّ",
+        "transliteration": "Al-Mu'izz",
+        "translation": "赐荣主",
+        "meaning": "赐予尊荣给其意欲者之主。",
+        "audio": "/audio/asma-ul-husna/muizz.mp3"
+      },
+      {
+        "number": 25,
+        "name": "المُذِلُّ",
+        "transliteration": "Al-Mudhill",
+        "translation": "致辱主",
+        "meaning": "使人蒙受屈辱给其意欲者之主。",
+        "audio": "/audio/asma-ul-husna/mudhill.mp3"
+      },
+      {
+        "number": 26,
+        "name": "السَّمِيعُ",
+        "transliteration": "As-Sami",
+        "translation": "全聪主",
+        "meaning": "听见一切声音的主。",
+        "audio": "/audio/asma-ul-husna/sami.mp3"
+      },
+      {
+        "number": 27,
+        "name": "الْبَصِيرُ",
+        "transliteration": "Al-Basir",
+        "translation": "全明主",
+        "meaning": "看见一切事物的主。",
+        "audio": "/audio/asma-ul-husna/basir.mp3"
+      },
+      {
+        "number": 28,
+        "name": "الْحَكَمُ",
+        "transliteration": "Al-Hakam",
+        "translation": "公判主",
+        "meaning": "公正判决，区分真伪的主。",
+        "audio": "/audio/asma-ul-husna/hakam.mp3"
+      },
+      {
+        "number": 29,
+        "name": "الْعَدْلُ",
+        "transliteration": "Al-Adl",
+        "translation": "公正主",
+        "meaning": "绝对公正，毫无偏私的主。",
+        "audio": "/audio/asma-ul-husna/adl.mp3"
+      },
+      {
+        "number": 30,
+        "name": "اللَّطِيفُ",
+        "transliteration": "Al-Latif",
+        "translation": "微妙主",
+        "meaning": "对仆人仁慈，知晓万物精微的主。",
+        "audio": "/audio/asma-ul-husna/latif.mp3"
+      },
+      {
+        "number": 31,
+        "name": "الْخَبِيرُ",
+        "transliteration": "Al-Khabir",
+        "translation": "彻知主",
+        "meaning": "对万物无所不知的主。",
+        "audio": "/audio/asma-ul-husna/khabir.mp3"
+      },
+      {
+        "number": 32,
+        "name": "الْحَلِيمُ",
+        "transliteration": "Al-Halim",
+        "translation": "宽容主",
+        "meaning": "不急于惩罚，宽容忍耐的主。",
+        "audio": "/audio/asma-ul-husna/halim.mp3"
+      },
+      {
+        "number": 33,
+        "name": "الْعَظِيمُ",
+        "transliteration": "Al-Azim",
+        "translation": "伟大的",
+        "meaning": "拥有无限伟大的主。",
+        "audio": "/audio/asma-ul-husna/azim.mp3"
+      },
+      {
+        "number": 34,
+        "name": "الْغَفُورُ",
+        "transliteration": "Al-Ghafur",
+        "translation": "多恕主",
+        "meaning": "宽恕罪过，遮掩过失的主。",
+        "audio": "/audio/asma-ul-husna/ghafur.mp3"
+      },
+      {
+        "number": 35,
+        "name": "الشَّكُورُ",
+        "transliteration": "Ash-Shakur",
+        "translation": "善报主",
+        "meaning": "对微小善行给予丰厚回赐的主。",
+        "audio": "/audio/asma-ul-husna/shakur.mp3"
+      },
+      {
+        "number": 36,
+        "name": "الْعَلِيُّ",
+        "transliteration": "Al-Ali",
+        "translation": "至高主",
+        "meaning": "地位崇高，超越万物的主。",
+        "audio": "/audio/asma-ul-husna/ali.mp3"
+      },
+      {
+        "number": 37,
+        "name": "الْكَبِيرُ",
+        "transliteration": "Al-Kabir",
+        "translation": "至大主",
+        "meaning": "伟大无比，超越一切的主。",
+        "audio": "/audio/asma-ul-husna/kabir.mp3"
+      },
+      {
+        "number": 38,
+        "name": "الْحَفِيظُ",
+        "transliteration": "Al-Hafiz",
+        "translation": "保护主",
+        "meaning": "保护和维持万物的主。",
+        "audio": "/audio/asma-ul-husna/hafiz.mp3"
+      },
+      {
+        "number": 39,
+        "name": "المُقيِت",
+        "transliteration": "Al-Muqit",
+        "translation": "给养主",
+        "meaning": "创造给养并赐予万物的主。",
+        "audio": "/audio/asma-ul-husna/muqit.mp3"
+      },
+      {
+        "number": 40,
+        "name": "الْحسِيبُ",
+        "transliteration": "Al-Hasib",
+        "translation": "清算主",
+        "meaning": "清算万物，对仆人足够的主。",
+        "audio": "/audio/asma-ul-husna/hasib.mp3"
+      },
+      {
+        "number": 41,
+        "name": "الْجَلِيلُ",
+        "transliteration": "Al-Jalil",
+        "translation": "尊严主",
+        "meaning": "拥有尊严和伟大的主。",
+        "audio": "/audio/asma-ul-husna/jalil.mp3"
+      },
+      {
+        "number": 42,
+        "name": "الْكَرِيمُ",
+        "transliteration": "Al-Karim",
+        "translation": "慷慨主",
+        "meaning": "慷慨大方，恩典丰厚的主。",
+        "audio": "/audio/asma-ul-husna/karim.mp3"
+      },
+      {
+        "number": 43,
+        "name": "الرَّقِيبُ",
+        "transliteration": "Ar-Raqib",
+        "translation": "监察主",
+        "meaning": "时刻监察万物的主。",
+        "audio": "/audio/asma-ul-husna/raqib.mp3"
+      },
+      {
+        "number": 44,
+        "name": "الْمُجِيبُ",
+        "transliteration": "Al-Mujib",
+        "translation": "应答主",
+        "meaning": "应答祈祷和请求的主。",
+        "audio": "/audio/asma-ul-husna/mujib.mp3"
+      },
+      {
+        "number": 45,
+        "name": "الْوَاسِعُ",
+        "transliteration": "Al-Wasi",
+        "translation": "宽恩主",
+        "meaning": "恩典、知识和能力包罗万象的主。",
+        "audio": "/audio/asma-ul-husna/wasi.mp3"
+      },
+      {
+        "number": 46,
+        "name": "الْحَكِيمُ",
+        "transliteration": "Al-Hakim",
+        "translation": "至睿主",
+        "meaning": "行事充满智慧的主。",
+        "audio": "/audio/asma-ul-husna/hakim.mp3"
+      },
+      {
+        "number": 47,
+        "name": "الْوَدُودُ",
+        "transliteration": "Al-Wadud",
+        "translation": "至爱主",
+        "meaning": "喜爱其仆人并被仆人所爱的主。",
+        "audio": "/audio/asma-ul-husna/wadud.mp3"
+      },
+      {
+        "number": 48,
+        "name": "الْمَجِيدُ",
+        "transliteration": "Al-Majid",
+        "translation": "光荣主",
+        "meaning": "拥有完美荣耀和尊严的主。",
+        "audio": "/audio/asma-ul-husna/majeed.mp3"
+      },
+      {
+        "number": 49,
+        "name": "الْبَاعِثُ",
+        "transliteration": "Al-Ba'ith",
+        "translation": "复活主",
+        "meaning": "在复活日使死者复活的主。",
+        "audio": "/audio/asma-ul-husna/baith.mp3"
+      },
+      {
+        "number": 50,
+        "name": "الشَّهِيدُ",
+        "transliteration": "Ash-Shahid",
+        "translation": "见证主",
+        "meaning": "见证万物，无所不在的主。",
+        "audio": "/audio/asma-ul-husna/shahid.mp3"
+      },
+      {
+        "number": 51,
+        "name": "الْحَقُّ",
+        "transliteration": "Al-Haqq",
+        "translation": "真理主",
+        "meaning": "绝对真实，永恒存在的主。",
+        "audio": "/audio/asma-ul-husna/haqq.mp3"
+      },
+      {
+        "number": 52,
+        "name": "الْوَكِيلُ",
+        "transliteration": "Al-Wakil",
+        "translation": "监护主",
+        "meaning": "值得信赖，处理万事的主。",
+        "audio": "/audio/asma-ul-husna/wakil.mp3"
+      },
+      {
+        "number": 53,
+        "name": "الْقَوِيُّ",
+        "transliteration": "Al-Qawi",
+        "translation": "至强主",
+        "meaning": "拥有完美力量的主。",
+        "audio": "/audio/asma-ul-husna/qawi.mp3"
+      },
+      {
+        "number": 54,
+        "name": "الْمَتِينُ",
+        "transliteration": "Al-Matin",
+        "translation": "坚固主",
+        "meaning": "力量坚定，不可动摇的主。",
+        "audio": "/audio/asma-ul-husna/matin.mp3"
+      },
+      {
+        "number": 55,
+        "name": "الْوَلِيُّ",
+        "transliteration": "Al-Wali",
+        "translation": "保佑主",
+        "meaning": "信士的朋友和保护者。",
+        "audio": "/audio/asma-ul-husna/waliy.mp3"
+      },
+      {
+        "number": 56,
+        "name": "الْحَمِيدُ",
+        "transliteration": "Al-Hamid",
+        "translation": "可颂主",
+        "meaning": "值得一切赞颂的主。",
+        "audio": "/audio/asma-ul-husna/hamid.mp3"
+      },
+      {
+        "number": 57,
+        "name": "الْمُحْصِي",
+        "transliteration": "Al-Muhsi",
+        "translation": "统计主",
+        "meaning": "统计万物数量的主。",
+        "audio": "/audio/asma-ul-husna/muhsi.mp3"
+      },
+      {
+        "number": 58,
+        "name": "الْمُبْدِئُ",
+        "transliteration": "Al-Mubdi",
+        "translation": "创始主",
+        "meaning": "从无到有创造万物的主。",
+        "audio": "/audio/asma-ul-husna/mubdi.mp3"
+      },
+      {
+        "number": 59,
+        "name": "الْمُعِيدُ",
+        "transliteration": "Al-Mu'id",
+        "translation": "再造主",
+        "meaning": "使万物复原或再次创造的主。",
+        "audio": "/audio/asma-ul-husna/muid.mp3"
+      },
+      {
+        "number": 60,
+        "name": "الْمُحْيِي",
+        "transliteration": "Al-Muhyi",
+        "translation": "赋予生命主",
+        "meaning": "赐予生命的主。",
+        "audio": "/audio/asma-ul-husna/muhyi.mp3"
+      },
+      {
+        "number": 61,
+        "name": "اَلْمُمِيتُ",
+        "transliteration": "Al-Mumit",
+        "translation": "主宰死亡主",
+        "meaning": "掌管死亡的主。",
+        "audio": "/audio/asma-ul-husna/mumit.mp3"
+      },
+      {
+        "number": 62,
+        "name": "الْحَيُّ",
+        "transliteration": "Al-Hayy",
+        "translation": "永生主",
+        "meaning": "永恒不灭，拥有完美生命的主。",
+        "audio": "/audio/asma-ul-husna/hayy.mp3"
+      },
+      {
+        "number": 63,
+        "name": "الْقَيُّومُ",
+        "transliteration": "Al-Qayyum",
+        "translation": "自立主",
+        "meaning": "自我维持并维持万物的主。",
+        "audio": "/audio/asma-ul-husna/qayyum.mp3"
+      },
+      {
+        "number": 64,
+        "name": "الْوَاجِدُ",
+        "transliteration": "Al-Wajid",
+        "translation": "富足主",
+        "meaning": "拥有一切，无所缺乏的主。",
+        "audio": "/audio/asma-ul-husna/wajid.mp3"
+      },
+      {
+        "number": 65,
+        "name": "الْمَاجِدُ",
+        "transliteration": "Al-Majid",
+        "translation": "尊贵主",
+        "meaning": "尊贵荣耀，恩典丰富的主。",
+        "audio": "/audio/asma-ul-husna/majid.mp3"
+      },
+      {
+        "number": 66,
+        "name": "الْواحِدُ",
+        "transliteration": "Al-Wahid",
+        "translation": "独一主",
+        "meaning": "在本质、属性和行为上独一无二的主。",
+        "audio": "/audio/asma-ul-husna/wahid.mp3"
+      },
+      {
+        "number": 67,
+        "name": "اَلاَحَدُ",
+        "transliteration": "Al-Ahad",
+        "translation": "独一主",
+        "meaning": "唯一的，不可分割的主。",
+        "audio": "/audio/asma-ul-husna/ahad.mp3"
+      },
+      {
+        "number": 68,
+        "name": "الصَّمَدُ",
+        "transliteration": "As-Samad",
+        "translation": "万物所仰主",
+        "meaning": "无所求于人，万物皆有所求于他的主。",
+        "audio": "/audio/asma-ul-husna/samad.mp3"
+      },
+      {
+        "number": 69,
+        "name": "الْقَادِرُ",
+        "transliteration": "Al-Qadir",
+        "translation": "大能主",
+        "meaning": "能做任何意欲之事的主。",
+        "audio": "/audio/asma-ul-husna/qadir.mp3"
+      },
+      {
+        "number": 70,
+        "name": "الْمُقْتَدِرُ",
+        "transliteration": "Al-Muqtadir",
+        "translation": "全能主",
+        "meaning": "拥有绝对能力，支配万物的主。",
+        "audio": "/audio/asma-ul-husna/muqtadir.mp3"
+      },
+      {
+        "number": 71,
+        "name": "الْمُقَدِّمُ",
+        "transliteration": "Al-Muqaddim",
+        "translation": "前定主",
+        "meaning": "使意欲者领先的主。",
+        "audio": "/audio/asma-ul-husna/muqaddim.mp3"
+      },
+      {
+        "number": 72,
+        "name": "الْمُؤَخِّرُ",
+        "transliteration": "Al-Mu'akhkhir",
+        "translation": "延后主",
+        "meaning": "使意欲者落后的主。",
+        "audio": "/audio/asma-ul-husna/muakhkhir.mp3"
+      },
+      {
+        "number": 73,
+        "name": "الأوَّلُ",
+        "transliteration": "Al-Awwal",
+        "translation": "始主",
+        "meaning": "无始的主。",
+        "audio": "/audio/asma-ul-husna/awwal.mp3"
+      },
+      {
+        "number": 74,
+        "name": "الآخِرُ",
+        "transliteration": "Al-Akhir",
+        "translation": "终主",
+        "meaning": "无终的主。",
+        "audio": "/audio/asma-ul-husna/akhir.mp3"
+      },
+      {
+        "number": 75,
+        "name": "الظَّاهِرُ",
+        "transliteration": "Az-Zahir",
+        "translation": "显迹主",
+        "meaning": "通过迹象显现其存在的主。",
+        "audio": "/audio/asma-ul-husna/zahir.mp3"
+      },
+      {
+        "number": 76,
+        "name": "الْبَاطِنُ",
+        "transliteration": "Al-Batin",
+        "translation": "隐秘主",
+        "meaning": "肉眼看不见，知晓隐秘的主。",
+        "audio": "/audio/asma-ul-husna/batin.mp3"
+      },
+      {
+        "number": 77,
+        "name": "الْوَالِي",
+        "transliteration": "Al-Wali",
+        "translation": "统治主",
+        "meaning": "管理和统治宇宙万物的主。",
+        "audio": "/audio/asma-ul-husna/wali.mp3"
+      },
+      {
+        "number": 78,
+        "name": "الْمُتَعَالِي",
+        "transliteration": "Al-Muta'ali",
+        "translation": "至高主",
+        "meaning": "超越一切缺陷和属性的主。",
+        "audio": "/audio/asma-ul-husna/muta_ali.mp3"
+      },
+      {
+        "number": 79,
+        "name": "الْبَرُّ",
+        "transliteration": "Al-Barr",
+        "translation": "仁慈主",
+        "meaning": "善待万物，恩典源源不断的主。",
+        "audio": "/audio/asma-ul-husna/barr.mp3"
+      },
+      {
+        "number": 80,
+        "name": "التَّوَابُ",
+        "transliteration": "At-Tawwab",
+        "translation": "悔罪主",
+        "meaning": "接受悔罪并宽恕的主。",
+        "audio": "/audio/asma-ul-husna/tawwab.mp3"
+      },
+      {
+        "number": 81,
+        "name": "الْمُنْتَقِمُ",
+        "transliteration": "Al-Muntaqim",
+        "translation": "惩恶主",
+        "meaning": "公正惩罚罪恶的主。",
+        "audio": "/audio/asma-ul-husna/muntaqim.mp3"
+      },
+      {
+        "number": 82,
+        "name": "العَفُوُّ",
+        "transliteration": "Al-Afuww",
+        "translation": "恕宥主",
+        "meaning": "消除罪恶，宽恕过失的主。",
+        "audio": "/audio/asma-ul-husna/afuw.mp3"
+      },
+      {
+        "number": 83,
+        "name": "الرَّؤُوفُ",
+        "transliteration": "Ar-Ra'uf",
+        "translation": "怜悯主",
+        "meaning": "极其仁慈和怜悯的主。",
+        "audio": "/audio/asma-ul-husna/rauf.mp3"
+      },
+      {
+        "number": 84,
+        "name": "مَالِكُ الْمُلْكِ",
+        "transliteration": "Malik-ul-Mulk",
+        "translation": "权国之主",
+        "meaning": "拥有绝对主权和国权的主。",
+        "audio": "/audio/asma-ul-husna/malik_ul_mulk.mp3"
+      },
+      {
+        "number": 85,
+        "name": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+        "transliteration": "Dhul-Jalali wal-Ikram",
+        "translation": "尊严与慷慨之主",
+        "meaning": "拥有尊严、伟大和慷慨的主。",
+        "audio": "/audio/asma-ul-husna/dhu_l_jalali_wal_ikram.mp3"
+      },
+      {
+        "number": 86,
+        "name": "الْمُقْسِطُ",
+        "transliteration": "Al-Muqsit",
+        "translation": "公道主",
+        "meaning": "主持公道，使万物和谐的主。",
+        "audio": "/audio/asma-ul-husna/muqsit.mp3"
+      },
+      {
+        "number": 87,
+        "name": "الْجَامِعُ",
+        "transliteration": "Al-Jami",
+        "translation": "集合主",
+        "meaning": "在复活日集合全人类的主。",
+        "audio": "/audio/asma-ul-husna/jami.mp3"
+      },
+      {
+        "number": 88,
+        "name": "الْغَنِيُّ",
+        "transliteration": "Al-Ghani",
+        "translation": "富足主",
+        "meaning": "自给自足，无所求于万物的主。",
+        "audio": "/audio/asma-ul-husna/ghaniy.mp3"
+      },
+      {
+        "number": 89,
+        "name": "الْمُغْنِي",
+        "transliteration": "Al-Mughni",
+        "translation": "致富主",
+        "meaning": "使人富足，满足需求的主。",
+        "audio": "/audio/asma-ul-husna/mughni.mp3"
+      },
+      {
+        "number": 90,
+        "name": "اَلْمَانِعُ",
+        "transliteration": "Al-Mani",
+        "translation": "禁阻主",
+        "meaning": "根据智慧阻止事物发生的主。",
+        "audio": "/audio/asma-ul-husna/mani.mp3"
+      },
+      {
+        "number": 91,
+        "name": "الضَّارَّ",
+        "transliteration": "Ad-Darr",
+        "translation": "致害主",
+        "meaning": "创造伤害和考验的主（为了智慧和考验）。",
+        "audio": "/audio/asma-ul-husna/darr.mp3"
+      },
+      {
+        "number": 92,
+        "name": "النَّافِعُ",
+        "transliteration": "An-Nafi",
+        "translation": "致益主",
+        "meaning": "创造利益和好处的主。",
+        "audio": "/audio/asma-ul-husna/nafi.mp3"
+      },
+      {
+        "number": 93,
+        "name": "النُّورُ",
+        "transliteration": "An-Nur",
+        "translation": "光辉主",
+        "meaning": "照亮天地，赐予光明的主。",
+        "audio": "/audio/asma-ul-husna/nur.mp3"
+      },
+      {
+        "number": 94,
+        "name": "الْهَادِي",
+        "transliteration": "Al-Hadi",
+        "translation": "引导主",
+        "meaning": "引导人走上正道的主。",
+        "audio": "/audio/asma-ul-husna/hadi.mp3"
+      },
+      {
+        "number": 95,
+        "name": "الْبَدِيعُ",
+        "transliteration": "Al-Badi",
+        "translation": "创新主",
+        "meaning": "无先例地创造万物的主。",
+        "audio": "/audio/asma-ul-husna/badi.mp3"
+      },
+      {
+        "number": 96,
+        "name": "اَلْبَاقِي",
+        "transliteration": "Al-Baqi",
+        "translation": "永存主",
+        "meaning": "永恒存在，无终的主。",
+        "audio": "/audio/asma-ul-husna/baqi.mp3"
+      },
+      {
+        "number": 97,
+        "name": "الْوَارِثُ",
+        "transliteration": "Al-Warith",
+        "translation": "继承主",
+        "meaning": "万物消逝后唯一存在的主。",
+        "audio": "/audio/asma-ul-husna/warith.mp3"
+      },
+      {
+        "number": 98,
+        "name": "الرَّشِيدُ",
+        "transliteration": "Ar-Rashid",
+        "translation": "导正主",
+        "meaning": "引导至真理，无需指导的主。",
+        "audio": "/audio/asma-ul-husna/rashid.mp3"
+      },
+      {
+        "number": 99,
+        "name": "الصَّبُورُ",
+        "transliteration": "As-Sabur",
+        "translation": "坚忍主",
+        "meaning": "极其耐心，不急于惩罚的主。",
+        "audio": "/audio/asma-ul-husna/sabur.mp3"
+      }
+    ],
+    "total": 99,
+    "language": "Chinese",
+    "language_code": "zh",
+    "title": "安拉的尊名",
+    "arabic_title": "أسماء الله الحسنى",
+    "description": "安拉的99个尊名（Asmaul Husna）及其含义。",
+    "recitation_benefits": "诵读和理解这些尊名能使信士接近安拉，是一种崇拜行为。",
+    "hadith": "先知穆罕默德（愿主福安之）说：“安拉有九十九个尊名，一百少一个。谁记住了这些尊名（并按其含义行事），谁就能进入天堂。”（布哈里圣训集和穆斯林圣训集）"
+  }
+}

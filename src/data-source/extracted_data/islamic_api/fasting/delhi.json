@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "status": "success",
+  "range": "day",
+  "data": {
+    "fasting": [
+      {
+        "date": "2026-10-04",
+        "hijri": "1448-04-22",
+        "hijri_readable": "22 Rabi al-Thani 1448 AH",
+        "time": {
+          "sahur": "04:57",
+          "iftar": "18:04",
+          "duration": "13 hours 7 minutes"
+        }
+      }
+    ],
+    "white_days": {
+      "status": "next_month",
+      "days": {
+        "13th": "2026-09-25",
+        "14th": "2026-09-26",
+        "15th": "2026-09-27"
+      }
+    }
+  },
+  "city_info": {
+    "name": "Delhi",
+    "country": "India",
+    "slug": "delhi",
+    "lat": 28.6139,
+    "lon": 77.209
+  }
+}

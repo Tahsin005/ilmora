@@ -1,0 +1,58 @@
+{
+  "id": 114,
+  "name": "الناس",
+  "transliteration": "An-Nas",
+  "translation_en": "Mankind",
+  "type": "meccan",
+  "total_verses": 6,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "transliteration": "Qul aAAoothu birabbi alnnasi",
+      "translation_en": "Say, \"I seek refuge in the Lord of mankind",
+      "translation_bn": "বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার",
+      "translation_ur": "کہو، میں پناہ مانگتا ہوں انسانوں کے رب"
+    },
+    {
+      "id": 2,
+      "arabic": "مَلِكِ ٱلنَّاسِ",
+      "transliteration": "Maliki alnnasi",
+      "translation_en": "The Sovereign of mankind",
+      "translation_bn": "মানুষের অধিপতির",
+      "translation_ur": "انسانوں کے بادشاہ"
+    },
+    {
+      "id": 3,
+      "arabic": "إِلَٰهِ ٱلنَّاسِ",
+      "transliteration": "Ilahi alnnasi",
+      "translation_en": "The God of mankind",
+      "translation_bn": "মানুষের মা’বুদের",
+      "translation_ur": "انسانوں کے حقیقی معبود کی"
+    },
+    {
+      "id": 4,
+      "arabic": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+      "transliteration": "Min sharri alwaswasi alkhannasi",
+      "translation_en": "From the evil of the retreating whisperer",
+      "translation_bn": "তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে",
+      "translation_ur": "اُس وسوسہ ڈالنے والے کے شر سے جو بار بار پلٹ کر آتا ہے"
+    },
+    {
+      "id": 5,
+      "arabic": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+      "transliteration": "Allathee yuwaswisu fee sudoori alnnasi",
+      "translation_en": "Who whispers [evil] into the breasts of mankind",
+      "translation_bn": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে",
+      "translation_ur": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے"
+    },
+    {
+      "id": 6,
+      "arabic": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+      "transliteration": "Mina aljinnati wa alnnasm",
+      "translation_en": "From among the jinn and mankind",
+      "translation_bn": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।",
+      "translation_ur": "خواہ وہ جنوں میں سے ہو یا انسانوں میں سے"
+    }
+  ]
+}

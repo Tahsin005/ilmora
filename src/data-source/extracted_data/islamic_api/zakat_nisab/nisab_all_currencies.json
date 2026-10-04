@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "source": "https://islamicapi.com/api/v1/zakat-nisab/",
+    "calculation_standard": "classical",
+    "currencies_supported": [
+      "usd",
+      "eur",
+      "gbp",
+      "sar",
+      "aed",
+      "bdt",
+      "pkr",
+      "inr",
+      "myr",
+      "idr",
+      "cad",
+      "aud",
+      "try",
+      "qar",
+      "kwd",
+      "omr",
+      "bhd",
+      "jpy"
+    ],
+    "extracted_at": "2026-10-03T23:10:36Z"
+  },
+  "currencies": {
+    "usd": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 133.179,
+          "nisab_amount": 11650.5
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 1.9411,
+          "nisab_amount": 1188.65
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "eur": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 118.3631,
+          "nisab_amount": 10354.4
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 1.7252,
+          "nisab_amount": 1056.42
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "gbp": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 100.725,
+          "nisab_amount": 8811.42
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 1.4681,
+          "nisab_amount": 898.99
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "sar": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 499.4213,
+          "nisab_amount": 43689.37
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 7.2791,
+          "nisab_amount": 4457.44
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "aed": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 489.0999,
+          "nisab_amount": 42786.46
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 7.1287,
+          "nisab_amount": 4365.32
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "bdt": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 16373.7916,
+          "nisab_amount": 1432379.29
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 238.65,
+          "nisab_amount": 146139.71
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "pkr": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 36866.2151,
+          "nisab_amount": 3225056.5
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 537.3295,
+          "nisab_amount": 329039.11
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "inr": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 12834.8017,
+          "nisab_amount": 1122788.45
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 187.0688,
+          "nisab_amount": 114553.44
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "myr": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 543.9377,
+          "nisab_amount": 47583.67
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 7.928,
+          "nisab_amount": 4854.76
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "idr": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 2381646.0568,
+          "nisab_amount": 208346397.05
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 34712.7787,
+          "nisab_amount": 21256717.19
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "cad": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 189.6472,
+          "nisab_amount": 16590.33
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 2.7641,
+          "nisab_amount": 1692.64
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "aud": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 191.609,
+          "nisab_amount": 16761.96
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 2.7927,
+          "nisab_amount": 1710.15
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "try": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 6543.7356,
+          "nisab_amount": 572445.99
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 95.3757,
+          "nisab_amount": 58404.29
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "qar": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 484.7716,
+          "nisab_amount": 42407.82
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 7.0656,
+          "nisab_amount": 4326.69
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "kwd": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 41.1222,
+          "nisab_amount": 3597.37
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 0.5994,
+          "nisab_amount": 367.02
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "omr": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 51.2069,
+          "nisab_amount": 4479.58
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 0.7463,
+          "nisab_amount": 457.03
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "bhd": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 50.0753,
+          "nisab_amount": 4380.59
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 0.7299,
+          "nisab_amount": 446.93
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    },
+    "jpy": {
+      "nisab_thresholds": {
+        "gold": {
+          "weight": 87.48,
+          "unit_price": 21017.6585,
+          "nisab_amount": 1838624.77
+        },
+        "silver": {
+          "weight": 612.36,
+          "unit_price": 306.3349,
+          "nisab_amount": 187587.25
+        }
+      },
+      "zakat_rate": "2.5%",
+      "notes": "Nisab values are updated based on current market prices"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:18",
+      "Sunrise": "07:12",
+      "Dhuhr": "12:55",
+      "Asr": "15:57",
+      "Sunset": "18:37",
+      "Maghrib": "18:37",
+      "Isha": "20:24",
+      "Imsak": "05:08",
+      "Midnight": "00:55",
+      "Firstthird": "22:49",
+      "Lastthird": "03:01"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 136.68,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 4130.2,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "07:12",
+        "end": "07:27"
+      },
+      "noon": {
+        "start": "12:45",
+        "end": "12:55"
+      },
+      "sunset": {
+        "start": "18:22",
+        "end": "18:37"
+      }
+    },
+    "timezone": {
+      "name": "Europe/Berlin",
+      "utc_offset": "+02:00",
+      "abbreviation": "CEST"
+    }
+  },
+  "city_info": {
+    "name": "Berlin",
+    "country": "Germany",
+    "slug": "berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  }
+}

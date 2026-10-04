@@ -1,0 +1,298 @@
+{
+  "id": 83,
+  "name": "المطففين",
+  "transliteration": "Al-Mutaffifin",
+  "translation_en": "The Defrauding",
+  "type": "meccan",
+  "total_verses": 36,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
+      "transliteration": "Waylun lilmutaffifeena",
+      "translation_en": "Woe to those who give less [than due]",
+      "translation_bn": "যারা মাপে কম করে, তাদের জন্যে দুর্ভোগ",
+      "translation_ur": "تباہی ہے ڈنڈی مارنے والوں کے لیے"
+    },
+    {
+      "id": 2,
+      "arabic": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+      "transliteration": "Allatheena itha iktaloo AAala alnnasi yastawfoona",
+      "translation_en": "Who, when they take a measure from people, take in full",
+      "translation_bn": "যারা লোকের কাছ থেকে যখন মেপে নেয়, তখন পূর্ণ মাত্রায় নেয়",
+      "translation_ur": "جن کا حال یہ ہے کہ جب لوگوں سے لیتے ہیں تو پورا پورا لیتے ہیں"
+    },
+    {
+      "id": 3,
+      "arabic": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+      "transliteration": "Waitha kaloohum aw wazanoohum yukhsiroona",
+      "translation_en": "But if they give by measure or by weight to them, they cause loss",
+      "translation_bn": "এবং যখন লোকদেরকে মেপে দেয় কিংবা ওজন করে দেয়, তখন কম করে দেয়।",
+      "translation_ur": "اور جب ان کو ناپ کر یا تول کر دیتے ہیں تو انہیں گھاٹا دیتے ہیں"
+    },
+    {
+      "id": 4,
+      "arabic": "أَلَا يَظُنُّ أُوْلَـٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ",
+      "transliteration": "Ala yathunnu olaika annahum mabAAoothoona",
+      "translation_en": "Do they not think that they will be resurrected",
+      "translation_bn": "তারা কি চিন্তা করে না যে, তারা পুনরুত্থিত হবে।",
+      "translation_ur": "کیا یہ لوگ نہیں سمجھتے کہ ایک بڑے دن،"
+    },
+    {
+      "id": 5,
+      "arabic": "لِيَوۡمٍ عَظِيمٖ",
+      "transliteration": "Liyawmin AAatheemin",
+      "translation_en": "For a tremendous Day",
+      "translation_bn": "সেই মহাদিবসে",
+      "translation_ur": "یہ اٹھا کر لائے جانے والے ہیں؟"
+    },
+    {
+      "id": 6,
+      "arabic": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Yawma yaqoomu alnnasu lirabbi alAAalameena",
+      "translation_en": "The Day when mankind will stand before the Lord of the worlds",
+      "translation_bn": "যেদিন মানুষ দাঁড়াবে বিশ্ব পালনকর্তার সামনে।",
+      "translation_ur": "اُس دن جبکہ سب لوگ رب العالمین کے سامنے کھڑے ہوں گے"
+    },
+    {
+      "id": 7,
+      "arabic": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ",
+      "transliteration": "Kalla inna kitaba alfujjari lafee sijjeenin",
+      "translation_en": "No! Indeed, the record of the wicked is in sijjeen",
+      "translation_bn": "এটা কিছুতেই উচিত নয়, নিশ্চয় পাপাচারীদের আমলনামা সিজ্জীনে আছে।",
+      "translation_ur": "ہرگز نہیں، یقیناً بد کاروں کا نامہ اعمال قید خانے کے دفتر میں ہے"
+    },
+    {
+      "id": 8,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
+      "transliteration": "Wama adraka ma sijjeenun",
+      "translation_en": "And what can make you know what is sijjeen",
+      "translation_bn": "আপনি জানেন, সিজ্জীন কি",
+      "translation_ur": "اور تمہیں کیا معلوم کہ وہ قید خانے کا دفتر کیا ہے؟"
+    },
+    {
+      "id": 9,
+      "arabic": "كِتَٰبٞ مَّرۡقُومٞ",
+      "transliteration": "Kitabun marqoomun",
+      "translation_en": "It is [their destination recorded in] a register inscribed",
+      "translation_bn": "এটা লিপিবদ্ধ খাতা।",
+      "translation_ur": "ایک کتاب ہے لکھی ہوئی"
+    },
+    {
+      "id": 10,
+      "arabic": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena",
+      "translation_en": "Woe, that Day, to the deniers",
+      "translation_bn": "সেদিন দুর্ভোগ মিথ্যারোপকারীদের",
+      "translation_ur": "تباہی ہے اُس روز جھٹلانے والوں کے لیے"
+    },
+    {
+      "id": 11,
+      "arabic": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ",
+      "transliteration": "Allatheena yukaththiboona biyawmi alddeeni",
+      "translation_en": "Who deny the Day of Recompense",
+      "translation_bn": "যারা প্রতিফল দিবসকে মিথ্যারোপ করে।",
+      "translation_ur": "جو روز جزا کو جھٹلاتے ہیں"
+    },
+    {
+      "id": 12,
+      "arabic": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+      "transliteration": "Wama yukaththibu bihi illa kullu muAAtadin atheemin",
+      "translation_en": "And none deny it except every sinful transgressor",
+      "translation_bn": "প্রত্যেক সীমালংঘনকারী পাপিষ্ঠই কেবল একে মিথ্যারোপ করে।",
+      "translation_ur": "اور اُسے نہیں جھٹلاتا مگر ہر وہ شخص جو حد سے گزر جانے والا بد عمل ہے"
+    },
+    {
+      "id": 13,
+      "arabic": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "transliteration": "Itha tutla AAalayhi ayatuna qala asateeru alawwaleena",
+      "translation_en": "When Our verses are recited to him, he says, \"Legends of the former peoples",
+      "translation_bn": "তার কাছে আমার আয়াতসমূহ পাঠ করা হলে সে বলে, পুরাকালের উপকথা।",
+      "translation_ur": "اُسے جب ہماری آیات سنائی جاتی ہیں تو کہتا ہے یہ تو اگلے وقتوں کی کہانیاں ہیں"
+    },
+    {
+      "id": 14,
+      "arabic": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ",
+      "transliteration": "Kalla bal rana AAala quloobihim ma kanoo yaksiboona",
+      "translation_en": "No! Rather, the stain has covered their hearts of that which they were earning",
+      "translation_bn": "কখনও না, বরং তারা যা করে, তাই তাদের হৃদয় মরিচা ধরিয়ে দিয়েছে।",
+      "translation_ur": "ہرگز نہیں، بلکہ دراصل اِن لوگوں کے دلوں پر اِن کے برے اعمال کا زنگ چڑھ گیا ہے"
+    },
+    {
+      "id": 15,
+      "arabic": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
+      "transliteration": "Kalla innahum AAan rabbihim yawmaithin lamahjooboona",
+      "translation_en": "No! Indeed, from their Lord, that Day, they will be partitioned",
+      "translation_bn": "কখনও না, তারা সেদিন তাদের পালনকর্তার থেকে পর্দার অন্তরালে থাকবে।",
+      "translation_ur": "ہرگز نہیں، بالیقین اُس روز یہ اپنے رب کی دید سے محروم رکھے جائیں گے"
+    },
+    {
+      "id": 16,
+      "arabic": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ",
+      "transliteration": "Thumma innahum lasaloo aljaheemi",
+      "translation_en": "Then indeed, they will [enter and] burn in Hellfire",
+      "translation_bn": "অতঃপর তারা জাহান্নামে প্রবেশ করবে।",
+      "translation_ur": "پھر یہ جہنم میں جا پڑیں گے"
+    },
+    {
+      "id": 17,
+      "arabic": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "transliteration": "Thumma yuqalu hatha allathee kuntum bihi tukaththiboona",
+      "translation_en": "Then it will be said [to them], \"This is what you used to deny",
+      "translation_bn": "এরপর বলা হবে, একেই তো তোমরা মিথ্যারোপ করতে।",
+      "translation_ur": "پھر اِن سے کہا جائے گا کہ یہ وہی چیز ہے جسے تم جھٹلایا کرتے تھے"
+    },
+    {
+      "id": 18,
+      "arabic": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+      "transliteration": "Kalla inna kitaba alabrari lafee AAilliyyeena",
+      "translation_en": "No! Indeed, the record of the righteous is in 'illiyyun",
+      "translation_bn": "কখনও না, নিশ্চয় সৎলোকদের আমলনামা আছে ইল্লিয়্যীনে।",
+      "translation_ur": "ہرگز نہیں، بے شک نیک آدمیوں کا نامہ اعمال بلند پایہ لوگوں کے دفتر میں ہے"
+    },
+    {
+      "id": 19,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+      "transliteration": "Wama adraka ma AAilliyyoona",
+      "translation_en": "And what can make you know what is 'illiyyun",
+      "translation_bn": "আপনি জানেন ইল্লিয়্যীন কি",
+      "translation_ur": "اور تمہیں کیا خبر کہ کیا ہے وہ بلند پایہ لوگوں کا دفتر؟"
+    },
+    {
+      "id": 20,
+      "arabic": "كِتَٰبٞ مَّرۡقُومٞ",
+      "transliteration": "Kitabun marqoomun",
+      "translation_en": "It is [their destination recorded in] a register inscribed",
+      "translation_bn": "এটা লিপিবদ্ধ খাতা।",
+      "translation_ur": "ایک لکھی ہوئی کتاب ہے"
+    },
+    {
+      "id": 21,
+      "arabic": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+      "transliteration": "Yashhaduhu almuqarraboona",
+      "translation_en": "Which is witnessed by those brought near [to Allah]",
+      "translation_bn": "আল্লাহর নৈকট্যপ্রাপ্ত ফেরেশতাগণ একে প্রত্যক্ষ করে।",
+      "translation_ur": "جس کی نگہداشت مقرب فرشتے کرتے ہیں"
+    },
+    {
+      "id": 22,
+      "arabic": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+      "transliteration": "Inna alabrara lafee naAAeemin",
+      "translation_en": "Indeed, the righteous will be in pleasure",
+      "translation_bn": "নিশ্চয় সৎলোকগণ থাকবে পরম আরামে",
+      "translation_ur": "بے شک نیک لوگ بڑے مزے میں ہوں گے"
+    },
+    {
+      "id": 23,
+      "arabic": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "transliteration": "AAala alaraiki yanthuroona",
+      "translation_en": "On adorned couches, observing",
+      "translation_bn": "সিংহাসনে বসে অবলোকন করবে।",
+      "translation_ur": "اونچی مسندوں پر بیٹھے نظارے کر رہے ہوں گے"
+    },
+    {
+      "id": 24,
+      "arabic": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+      "transliteration": "TaAArifu fee wujoohihim nadrata alnnaAAeemi",
+      "translation_en": "You will recognize in their faces the radiance of pleasure",
+      "translation_bn": "আপনি তাদের মুখমন্ডলে স্বাচ্ছন্দ্যের সজীবতা দেখতে পাবেন।",
+      "translation_ur": "ان کے چہروں پر تم خوشحالی کی رونق محسوس کرو گے"
+    },
+    {
+      "id": 25,
+      "arabic": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ",
+      "transliteration": "Yusqawna min raheeqin makhtoomin",
+      "translation_en": "They will be given to drink [pure] wine [which was] sealed",
+      "translation_bn": "তাদেরকে মোহর করা বিশুদ্ধ পানীয় পান করানো হবে।",
+      "translation_ur": "ان کو نفیس ترین سر بند شراب پلائی جائے گی جس پر مشک کی مہر لگی ہوگی"
+    },
+    {
+      "id": 26,
+      "arabic": "خِتَٰمُهُۥ مِسۡكٞۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ",
+      "transliteration": "Khitamuhu miskun wafee thalika falyatanafasi almutanafisoona",
+      "translation_en": "The last of it is musk. So for this let the competitors compete",
+      "translation_bn": "তার মোহর হবে কস্তুরী। এ বিষয়ে প্রতিযোগীদের প্রতিযোগিতা করা উচিত।",
+      "translation_ur": "جو لوگ دوسروں پر بازی لے جانا چاہتے ہوں وہ اِس چیز کو حاصل کرنے میں بازی لے جانے کی کوشش کریں"
+    },
+    {
+      "id": 27,
+      "arabic": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+      "transliteration": "Wamizajuhu min tasneemin",
+      "translation_en": "And its mixture is of Tasneem",
+      "translation_bn": "তার মিশ্রণ হবে তসনীমের পানি।",
+      "translation_ur": "اُس شراب میں تسنیم کی آمیزش ہوگی"
+    },
+    {
+      "id": 28,
+      "arabic": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+      "transliteration": "AAaynan yashrabu biha almuqarraboona",
+      "translation_en": "A spring from which those near [to Allah] drink",
+      "translation_bn": "এটা একটা ঝরণা, যার পানি পান করবে নৈকট্যশীলগণ।",
+      "translation_ur": "یہ ایک چشمہ ہے جس کے پانی کے ساتھ مقرب لوگ شراب پئیں گے"
+    },
+    {
+      "id": 29,
+      "arabic": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ",
+      "transliteration": "Inna allatheena ajramoo kanoo mina allatheena amanoo yadhakoona",
+      "translation_en": "Indeed, those who committed crimes used to laugh at those who believed",
+      "translation_bn": "যারা অপরাধী, তারা বিশ্বাসীদেরকে উপহাস করত।",
+      "translation_ur": "مجرم لوگ دنیا میں ایمان لانے والوں کا مذاق اڑاتے تھے"
+    },
+    {
+      "id": 30,
+      "arabic": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ",
+      "transliteration": "Waitha marroo bihim yataghamazoona",
+      "translation_en": "And when they passed by them, they would exchange derisive glances",
+      "translation_bn": "এবং তারা যখন তাদের কাছ দিয়ে গমন করত তখন পরস্পরে চোখ টিপে ইশারা করত।",
+      "translation_ur": "جب اُن کے پاس سے گزرتے تو آنکھیں مار مار کر اُن کی طرف اشارے کرتے تھے"
+    },
+    {
+      "id": 31,
+      "arabic": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+      "transliteration": "Waitha inqalaboo ila ahlihimu inqalaboo fakiheena",
+      "translation_en": "And when they returned to their people, they would return jesting",
+      "translation_bn": "তারা যখন তাদের পরিবার-পরিজনের কাছে ফিরত, তখনও হাসাহাসি করে ফিরত।",
+      "translation_ur": "اپنے گھروں کی طرف پلٹتے تو مزے لیتے ہوئے پلٹتے تھے"
+    },
+    {
+      "id": 32,
+      "arabic": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "transliteration": "Waitha raawhum qaloo inna haolai ladalloona",
+      "translation_en": "And when they saw them, they would say, \"Indeed, those are truly lost",
+      "translation_bn": "আর যখন তারা বিশ্বাসীদেরকে দেখত, তখন বলত, নিশ্চয় এরা বিভ্রান্ত।",
+      "translation_ur": "اور جب انہیں دیکھتے تو کہتے تھے کہ یہ بہکے ہوئے لوگ ہیں"
+    },
+    {
+      "id": 33,
+      "arabic": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ",
+      "transliteration": "Wama orsiloo AAalayhim hafitheena",
+      "translation_en": "But they had not been sent as guardians over them",
+      "translation_bn": "অথচ তারা বিশ্বাসীদের তত্ত্বাবধায়করূপে প্রেরিত হয়নি।",
+      "translation_ur": "حالانکہ وہ اُن پر نگراں بنا کر نہیں بھیجے گئے تھے"
+    },
+    {
+      "id": 34,
+      "arabic": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ",
+      "transliteration": "Faalyawma allatheena amanoo mina alkuffari yadhakoona",
+      "translation_en": "So Today those who believed are laughing at the disbelievers",
+      "translation_bn": "আজ যারা বিশ্বাসী, তারা কাফেরদেরকে উপহাস করছে।",
+      "translation_ur": "آج ایمان لانے والے کفار پر ہنس رہے ہیں"
+    },
+    {
+      "id": 35,
+      "arabic": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "transliteration": "AAala alaraiki yanthuroona",
+      "translation_en": "On adorned couches, observing",
+      "translation_bn": "সিংহাসনে বসে, তাদেরকে অবলোকন করছে",
+      "translation_ur": "مسندوں پر بیٹھے ہوئے ان کا حال دیکھ رہے ہیں"
+    },
+    {
+      "id": 36,
+      "arabic": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ",
+      "transliteration": "Hal thuwwiba alkuffaru ma kanoo yafAAaloona",
+      "translation_en": "Have the disbelievers [not] been rewarded [this Day] for what they used to do",
+      "translation_bn": "কাফেররা যা করত, তার প্রতিফল পেয়েছে তো",
+      "translation_ur": "مل گیا نا کافروں کو اُن حرکتوں کا ثواب جو وہ کیا کرتے تھے"
+    }
+  ]
+}

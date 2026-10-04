@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:09",
+      "Sunrise": "06:25",
+      "Dhuhr": "12:21",
+      "Asr": "15:45",
+      "Sunset": "18:16",
+      "Maghrib": "18:16",
+      "Isha": "19:27",
+      "Imsak": "04:59",
+      "Midnight": "00:21",
+      "Firstthird": "22:19",
+      "Lastthird": "02:22"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 267.74,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 2800.05,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "06:25",
+        "end": "06:40"
+      },
+      "noon": {
+        "start": "12:11",
+        "end": "12:21"
+      },
+      "sunset": {
+        "start": "18:01",
+        "end": "18:16"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Karachi",
+      "utc_offset": "+05:00",
+      "abbreviation": "PKT"
+    }
+  },
+  "city_info": {
+    "name": "Karachi",
+    "country": "Pakistan",
+    "slug": "karachi",
+    "lat": 24.8607,
+    "lon": 67.0011
+  }
+}

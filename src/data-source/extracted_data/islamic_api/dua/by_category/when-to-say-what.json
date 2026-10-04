@@ -1,0 +1,769 @@
+{
+  "category": {
+    "name": "When to say what",
+    "url": "when-to-say-what",
+    "icon": "when_to_say_what.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 22,
+  "subcategories": [
+    {
+      "id": 116,
+      "title": "Daily Sunnah sentences",
+      "category": "when-to-say-what",
+      "dua-ids": [
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854,
+        855,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861
+      ],
+      "duas": [
+        {
+          "dua_id": 840,
+          "title": "Dua Before Starting Anything (Bismillah)",
+          "category_tags": [],
+          "introduction": "When you start something, eating,drinking,writing, reading something start saying ‘Bismillah’ -",
+          "arabic": "بِسْمِ اللَّهِ",
+          "audio": "/audio/dua/840.mp3",
+          "transliteration": "Bismillaah",
+          "translation": "In the Name of Allah.\n\nNarrated 'Umar ibn Abi Salamah (RA): I was a boy under the care of the Messenger of Allah (ﷺ). While eating, I would put my hands in different places of the pot. Then the Messenger of Allah (ﷺ) said to me, “This boy! Say Bismillah, eat, and the next part of your right to eat! \"After the meal, I'm going to follow the instructions.",
+          "reference": "Bukhari: 5376",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، أَخْبَرَنَا سُفْيَانُ، قَالَ الْوَلِيدُ بْنُ كَثِيرٍ أَخْبَرَنِي أَنَّهُ، سَمِعَ وَهْبَ بْنَ كَيْسَانَ، أَنَّهُ سَمِعَ عُمَرَ بْنَ أَبِي سَلَمَةَ، يَقُولُ كُنْتُ غُلاَمًا فِي حَجْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَا غُلاَمُ سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ ‏\" ‏‏.‏ فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ‏.‏",
+            "translation": "Narrated `Umar bin Abi Salama: I was a boy under the care of Allah's Messenger (ﷺ) and my hand used to go around the dish while I was eating. So Allah's Messenger (ﷺ) said to me, 'O boy! Mention the Name of Allah and eat with your right hand, and eat of the dish what is nearer to you.\" Since then I have applied those instructions when eating. [Bukhari: 5376]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 841,
+          "title": "Dua to do Something in the Future (Inshallah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنْ شَاءَ اللَّهُ",
+          "audio": "",
+          "transliteration": "inshaa'Allah",
+          "translation": "If Allah wills.\n\nAnd never say of anything, \"Indeed, I will do that tomorrow,\" Except [when adding], \"If Allah wills.\" And remember your Lord when you forget [it] and say, \"Perhaps my Lord will guide me to what is nearer than this to right conduct.\"",
+          "reference": "Sura Al Kahf: 23-24",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 842,
+          "title": "Dua to see any Superiority or Greatness of Allah (Allahu Akbar)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/842.mp3",
+          "transliteration": "Allahu Akbaar",
+          "translation": "Allah is great.",
+          "reference": "Bukhari: 6218",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، حَدَّثَتْنِي هِنْدُ بِنْتُ الْحَارِثِ، أَنَّ أُمَّ سَلَمَةَ ـ رضى الله عنها ـ قَالَتِ اسْتَيْقَظَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\"‏ سُبْحَانَ اللَّهِ مَاذَا أُنْزِلَ مِنَ الْخَزَائِنِ، وَمَاذَا أُنْزِلَ مِنَ الْفِتَنِ، مَنْ يُوقِظُ صَوَاحِبَ الْحُجَرِ ـ يُرِيدُ بِهِ أَزْوَاجَهُ ـ حَتَّى يُصَلِّينَ، رُبَّ كَاسِيَةٍ فِي الدُّنْيَا، عَارِيَةٍ فِي الآخِرَةِ ‏\"‏‏.‏ وَقَالَ ابْنُ أَبِي ثَوْرٍ عَنِ ابْنِ عَبَّاسٍ، عَنْ عُمَرَ، قَالَ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم طَلَّقْتَ نِسَاءَكَ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قُلْتُ اللَّهُ أَكْبَرُ‏.‏",
+            "translation": "Narrated Um Salama: (One night) the Prophet (ﷺ) woke up and said, \"Subhan Allah ! How many treasures have been (disclosed) sent down! And how many afflictions have been descended! Who will go and wake the sleeping ladyoccupants up of these dwellings (for praying)?\" (He meant by this his wives.) The Prophet (ﷺ) added, \"A well-dressed soul (person) in this world may be naked in the \"Hereafter.\" `Umar said, \"I asked the Prophet, 'Have you divorced your wives?' He said, 'No.' I said, 'Allahu Akbar.' \" [Bukhari: 6218]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 843,
+          "title": "Dua of Seeing any surprisingly good things (Subhanallah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "سُبْحَانَ اللَّهِ",
+          "audio": "/audio/dua/843.mp3",
+          "transliteration": "Sub’hanallah",
+          "translation": "How perfect Allah is",
+          "reference": "Bukhari: 6218",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، حَدَّثَتْنِي هِنْدُ بِنْتُ الْحَارِثِ، أَنَّ أُمَّ سَلَمَةَ ـ رضى الله عنها ـ قَالَتِ اسْتَيْقَظَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\"‏ سُبْحَانَ اللَّهِ مَاذَا أُنْزِلَ مِنَ الْخَزَائِنِ، وَمَاذَا أُنْزِلَ مِنَ الْفِتَنِ، مَنْ يُوقِظُ صَوَاحِبَ الْحُجَرِ ـ يُرِيدُ بِهِ أَزْوَاجَهُ ـ حَتَّى يُصَلِّينَ، رُبَّ كَاسِيَةٍ فِي الدُّنْيَا، عَارِيَةٍ فِي الآخِرَةِ ‏\"‏‏.‏ وَقَالَ ابْنُ أَبِي ثَوْرٍ عَنِ ابْنِ عَبَّاسٍ، عَنْ عُمَرَ، قَالَ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم طَلَّقْتَ نِسَاءَكَ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قُلْتُ اللَّهُ أَكْبَرُ‏.‏",
+            "translation": "Narrated Um Salama: (One night) the Prophet (ﷺ) woke up and said, \"Subhan Allah ! How many treasures have been (disclosed) sent down! And how many afflictions have been descended! Who will go and wake the sleeping ladyoccupants up of these dwellings (for praying)?\" (He meant by this his wives.) The Prophet (ﷺ) added, \"A well-dressed soul (person) in this world may be naked in the \"Hereafter.\" `Umar said, \"I asked the Prophet, 'Have you divorced your wives?' He said, 'No.' I said, 'Allahu Akbar.' \" [Bukhari: 6218]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 844,
+          "title": "Dua of eating Something or listening to good news (Alhamdulillah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلْحَمْدُ لِلَّهِ",
+          "audio": "/audio/dua/844.mp3",
+          "transliteration": "Alhamdu lillaah",
+          "translation": "All praise is for Allah.\n\nIt was narrated from Anas that : the Messenger of Allah (ﷺ) said: 'Allah does not bestow a blessing upon any slave and he says: 'Al-hamdu Lillah (praise is to Allah),' except that what he gives (the praise) is better than what he received (the blessing).\"",
+          "reference": "Ibn Majah: 3805",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ شَبِيبِ بْنِ بِشْرٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَا أَنْعَمَ اللَّهُ عَلَى عَبْدٍ نِعْمَةً فَقَالَ الْحَمْدُ لِلَّهِ ‏.‏ إِلاَّ كَانَ الَّذِي أَعْطَاهُ أَفْضَلَ مِمَّا أَخَذَ ‏\"‏ ‏.‏",
+            "translation": "It was narrated from Anas that: the Messenger of Allah (ﷺ) said: 'Allah does not bestow a blessing upon any slave and he says: 'Al-hamdu Lillah (praise is to Allah),' except that what he gives (the praise) is better than what he received (the blessing).\" Sunan Ibn Majah 3805 [Ibne Mazah: 3805]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 845,
+          "title": "Dua on Hearing Bad News or Something Lost (Inna Lillahi)",
+          "category_tags": [],
+          "introduction": "Hearing of danger or something bad news, when something is lost, or something is stolen or in trouble",
+          "arabic": "إِنَّا لِلَّهِ",
+          "audio": "",
+          "transliteration": "Innaa lillaahi",
+          "translation": "We are from Allah.",
+          "reference": "Muslim: 2126",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَمُحَمَّدُ بْنُ رَافِعٍ، قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ زَجَرَ النَّبِيُّ صلى الله عليه وسلم أَنْ تَصِلَ الْمَرْأَةُ بِرَأْسِهَا شَيْئًا ‏.‏",
+            "translation": "Jabir b. Abdullah reported that Allah's Apostle (ﷺ) reprimanded that a woman should add anything to her head (in the form of artificial hair). [Muslim: 2126]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 846,
+          "title": "Dua for Seeing Something Good (Mashallah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "مَا شَاءَ ٱللَّهُ",
+          "audio": "",
+          "transliteration": "ma sha Allah",
+          "translation": "That which Allah wanted.",
+          "reference": "Muslim: 3508",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 847,
+          "title": "Dua for Gratitude to the Benefactor (JazakAllah Khairan)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+          "audio": "/audio/dua/847.mp3",
+          "transliteration": "JazaakAllahu khayran",
+          "translation": "May Allah reward you with good. [1]\n\nWe have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated. [2]",
+          "reference": "[1] Bukhari: 336 [2] Sahih. Tirmidhi: 2035",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا زَكَرِيَّاءُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا اسْتَعَارَتْ مِنْ أَسْمَاءَ قِلاَدَةً فَهَلَكَتْ، فَبَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً، فَوَجَدَهَا فَأَدْرَكَتْهُمُ الصَّلاَةُ وَلَيْسَ مَعَهُمْ مَاءٌ فَصَلَّوْا، فَشَكَوْا ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَنْزَلَ اللَّهُ آيَةَ التَّيَمُّمِ‏.‏ فَقَالَ أُسَيْدُ بْنُ حُضَيْرٍ لِعَائِشَةَ جَزَاكِ اللَّهُ خَيْرًا، فَوَاللَّهِ مَا نَزَلَ بِكِ أَمْرٌ تَكْرَهِينَهُ إِلاَّ جَعَلَ اللَّهُ ذَلِكِ لَكِ وَلِلْمُسْلِمِينَ فِيهِ خَيْرًا‏.‏",
+            "translation": "Narrated `Urwa's father: Aisha said, \"I borrowed a necklace from Asma' and it was lost. So Allah's Messenger (ﷺ) sent a man to search for it and he found it. Then the time of the prayer became due and there was no water. They prayed (without ablution) and informed Allah's Messenger (ﷺ) about it, so the verse of Tayammum was revealed.\" Usaid bin Hudair said to `Aisha, \"May Allah reward you. By Allah, whenever anything happened which you did not like, Allah brought good for you and for the Muslims in that.\" [[1] Bukhari: 336 [2] Sahih (Albani). Tirmidhi: 2035]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 848,
+          "title": "Dua for Sneezing (Alhamdulillah)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said, If one of you sneezes, let him say:",
+          "arabic": "اَلْحَمْدُ لِلَّهِ",
+          "audio": "/audio/dua/848.mp3",
+          "transliteration": "Alhamdu lillaah",
+          "translation": "All praise is for Allah. [1]\n\nAfter sneezing \"Alhamdu lillahi 'ala qulli ha-l\". have to be said or at least say \"Al-Hamdulillah\".",
+          "reference": "[1] Bukhari: 6224 [2] Sahih. Tirmidhi: 2741",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّهِ‏.‏ وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ يَرْحَمُكَ اللَّهُ‏.‏ فَإِذَا قَالَ لَهُ يَرْحَمُكَ اللَّهُ‏.‏ فَلْيَقُلْ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: The Prophet (ﷺ) said, \" If anyone of you sneezes, he should say 'Al-Hamduli l-lah' (Praise be to Allah), and his (Muslim) brother or companion should say to him, 'Yar-hamuka-l-lah' (May Allah bestow his Mercy on you). When the latter says 'Yar-hamuka-llah\", the former should say, 'Yahdikumul-lah wa Yuslih balakum' (May Allah give you guidance and improve your condition). [[1] Bukhari: 6224 [2] Sahih (Albani). Tirmidhi: 2741]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 849,
+          "title": "Dua After Someone Sneezes (Yarhamukallah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "يَرْحَمُكَ اللَّهُ",
+          "audio": "/audio/dua/849.mp3",
+          "transliteration": "Yarhamuk-Allah",
+          "translation": "May Allah have mercy upon you.",
+          "reference": "Bukhari: 6224",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّهِ‏.‏ وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ يَرْحَمُكَ اللَّهُ‏.‏ فَإِذَا قَالَ لَهُ يَرْحَمُكَ اللَّهُ‏.‏ فَلْيَقُلْ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: The Prophet (ﷺ) said, \" If anyone of you sneezes, he should say 'Al-Hamduli l-lah' (Praise be to Allah), and his (Muslim) brother or companion should say to him, 'Yar-hamuka-l-lah' (May Allah bestow his Mercy on you). When the latter says 'Yar-hamuka-llah\", the former should say, 'Yahdikumul-lah wa Yuslih balakum' (May Allah give you guidance and improve your condition). [Bukhari: 6224]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 850,
+          "title": "Dua for Speaking Bad Things (Astaghfirullah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَسْتَغْفِرُ اللَّهَ",
+          "audio": "/audio/dua/850.mp3",
+          "transliteration": "astaghfir-ullaah",
+          "translation": "I seek Allah’s forgiveness.\n\nSo know, [O Muhammad], that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women. And Allah knows of your movement and your resting place.",
+          "reference": "Sura Muhammad: 19",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 851,
+          "title": "Dua When Asked How Are You?",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلْحَمْدُ لِلَّهِ",
+          "audio": "/audio/dua/851.mp3",
+          "transliteration": "Alhamdu lillaah",
+          "translation": "All praise is for Allah.",
+          "reference": "Ibn Majah: 3805",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ شَبِيبِ بْنِ بِشْرٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَا أَنْعَمَ اللَّهُ عَلَى عَبْدٍ نِعْمَةً فَقَالَ الْحَمْدُ لِلَّهِ ‏.‏ إِلاَّ كَانَ الَّذِي أَعْطَاهُ أَفْضَلَ مِمَّا أَخَذَ ‏\"‏ ‏.‏",
+            "translation": "It was narrated from Anas that: the Messenger of Allah (ﷺ) said: 'Allah does not bestow a blessing upon any slave and he says: 'Al-hamdu Lillah (praise is to Allah),' except that what he gives (the praise) is better than what he received (the blessing).\" Sunan Ibn Majah 3805 [Ibne Mazah: 3805]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 852,
+          "title": "Dua When Hearing Bad Things (Nauzubillah)",
+          "category_tags": [],
+          "introduction": "If you hear any bad words or if you hear or remember the punishment and wrath of Allah-",
+          "arabic": "نَعُوذُ بِاللَّهِ",
+          "audio": "",
+          "transliteration": "NA‛oodhu billaah",
+          "translation": "I seek refuge with Allah.",
+          "reference": "Bukhari: 6362",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه سَأَلُوا رَسُولَ اللَّهِ صلى الله عليه وسلم حَتَّى أَحْفَوْهُ الْمَسْأَلَةَ فَغَضِبَ فَصَعِدَ الْمِنْبَرَ فَقَالَ ‏\"‏ لاَ تَسْأَلُونِي الْيَوْمَ عَنْ شَىْءٍ إِلاَّ بَيَّنْتُهُ لَكُمْ ‏\"‏‏.‏ فَجَعَلْتُ أَنْظُرُ يَمِينًا وَشِمَالاً، فَإِذَا كُلُّ رَجُلٍ لاَفٌّ رَأْسَهُ فِي ثَوْبِهِ يَبْكِي، فَإِذَا رَجُلٌ كَانَ إِذَا لاَحَى الرِّجَالَ يُدْعَى لِغَيْرِ أَبِيهِ فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَبِي قَالَ ‏\"‏ حُذَافَةُ ‏\"‏، ثُمَّ أَنْشَأَ عُمَرُ فَقَالَ رَضِينَا بِاللَّهِ رَبًّا، وَبِالإِسْلاَمِ دِينًا، وَبِمُحَمَّدٍ صلى الله عليه وسلم رَسُولاً، نَعُوذُ بِاللَّهِ مِنَ الْفِتَنِ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا رَأَيْتُ فِي الْخَيْرِ وَالشَّرِّ كَالْيَوْمِ قَطُّ، إِنَّهُ صُوِّرَتْ لِي الْجَنَّةُ وَالنَّارُ حَتَّى رَأَيْتُهُمَا وَرَاءَ الْحَائِطِ ‏\"‏‏.‏ وَكَانَ قَتَادَةُ يَذْكُرُ عِنْدَ الْحَدِيثِ هَذِهِ الآيَةَ ‏ {‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ‏} ‏‏.‏",
+            "translation": "Narrated Anas: Once the people started asking Allah's Messenger (ﷺ) questions, and they asked so many questions that he became angry and ascended the pulpit and said, \"I will answer whatever questions you may ask me today.\" I looked right and left and saw everyone covering his face with his garment and weeping. Behold ! There was a man who, on quarreling with the people, used to be called as a son of a person other than h is father. He said, \"O Allah's Messenger (ﷺ)! Who is my father?\" The Prophet (ﷺ) replied, \"Your father is Hudhaifa.\" And then `Umar got up and said, \"We accept Allah as our Lord, and Islam as (our) religion, and Muhammad as (our) Apostle; and we seek refuge with Allah from the afflictions.\" Allah's Messenger (ﷺ) said, \" I have never seen a day like today in its good and its evil for Paradise and the Hell Fire were displayed in front of me, till I saw them just beyond this wall.\" Qatada, when relating this Hadith, used to mention the following Verse:-- 'O you who believe! Ask not questions about things which, If made plain to you, May cause you trouble. (5.101) [Bukhari: 6362]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 853,
+          "title": "Dua for Death (Inna Lillahi Wa Inna Ilayhi Raji'un)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ",
+          "audio": "/audio/dua/853.mp3",
+          "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon",
+          "translation": "We are from Allah and unto Him we return.",
+          "reference": "Sura Bakara 2:156",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 854,
+          "title": "Ameen Dua After Prayer",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "آمِينْ",
+          "audio": "",
+          "transliteration": "Aamin",
+          "translation": "(Oh Allah) accept our invocation.",
+          "reference": "Sahih Lee Ghairihi (Albani). Targib wat Tarhib, 2/66",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 855,
+          "title": "Dua for Ascending Heights (Allahu Akbar)",
+          "category_tags": [],
+          "introduction": "Narrated Jabir bin Abdillah (RA): He said, \"When we ascended, we would say:",
+          "arabic": "اَللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/855.mp3",
+          "transliteration": "Allahu Akbaar",
+          "translation": "Allah is great.",
+          "reference": "Bukhari: 2993",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ كُنَّا إِذَا صَعِدْنَا كَبَّرْنَا، وَإِذَا نَزَلْنَا سَبَّحْنَا‏.‏",
+            "translation": "Narrated Jabir bin `Abdullah: Whenever we went up a place we would say, \"Allahu--Akbar (i.e. Allah is Greater)\", and whenever we went down a place we would say, \"Subhan Allah.\" [Bukhari: 2993]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 856,
+          "title": "Dua for Going Up and Down Stairs (Subhanallah)",
+          "category_tags": [],
+          "introduction": "And when descend, we said -",
+          "arabic": "سُبْحَانَ اللَّهِ",
+          "audio": "/audio/dua/856.mp3",
+          "transliteration": "Sub’hanallah",
+          "translation": "How perfect Allah is.\n\nCan be read while going up and down the stairs/elevator",
+          "reference": "Bukhari: 2993",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ كُنَّا إِذَا صَعِدْنَا كَبَّرْنَا، وَإِذَا نَزَلْنَا سَبَّحْنَا‏.‏",
+            "translation": "Narrated Jabir bin `Abdullah: Whenever we went up a place we would say, \"Allahu--Akbar (i.e. Allah is Greater)\", and whenever we went down a place we would say, \"Subhan Allah.\" [Bukhari: 2993]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 857,
+          "title": "Dua When in Doubt (Wallahu a'lam)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَاللَّهُ أَعْلَمُ‏",
+          "audio": "",
+          "transliteration": "Wallahu a'lam",
+          "translation": "Allah knows better.",
+          "reference": "Bukhari: 5570",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَخِي، عَنْ سُلَيْمَانَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتِ الضَّحِيَّةُ كُنَّا نُمَلِّحُ مِنْهُ، فَنَقْدَمُ بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ فَقَالَ ‏ \"‏ لاَ تَأْكُلُوا إِلاَّ ثَلاَثَةَ أَيَّامٍ ‏\" ‏‏.‏ وَلَيْسَتْ بِعَزِيمَةٍ، وَلَكِنْ أَرَادَ أَنْ يُطْعِمَ مِنْهُ وَاللَّهُ أَعْلَمُ‏.‏",
+            "translation": "Narrated `Aisha: We used to salt some of the meat of sacrifice and present it to the Prophet (ﷺ) at Medina. Once he said, \"Do not eat (of that meat) for more than three days.\" That was not a final order, but (that year) he wanted us to feed of it to others, Allah knows better. [Bukhari: 5570]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 858,
+          "title": "Dua for Slaughtering Animal (Qurbani Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/858.mp3",
+          "transliteration": "Bismillaahi wAllahu 'Akbar",
+          "translation": "With the Name of Allah, Allah is the Most Great!\n\nAnas (RA) said that the Prophet (ﷺ) placed his feet on the two jaws of a goat with white and black horns and sacrificed him saying Bismillahi wAllahu akbar.",
+          "reference": "Bukhari: 5565",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ ضَحَّى النَّبِيُّ صلى الله عليه وسلم بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ، ذَبَحَهُمَا بِيَدِهِ، وَسَمَّى وَكَبَّرَ وَوَضَعَ رِجْلَهُ عَلَى صِفَاحِهِمَا‏.‏",
+            "translation": "Narrated Anas: The Prophet (ﷺ) offered as sacrifices, two horned rams, black and white in color. He slaughtered them with his own hands and mentioned Allah's Name over them and said Takbir and put his foot on their sides. [Bukhari: 5565]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 859,
+          "title": "Dua for Victory or Hope to Win (Allahu Akbaar)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/859.mp3",
+          "transliteration": "Allahu Akbaar",
+          "translation": "Allah is great.",
+          "reference": "Bukhari: 610",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا غَزَا بِنَا قَوْمًا لَمْ يَكُنْ يَغْزُو بِنَا حَتَّى يُصْبِحَ وَيَنْظُرَ، فَإِنْ سَمِعَ أَذَانًا كَفَّ عَنْهُمْ، وَإِنْ لَمْ يَسْمَعْ أَذَانًا أَغَارَ عَلَيْهِمْ، قَالَ فَخَرَجْنَا إِلَى خَيْبَرَ فَانْتَهَيْنَا إِلَيْهِمْ لَيْلاً، فَلَمَّا أَصْبَحَ وَلَمْ يَسْمَعْ أَذَانًا رَكِبَ وَرَكِبْتُ خَلْفَ أَبِي طَلْحَةَ، وَإِنَّ قَدَمِي لَتَمَسُّ قَدَمَ النَّبِيِّ صلى الله عليه وسلم‏.‏ قَالَ فَخَرَجُوا إِلَيْنَا بِمَكَاتِلِهِمْ وَمَسَاحِيهِمْ فَلَمَّا رَأَوُا النَّبِيَّ صلى الله عليه وسلم قَالُوا مُحَمَّدٌ وَاللَّهِ، مُحَمَّدٌ وَالْخَمِيسُ‏.‏ قَالَ فَلَمَّا رَآهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، خَرِبَتْ خَيْبَرُ، إِنَّا إِذَا نَزَلْنَا بِسَاحَةِ قَوْمٍ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ ‏\" ‏‏.‏",
+            "translation": "Narrated Humaid: Anas bin Malik said, \"Whenever the Prophet (ﷺ) went out with us to fight (in Allah's cause) against any nation, he never allowed us to attack till morning and he would wait and see: if he heard Adhan he would postpone the attack and if he did not hear Adhan he would attack them.\" Anas added, \"We reached Khaibar at night and in the morning when he did not hear the Adhan for the prayer, he (the Prophet ) rode and I rode behind Abi Talha and my foot was touching that of the Prophet. The inhabitants of Khaibar came out with their baskets and spades and when they saw the Prophet (ﷺ) they shouted 'Muhammad! By Allah, Muhammad and his army.' When Allah's Messenger (ﷺ) saw them, he said, \"Allahu-Akbar! Allahu-Akbar! Khaibar is ruined. Whenever we approach a (hostile) nation (to fight), then evil will be the morning of those who have been warned.\" [Bukhari: 610]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 860,
+          "title": "Dua When Meet Someone (Assalamu'alaikum Warahmatullahi Wabarakatuh)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+          "audio": "/audio/dua/860.mp3",
+          "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
+          "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.\n\nA man came to the Prophet (ﷺ) and said: As-salaamu 'alaykum! He responded to his salutation. He then sat down. The Prophet (ﷺ) said: Ten. Another man came and said: As-salaamu 'alaykum wara'hmatullaah! He responded to his salutation when he sat down. He said: Twenty. Another man came and said: As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh! He responded to him and said when he sat down: Thirty.",
+          "reference": "Sahih. Abu Dawud: 5195",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ عَوْفٍ، عَنْ أَبِي رَجَاءٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ السَّلاَمُ عَلَيْكُمْ ‏.‏ فَرَدَّ عَلَيْهِ السَّلاَمَ ثُمَّ جَلَسَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ عَشْرٌ ‏\"‏ ‏.‏ ثُمَّ جَاءَ آخَرُ فَقَالَ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ ‏.‏ فَرَدَّ عَلَيْهِ فَجَلَسَ فَقَالَ ‏\"‏ عِشْرُونَ ‏\"‏ ‏.‏ ثُمَّ جَاءَ آخَرُ فَقَالَ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ‏.‏ فَرَدَّ عَلَيْهِ فَجَلَسَ فَقَالَ ‏\"‏ ثَلاَثُونَ ‏\"‏ ‏.‏",
+            "translation": "Narrated Imran ibn Husayn: A man came to the Prophet (ﷺ) and said: Peace be upon you! He responded to his salutation. He then sat down. The Prophet (ﷺ) said: Ten. Another man came and said: Peace and Allah's mercy be upon you! He responded to his salutation when he sat down. He said: Twenty. Another man came and said: Peace and Allah's mercy and blessings be upon you! He responded to him and said when he sat down: and blessings be upon you! He responded to him and said when he sat down: Thirty. [Sahih (Albani). Abu Dawud: 5195]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 861,
+          "title": "Dua for Protection from Shaytaan (Auzubillah Minashaitan Nirajeem)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+          "audio": "/audio/dua/861.mp3",
+          "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+          "translation": "I seek refuge in Allah from Satan the outcast.",
+          "reference": "Muslim: 2203",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ الْبَاهِلِيُّ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، عَنْ أَبِي، الْعَلاَءِ أَنَّ عُثْمَانَ بْنَ أَبِي الْعَاصِ، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ الشَّيْطَانَ قَدْ حَالَ بَيْنِي وَبَيْنَ صَلاَتِي وَقِرَاءَتِي يَلْبِسُهَا عَلَىَّ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ ذَاكَ شَيْطَانٌ يُقَالُ لَهُ خِنْزِبٌ فَإِذَا أَحْسَسْتَهُ فَتَعَوَّذْ بِاللَّهِ مِنْهُ وَاتْفِلْ عَلَى يَسَارِكَ ثَلاَثًا ‏\" ‏ ‏.‏ قَالَ فَفَعَلْتُ ذَلِكَ فَأَذْهَبَهُ اللَّهُ عَنِّي ‏.‏",
+            "translation": "Uthman b. Abu al-'As reported that he came to Allah's Messenger (ﷺ) and said: Allah's Messenger, the Satan intervenes between me and my prayer and my reciting of the Qur'an and he confounds me. Thereupon Allah's Messenger (ﷺ) said:, That is (the doing of a) Satan (devil) who is known as Khinzab, and when you perceive its effect, seek refuge with Allah from it and spit three times to your left. I did that and Allah dispelled that from me. [Muslim: 2203]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 97,
+  "name": "القدر",
+  "transliteration": "Al-Qadr",
+  "translation_en": "The Power",
+  "type": "meccan",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+      "transliteration": "Inna anzalnahu fee laylati alqadri",
+      "translation_en": "Indeed, We sent the Qur'an down during the Night of Decree",
+      "translation_bn": "আমি একে নাযিল করেছি শবে-কদরে।",
+      "translation_ur": "ہم نے اِس (قرآن) کو شب قدر میں نازل کیا ہے"
+    },
+    {
+      "id": 2,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+      "transliteration": "Wama adraka ma laylatu alqadri",
+      "translation_en": "And what can make you know what is the Night of Decree",
+      "translation_bn": "শবে-কদর সমন্ধে আপনি কি জানেন",
+      "translation_ur": "اور تم کیا جانو کہ شب قدر کیا ہے؟"
+    },
+    {
+      "id": 3,
+      "arabic": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+      "transliteration": "Laylatu alqadri khayrun min alfi shahrin",
+      "translation_en": "The Night of Decree is better than a thousand months",
+      "translation_bn": "শবে-কদর হল এক হাজার মাস অপেক্ষা শ্রেষ্ঠ।",
+      "translation_ur": "شب قدر ہزار مہینوں سے زیادہ بہتر ہے"
+    },
+    {
+      "id": 4,
+      "arabic": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+      "transliteration": "Tanazzalu almalaikatu waalrroohu feeha biithni rabbihim min kulli amrin",
+      "translation_en": "The angels and the Spirit descend therein by permission of their Lord for every matter",
+      "translation_bn": "এতে প্রত্যেক কাজের জন্যে ফেরেশতাগণ ও রূহ অবতীর্ণ হয় তাদের পালনকর্তার নির্দেশক্রমে।",
+      "translation_ur": "فرشتے اور روح اُس میں اپنے رب کے اذن سے ہر حکم لے کر اترتے ہیں"
+    },
+    {
+      "id": 5,
+      "arabic": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+      "transliteration": "Salamun hiya hatta matlaAAi alfajri",
+      "translation_en": "Peace it is until the emergence of dawn",
+      "translation_bn": "এটা নিরাপত্তা, যা ফজরের উদয় পর্যন্ত অব্যাহত থাকে।",
+      "translation_ur": "وہ رات سراسر سلامتی ہے طلوع فجر تک"
+    }
+  ]
+}

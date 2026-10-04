@@ -1,0 +1,778 @@
+{
+  "id": 56,
+  "name": "الواقعة",
+  "transliteration": "Al-Waqi'ah",
+  "translation_en": "The Inevitable",
+  "type": "meccan",
+  "total_verses": 96,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "transliteration": "Itha waqaAAati alwaqiAAatu",
+      "translation_en": "When the Occurrence occurs",
+      "translation_bn": "যখন কিয়ামতের ঘটনা ঘটবে",
+      "translation_ur": "جب وہ ہونے والا واقعہ پیش آ جائے گا"
+    },
+    {
+      "id": 2,
+      "arabic": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "transliteration": "Laysa liwaqAAatiha kathibatun",
+      "translation_en": "There is, at its occurrence, no denial",
+      "translation_bn": "যার বাস্তবতায় কোন সংশয় নেই।",
+      "translation_ur": "تو کوئی اس کے وقوع کو جھٹلانے والا نہ ہوگا"
+    },
+    {
+      "id": 3,
+      "arabic": "خَافِضَةٞ رَّافِعَةٌ",
+      "transliteration": "Khafidatun rafiAAatun",
+      "translation_en": "It will bring down [some] and raise up [others]",
+      "translation_bn": "এটা নীচু করে দেবে, সমুন্নত করে দেবে।",
+      "translation_ur": "وہ تہ و بالا کر دینے والی آفت ہوگی"
+    },
+    {
+      "id": 4,
+      "arabic": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "transliteration": "Itha rujjati alardu rajjan",
+      "translation_en": "When the earth is shaken with convulsion",
+      "translation_bn": "যখন প্রবলভাবে প্রকম্পিত হবে পৃথিবী।",
+      "translation_ur": "زمین اس وقت یکبارگی ہلا ڈالی جائے گی"
+    },
+    {
+      "id": 5,
+      "arabic": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "transliteration": "Wabussati aljibalu bassan",
+      "translation_en": "And the mountains are broken down, crumbling",
+      "translation_bn": "এবং পর্বতমালা ভেঙ্গে চুরমার হয়ে যাবে।",
+      "translation_ur": "اور پہاڑ اس طرح ریزہ ریزہ کر دیے جائیں گے"
+    },
+    {
+      "id": 6,
+      "arabic": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "transliteration": "Fakanat habaan munbaththan",
+      "translation_en": "And become dust dispersing",
+      "translation_bn": "অতঃপর তা হয়ে যাবে উৎক্ষিপ্ত ধূলিকণা।",
+      "translation_ur": "کہ پراگندہ غبار بن کر رہ جائیں گے"
+    },
+    {
+      "id": 7,
+      "arabic": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "transliteration": "Wakuntum azwajan thalathatan",
+      "translation_en": "And you become [of] three kinds",
+      "translation_bn": "এবং তোমরা তিনভাবে বিভক্ত হয়ে পড়বে।",
+      "translation_ur": "تم لوگ اُس وقت تین گروہوں میں تقسیم ہو جاؤ گے"
+    },
+    {
+      "id": 8,
+      "arabic": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "transliteration": "Faashabu almaymanati ma ashabu almaymanati",
+      "translation_en": "Then the companions of the right - what are the companions of the right",
+      "translation_bn": "যারা ডান দিকে, কত ভাগ্যবান তারা।",
+      "translation_ur": "دائیں بازو والے، سو دائیں بازو والوں (کی خوش نصیبی) کا کیا کہنا"
+    },
+    {
+      "id": 9,
+      "arabic": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "transliteration": "Waashabu almashamati ma ashabu almashamati",
+      "translation_en": "And the companions of the left - what are the companions of the left",
+      "translation_bn": "এবং যারা বামদিকে, কত হতভাগা তারা।",
+      "translation_ur": "اور بائیں بازو والے، تو بائیں بازو والوں (کی بد نصیبی کا) کا کیا ٹھکانا"
+    },
+    {
+      "id": 10,
+      "arabic": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "transliteration": "Waalssabiqoona alssabiqoona",
+      "translation_en": "And the forerunners, the forerunners",
+      "translation_bn": "অগ্রবর্তীগণ তো অগ্রবর্তীই।",
+      "translation_ur": "اور آگے والے تو پھر آگے وا لے ہی ہیں"
+    },
+    {
+      "id": 11,
+      "arabic": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "transliteration": "Olaika almuqarraboona",
+      "translation_en": "Those are the ones brought near [to Allah]",
+      "translation_bn": "তারাই নৈকট্যশীল",
+      "translation_ur": "وہی تو مقرب لوگ ہیں"
+    },
+    {
+      "id": 12,
+      "arabic": "فِي جَنَّـٰتِ ٱلنَّعِيمِ",
+      "transliteration": "Fee jannati alnnaAAeemi",
+      "translation_en": "In the Gardens of Pleasure",
+      "translation_bn": "অবদানের উদ্যানসমূহে",
+      "translation_ur": "نعمت بھری جنتوں میں رہیں گے"
+    },
+    {
+      "id": 13,
+      "arabic": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "transliteration": "Thullatun mina alawwaleena",
+      "translation_en": "A [large] company of the former peoples",
+      "translation_bn": "তারা একদল পূর্ববর্তীদের মধ্য থেকে।",
+      "translation_ur": "اگلوں میں سے بہت ہوں گے"
+    },
+    {
+      "id": 14,
+      "arabic": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "transliteration": "Waqaleelun mina alakhireena",
+      "translation_en": "And a few of the later peoples",
+      "translation_bn": "এবং অল্পসংখ্যক পরবর্তীদের মধ্যে থেকে।",
+      "translation_ur": "اور پچھلوں میں سے کم"
+    },
+    {
+      "id": 15,
+      "arabic": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "transliteration": "AAala sururin mawdoonatin",
+      "translation_en": "On thrones woven [with ornament]",
+      "translation_bn": "স্বর্ণ খচিত সিংহাসন।",
+      "translation_ur": "مرصع تختوں پر"
+    },
+    {
+      "id": 16,
+      "arabic": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "transliteration": "Muttakieena AAalayha mutaqabileena",
+      "translation_en": "Reclining on them, facing each other",
+      "translation_bn": "তারা তাতে হেলান দিয়ে বসবে পরস্পর মুখোমুখি হয়ে।",
+      "translation_ur": "تکیے لگا ئے آمنے سامنے بیٹھیں گے"
+    },
+    {
+      "id": 17,
+      "arabic": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+      "transliteration": "Yatoofu AAalayhim wildanun mukhalladoona",
+      "translation_en": "There will circulate among them young boys made eternal",
+      "translation_bn": "তাদের কাছে ঘোরাফেরা করবে চির কিশোরেরা।",
+      "translation_ur": "اُن کی مجلسوں میں ابدی لڑکے شراب چشمہ جاری سے"
+    },
+    {
+      "id": 18,
+      "arabic": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "transliteration": "Biakwabin waabareeqa wakasin min maAAeenin",
+      "translation_en": "With vessels, pitchers and a cup [of wine] from a flowing spring",
+      "translation_bn": "পানপাত্র কুঁজা ও খাঁটি সূরাপূর্ণ পেয়ালা হাতে নিয়ে",
+      "translation_ur": "لبریز پیالے کنٹر اور ساغر لیے دوڑتے پھرتے ہونگے"
+    },
+    {
+      "id": 19,
+      "arabic": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "transliteration": "La yusaddaAAoona AAanha wala yunzifoona",
+      "translation_en": "No headache will they have therefrom, nor will they be intoxicated",
+      "translation_bn": "যা পান করলে তাদের শিরঃপীড়া হবে না এবং বিকারগ্রস্ত ও হবে না।",
+      "translation_ur": "جسے پی کر نہ اُن کا سر چکرائے گا نہ ان کی عقل میں فتور آئے گا"
+    },
+    {
+      "id": 20,
+      "arabic": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "transliteration": "Wafakihatin mimma yatakhayyaroona",
+      "translation_en": "And fruit of what they select",
+      "translation_bn": "আর তাদের পছন্দমত ফল-মুল নিয়ে",
+      "translation_ur": "اور وہ اُن کے سامنے طرح طرح کے لذیذ پھل پیش کریں گے جسے چاہیں چن لیں"
+    },
+    {
+      "id": 21,
+      "arabic": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "transliteration": "Walahmi tayrin mimma yashtahoona",
+      "translation_en": "And the meat of fowl, from whatever they desire",
+      "translation_bn": "এবং রুচিমত পাখীর মাংস নিয়ে।",
+      "translation_ur": "اور پرندوں کے گوشت پیش کریں گے کہ جس پرندے کا چاہیں استعمال کریں"
+    },
+    {
+      "id": 22,
+      "arabic": "وَحُورٌ عِينٞ",
+      "transliteration": "Wahoorun AAeenun",
+      "translation_en": "And [for them are] fair women with large, [beautiful] eyes",
+      "translation_bn": "তথায় থাকবে আনতনয়না হুরগণ",
+      "translation_ur": "اور ان کے لیے خوبصورت آنکھوں والی حوریں ہونگی"
+    },
+    {
+      "id": 23,
+      "arabic": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "transliteration": "Kaamthali allului almaknooni",
+      "translation_en": "The likenesses of pearls well-protected",
+      "translation_bn": "আবরণে রক্ষিত মোতির ন্যায়",
+      "translation_ur": "ایسی حسین جیسے چھپا کر رکھے ہوئے موتی"
+    },
+    {
+      "id": 24,
+      "arabic": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "transliteration": "Jazaan bima kanoo yaAAmaloona",
+      "translation_en": "As reward for what they used to do",
+      "translation_bn": "তারা যা কিছু করত, তার পুরস্কারস্বরূপ।",
+      "translation_ur": "یہ سب کچھ اُن اعمال کی جزا کے طور پر انہیں ملے گا جو وہ دنیا میں کرتے رہے تھے"
+    },
+    {
+      "id": 25,
+      "arabic": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "transliteration": "La yasmaAAoona feeha laghwan wala tatheeman",
+      "translation_en": "They will not hear therein ill speech or commission of sin",
+      "translation_bn": "তারা তথায় অবান্তর ও কোন খারাপ কথা শুনবে না।",
+      "translation_ur": "وہاں وہ کوئی بیہودہ کلام یا گناہ کی بات نہ سنیں گے"
+    },
+    {
+      "id": 26,
+      "arabic": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+      "transliteration": "Illa qeelan salaman salaman",
+      "translation_en": "Only a saying: \"Peace, peace",
+      "translation_bn": "কিন্তু শুনবে সালাম আর সালাম।",
+      "translation_ur": "جو بات بھی ہوگی ٹھیک ٹھیک ہوگی"
+    },
+    {
+      "id": 27,
+      "arabic": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+      "transliteration": "Waashabu alyameeni ma ashabu alyameeni",
+      "translation_en": "The companions of the right - what are the companions of the right",
+      "translation_bn": "যারা ডান দিকে থাকবে, তারা কত ভাগ্যবান।",
+      "translation_ur": "اور دائیں بازو والے، دائیں بازو والوں کی خوش نصیبی کا کیا کہنا"
+    },
+    {
+      "id": 28,
+      "arabic": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "transliteration": "Fee sidrin makhdoodin",
+      "translation_en": "[They will be] among lote trees with thorns removed",
+      "translation_bn": "তারা থাকবে কাঁটাবিহীন বদরিকা বৃক্ষে।",
+      "translation_ur": "وہ بے خار بیریوں"
+    },
+    {
+      "id": 29,
+      "arabic": "وَطَلۡحٖ مَّنضُودٖ",
+      "transliteration": "Watalhin mandoodin",
+      "translation_en": "And [banana] trees layered [with fruit]",
+      "translation_bn": "এবং কাঁদি কাঁদি কলায়",
+      "translation_ur": "اور تہ بر تہ چڑھے ہوئے کیلوں"
+    },
+    {
+      "id": 30,
+      "arabic": "وَظِلّٖ مَّمۡدُودٖ",
+      "transliteration": "Wathillin mamdoodin",
+      "translation_en": "And shade extended",
+      "translation_bn": "এবং দীর্ঘ ছায়ায়।",
+      "translation_ur": "اور دور تک پھیلی ہوئی چھاؤں"
+    },
+    {
+      "id": 31,
+      "arabic": "وَمَآءٖ مَّسۡكُوبٖ",
+      "transliteration": "Wamain maskoobin",
+      "translation_en": "And water poured out",
+      "translation_bn": "এবং প্রবাহিত পানিতে",
+      "translation_ur": "اور ہر دم رواں پانی"
+    },
+    {
+      "id": 32,
+      "arabic": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "transliteration": "Wafakihatin katheeratin",
+      "translation_en": "And fruit, abundant [and varied]",
+      "translation_bn": "ও প্রচুর ফল-মূলে",
+      "translation_ur": "اور کبھی ختم نہ ہونے والے"
+    },
+    {
+      "id": 33,
+      "arabic": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "transliteration": "La maqtooAAatin wala mamnooAAatin",
+      "translation_en": "Neither limited [to season] nor forbidden",
+      "translation_bn": "যা শেষ হবার নয় এবং নিষিদ্ধ ও নয়",
+      "translation_ur": "اور بے روک ٹوک ملنے والے بکثرت پھلوں"
+    },
+    {
+      "id": 34,
+      "arabic": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "transliteration": "Wafurushin marfooAAatin",
+      "translation_en": "And [upon] beds raised high",
+      "translation_bn": "আর থাকবে সমুন্নত শয্যায়।",
+      "translation_ur": "اور اونچی نشست گاہوں میں ہوں گے"
+    },
+    {
+      "id": 35,
+      "arabic": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+      "transliteration": "Inna anshanahunna inshaan",
+      "translation_en": "Indeed, We have produced the women of Paradise in a [new] creation",
+      "translation_bn": "আমি জান্নাতী রমণীগণকে বিশেষরূপে সৃষ্টি করেছি।",
+      "translation_ur": "ان کی بیویوں کو ہم خاص طور پر نئے سرے سے پیدا کریں گے"
+    },
+    {
+      "id": 36,
+      "arabic": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "transliteration": "FajaAAalnahunna abkaran",
+      "translation_en": "And made them virgins",
+      "translation_bn": "অতঃপর তাদেরকে করেছি চিরকুমারী।",
+      "translation_ur": "اور انہیں با کرہ بنا دیں گے"
+    },
+    {
+      "id": 37,
+      "arabic": "عُرُبًا أَتۡرَابٗا",
+      "transliteration": "AAuruban atraban",
+      "translation_en": "Devoted [to their husbands] and of equal age",
+      "translation_bn": "কামিনী, সমবয়স্কা।",
+      "translation_ur": "اپنے شوہروں کی عاشق اور عمر میں ہم سن"
+    },
+    {
+      "id": 38,
+      "arabic": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+      "transliteration": "Liashabi alyameeni",
+      "translation_en": "For the companions of the right [who are]",
+      "translation_bn": "ডান দিকের লোকদের জন্যে।",
+      "translation_ur": "یہ کچھ دائیں بازو والوں کے لیے ہے"
+    },
+    {
+      "id": 39,
+      "arabic": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "transliteration": "Thullatun mina alawwaleena",
+      "translation_en": "A company of the former peoples",
+      "translation_bn": "তাদের একদল হবে পূর্ববর্তীদের মধ্য থেকে।",
+      "translation_ur": "وہ اگلوں میں سے بہت ہوں گے"
+    },
+    {
+      "id": 40,
+      "arabic": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "transliteration": "Wathullatun mina alakhireena",
+      "translation_en": "And a company of the later peoples",
+      "translation_bn": "এবং একদল পরবর্তীদের মধ্য থেকে।",
+      "translation_ur": "اور پچھلوں میں سے بھی بہت"
+    },
+    {
+      "id": 41,
+      "arabic": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+      "transliteration": "Waashabu alshshimali ma ashabu alshshimali",
+      "translation_en": "And the companions of the left - what are the companions of the left",
+      "translation_bn": "বামপার্শ্বস্থ লোক, কত না হতভাগা তারা।",
+      "translation_ur": "اور بائیں بازو والے، بائیں بازو والوں کی بد نصیبی کا کیا پوچھنا"
+    },
+    {
+      "id": 42,
+      "arabic": "فِي سَمُومٖ وَحَمِيمٖ",
+      "transliteration": "Fee samoomin wahameemin",
+      "translation_en": "[They will be] in scorching fire and scalding water",
+      "translation_bn": "তারা থাকবে প্রখর বাষ্পে এবং উত্তপ্ত পানিতে",
+      "translation_ur": "وہ لو کی لپٹ اور کھولتے ہوئے پانی"
+    },
+    {
+      "id": 43,
+      "arabic": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "transliteration": "Wathillin min yahmoomin",
+      "translation_en": "And a shade of black smoke",
+      "translation_bn": "এবং ধুম্রকুঞ্জের ছায়ায়।",
+      "translation_ur": "اور کالے دھوئیں کے سائے میں ہوں گے"
+    },
+    {
+      "id": 44,
+      "arabic": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "transliteration": "La baridin wala kareemin",
+      "translation_en": "Neither cool nor beneficial",
+      "translation_bn": "যা শীতল নয় এবং আরামদায়কও নয়।",
+      "translation_ur": "جو نہ ٹھنڈا ہوگا نہ آرام دہ"
+    },
+    {
+      "id": 45,
+      "arabic": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+      "transliteration": "Innahum kanoo qabla thalika mutrafeena",
+      "translation_en": "Indeed they were, before that, indulging in affluence",
+      "translation_bn": "তারা ইতিপূর্বে স্বাচ্ছন্দ্যশীল ছিল।",
+      "translation_ur": "یہ وہ لوگ ہوں گے جو اِس انجام کو پہنچنے سے پہلے خوشحال تھے"
+    },
+    {
+      "id": 46,
+      "arabic": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "transliteration": "Wakanoo yusirroona AAala alhinthi alAAatheemi",
+      "translation_en": "And they used to persist in the great violation",
+      "translation_bn": "তারা সদাসর্বদা ঘোরতর পাপকর্মে ডুবে থাকত।",
+      "translation_ur": "اور گناہ عظیم پر اصرار کرتے تھے"
+    },
+    {
+      "id": 47,
+      "arabic": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "transliteration": "Wakanoo yaqooloona aitha mitna wakunna turaban waAAithaman ainna lamabAAoothoona",
+      "translation_en": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected",
+      "translation_bn": "তারা বলতঃ আমরা যখন মরে অস্থি ও মৃত্তিকায় পরিণত হয়ে যাব, তখনও কি পুনরুত্থিত হব",
+      "translation_ur": "کہتے تھے \"کیا جب ہم مر کر خاک ہو جائیں گے اور ہڈیوں کا پنجر رہ جائیں گے تو پھر اٹھا کھڑے کیے جائیں گے؟"
+    },
+    {
+      "id": 48,
+      "arabic": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "transliteration": "Awa abaona alawwaloona",
+      "translation_en": "And our forefathers [as well]",
+      "translation_bn": "এবং আমাদের পূর্বপুরুষগণও",
+      "translation_ur": "اور کیا ہمارے وہ باپ دادا بھی اٹھائے جائیں گے جو پہلے گزر چکے ہیں؟"
+    },
+    {
+      "id": 49,
+      "arabic": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "transliteration": "Qul inna alawwaleena waalakhireena",
+      "translation_en": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
+      "translation_bn": "বলুনঃ পূর্ববর্তী ও পরবর্তীগণ",
+      "translation_ur": "اے نبیؐ، اِن لوگوں سے کہو، یقیناً اگلے اور پچھلے سب"
+    },
+    {
+      "id": 50,
+      "arabic": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "transliteration": "LamajmooAAoona ila meeqati yawmin maAAloomin",
+      "translation_en": "Are to be gathered together for the appointment of a known Day",
+      "translation_bn": "সবাই একত্রিত হবে এক নির্দিষ্ট দিনের নির্দিষ্ট সময়ে।",
+      "translation_ur": "ایک دن ضرور جمع کیے جانے والے ہیں جس کا وقت مقرر کیا جا چکا ہے"
+    },
+    {
+      "id": 51,
+      "arabic": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "transliteration": "Thumma innakum ayyuha alddalloona almukaththiboona",
+      "translation_en": "Then indeed you, O those astray [who are] deniers",
+      "translation_bn": "অতঃপর হে পথভ্রষ্ট, মিথ্যারোপকারীগণ।",
+      "translation_ur": "پھر اے گمراہو اور جھٹلانے والو"
+    },
+    {
+      "id": 52,
+      "arabic": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "transliteration": "Laakiloona min shajarin min zaqqoomin",
+      "translation_en": "Will be eating from trees of zaqqum",
+      "translation_bn": "তোমরা অবশ্যই ভক্ষণ করবে যাক্কুম বৃক্ষ থেকে",
+      "translation_ur": "تم شجر زقوم کی غذا کھانے والے ہو"
+    },
+    {
+      "id": 53,
+      "arabic": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "transliteration": "Famalioona minha albutoona",
+      "translation_en": "And filling with it your bellies",
+      "translation_bn": "অতঃপর তা দ্বারা উদর পূর্ণ করবে",
+      "translation_ur": "اُسی سے تم پیٹ بھرو گے"
+    },
+    {
+      "id": 54,
+      "arabic": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "transliteration": "Fashariboona AAalayhi mina alhameemi",
+      "translation_en": "And drinking on top of it from scalding water",
+      "translation_bn": "অতঃপর তার উপর পান করবে উত্তপ্ত পানি।",
+      "translation_ur": "اور اوپر سے کھولتا ہوا پانی"
+    },
+    {
+      "id": 55,
+      "arabic": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "transliteration": "Fashariboona shurba alheemi",
+      "translation_en": "And will drink as the drinking of thirsty camels",
+      "translation_bn": "পান করবে পিপাসিত উটের ন্যায়।",
+      "translation_ur": "تونس لگے ہوئے اونٹ کی طرح پیو گے"
+    },
+    {
+      "id": 56,
+      "arabic": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "transliteration": "Hatha nuzuluhum yawma alddeeni",
+      "translation_en": "That is their accommodation on the Day of Recompense",
+      "translation_bn": "কেয়ামতের দিন এটাই হবে তাদের আপ্যায়ন।",
+      "translation_ur": "یہ ہے بائیں والوں کی ضیافت کا سامان روز جزا میں"
+    },
+    {
+      "id": 57,
+      "arabic": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "transliteration": "Nahnu khalaqnakum falawla tusaddiqoona",
+      "translation_en": "We have created you, so why do you not believe",
+      "translation_bn": "আমি সৃষ্টি করেছি তোমাদেরকে। অতঃপর কেন তোমরা তা সত্য বলে বিশ্বাস কর না।",
+      "translation_ur": "ہم نے تمہیں پیدا کیا ہے پھر کیوں تصدیق نہیں کرتے؟"
+    },
+    {
+      "id": 58,
+      "arabic": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "transliteration": "Afaraaytum ma tumnoona",
+      "translation_en": "Have you seen that which you emit",
+      "translation_bn": "তোমরা কি ভেবে দেখেছ, তোমাদের বীর্যপাত সম্পর্কে।",
+      "translation_ur": "کبھی تم نے غور کیا، یہ نطفہ جو تم ڈالتے ہو"
+    },
+    {
+      "id": 59,
+      "arabic": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+      "transliteration": "Aantum takhluqoonahu am nahnu alkhaliqoona",
+      "translation_en": "Is it you who creates it, or are We the Creator",
+      "translation_bn": "তোমরা তাকে সৃষ্টি কর, না আমি সৃষ্টি করি",
+      "translation_ur": "اس سے بچہ تم بناتے ہو یا اس کے بنانے والے ہم ہیں؟"
+    },
+    {
+      "id": 60,
+      "arabic": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "transliteration": "Nahnu qaddarna baynakumu almawta wama nahnu bimasbooqeena",
+      "translation_en": "We have decreed death among you, and We are not to be outdone",
+      "translation_bn": "আমি তোমাদের মৃত্যুকাল নির্ধারিত করেছি এবং আমি অক্ষম নই।",
+      "translation_ur": "ہم نے تمہارے درمیان موت کو تقسیم کیا ہے، اور ہم اِس سے عاجز نہیں ہیں"
+    },
+    {
+      "id": 61,
+      "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "transliteration": "AAala an nubaddila amthalakum wanunshiakum fee ma la taAAlamoona",
+      "translation_en": "In that We will change your likenesses and produce you in that [form] which you do not know",
+      "translation_bn": "এ ব্যাপারে যে, তোমাদের পরিবর্তে তোমাদের মত লোককে নিয়ে আসি এবং তোমাদেরকে এমন করে দেই, যা তোমরা জান না।",
+      "translation_ur": "کہ تمہاری شکلیں بدل دیں اور کسی ایسی شکل میں تمہیں پیدا کر دیں جس کو تم نہیں جانتے"
+    },
+    {
+      "id": 62,
+      "arabic": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "transliteration": "Walaqad AAalimtumu alnnashata aloola falawla tathakkaroona",
+      "translation_en": "And you have already known the first creation, so will you not remember",
+      "translation_bn": "তোমরা অবগত হয়েছ প্রথম সৃষ্টি সম্পর্কে, তবে তোমরা অনুধাবন কর না কেন",
+      "translation_ur": "اپنی پہلی پیدائش کو تو تم جانتے ہو، پھر کیوں سبق نہیں لیتے؟"
+    },
+    {
+      "id": 63,
+      "arabic": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "transliteration": "Afaraaytum ma tahruthoona",
+      "translation_en": "And have you seen that [seed] which you sow",
+      "translation_bn": "তোমরা যে বীজ বপন কর, সে সম্পর্কে ভেবে দেখেছ কি",
+      "translation_ur": "کبھی تم نے سوچا، یہ بیج جو تم بوتے ہو"
+    },
+    {
+      "id": 64,
+      "arabic": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ",
+      "transliteration": "Aantum tazraAAoonahu am nahnu alzzariAAoona",
+      "translation_en": "Is it you who makes it grow, or are We the grower",
+      "translation_bn": "তোমরা তাকে উৎপন্ন কর, না আমি উৎপন্নকারী",
+      "translation_ur": "اِن سے کھیتیاں تم اگاتے ہو یا اُن کے اگانے والے ہم ہیں؟"
+    },
+    {
+      "id": 65,
+      "arabic": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "transliteration": "Law nashao lajaAAalnahu hutaman fathaltum tafakkahoona",
+      "translation_en": "If We willed, We could make it [dry] debris, and you would remain in wonder",
+      "translation_bn": "আমি ইচ্ছা করলে তাকে খড়কুটা করে দিতে পারি, অতঃপর হয়ে যাবে তোমরা বিস্ময়াবিষ্ট।",
+      "translation_ur": "ہم چاہیں تو ان کھیتیوں کو بھس بنا کر رکھ دیں اور تم طرح طرح کی باتیں بناتے رہ جاؤ"
+    },
+    {
+      "id": 66,
+      "arabic": "إِنَّا لَمُغۡرَمُونَ",
+      "transliteration": "Inna lamughramoona",
+      "translation_en": "[Saying], \"Indeed, we are [now] in debt",
+      "translation_bn": "বলবেঃ আমরা তো ঋণের চাপে পড়ে গেলাম",
+      "translation_ur": "کہ ہم پر تو الٹی چٹی پڑ گئی"
+    },
+    {
+      "id": 67,
+      "arabic": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "transliteration": "Bal nahnu mahroomoona",
+      "translation_en": "Rather, we have been deprived",
+      "translation_bn": "বরং আমরা হূত সর্বস্ব হয়ে পড়লাম।",
+      "translation_ur": "بلکہ ہمارے تو نصیب ہی پھوٹے ہوئے ہیں"
+    },
+    {
+      "id": 68,
+      "arabic": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "transliteration": "Afaraaytumu almaa allathee tashraboona",
+      "translation_en": "And have you seen the water that you drink",
+      "translation_bn": "তোমরা যে পানি পান কর, সে সম্পর্কে ভেবে দেখেছ কি",
+      "translation_ur": "کبھی تم نے آنکھیں کھول کر دیکھا، یہ پانی جو تم پیتے ہو"
+    },
+    {
+      "id": 69,
+      "arabic": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "transliteration": "Aantum anzaltumoohu mina almuzni am nahnu almunziloona",
+      "translation_en": "Is it you who brought it down from the clouds, or is it We who bring it down",
+      "translation_bn": "তোমরা তা মেঘ থেকে নামিয়ে আন, না আমি বর্ষন করি",
+      "translation_ur": "اِسے تم نے بادل سے برسایا ہے یا اِس کے برسانے والے ہم ہیں؟"
+    },
+    {
+      "id": 70,
+      "arabic": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "transliteration": "Law nashao jaAAalnahu ojajan falawla tashkuroona",
+      "translation_en": "If We willed, We could make it bitter, so why are you not grateful",
+      "translation_bn": "আমি ইচ্ছা করলে তাকে লোনা করে দিতে পারি, অতঃপর তোমরা কেন কৃতজ্ঞতা প্রকাশ কর না",
+      "translation_ur": "ہم چاہیں تو اسے سخت کھاری بنا کر رکھ دیں، پھر کیوں تم شکر گزار نہیں ہوتے؟"
+    },
+    {
+      "id": 71,
+      "arabic": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "transliteration": "Afaraaytumu alnnara allatee tooroona",
+      "translation_en": "And have you seen the fire that you ignite",
+      "translation_bn": "তোমরা যে অগ্নি প্রজ্জ্বলিত কর, সে সম্পর্কে ভেবে দেখেছ কি",
+      "translation_ur": "کبھی تم نے خیال کیا، یہ آگ جو تم سلگاتے ہو"
+    },
+    {
+      "id": 72,
+      "arabic": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "transliteration": "Aantum anshatum shajarataha am nahnu almunshioona",
+      "translation_en": "Is it you who produced its tree, or are We the producer",
+      "translation_bn": "তোমরা কি এর বৃক্ষ সৃষ্টি করেছ, না আমি সৃষ্টি করেছি",
+      "translation_ur": "اِس کا درخت تم نے پیدا کیا ہے، یا اس کے پیدا کرنے والے ہم ہیں؟"
+    },
+    {
+      "id": 73,
+      "arabic": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+      "transliteration": "Nahnu jaAAalnaha tathkiratan wamataAAan lilmuqweena",
+      "translation_en": "We have made it a reminder and provision for the travelers",
+      "translation_bn": "আমি সেই বৃক্ষকে করেছি স্মরণিকা এবং মরুবাসীদের জন্য সামগ্রী।",
+      "translation_ur": "ہم نے اُس کو یاد دہانی کا ذریعہ اور حاجت مندوں کے لیے سامان زیست بنایا ہے"
+    },
+    {
+      "id": 74,
+      "arabic": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "transliteration": "Fasabbih biismi rabbika alAAatheemi",
+      "translation_en": "So exalt the name of your Lord, the Most Great",
+      "translation_bn": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+      "translation_ur": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو"
+    },
+    {
+      "id": 75,
+      "arabic": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "transliteration": "Fala oqsimu bimawaqiAAi alnnujoomi",
+      "translation_en": "Then I swear by the setting of the stars",
+      "translation_bn": "অতএব, আমি তারকারাজির অস্তাচলের শপথ করছি",
+      "translation_ur": "پس نہیں، میں قسم کھاتا ہوں تاروں کے مواقع کی"
+    },
+    {
+      "id": 76,
+      "arabic": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "transliteration": "Wainnahu laqasamun law taAAlamoona AAatheemun",
+      "translation_en": "And indeed, it is an oath - if you could know - [most] great",
+      "translation_bn": "নিশ্চয় এটা এক মহা শপথ-যদি তোমরা জানতে।",
+      "translation_ur": "اور اگر تم سمجھو تو یہ بہت بڑی قسم ہے"
+    },
+    {
+      "id": 77,
+      "arabic": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "transliteration": "Innahu laquranun kareemun",
+      "translation_en": "Indeed, it is a noble Qur'an",
+      "translation_bn": "নিশ্চয় এটা সম্মানিত কোরআন",
+      "translation_ur": "کہ یہ ایک بلند پایہ قرآن ہے"
+    },
+    {
+      "id": 78,
+      "arabic": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+      "transliteration": "Fee kitabin maknoonin",
+      "translation_en": "In a Register well-protected",
+      "translation_bn": "যা আছে এক গোপন কিতাবে",
+      "translation_ur": "ایک محفوظ کتاب میں ثبت"
+    },
+    {
+      "id": 79,
+      "arabic": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "transliteration": "La yamassuhu illa almutahharoona",
+      "translation_en": "None touch it except the purified",
+      "translation_bn": "যারা পাক-পবিত্র, তারা ব্যতীত অন্য কেউ একে স্পর্শ করবে না।",
+      "translation_ur": "جسے مطہرین کے سوا کوئی چھو نہیں سکتا"
+    },
+    {
+      "id": 80,
+      "arabic": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Tanzeelun min rabbi alAAalameena",
+      "translation_en": "[It is] a revelation from the Lord of the worlds",
+      "translation_bn": "এটা বিশ্ব-পালনকর্তার পক্ষ থেকে অবতীর্ণ।",
+      "translation_ur": "یہ رب العالمین کا نازل کردہ ہے"
+    },
+    {
+      "id": 81,
+      "arabic": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "transliteration": "Afabihatha alhadeethi antum mudhinoona",
+      "translation_en": "Then is it to this statement that you are indifferent",
+      "translation_bn": "তবুও কি তোমরা এই বাণীর প্রতি শৈথিল্য পদর্শন করবে",
+      "translation_ur": "پھر کیا اس کلام کے ساتھ تم بے اعتنائی برتتے ہو"
+    },
+    {
+      "id": 82,
+      "arabic": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "transliteration": "WatajAAaloona rizqakum annakum tukaththiboona",
+      "translation_en": "And make [the thanks for] your provision that you deny [the Provider]",
+      "translation_bn": "এবং একে মিথ্যা বলাকেই তোমরা তোমাদের ভূমিকায় পরিণত করবে",
+      "translation_ur": "اور اِس نعمت میں اپنا حصہ تم نے یہ رکھا ہے کہ اِسے جھٹلاتے ہو؟"
+    },
+    {
+      "id": 83,
+      "arabic": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "transliteration": "Falawla itha balaghati alhulqooma",
+      "translation_en": "Then why, when the soul at death reaches the throat",
+      "translation_bn": "অতঃপর যখন কারও প্রাণ কন্ঠাগত হয়।",
+      "translation_ur": "تو جب مرنے والے کی جان حلق تک پہنچ چکی ہوتی ہے"
+    },
+    {
+      "id": 84,
+      "arabic": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "transliteration": "Waantum heenaithin tanthuroona",
+      "translation_en": "And you are at that time looking on",
+      "translation_bn": "এবং তোমরা তাকিয়ে থাক",
+      "translation_ur": "اور تم آنکھوں سے دیکھ رہے ہوتے ہو کہ وہ مر رہا ہے،"
+    },
+    {
+      "id": 85,
+      "arabic": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+      "transliteration": "Wanahnu aqrabu ilayhi minkum walakin la tubsiroona",
+      "translation_en": "And Our angels are nearer to him than you, but you do not see",
+      "translation_bn": "তখন আমি তোমাদের অপেক্ষা তার অধিক নিকটে থাকি; কিন্তু তোমরা দেখ না।",
+      "translation_ur": "اُس وقت تمہاری بہ نسبت ہم اُس کے زیادہ قریب ہوتے ہیں مگر تم کو نظر نہیں آتے"
+    },
+    {
+      "id": 86,
+      "arabic": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "transliteration": "Falawla in kuntum ghayra madeeneena",
+      "translation_en": "Then why do you not, if you are not to be recompensed",
+      "translation_bn": "যদি তোমাদের হিসাব-কিতাব না হওয়াই ঠিক হয়",
+      "translation_ur": "اب اگر تم کسی کے محکوم نہیں ہو اور اپنے اِس خیال میں سچے ہو،"
+    },
+    {
+      "id": 87,
+      "arabic": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "transliteration": "TarjiAAoonaha in kuntum sadiqeena",
+      "translation_en": "Bring it back, if you should be truthful",
+      "translation_bn": "তবে তোমরা এই আত্মাকে ফিরাও না কেন, যদি তোমরা সত্যবাদী হও",
+      "translation_ur": "اُس وقت اُس کی نکلتی ہوئی جان کو واپس کیوں نہیں لے آتے؟"
+    },
+    {
+      "id": 88,
+      "arabic": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "transliteration": "Faamma in kana mina almuqarrabeena",
+      "translation_en": "And if the deceased was of those brought near to Allah",
+      "translation_bn": "যদি সে নৈকট্যশীলদের একজন হয়",
+      "translation_ur": "پھر وہ مرنے والا اگر مقربین میں سے ہو"
+    },
+    {
+      "id": 89,
+      "arabic": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "transliteration": "Farawhun warayhanun wajannatu naAAeemin",
+      "translation_en": "Then [for him is] rest and bounty and a garden of pleasure",
+      "translation_bn": "তবে তার জন্যে আছে সুখ, উত্তম রিযিক এবং নেয়ামতে ভরা উদ্যান।",
+      "translation_ur": "تو اس کے لیے راحت اور عمدہ رزق اور نعمت بھری جنت ہے"
+    },
+    {
+      "id": 90,
+      "arabic": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "transliteration": "Waamma in kana min ashabi alyameeni",
+      "translation_en": "And if he was of the companions of the right",
+      "translation_bn": "আর যদি সে ডান পার্শ্বস্থদের একজন হয়",
+      "translation_ur": "اور اگر وہ اصحاب یمین میں سے ہو"
+    },
+    {
+      "id": 91,
+      "arabic": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "transliteration": "Fasalamun laka min ashabi alyameeni",
+      "translation_en": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right",
+      "translation_bn": "তবে তাকে বলা হবেঃ তোমার জন্যে ডানপার্শ্বসস্থদের পক্ষ থেকে সালাম।",
+      "translation_ur": "تو اس کا استقبال یوں ہوتا ہے کہ سلام ہے تجھے، تو اصحاب الیمین میں سے ہے"
+    },
+    {
+      "id": 92,
+      "arabic": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "transliteration": "Waamma in kana mina almukaththibeena alddalleena",
+      "translation_en": "But if he was of the deniers [who were] astray",
+      "translation_bn": "আর যদি সে পথভ্রষ্ট মিথ্যারোপকারীদের একজন হয়",
+      "translation_ur": "اور اگر وہ جھٹلانے والے گمراہ لوگوں میں سے ہو"
+    },
+    {
+      "id": 93,
+      "arabic": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "transliteration": "Fanuzulun min hameemin",
+      "translation_en": "Then [for him is] accommodation of scalding water",
+      "translation_bn": "তবে তার আপ্যায়ন হবে উত্তপ্ত পানি দ্বারা।",
+      "translation_ur": "تو اس کی تواضع کے لیے کھولتا ہوا پانی ہے"
+    },
+    {
+      "id": 94,
+      "arabic": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "transliteration": "Watasliyatu jaheemin",
+      "translation_en": "And burning in Hellfire",
+      "translation_bn": "এবং সে নিক্ষিপ্ত হবে অগ্নিতে।",
+      "translation_ur": "اور جہنم میں جھونکا جانا"
+    },
+    {
+      "id": 95,
+      "arabic": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "transliteration": "Inna hatha lahuwa haqqu alyaqeeni",
+      "translation_en": "Indeed, this is the true certainty",
+      "translation_bn": "এটা ধ্রুব সত্য।",
+      "translation_ur": "یہ سب کچھ قطعی حق ہے"
+    },
+    {
+      "id": 96,
+      "arabic": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "transliteration": "Fasabbih biismi rabbika alAAatheemi",
+      "translation_en": "So exalt the name of your Lord, the Most Great",
+      "translation_bn": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+      "translation_ur": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو"
+    }
+  ]
+}

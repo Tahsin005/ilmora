@@ -1,0 +1,162 @@
+{
+  "id": 82,
+  "name": "الإنفطار",
+  "transliteration": "Al-Infitar",
+  "translation_en": "The Cleaving",
+  "type": "meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+      "transliteration": "Itha alssamao infatarat",
+      "translation_en": "When the sky breaks apart",
+      "translation_bn": "যখন আকাশ বিদীর্ণ হবে",
+      "translation_ur": "جب آسمان پھٹ جائے گا"
+    },
+    {
+      "id": 2,
+      "arabic": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+      "transliteration": "Waitha alkawakibu intatharat",
+      "translation_en": "And when the stars fall, scattering",
+      "translation_bn": "যখন নক্ষত্রসমূহ ঝরে পড়বে",
+      "translation_ur": "اور جب تارے بکھر جائیں گے"
+    },
+    {
+      "id": 3,
+      "arabic": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+      "transliteration": "Waitha albiharu fujjirat",
+      "translation_en": "And when the seas are erupted",
+      "translation_bn": "যখন সমুদ্রকে উত্তাল করে তোলা হবে",
+      "translation_ur": "اور جب سمندر پھاڑ دیے جائیں گے"
+    },
+    {
+      "id": 4,
+      "arabic": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+      "transliteration": "Waitha alqubooru buAAthirat",
+      "translation_en": "And when the [contents of] graves are scattered",
+      "translation_bn": "এবং যখন কবরসমূহ উম্মোচিত হবে",
+      "translation_ur": "اور جب قبریں کھول دی جائیں گی"
+    },
+    {
+      "id": 5,
+      "arabic": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+      "transliteration": "AAalimat nafsun ma qaddamat waakhkharat",
+      "translation_en": "A soul will [then] know what it has put forth and kept back",
+      "translation_bn": "তখন প্রত্যেকে জেনে নিবে সে কি অগ্রে প্রেরণ করেছে এবং কি পশ্চাতে ছেড়ে এসেছে।",
+      "translation_ur": "اُس وقت ہر شخص کو اُس کا اگلا پچھلا سب کیا دھرا معلوم ہو جائے گا"
+    },
+    {
+      "id": 6,
+      "arabic": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+      "transliteration": "Ya ayyuha alinsanu ma gharraka birabbika alkareemi",
+      "translation_en": "O mankind, what has deceived you concerning your Lord, the Generous",
+      "translation_bn": "হে মানুষ, কিসে তোমাকে তোমার মহামহিম পালনকর্তা সম্পর্কে বিভ্রান্ত করল",
+      "translation_ur": "اے انسان، کس چیز نے تجھے اپنے اُس رب کریم کی طرف سے دھوکے میں ڈال دیا"
+    },
+    {
+      "id": 7,
+      "arabic": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "transliteration": "Allathee khalaqaka fasawwaka faAAadalaka",
+      "translation_en": "Who created you, proportioned you, and balanced you",
+      "translation_bn": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুবিন্যস্ত করেছেন এবং সুষম করেছেন।",
+      "translation_ur": "جس نے تجھے پیدا کیا، تجھے نک سک سے درست کیا، تجھے متناسب بنایا"
+    },
+    {
+      "id": 8,
+      "arabic": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+      "transliteration": "Fee ayyi sooratin ma shaa rakkabaka",
+      "translation_en": "In whatever form He willed has He assembled you",
+      "translation_bn": "যিনি তোমাকে তাঁর ইচ্ছামত আকৃতিতে গঠন করেছেন।",
+      "translation_ur": "اور جس صورت میں چاہا تجھ کو جوڑ کر تیار کیا؟"
+    },
+    {
+      "id": 9,
+      "arabic": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+      "transliteration": "Kalla bal tukaththiboona bialddeeni",
+      "translation_en": "No! But you deny the Recompense",
+      "translation_bn": "কখনও বিভ্রান্ত হয়ো না; বরং তোমরা দান-প্রতিদানকে মিথ্যা মনে কর।",
+      "translation_ur": "ہرگز نہیں، بلکہ (اصل بات یہ ہے کہ) تم لوگ جزا و سزا کو جھٹلاتے ہو"
+    },
+    {
+      "id": 10,
+      "arabic": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+      "transliteration": "Wainna AAalaykum lahafitheena",
+      "translation_en": "And indeed, [appointed] over you are keepers",
+      "translation_bn": "অবশ্যই তোমাদের উপর তত্ত্বাবধায়ক নিযুক্ত আছে।",
+      "translation_ur": "حالانکہ تم پر نگراں مقرر ہیں"
+    },
+    {
+      "id": 11,
+      "arabic": "كِرَامٗا كَٰتِبِينَ",
+      "transliteration": "Kiraman katibeena",
+      "translation_en": "Noble and recording",
+      "translation_bn": "সম্মানিত আমল লেখকবৃন্দ।",
+      "translation_ur": "ایسے معزز کاتب"
+    },
+    {
+      "id": 12,
+      "arabic": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+      "transliteration": "YaAAlamoona ma tafAAaloona",
+      "translation_en": "They know whatever you do",
+      "translation_bn": "তারা জানে যা তোমরা কর।",
+      "translation_ur": "جو تمہارے ہر فعل کو جانتے ہیں"
+    },
+    {
+      "id": 13,
+      "arabic": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+      "transliteration": "Inna alabrara lafee naAAeemin",
+      "translation_en": "Indeed, the righteous will be in pleasure",
+      "translation_bn": "সৎকর্মশীলগণ থাকবে জান্নাতে।",
+      "translation_ur": "یقیناً نیک لوگ مزے میں ہوں گے"
+    },
+    {
+      "id": 14,
+      "arabic": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+      "transliteration": "Wainna alfujjara lafee jaheemin",
+      "translation_en": "And indeed, the wicked will be in Hellfire",
+      "translation_bn": "এবং দুষ্কর্মীরা থাকবে জাহান্নামে",
+      "translation_ur": "اور بے شک بدکار لوگ جہنم میں جائیں گے"
+    },
+    {
+      "id": 15,
+      "arabic": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+      "transliteration": "Yaslawnaha yawma alddeeni",
+      "translation_en": "They will [enter to] burn therein on the Day of Recompense",
+      "translation_bn": "তারা বিচার দিবসে তথায় প্রবেশ করবে।",
+      "translation_ur": "جزا کے دن وہ اس میں داخل ہوں گے"
+    },
+    {
+      "id": 16,
+      "arabic": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+      "transliteration": "Wama hum AAanha bighaibeena",
+      "translation_en": "And never therefrom will they be absent",
+      "translation_bn": "তারা সেখান থেকে পৃথক হবে না।",
+      "translation_ur": "اور اُس سے ہرگز غائب نہ ہو سکیں گے"
+    },
+    {
+      "id": 17,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+      "transliteration": "Wama adraka ma yawmu alddeeni",
+      "translation_en": "And what can make you know what is the Day of Recompense",
+      "translation_bn": "আপনি জানেন, বিচার দিবস কি",
+      "translation_ur": "اور تم کیا جانتے ہو کہ وہ جزا کا دن کیا ہے؟"
+    },
+    {
+      "id": 18,
+      "arabic": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+      "transliteration": "Thumma ma adraka ma yawmu alddeeni",
+      "translation_en": "Then, what can make you know what is the Day of Recompense",
+      "translation_bn": "অতঃপর আপনি জানেন, বিচার দিবস কি",
+      "translation_ur": "ہاں، تمہیں کیا خبر کہ وہ جزا کا دن کیا ہے؟"
+    },
+    {
+      "id": 19,
+      "arabic": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+      "transliteration": "Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi",
+      "translation_en": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah",
+      "translation_bn": "যেদিন কেউ কারও কোন উপকার করতে পারবে না এবং সেদিন সব কতৃꦣ2468;্ব হবে আল্লাহর।",
+      "translation_ur": "یہ وہ دن ہے جب کسی شخص کے لیے کچھ کرنا کسی کے بس میں نہ ہوگا، فیصلہ اُس دن بالکل اللہ کے اختیار میں ہوگا"
+    }
+  ]
+}

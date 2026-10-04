@@ -1,0 +1,370 @@
+{
+  "code": 200,
+  "status": "success",
+  "range": "ramadan",
+  "ramadan_year": 1448,
+  "data": {
+    "fasting": [
+      {
+        "date": "2027-02-08",
+        "day": "Monday",
+        "hijri": "1448-09-01",
+        "hijri_readable": "1 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:34",
+          "iftar": "17:02",
+          "duration": "11 hours 28 minutes"
+        }
+      },
+      {
+        "date": "2027-02-09",
+        "day": "Tuesday",
+        "hijri": "1448-09-02",
+        "hijri_readable": "2 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:33",
+          "iftar": "17:04",
+          "duration": "11 hours 31 minutes"
+        }
+      },
+      {
+        "date": "2027-02-10",
+        "day": "Wednesday",
+        "hijri": "1448-09-03",
+        "hijri_readable": "3 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:31",
+          "iftar": "17:06",
+          "duration": "11 hours 35 minutes"
+        }
+      },
+      {
+        "date": "2027-02-11",
+        "day": "Thursday",
+        "hijri": "1448-09-04",
+        "hijri_readable": "4 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:29",
+          "iftar": "17:08",
+          "duration": "11 hours 39 minutes"
+        }
+      },
+      {
+        "date": "2027-02-12",
+        "day": "Friday",
+        "hijri": "1448-09-05",
+        "hijri_readable": "5 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:28",
+          "iftar": "17:10",
+          "duration": "11 hours 42 minutes"
+        }
+      },
+      {
+        "date": "2027-02-13",
+        "day": "Saturday",
+        "hijri": "1448-09-06",
+        "hijri_readable": "6 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:26",
+          "iftar": "17:11",
+          "duration": "11 hours 45 minutes"
+        }
+      },
+      {
+        "date": "2027-02-14",
+        "day": "Sunday",
+        "hijri": "1448-09-07",
+        "hijri_readable": "7 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:25",
+          "iftar": "17:13",
+          "duration": "11 hours 48 minutes"
+        }
+      },
+      {
+        "date": "2027-02-15",
+        "day": "Monday",
+        "hijri": "1448-09-08",
+        "hijri_readable": "8 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:23",
+          "iftar": "17:15",
+          "duration": "11 hours 52 minutes"
+        }
+      },
+      {
+        "date": "2027-02-16",
+        "day": "Tuesday",
+        "hijri": "1448-09-09",
+        "hijri_readable": "9 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:21",
+          "iftar": "17:17",
+          "duration": "11 hours 56 minutes"
+        }
+      },
+      {
+        "date": "2027-02-17",
+        "day": "Wednesday",
+        "hijri": "1448-09-10",
+        "hijri_readable": "10 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:19",
+          "iftar": "17:19",
+          "duration": "12 hours 0 minutes"
+        }
+      },
+      {
+        "date": "2027-02-18",
+        "day": "Thursday",
+        "hijri": "1448-09-11",
+        "hijri_readable": "11 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:17",
+          "iftar": "17:21",
+          "duration": "12 hours 4 minutes"
+        }
+      },
+      {
+        "date": "2027-02-19",
+        "day": "Friday",
+        "hijri": "1448-09-12",
+        "hijri_readable": "12 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:16",
+          "iftar": "17:22",
+          "duration": "12 hours 6 minutes"
+        }
+      },
+      {
+        "date": "2027-02-20",
+        "day": "Saturday",
+        "hijri": "1448-09-13",
+        "hijri_readable": "13 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:14",
+          "iftar": "17:24",
+          "duration": "12 hours 10 minutes"
+        }
+      },
+      {
+        "date": "2027-02-21",
+        "day": "Sunday",
+        "hijri": "1448-09-14",
+        "hijri_readable": "14 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:12",
+          "iftar": "17:26",
+          "duration": "12 hours 14 minutes"
+        }
+      },
+      {
+        "date": "2027-02-22",
+        "day": "Monday",
+        "hijri": "1448-09-15",
+        "hijri_readable": "15 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:10",
+          "iftar": "17:28",
+          "duration": "12 hours 18 minutes"
+        }
+      },
+      {
+        "date": "2027-02-23",
+        "day": "Tuesday",
+        "hijri": "1448-09-16",
+        "hijri_readable": "16 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:08",
+          "iftar": "17:30",
+          "duration": "12 hours 22 minutes"
+        }
+      },
+      {
+        "date": "2027-02-24",
+        "day": "Wednesday",
+        "hijri": "1448-09-17",
+        "hijri_readable": "17 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:06",
+          "iftar": "17:31",
+          "duration": "12 hours 25 minutes"
+        }
+      },
+      {
+        "date": "2027-02-25",
+        "day": "Thursday",
+        "hijri": "1448-09-18",
+        "hijri_readable": "18 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:04",
+          "iftar": "17:33",
+          "duration": "12 hours 29 minutes"
+        }
+      },
+      {
+        "date": "2027-02-26",
+        "day": "Friday",
+        "hijri": "1448-09-19",
+        "hijri_readable": "19 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:02",
+          "iftar": "17:35",
+          "duration": "12 hours 33 minutes"
+        }
+      },
+      {
+        "date": "2027-02-27",
+        "day": "Saturday",
+        "hijri": "1448-09-20",
+        "hijri_readable": "20 Ramadan 1448 AH",
+        "time": {
+          "sahur": "05:00",
+          "iftar": "17:37",
+          "duration": "12 hours 37 minutes"
+        }
+      },
+      {
+        "date": "2027-02-28",
+        "day": "Sunday",
+        "hijri": "1448-09-21",
+        "hijri_readable": "21 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:58",
+          "iftar": "17:39",
+          "duration": "12 hours 41 minutes"
+        }
+      },
+      {
+        "date": "2027-03-01",
+        "day": "Monday",
+        "hijri": "1448-09-22",
+        "hijri_readable": "22 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:55",
+          "iftar": "17:40",
+          "duration": "12 hours 45 minutes"
+        }
+      },
+      {
+        "date": "2027-03-02",
+        "day": "Tuesday",
+        "hijri": "1448-09-23",
+        "hijri_readable": "23 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:53",
+          "iftar": "17:42",
+          "duration": "12 hours 49 minutes"
+        }
+      },
+      {
+        "date": "2027-03-03",
+        "day": "Wednesday",
+        "hijri": "1448-09-24",
+        "hijri_readable": "24 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:51",
+          "iftar": "17:44",
+          "duration": "12 hours 53 minutes"
+        }
+      },
+      {
+        "date": "2027-03-04",
+        "day": "Thursday",
+        "hijri": "1448-09-25",
+        "hijri_readable": "25 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:49",
+          "iftar": "17:46",
+          "duration": "12 hours 57 minutes"
+        }
+      },
+      {
+        "date": "2027-03-05",
+        "day": "Friday",
+        "hijri": "1448-09-26",
+        "hijri_readable": "26 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:47",
+          "iftar": "17:47",
+          "duration": "13 hours 0 minutes"
+        }
+      },
+      {
+        "date": "2027-03-06",
+        "day": "Saturday",
+        "hijri": "1448-09-27",
+        "hijri_readable": "27 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:44",
+          "iftar": "17:49",
+          "duration": "13 hours 5 minutes"
+        }
+      },
+      {
+        "date": "2027-03-07",
+        "day": "Sunday",
+        "hijri": "1448-09-28",
+        "hijri_readable": "28 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:42",
+          "iftar": "17:51",
+          "duration": "13 hours 9 minutes"
+        }
+      },
+      {
+        "date": "2027-03-08",
+        "day": "Monday",
+        "hijri": "1448-09-29",
+        "hijri_readable": "29 Ramadan 1448 AH",
+        "time": {
+          "sahur": "04:40",
+          "iftar": "17:53",
+          "duration": "13 hours 13 minutes"
+        }
+      },
+      {
+        "date": "2027-03-09",
+        "day": "Tuesday",
+        "hijri": "1448-10-01",
+        "hijri_readable": "1 Shawwal 1448 AH",
+        "time": {
+          "sahur": "04:38",
+          "iftar": "17:54",
+          "duration": "13 hours 16 minutes"
+        }
+      }
+    ],
+    "white_days": {
+      "status": "will_observe",
+      "days": {
+        "13th": "2027-02-20",
+        "14th": "2027-02-21",
+        "15th": "2027-02-22"
+      }
+    }
+  },
+  "resource": {
+    "dua": {
+      "title": "Today's Dua",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ",
+      "translation": "O Allah, I seek refuge in You from the evil of what I have done and from the evil of what I have not done.",
+      "transliteration": "Allahumma inni a'udhu bika min sharri ma 'amiltu wa min sharri ma lam a'mal.",
+      "reference": "Sahih Muslim 2716"
+    },
+    "hadith": {
+      "arabic": "مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+      "english": "Whoever stands in prayer during Ramadan due to faith and seeking reward, his previous sins will be forgiven.",
+      "source": "Ṣaḥīḥ al-Bukhārī 2009",
+      "grade": "Muttafaqun Alayhi"
+    }
+  },
+  "city_info": {
+    "name": "London",
+    "country": "United Kingdom",
+    "slug": "london",
+    "lat": 51.5074,
+    "lon": -0.1278
+  }
+}

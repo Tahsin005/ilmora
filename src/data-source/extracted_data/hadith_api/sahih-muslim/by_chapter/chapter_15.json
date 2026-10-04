@@ -1,0 +1,359 @@
+{
+  "book": "sahih-muslim",
+  "chapterNumber": 15,
+  "total_hadiths": 11,
+  "hadiths": [
+    {
+      "id": 10344,
+      "hadithNumber": "2780",
+      "englishNarrator": "Ibn 'Umar (رضی اللہ تعالیٰ عنہ) reported:",
+      "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf in the last ten days of Ramadan.",
+      "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم رمضان المبارک کے آخری عشرے میں اعتکاف فرمایا کرتے تھے ۔",
+      "urduNarrator": "ہم سے محمد بن مہران الرازی نے بیان کیا، کہا ہم سے حاتم بن اسماعیل نے بیان کیا, موسیٰ بن عقبہ نے نافع سے اور انھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+      "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الرَّازِيُّ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا: «أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَعْتَكِفُ فِي الْعَشْرِ الْأَوَاخِرِ مِنْ رَمَضَانَ».",
+      "headingArabic": "اعْتِكَافِ الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ ‏",
+      "headingUrdu": "رمضان کے آخری عشرہ میں اعتکاف",
+      "headingEnglish": "I'tikaf during the last ten days of Ramadan",
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10345,
+      "hadithNumber": "2781",
+      "englishNarrator": "Abdullah bin Umar (رضی اللہ تعالیٰ عنہ) reported:",
+      "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf in the last ten days of Ramadan. Nafi' said: Abdullah (رضی اللہ تعالیٰ عنہ) showed me the place in the mosque where the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf.",
+      "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم رمضان کے آخری عشرے میں اعتکاف فرماتے تھے ۔ نافع نے کہا : عبداللہ رضی اللہ تعالیٰ عنہ نے مجھے مسجد میں وہ جگہ بھی دیکھائی جہاں رسول اللہ صلی اللہ علیہ وسلم ا عتکاف کیا کرتے تھے ۔",
+      "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہوں نے کہا یونس بن یزید نے مجھے خبر دی کہ نافع نے انھیں حضرت عبداللہ بن عمر رضی اللہ تعالیٰ عنہ کے واسطے سے حدیث بیان کی کہ",
+      "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، أَنَّ نَافِعًا، حَدَّثَهُ عَنْ عَبْدِ اللهِ بْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا: «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ» قَالَ نَافِعٌ: وَقَدْ أَرَانِي عَبْدُ اللهِ رَضِيَ اللهُ عَنْهُ: «الْمَكَانَ الَّذِي كَانَ يَعْتَكِفُ فِيهِ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنَ الْمَسْجِدِ».",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10346,
+      "hadithNumber": "2782",
+      "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+      "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf in the last ten days of Ramadan.",
+      "hadithUrdu": "انھوں نے فرمایا : اللہ کےرسول صلی اللہ علیہ وسلم رمضان کے آخری عشرے میں اعتکاف کیا کرتے تھے ۔",
+      "urduNarrator": "ہم سے سہل بن عثمان نے بیان کیا، کہا ہم سے عقبہ بن خالد السکونی نے بیان کیا، ان سے عبید اللہ بن عمر رضی اللہ عنہما سے۔عبدالرحمن بن قاسم نے اپنے والد سے ، انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی",
+      "hadithArabic": "وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ، حَدَّثَنَا عُقْبَةُ بْنُ خَالِدٍ السَّكُونِيُّ، عَنْ عُبَيْدِ اللهِ بْنِ عُمَرَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ».",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10347,
+      "hadithNumber": "2783",
+      "englishNarrator": "It was narrated that 'A'isha (رضی اللہ تعالیٰ عنہا) said:",
+      "hadithEnglish": "The Messenger of Allah ﷺ used to observe I'tikaf during the last ten days.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم رمضان المبارک کے آخری عشرے میں اعتکاف کیا کرتے تھے ۔",
+      "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے ابو معاویہ نے بیان کیا، کہا ہم سے سہل بن عثمان نے بیان کیا، کہا ہم سے حفص بن غیث نے بیان کیا، ہشام بن عروہ نے اپنے والد ( عروہ ) سے ، انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی ، فرمایا",
+      "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، ح وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ، أَخْبَرَنَا حَفْصُ بْنُ غِيَاثٍ، جَمِيعًا عَنْ هِشَامٍ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لَهُمَا - قَالَا: حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ».",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10348,
+      "hadithNumber": "2784",
+      "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) used to observe i'tikif in the last ten days of Ramadan till Allah called him back (to his heavenly home). Then his wives observed i'tikaf after him.",
+      "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم رمضان کےآخری دس دنوں میں اعتکاف فرمایا کرتے تھے ، یہاں تک کہ اللہ تعالیٰ نے آپ کو وفات دی ، پھر آپ صلی اللہ علیہ وسلم کی ازواج مطہرات آپ صلی اللہ علیہ وسلم کے بعد ( آخری عشرے میں ) اعتکاف کرتی رہیں ۔",
+      "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے لیث نے بیان کیا، عقیل رضی اللہ عنہ سے, زہری نے عروہ کے واسطے سے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی کہ",
+      "hadithArabic": "وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «كَانَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ، حَتَّى تَوَفَّاهُ اللهُ عَزَّ وَجَلَّ، ثُمَّ اعْتَكَفَ أَزْوَاجُهُ مِنْ بَعْدِهِ».",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10349,
+      "hadithNumber": "2785",
+      "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+      "hadithEnglish": "When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) decided to observe i'tikaf, he prayed in the morning and then went to the place of his i'tikaf, and he commanded that a tent should be pitched for him, and it was pitched. He (once) decided to observe i'tikaf in the last ten days of Ramadan. Zainab ( رضی اللہ عنہا) commanded that a tent should be pitched for her. It was pitched accordingly. And some other wives of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commanded that tents should be pitched for them too. And they were pitched. When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) offered the morning prayer, he looked and found (so many) tents. Thereupon he said: What is this virtue that these (ladies) have decided to acquire? He commanded his tent to be struck and abandoned i'tikaf in the month of Ramadan and postponed it to the first ten days of Shawwal.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم جب اعتکاف کا ارادہ کرتے تو صبح کی نماز پڑھ کر اعتکاف کی جگہ میں داخل ہو جاتے ۔ اور ایک بار آپ صلی اللہ علیہ وسلم نے ( مسجد میں ) اپنا خیمہ لگانے کا حکم فرمایا ۔ وہ لگا دیا گیا اور آپ صلی اللہ علیہ وسلم نے رمضان کے عشرہ اخیر میں اعتکاف کا ارادہ کیا تھا تو ام المؤمنین زینب رضی اللہ عنہا نے اپنے لئے خیمہ لگانے کا کہا تو ان کے لئے بھی خیمہ لگا دیا گیا ۔ پھر دوسری امہات المؤمنین نے کہا تو ان کے خیمے بھی لگا دئیے گئے ۔ پھر جب رسول اللہ صلی اللہ علیہ وسلم فجر کی نماز پڑھ چکے تو سب خیموں کو دیکھا اور فرمایا کہ ان لوگوں نے کیا نیکی کا ارادہ کیا ہے؟ ( اس میں بوئے ریا پائی جاتی ہے ) چنانچہ آپ صلی اللہ علیہ وسلم نے اپنا خیمہ کھولنے کا حکم دیا تو اسے کھول دیا گیا اور آپ نے رمضان میں اعتکاف ترک کر دیا یہاں تک کہ پھر شوال کے پہلے عشرہ میں اعتکاف کیا ۔",
+      "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے بیان کیا ابو معاویہ نے ہمیں یحییٰ بن سعید سے خبر دی ، انھوں نے عمرہ سے ، انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سےروایت کی ، انھوں نے کہا : ام المؤمنین عائشہ صدیقہ رضی اللہ عنہا کہتی ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، إِذَا أَرَادَ أَنْ يَعْتَكِفَ صَلَّى الْفَجْرَ، ثُمَّ دَخَلَ مُعْتَكَفَهُ وَإِنَّهُ أَمَرَ بِخِبَائِهِ فَضُرِبَ، أَرَادَ الِاعْتِكَافَ فِي الْعَشْرِ الْأَوَاخِرِ مِنْ رَمَضَانَ، فَأَمَرَتْ زَيْنَبُ بِخِبَائِهَا فَضُرِبَ، وَأَمَرَ غَيْرُهَا مِنْ أَزْوَاجِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِخِبَائِهِ فَضُرِبَ، فَلَمَّا صَلَّى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الْفَجْرَ، نَظَرَ، فَإِذَا الْأَخْبِيَةُ فَقَالَ: «آلْبِرَّ تُرِدْنَ؟» فَأَمَرَ بِخِبَائِهِ فَقُوِّضَ، وَتَرَكَ الِاعْتِكَافَ فِي شَهْرِ رَمَضَانَ، حَتَّى اعْتَكَفَ فِي الْعَشْرِ الْأَوَّلِ مِنْ شَوَّالٍ.",
+      "headingArabic": "مَتَى يَدْخُلُ مَنْ أَرَادَ الاِعْتِكَافَ فِي مُعْتَكَفِهِ ‏",
+      "headingUrdu": "اعتکاف کرنے والا اپنے اعتکاف کی جگہ کب داخل ہو؟",
+      "headingEnglish": "When should the one who wants to observe I'tikaf enter his place of I'tikaf?",
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10350,
+      "hadithNumber": "2786",
+      "englishNarrator": "A hadith similar to that of Abu Muawiyah (no.2785) was narrated from 'Aishah رضی اللہ  عنہا from the prophet ﷺ. In the Hadith of Ibn Uyaynah, Amr bin Al-Harith and Ibn Ishaq, it mention:",
+      "hadithEnglish": "'A'isha رضی اللہ عنہا , Hafsa رضی اللہ عنہا and Zainab ( رضی اللہ عنہا) setting up of tents for i'tikaf.",
+      "hadithUrdu": "حضرت عائشہ رضی اللہ عنہا ، حضرت حفصہ رضی اللہ عنہا اور حضرت زینب رضی اللہ عنہا کا ذکر ہے کہ انھوں نے اعتکاف کے لیے خیمے لگائے تھے ۔",
+      "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا, سفیان بن عینیہ ، عمرو بن حارث ، سفیان ثوری ، اوزاعی ، اور محمد بن اسحاق سب نے یحییٰ بن سعید سے ، انھوں نے عمرہ سے ، انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے ابو معاویہ کی روایت کے ہم معنی روایت بیا ن کی ۔ ابن عینیہ نے عمرو بن حارث اورابن اسحاق کی روایت میں",
+      "hadithArabic": "وحَدَّثَنَاه ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، ح وحَدَّثَنِي عَمْرُو بْنُ سَوَّادٍ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا عَمْرُو بْنُ الْحَارِثِ، ح وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا سُفْيَانُ، ح وحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا الْأَوْزَاعِيُّ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، كُلُّ هَؤُلَاءِ عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، بِمَعْنَى حَدِيثِ أَبِي مُعَاوِيَةَ. وَفِي حَدِيثِ ابْنِ عُيَيْنَةَ، وَعَمْرِو بْنِ الْحَارِثِ، وَابْنِ إِسْحَاقَ، ذِكْرُ عَائِشَةَ، وَحَفْصَةَ، وَزَيْنَبَ رَضِيَ اللهُ عَنْهُنَّ، أَنَّهُنَّ ضَرَبْنَ الْأَخْبِيَةَ لِلِاعْتِكَافِ.",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10351,
+      "hadithNumber": "2787",
+      "englishNarrator": "A'isha (رضی اللہ عنہا) reported:",
+      "hadithEnglish": "When the last ten nights began Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) kept awake at night (for prayer and devotion), wakened his family, and prepared himself to observe prayer (with more vigour).",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی عادت مبارکہ تھی کہ جب رمضان کا آخری عشرہ آتا تو آپ صلی اللہ علیہ وسلم رات بھر جاگتے اور گھر والوں کو بھی جگاتے ، ( عبادت میں ) نہایت کوشش کرتے اور کمر ، ہمت باندھ لیتے تھے ۔",
+      "urduNarrator": "ہم سے اسحاق بن ابراہیم الحنظَلی اور ابن ابی عمر نے بیان کیا، ابن عیینہ کی سند سے، انہوں نے کہا: ہم سے سفیان بن عیینہ نے ابو یعفور کی سند سے، مسلم بن صبیح کی سند سے, مسروق نے حضرت عائشہ سے روایت کی کہ ام المؤمنین عائشہ صدیقہ رضی اللہ عنہا کہتی ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، قَالَ إِسْحَاقُ: أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي يَعْفُورٍ، عَنْ مُسْلِمِ بْنِ صُبَيْحٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، «إِذَا دَخَلَ الْعَشْرُ، أَحْيَا اللَّيْلَ، وَأَيْقَظَ أَهْلَهُ، وَجَدَّ وَشَدَّ الْمِئْزَرَ».",
+      "headingArabic": "الاِجْتِهَادِ فِي الْعَشْرِ الأَوَاخِرِ مِنْ شَهْرِ رَمَضَانَ ‏",
+      "headingUrdu": "رمضان کے آخری عشرہ میں عبادت میں زیادہ محنت کرنا",
+      "headingEnglish": "Striving harder in worship during the last ten days of Ramadan",
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10352,
+      "hadithNumber": "2788",
+      "englishNarrator": "A'isha (Allah be pleased with her) reported:",
+      "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to exert himself in devotion during the last ten nights to a greater extent than at any other time.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ( رمضان کے ) آخری دس دن ( عبادت ) میں اس قدر محنت کرتے ( اور عام دنوں میں بھی آپ صلی اللہ علیہ وسلم بہت زیادہ محنت کرتے تھے ۔ )",
+      "urduNarrator": "ہم سے قتیبہ بن سعید اور ابو کامل الجہدری نے بیان کیا، ان دونوں نے عبد الواحد بن زیاد کی سند سے کہا: ہم سے عبد الواحد نے بیان کیا, حسن بن عبیداللہ سے روایت ہے ، کہا : میں نے ابراہیم نخعی سےسنا ، کہہ رہے تھے : میں نے اسود بن یزید سے سنا ، وہ کہہ رہے تھے حضرت عائشہ رضی اللہ تعالیٰ عنہا نے فرمایا",
+      "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَأَبُو كَامِلٍ الْجَحْدَرِيُّ، كِلَاهُمَا عَنْ عَبْدِ الْوَاحِدِ بْنِ زِيَادٍ، قَالَ قُتَيْبَةُ: حَدَّثَنَا عَبْدُ الْوَاحِدِ، عَنِ الْحَسَنِ بْنِ عُبَيْدِ اللهِ، قَالَ: سَمِعْتُ إِبْرَاهِيمَ، يَقُولُ: سَمِعْتُ الْأَسْوَدَ بْنَ يَزِيدَ، يَقُولُ: قَالَتْ عَائِشَةُ رَضِيَ اللهُ عَنْهَا: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَجْتَهِدُ فِي الْعَشْرِ الْأَوَاخِرِ، مَا لَا يَجْتَهِدُ فِي غَيْرِهِ».",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10353,
+      "hadithNumber": "2789",
+      "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+      "hadithEnglish": "I never saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) fasting in the ten days of Dhu'I-Hijja.",
+      "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو ذی الحجہ کے دس دنوں میں روزے سے نہیں دیکھا ۔",
+      "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، ابو کریب اور اسحاق نے بیان کیا - اسحاق نے کہا: ہم سے انہوں نے بیان کیا اور باقی دو نے کہا: ہم سے اس نے بیان کیا ابو معاویہ نے اعمش سے ، انھوں نےابراہیم سے ، انھوں نے اسود سے ، انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے ر وایت کی ، ام المؤمنین عائشہ صدیقہ رضی اللہ عنہا کہتی ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَإِسْحَاقُ - قَالَ إِسْحَاقُ: أَخْبَرَنَا، وَقَالَ الْآخَرَانِ: - حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الْأَسْوَدِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: «مَا رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَائِمًا فِي الْعَشْرِ قَطُّ».",
+      "headingArabic": "صَوْمِ عَشْرِ ذِي الْحِجَّةِ ‏",
+      "headingUrdu": "ذوالحجہ کے (پہلے) عشرہ کے روزے رکھنا",
+      "headingEnglish": "Fasting the (first) ten days of Dhul Hijjah",
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    },
+    {
+      "id": 10354,
+      "hadithNumber": "2790",
+      "englishNarrator": "A'isha (رضی اللہ تعالیٰ عنہا) reported:",
+      "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) did not observe fast in the ten days of Dhul-Hijja.",
+      "hadithUrdu": "اللہ کے رسول صلی اللہ علیہ وسلم نے کبھی ( ذوالحجہ کے ) دس دنوں میں روزے نہیں رکھے ۔",
+      "urduNarrator": "مجھ سے ابوبکر بن نافع العبدی نے بیان کیا، ہم سے عبدالرحمٰن نے بیان کیا، ہم سے انہوں نے بیان کیا سفیان نے اعمش سے باقی ماندہ سابقہ سند کے ساتھ حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی کہ",
+      "hadithArabic": "وحَدَّثَنِي أَبُو بَكْرِ بْنُ نَافِعٍ الْعَبْدِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الْأَسْوَدِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا: «أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَمْ يَصُمِ الْعَشْرَ».",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 15,
+      "bookSlug": "sahih-muslim",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 2,
+        "bookName": "Sahih Muslim",
+        "writerName": "Imam Muslim",
+        "aboutWriter": null,
+        "writerDeath": "261 ھ",
+        "bookSlug": "sahih-muslim"
+      },
+      "chapter": {
+        "id": 115,
+        "chapterNumber": 15,
+        "chapterEnglish": "The Book of I'tikaaf",
+        "chapterUrdu": "اعتکاف کے احکام و مسائل",
+        "chapterArabic": "كتاب الِاعْتِكَافِ",
+        "bookSlug": "sahih-muslim"
+      }
+    }
+  ]
+}

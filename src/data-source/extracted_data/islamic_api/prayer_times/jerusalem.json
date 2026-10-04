@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:14",
+      "Sunrise": "06:35",
+      "Dhuhr": "12:28",
+      "Asr": "15:50",
+      "Sunset": "18:20",
+      "Maghrib": "18:20",
+      "Isha": "19:37",
+      "Imsak": "05:04",
+      "Midnight": "00:28",
+      "Firstthird": "22:25",
+      "Lastthird": "02:30"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 157.3,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 1238.13,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "06:35",
+        "end": "06:50"
+      },
+      "noon": {
+        "start": "12:18",
+        "end": "12:28"
+      },
+      "sunset": {
+        "start": "18:05",
+        "end": "18:20"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Jerusalem",
+      "utc_offset": "+03:00",
+      "abbreviation": "IDT"
+    }
+  },
+  "city_info": {
+    "name": "Jerusalem",
+    "country": "Palestine",
+    "slug": "jerusalem",
+    "lat": 31.7767,
+    "lon": 35.2345
+  }
+}

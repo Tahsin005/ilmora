@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "04:04",
+      "Sunrise": "05:29",
+      "Dhuhr": "11:44",
+      "Asr": "15:15",
+      "Sunset": "18:00",
+      "Maghrib": "18:00",
+      "Isha": "19:19",
+      "Imsak": "03:54",
+      "Midnight": "23:44",
+      "Firstthird": "21:49",
+      "Lastthird": "01:39"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": -1
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 277.5,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 13236.26,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "05:29",
+        "end": "05:44"
+      },
+      "noon": {
+        "start": "11:34",
+        "end": "11:44"
+      },
+      "sunset": {
+        "start": "17:45",
+        "end": "18:00"
+      }
+    },
+    "timezone": {
+      "name": "Australia/Sydney",
+      "utc_offset": "+11:00",
+      "abbreviation": "AEDT"
+    }
+  },
+  "city_info": {
+    "name": "Sydney",
+    "country": "Australia",
+    "slug": "sydney",
+    "lat": -33.8688,
+    "lon": 151.2093
+  }
+}

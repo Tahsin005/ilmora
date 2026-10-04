@@ -1,0 +1,542 @@
+{
+  "category": {
+    "name": "Condemnation/Praise",
+    "url": "condemnationpraise",
+    "icon": "condemnation_praise.svg",
+    "meta": "2 Subcategories"
+  },
+  "total_subcategories": 2,
+  "total_duas": 11,
+  "subcategories": [
+    {
+      "id": 83,
+      "title": "Duas to be recited in condemnation and praise",
+      "category": "condemnationpraise",
+      "dua-ids": [
+        450,
+        451,
+        452
+      ],
+      "duas": [
+        {
+          "dua_id": 450,
+          "title": "Prophet's Dua After Insulting Someone (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Narrated by Abu Huraira (RA), He heard the Prophet (ﷺ) say:",
+          "arabic": "اَللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ",
+          "audio": "/audio/dua/450.mp3",
+          "transliteration": "Allaahumma fa'ayyumaa mu'minin sababtuhu faj'al dhaalika lahu qurbatan 'ilayka yawmal-qiyaamah",
+          "translation": "O Allah, whomever of the believers I have abused, make it a means of gaining nearness to you on the Day of Resurrection.",
+          "reference": "Bukhari: 6361",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ اللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: that he heard the Prophet (ﷺ) saying, \"O Allah! If I should ever abuse a believer, please let that be a means of bringing him near to You on the Day of Resurrection.\" [Bukhari: 6361]"
+          },
+          "benefits": {
+            "title": "Benefits of Surah for Protection from Jinn",
+            "description": "This surah rahman reminds Muslims of Allah’s power and blessings, keeping jinn and evil away, and brings peace and safety to the heart with every recitation of fabi ayyi ala i rabbikuma tukazziban.",
+            "points": [
+              "Allah’s words in surah rahman keep jinn and evil far from a muslim’s life.",
+              "Surah for protection from jinn brings safety and peace in every home and heart.",
+              "Fabi ayyi ala i rabbikuma tukazziban reminds muslims of Allah’s big niyamat.",
+              "Dua for protection from evil helps a muslim trust Allah in every hard moment.",
+              "Surah rahman benefits include hifazat and barakah for those who recite with Iman."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Insulting Someone",
+            "description": "This dua after insulting someone is a way to ask Allah for forgiveness and Barakah, turning mistakes into Amal that brings you and others closer to Allah on Yaumul Qiyamah.",
+            "points": [
+              "After realizing you spoke harshly, use this dua for forgiveness and blessing.",
+              "When feeling regret for backbiting, quietly recite this prophetic dua for tauba.",
+              "After making istighfar, ask Allah with this masnun dua to bring nearness on Qiyamah.",
+              "Before sleeping, remember this dua for repentance if you hurt someone’s heart.",
+              "After any argument, make this dua to praise Allah and seek maghfirat for both."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Prophet's Dua After Insulting Someone",
+            "description": "This prophetic dua is a way to ask Allah for forgiveness if you ever hurt a believer with words. It teaches us to seek Allah’s mercy and hope for Barakah even after making mistakes, following the sunnah of the Prophet.",
+            "steps": [
+              "Begin by feeling sorry in your heart for any backbiting or harsh words you said.",
+              "After realizing your mistake, recite this dua for forgiveness using the words allahumma.",
+              "When making tauba ki dua, include this masnun dua to ask for blessing on yaumul qiyamah.",
+              "At the end of your salah, quietly say this prophetic dua as a muslim prayer for maghfirat.",
+              "If you remember your mistake during zikr allah, use this dua for repentance and istighfar."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 451,
+          "title": "Dua Etiquette of praising a fellow Muslim",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: \"Whoever amongst you has to praise his brother should say:",
+          "arabic": "أَحْسِبُ فُلَانًا وَاللَّهُ حَسِيبُهُ وَلَا أُزَكِّي عَلَى اللَّهِ أَحَدًا أَحْسِبُهُ كَذَا وَكَذَا",
+          "audio": "/audio/dua/451.mp3",
+          "transliteration": "Ahsibu fulaanan wAllaahu haseebuhu wa laa 'uzakkee 'alAllaahi 'ahadan ahsibuhu kadha wa kadha",
+          "translation": "I think that he is so and so, and Allah knows exactly the truth, and I do not confirm anybody's good conduct before Allah, but I think him so and so.\n\nIt is to be said when you must ensure you have knowledge that the certain characteristic is present in that person.",
+          "reference": "Bukhari: 2662",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَامٍ أَخْبَرَنَا عَبْدُ الْوَهَّابِ حَدَّثَنَا خَالِدٌ الْحَذَّاءُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ عَنْ أَبِيهِ قَالَ أَثْنَى رَجُلٌ عَلَى رَجُلٍ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ وَيْلَكَ قَطَعْتَ عُنُقَ صَاحِبِكَ قَطَعْتَ عُنُقَ صَاحِبِكَ مِرَارًا ثُمَّ قَالَ مَنْ كَانَ مِنْكُمْ مَادِحًا أَخَاهُ لَا مَحَالَةَ فَلْيَقُلْ أَحْسِبُ فُلَانًا وَاللَّهُ حَسِيبُهُ وَلَا أُزَكِّي عَلَى اللَّهِ أَحَدًا أَحْسِبُهُ كَذَا وَكَذَا إِنْ كَانَ يَعْلَمُ ذَلِكَ مِنْهُ",
+            "translation": "Narrated Abu Bakra: A man praised another man in front of the Prophet (ﷺ) . The Prophet (ﷺ) said to him, \"Woe to you, you have cut off your companion's neck, you have cut off your companion's neck,\" repeating it several times and then added, \"Whoever amongst you has to praise his brother should say, 'I think that he is so and so, and Allah knows exactly the truth, and I do not confirm anybody's good conduct before Allah, but I think him so and so,' if he really knows what he says about him.\" [Bukhari: 2662]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Strength and Relief with Allah’s Names",
+            "description": "This dua from surah hashr last 3 ayats brings strength and peace by praising Allah’s asmaul husna, helping Muslims find relief in hard times and keeping the heart full of hope and trust in every moment.",
+            "points": [
+              "Allah’s names in surah hashr give a muslim strength and peace of mind.",
+              "Dua for strength with asmaul husna helps in every hard and stressful time.",
+              "Praising Allah with 99 names brings barakah and keeps the heart soft and calm.",
+              "Last 3 verses of surah hashr make morning azkar and evening dua full of blessings.",
+              "Dua for difficult times with these ayats helps muslims trust Allah’s power always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Good Words For Praising Someone",
+            "description": "This good words for praising someone dua reminds us to show respect and Barakah, while knowing only Allah knows the real heart, keeping our Iman safe from pride and giving blessings to others.",
+            "points": [
+              "When praising a friend, use this dua for a friend to show Allah knows best.",
+              "After hearing good news about someone, recite this dua for blessing and Barakah.",
+              "During gatherings, remember this dua for blessings when speaking good words.",
+              "If you want to praise someone’s Amal, say this dua knowing Allah knows the truth.",
+              "When giving good words to praise someone, use this masnun dua to keep your Iman safe."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Good Words for Praising Someone",
+            "description": "When you want to say good words for praising someone, this dua teaches you to praise with care and remember that only Allah knows best. It helps you show love and respect while keeping your Iman safe from pride.",
+            "steps": [
+              "Start by thinking of the good in your friend and say Allah knows best before praising.",
+              "When you praise someone, use this dua for a friend to remind that Allah knows their heart.",
+              "After saying good words to praise someone, add praises to Allah for allahs love and blessing.",
+              "If you feel happy for someone’s Amal, quietly recite this masnun dua for blessings upon them.",
+              "While making dua for blessing, remember to say Allah knows and do not confirm anyone’s conduct."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 452,
+          "title": "Dua to praise Allah",
+          "category_tags": [],
+          "introduction": "One of Companions of The Prophet (ﷺ) had a characteristic that if he was praised, he would say:",
+          "arabic": "اَللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَاغْفِرْ لِي مَا لَا يَعْلَمُونَ، وَاجْعَلْنِي خَيْرًا مِمَّا يَظُّنُّونَ",
+          "audio": "/audio/dua/452.mp3",
+          "transliteration": "Allaahumma laa tu'aakhidhnee bimaa yaqooloon, waghfir lee maa laa ya'lamoon waj'alnee khayram-mimmaa yadhunnoon",
+          "translation": "O Allah, do not call me to account for what they say and forgive me for what they have no knowledge of and make me better than they imagine.",
+          "reference": "Sahih. Adabul Mufrad: 589",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "\"حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ‏:‏ أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ احْتَجَّتِ النَّارُ وَالْجَنَّةُ، فَقَالَتِ النَّارُ‏:‏ يَدْخُلُنِي الْمُتَكَبِّرُونَ وَالْمُتَجَبِّرُونَ‏.‏ وَقَالَتِ الْجَنَّةُ‏:‏ لاَ يَدْخُلُنِي إِلاَّ الضُّعَفَاءُ الْمَسَاكِينُ‏.‏ فَقَالَ لِلنَّارِ‏:‏ أَنْتِ عَذَابِي، أَنْتَقِمُ بِكِ مِمَّنْ شِئْتُ، وَقَالَ لِلْجَنَّةِ‏:‏ أَنْتِ رَحْمَتِي أَرْحَمُ بِكِ مَنْ شِئْتُ‏.‏",
+            "translation": "See hadith 554. [Sahih (Albani). Adabul Mufrad: 589]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Jinn",
+            "description": "This surah jinn keeps a Muslim safe from jinn and evil, showing Allah’s power to protect and guide, and brings peace to the heart for anyone who trusts in His words and stays away from shirk.",
+            "points": [
+              "Allah’s words in surah jinn keep jinn and evil far from a muslim’s home.",
+              "Dua for protection from jinn helps a muslim trust Allah in every scary moment.",
+              "Surah for protection from jinn shows that only Allah can give real safety always.",
+              "Jinn protection dua brings peace and keeps Iman strong in the heart every day.",
+              "Surah jinn benefits include hifazat and barakah for those who recite with yaqeen."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua To Praise Allah",
+            "description": "This dua to praise Allah is a gentle way to ask for forgiveness, Barakah, and to be seen better in the eyes of others, while keeping your heart soft and your Amal pure in every step of life.",
+            "points": [
+              "After hearing someone praise you, use the dua to praise Allah for His mercy.",
+              "When you feel proud or praised, remember Allah with this dua for forgiveness.",
+              "At the end of your daily Amal, recite this dua to praise Allah and seek His Ghaffar.",
+              "Before going to bed, ask Allah for forgiveness with this prayer for forgiveness.",
+              "While making istighfar, add this dua for repentance to your zikr Allah for Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua to Praise Allah",
+            "description": "This dua to praise Allah is a humble way to ask for forgiveness and hope for Allah’s mercy. It reminds us to seek Allah’s help, admit our mistakes, and wish to be better than what people think of us.",
+            "steps": [
+              "Begin by raising your hands and softly say praises to Allah with this dua for forgiveness.",
+              "When you hear someone praise you, quietly recite this dua to praise Allah for His ghaffar.",
+              "After making a mistake, use this prayer for forgiveness to ask Allah for His mercy and pardon.",
+              "At the end of your salah, include this istighfar meaning dua for repentance and Allah forgiveness.",
+              "If you feel shy about your faults, say astaghfirullah and ask Allah to make you better than before."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Duas to be recited for the welfare of others",
+      "category": "condemnationpraise",
+      "dua-ids": [
+        453,
+        454,
+        455,
+        456,
+        457,
+        460,
+        461,
+        898
+      ],
+      "duas": [
+        {
+          "dua_id": 453,
+          "title": "Dua for asking Forgiveness from Allah",
+          "category_tags": [],
+          "introduction": "Abdullah bin Sarjis (RA) said to the Messenger of Allah (ﷺ): \"O Messenger of Allah! -",
+          "arabic": "غَفَرَ اللَّهُ لَكَ",
+          "audio": "/audio/dua/453.mp3",
+          "transliteration": "Ghafar-Allahu lak",
+          "translation": "May Allah forgive you.\n\nIn response, The Messenger of Allah (ﷺ) said:",
+          "reference": "[1] Riyadus Salehin: 1843 [2] Muslim: 2346",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah Ikhlas",
+            "description": "This surah ikhlas teaches Muslims about Allah’s oneness and brings big rewards, making the heart strong in tawhid and giving protection and Barakah in every part of life for those who recite it with Iman.",
+            "points": [
+              "Surah ikhlas rewards a Muslim like reading one third of the whole Quran.",
+              "Qul huwallahu ahad keeps the heart strong in tawhid and away from shirk.",
+              "Surah for protection brings safety and peace to the home and family always.",
+              "Allahus samad in surah al ikhlas reminds Muslims that Allah is enough for all.",
+              "Reciting surah ikhlas brings Barakah and fazilat in daily amal and namaz."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Forgiveness Dua",
+            "description": "This forgiveness dua is a simple way to ask Allah for mercy and Barakah, bringing hope and peace to your heart and others, while keeping your Amal clean and your Iman strong every day.",
+            "points": [
+              "After someone makes a mistake, softly say the forgiveness dua for them.",
+              "When you hear sad news, use the forgiveness dua to ask Allah for blessing.",
+              "At the end of your namaz, add this forgiveness dua to your masura zikr.",
+              "While visiting a grave, quietly recite the forgiveness dua for the person.",
+              "During your daily duas, remember to use this forgiveness dua for all Muslims."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Forgiveness Dua",
+            "description": "This forgiveness dua is short and easy, asking Allah to forgive someone with kindness. It is a simple Islamic prayer that brings Barakah and can be said for anyone, anytime, to spread mercy and blessing.",
+            "steps": [
+              "When you see someone make a mistake, gently say this forgiveness dua for them.",
+              "After your salah, quietly recite ghafar-allahu lak as a dua for blessing and mercy.",
+              "If a friend feels sad, use this masura dua to comfort their heart and ask Allah’s pardon.",
+              "While making dua masura, remember to include this dua e masoora for all Muslims.",
+              "In your daily zikr Allah, softly say this masnun dua to ask Allah to forgive others."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 454,
+          "title": "Power of Saying Jazakallahu Khairan",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said: Whoever some good was done to him, and he says:",
+          "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+          "audio": "/audio/dua/454.mp3",
+          "transliteration": "JazaakAllahu khayran",
+          "translation": "May Allah reward you with good.\n\nThen he has done the most that he can of praise.",
+          "reference": "Sahih. Tirmidhi: 2035",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ، بِمَكَّةَ وَإِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ قَالاَ حَدَّثَنَا الأَحْوَصُ بْنُ جَوَّابٍ، عَنْ سُعَيْرِ بْنِ الْخِمْسِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ صُنِعَ إِلَيْهِ مَعْرُوفٌ فَقَالَ لِفَاعِلِهِ جَزَاكَ اللَّهُ خَيْرًا فَقَدْ أَبْلَغَ فِي الثَّنَاءِ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ جَيِّدٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ أُسَامَةَ بْنِ زَيْدٍ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَقَدْ رُوِيَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَسَأَلْتُ مُحَمَّدًا فَلَمْ يَعْرِفْهُ ‏.‏ حَدَّثَنِي عَبْدُ الرَّحِيمِ بْنُ حَازِمٍ الْبَلْخِيُّ قَالَ سَمِعْتُ الْمَكِّيَّ بْنَ إِبْرَاهِيمَ يَقُولُ كُنَّا عِنْدَ ابْنِ جُرَيْجٍ الْمَكِّيِّ فَجَاءَ سَائِلٌ فَسَأَلَهُ فَقَالَ ابْنُ جُرَيْجٍ لِخَازِنِهِ أَعْطِهِ دِينَارًا ‏.‏ فَقَالَ مَا عِنْدِي إِلاَّ دِينَارٌ إِنْ أَعْطَيْتُهُ لَجُعْتَ وَعِيَالَكَ ‏.‏ قَالَ فَغَضِبَ وَقَالَ أَعْطِهِ ‏.‏ قَالَ الْمَكِّيُّ فَنَحْنُ عِنْدَ ابْنِ جُرَيْجٍ إِذْ جَاءَهُ رَجُلٌ بِكِتَابٍ وَصُرَّةٍ وَقَدْ بَعَثَ إِلَيْهِ بَعْضُ إِخْوَانِهِ وَفِي الْكِتَابِ إِنِّي قَدْ بَعَثْتُ خَمْسِينَ دِينَارًا ‏.‏ قَالَ فَحَلَّ ابْنُ جُرَيْجٍ الصُّرَّةَ فَعَدَّهَا فَإِذَا هِيَ أَحَدٌ وَخَمْسُونَ دِينَارًا ‏.‏ قَالَ فَقَالَ ابْنُ جُرَيْجٍ لِخَازِنِهِ قَدْ أَعْطَيْتَ وَاحِدًا فَرَدَّهُ اللَّهُ عَلَيْكَ وَزَادَكَ خَمْسِينَ دِينَارًا ‏.‏",
+            "translation": "Usamah bin Zaid narrated that the Messenger of Allah (s.a.w) said: \"Whoever some good was done to him, and he says: 'May Allah reward you in goodness' then he has done the most that he can of praise.\" [Sahih (Albani). Tirmidhi: 2035]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Evil Eyes (Surah Al-Falaq)",
+            "description": "This dua for protection from evil eye, known as Surah Falaq, helps keep a Muslim safe from harm, envy, and all hidden dangers by seeking Allah’s help and mercy in every part of life.",
+            "points": [
+              "Allah gives strong hifazat to the one who uses this dua for protection from evil eye.",
+              "Surah falaq in English brings peace and keeps nazar away from family and home.",
+              "Sura falaq shields a Muslim from hasad and all kinds of hidden evil in daily life.",
+              "This Islamic prayer for protection helps keep Amal and Iman safe from harm.",
+              "Surah falaq transliteration makes it easy for kids to use this nazar ki dua every day."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Blessing",
+            "description": "This dua for blessing, Jazakallahu khairan, is a kind way to show thanks, spread Barakah, and build love in Islam, making hearts soft and Amal full of reward from Allah.",
+            "points": [
+              "When someone helps you, reply with jazakallahu khairan for their kindness.",
+              "After getting a gift, use the dua for blessing to thank your Muslim brother.",
+              "While leaving a gathering, say jazakallah to spread love for Allah among friends.",
+              "When your sister or brother does good, make dua for blessing for their Amal.",
+              "At the end of a favor, remember jazakallahu khairan to ask Allah for Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Power of Saying Jazakallahu Khairan",
+            "description": "Using the dua for blessing, Jazakallahu Khairan, is a beautiful way to show love in Islam and build brotherhood in Islam. This simple Islamic dua brings Barakah and makes hearts soft with kindness and care.",
+            "steps": [
+              "When someone helps you, say jazakallahu khairan with a smile to thank them in Islam.",
+              "After getting a gift or favor, use this dua for blessing to ask Allah to reward them.",
+              "If a brother or sister does good, reply to jazakallah with wa iyyakum to share love for Allah.",
+              "In gatherings or after namaz, say jazakallah khair to spread ukhuwah islamiyah among Muslims.",
+              "When you hear jazakallah, answer with afwan or jazakallah reply in Urdu to keep the love going."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 455,
+          "title": "Dua for protection from dajjal (Hadith)",
+          "category_tags": [],
+          "introduction": "Allah's Apostle (ﷺ) as saying: If anyone learns by heart the first ten verses of the Surah al-Kahf, he will be protected from the Dajjal.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 809",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 456,
+          "title": "Seek Refuge After Tashahhud Dua (Hadith)",
+          "category_tags": [],
+          "introduction": "Abu Hurairah (RA) reported that the Messenger of Allah (ﷺ) as saying: When one of you finishes the last tashahhud, he should seek refuge in Allah from four things: the punishment in Hell, the punishment in the grave, the trail of life and death, and the evil of Antichrist.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Dawud: 983",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 457,
+          "title": "Dua for Love for the Sake of Allah",
+          "category_tags": [],
+          "introduction": "If a Muslim brother want to tell him that he loves him, he should say:",
+          "arabic": "أُحِبُّكَ فِي اللَّهِ",
+          "audio": "/audio/dua/457.mp3",
+          "transliteration": "U'hibbuka fill-aah",
+          "translation": "I love you for the sake of Allah.\n\nHe will respond by saying:",
+          "reference": "Hasan (Albani). Abu Dawud: 5125",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Evil (Surah Nas)",
+            "description": "Surah Nas, a dua for protection from evil, helps Muslims keep their hearts safe from waswas and shaitan by asking Allah to guard their Iman and Amal every day and night.",
+            "points": [
+              "Allah keeps the heart clean from waswas when a Muslim uses surah nas in English.",
+              "Surah nas gives strong hifazat from shaitan and jinn for those who read this dua.",
+              "Sura nas helps a Muslim stay safe from evil thoughts and bad whispers in daily life.",
+              "This Islamic prayer for protection makes Amal and Salah strong against shaitan.",
+              "Surah nas transliteration helps kids and elders use this dua for protection from evil."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For The Love Of Allah",
+            "description": "This dua for the love of Allah brings hearts close, grows brotherhood in Islam, and fills your Amal with Barakah, making every bond strong for the sake of Allah’s love and mercy.",
+            "points": [
+              "When meeting a Muslim friend, say the dua for the love of Allah to show care.",
+              "After helping your brother or sister, use this dua for love in Islam for unity.",
+              "While making dua for a friend, add this dua for the love of Allah for Barakah.",
+              "When you feel love for someone in deen, say uhibbuka fillah to please Allah.",
+              "At the end of a good talk, remember this dua for the love of Allah for ukhuwah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua for Love for the Sake of Allah",
+            "description": "This dua for the love of Allah is a special way to show true Islamic love and build strong brotherhood in Islam. Saying uhibbuka fillah brings hearts closer and fills your life with Barakah and kindness.",
+            "steps": [
+              "When you feel love for a brother or sister, softly say uhibbuka fillah to them.",
+              "After helping someone, use this dua for love to remind them of love for Allah.",
+              "In gatherings, share this Islamic dua to spread love in Islam and make hearts gentle.",
+              "If you want to make dua for a brother or sister, say this Muslim prayer for Allah’s love.",
+              "When you feel close to someone for Allah, use this dua in Islam to keep your Iman strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 460,
+          "title": "Dua When Someone Says Barakallahu Feekum",
+          "category_tags": [],
+          "introduction": "Aaishah (RA) reported that the Messenger of Allah (ﷺ) was given a sheep and he ordered for its distribution. When the servant would come back [from distributing it], 'Aaishah (RA) asked, \"What did they say?\", he replied, \"They supplicated:",
+          "arabic": "بَارَكَ اللَّهُ فِيكُمْ",
+          "audio": "/audio/dua/460.mp3",
+          "transliteration": "BaarakAllahu feekum",
+          "translation": "May Allah bless you all.\n\nAaishah (RA) then said:",
+          "reference": "Ibn As-Sunni (Page 138 , Hadith no. 278). Also see, Ibnul Qaiyyum's Al Wabilus Sayyeb Page 304. Tahkeek, Bashir Muhammad Uyun",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Blessings",
+            "description": "This dua for blessings is a simple way to reply with Barakah and kindness when someone says barakallahu feekum, spreading good wishes and asking Allah to bless others in their Amal and Iman.",
+            "points": [
+              "When someone says barakallahu feekum, reply with wa iyyakum for blessings.",
+              "After hearing may Allah bless you, answer with barakallahu feek to share Barakah.",
+              "If a friend gives you barakallahu laka, respond with this dua for blessings and kindness.",
+              "During family talks, use barakallahu feekum to make dua for blessings on all.",
+              "When you want to return a good wish, say this dua for blessings for Allah’s mercy."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua When Someone Says Barakallahu Feekum",
+            "description": "This dua for blessings, barakallahu feekum, is a kind way to reply when someone wishes you Barakah. It brings more love and keeps the bond of brotherhood strong among Muslims.",
+            "steps": [
+              "When someone says barakallahu feekum, answer with wa iyyakum to return the blessing.",
+              "After hearing may Allah bless you, use this dua for blessings to make a heartfelt reply.",
+              "In gatherings, respond with barakallahu feek or wa iyyaki to spread kindness to all.",
+              "If you feel happy from their dua, say barakallah to show your thankfulness and love.",
+              "When you want to reply to barakallahu laka, use this Muslim prayer to keep the Barakah flowing."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 461,
+          "title": "Dua for Good Fortune & Tawakkul",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ وَلَا خَيْرَ إِلَّا خَيْرُكَ وَلَا إِلَهَ غَيْرُكَ",
+          "audio": "/audio/dua/461.mp3",
+          "transliteration": "Allaahumma laa tayra 'illaa tayruka, wa laa khayra 'illaa khayruka, wa laa 'ilaaha ghayruk",
+          "translation": "O Allah there is no portent other than Your portent, no goodness other than Your goodness, and none worthy of worship other than You.",
+          "reference": "Sahih (Albani). Silsila Sahiha: 1065, Musnad Ahmad: 7045",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Protection Dua from Stubborn Jinn (Surah Ambiya)",
+            "description": "This protection dua from Surah Anbiya helps Muslims trust Allah’s power, keeping them safe from stubborn jinn and enemies, and brings peace and safety in daily life with Allah’s help.",
+            "points": [
+              "Allah’s help from surah anbiya keeps a Muslim safe from stubborn jinn always.",
+              "This protection dua from Quran saves from harm and dushman se hifazat ki dua works.",
+              "Surah for protection from jinn gives strong shield against evil and enemy plans.",
+              "Ruqyah with this dua for jinn protection helps keep punishment in hell far away.",
+              "Using this Islamic dua brings Allah’s mercy and stops harm from enemies and hellfire in Islam."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Good Fortune",
+            "description": "This dua for good fortune helps you trust in Allah’s plan, asking for Barakah, protection from evil, and blessings in your Amal, while keeping your heart strong with tawakkul and Iman.",
+            "points": [
+              "Before starting a new day, recite the dua for good fortune for Barakah and tawakkul.",
+              "When feeling scared of bad luck, use this dua for good luck and protection from evil eye.",
+              "At the start of any big work, make this dua for blessings and trust in Allah’s help.",
+              "If you worry about the future, say this dua for good fortune to keep your Iman strong.",
+              "After salah, ask Allah for tawakkul ala Allah and blessing with this dua for good fortune."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua for Good Fortune & Tawakkul",
+            "description": "This dua for good fortune brings Barakah and helps you trust in Allah’s plan, making your heart calm and full of hope. Recite it with true tawakkul, asking for good luck, blessings, and protection from harm.",
+            "steps": [
+              "Start by making fresh wudu and sit in a clean place before saying this dua for good fortune.",
+              "After every fard salah, recite this dua for good luck and trust in Allah’s mercy.",
+              "When you feel worried about rizq, use this dua for blessings and tawakkul ala Allah.",
+              "If you fear evil eye, read this dua for protection from evil eye with full Iman.",
+              "Before going out for work or school, say this Muslim prayer to get Barakah and good luck."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 898,
+          "title": "Prophetic Dua when seeing someone smile",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَضْحَكَ اللَّهُ سِنَّكَ",
+          "audio": "",
+          "transliteration": "Adh’haka allahu sinnak",
+          "translation": "May Allah keep you happy always.",
+          "reference": "Bukhari: 3294",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَبْدُ الْحَمِيدِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ زَيْدٍ، أَنَّ مُحَمَّدَ بْنَ سَعْدِ بْنِ أَبِي وَقَّاصٍ، أَخْبَرَهُ أَنَّ أَبَاهُ سَعْدَ بْنَ أَبِي وَقَّاصٍ قَالَ اسْتَأْذَنَ عُمَرُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم، وَعِنْدَهُ نِسَاءٌ مِنْ قُرَيْشٍ يُكَلِّمْنَهُ وَيَسْتَكْثِرْنَهُ، عَالِيَةً أَصْوَاتُهُنَّ، فَلَمَّا اسْتَأْذَنَ عُمَرُ، قُمْنَ يَبْتَدِرْنَ الْحِجَابَ، فَأَذِنَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم، وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَضْحَكُ، فَقَالَ عُمَرُ أَضْحَكَ اللَّهُ سِنَّكَ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ عَجِبْتُ مِنْ هَؤُلاَءِ اللاَّتِي كُنَّ عِنْدِي، فَلَمَّا سَمِعْنَ صَوْتَكَ ابْتَدَرْنَ الْحِجَابَ ‏\"‏‏.‏ قَالَ عُمَرُ فَأَنْتَ يَا رَسُولَ اللَّهِ كُنْتَ أَحَقَّ أَنْ يَهَبْنَ‏.‏ ثُمَّ قَالَ أَىْ عَدُوَّاتِ أَنْفُسِهِنَّ، أَتَهَبْنَنِي وَلاَ تَهَبْنَ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْنَ نَعَمْ، أَنْتَ أَفَظُّ وَأَغْلَظُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَالَّذِي نَفْسِي بِيَدِهِ مَا لَقِيَكَ الشَّيْطَانُ قَطُّ سَالِكًا فَجًّا إِلاَّ سَلَكَ فَجًّا غَيْرَ فَجِّكَ ‏\"‏‏.‏",
+            "translation": "Narrated Sa`d bin Abi Waqqas: Once `Umar asked the leave to see Allah's Messenger (ﷺ) in whose company there were some Quraishi women who were talking to him and asking him for more financial support raising their voices. When `Umar asked permission to enter the women got up (quickly) hurrying to screen themselves. When Allah's Messenger (ﷺ) admitted `Umar, Allah's Messenger (ﷺ) was smiling, `Umar asked, \"O Allah's Messenger (ﷺ)! May Allah keep you in happiness always.\" Allah's Messenger (ﷺ) said, \"I am astonished at these women who were with me. As soon as they heard your voice, they hastened to screen themselves.\" `Umar said, \"O Allah's Apostle! You have more right to be feared by them.\" Then he addressed (those women) saying, \"O enemies of your own souls! Do you fear me and not Allah's Messenger (ﷺ) ?\" They replied. \"Yes, for you are a fearful and fierce man as compared with Allah's Messenger (ﷺ).\" On that Allah's Messenger (ﷺ) said (to `Umar), \"By Him in Whose Hands my life is, whenever Satan sees you taking a path, he follows a path other than yours.\" [Bukhari: 3294]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": 93,
+  "name": "الضحى",
+  "transliteration": "Ad-Duhaa",
+  "translation_en": "The Morning Hours",
+  "type": "meccan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَٱلضُّحَىٰ",
+      "transliteration": "Waaldduha",
+      "translation_en": "By the morning brightness",
+      "translation_bn": "শপথ পূর্বাহ্নের",
+      "translation_ur": "قسم ہے روز روشن کی"
+    },
+    {
+      "id": 2,
+      "arabic": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
+      "transliteration": "Waallayli itha saja",
+      "translation_en": "And [by] the night when it covers with darkness",
+      "translation_bn": "শপথ রাত্রির যখন তা গভীর হয়",
+      "translation_ur": "اور رات کی جبکہ وہ سکون کے ساتھ طاری ہو جائے"
+    },
+    {
+      "id": 3,
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "transliteration": "Ma waddaAAaka rabbuka wama qala",
+      "translation_en": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you]",
+      "translation_bn": "আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি বিরূপও হননি।",
+      "translation_ur": "(اے نبیؐ) تمہارے رب نے تم کو ہرگز نہیں چھوڑا اور نہ وہ ناراض ہوا"
+    },
+    {
+      "id": 4,
+      "arabic": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
+      "transliteration": "Walalakhiratu khayrun laka mina aloola",
+      "translation_en": "And the Hereafter is better for you than the first [life]",
+      "translation_bn": "আপনার জন্যে পরকাল ইহকাল অপেক্ষা শ্রেয়।",
+      "translation_ur": "اور یقیناً تمہارے لیے بعد کا دور پہلے دور سے بہتر ہے"
+    },
+    {
+      "id": 5,
+      "arabic": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ",
+      "transliteration": "Walasawfa yuAAteeka rabbuka fatarda",
+      "translation_en": "And your Lord is going to give you, and you will be satisfied",
+      "translation_bn": "আপনার পালনকর্তা সত্বরই আপনাকে দান করবেন, অতঃপর আপনি সন্তুষ্ট হবেন।",
+      "translation_ur": "اور عنقریب تمہارا رب تم کو اتنا دے گا کہ تم خوش ہو جاؤ گے"
+    },
+    {
+      "id": 6,
+      "arabic": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
+      "transliteration": "Alam yajidka yateeman faawa",
+      "translation_en": "Did He not find you an orphan and give [you] refuge",
+      "translation_bn": "তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+      "translation_ur": "کیا اس نے تم کو یتیم نہیں پایا اور پھر ٹھکانا فراہم کیا؟"
+    },
+    {
+      "id": 7,
+      "arabic": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
+      "transliteration": "Wawajadaka dallan fahada",
+      "translation_en": "And He found you lost and guided [you]",
+      "translation_bn": "তিনি আপনাকে পেয়েছেন পথহারা, অতঃপর পথপ্রদর্শন করেছেন।",
+      "translation_ur": "اور تمہیں ناواقف راہ پایا اور پھر ہدایت بخشی"
+    },
+    {
+      "id": 8,
+      "arabic": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
+      "transliteration": "Wawajadaka AAailan faaghna",
+      "translation_en": "And He found you poor and made [you] self-sufficient",
+      "translation_bn": "তিনি আপনাকে পেয়েছেন নিঃস্ব, অতঃপর অভাবমুক্ত করেছেন।",
+      "translation_ur": "اور تمہیں نادار پایا اور پھر مالدار کر دیا"
+    },
+    {
+      "id": 9,
+      "arabic": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
+      "transliteration": "Faamma alyateema fala taqhar",
+      "translation_en": "So as for the orphan, do not oppress [him]",
+      "translation_bn": "সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না",
+      "translation_ur": "لہٰذا یتیم پر سختی نہ کرو"
+    },
+    {
+      "id": 10,
+      "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ",
+      "transliteration": "Waamma alssaila fala tanhar",
+      "translation_en": "And as for the petitioner, do not repel [him]",
+      "translation_bn": "সওয়ালকারীকে ধমক দেবেন না।",
+      "translation_ur": "اور سائل کو نہ جھڑکو"
+    },
+    {
+      "id": 11,
+      "arabic": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+      "transliteration": "Waamma biniAAmati rabbika fahaddith",
+      "translation_en": "But as for the favor of your Lord, report [it]",
+      "translation_bn": "এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন।",
+      "translation_ur": "اور اپنے رب کی نعمت کا اظہار کرو"
+    }
+  ]
+}

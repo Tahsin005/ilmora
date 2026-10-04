@@ -1,0 +1,34 @@
+{
+  "id": 103,
+  "name": "العصر",
+  "transliteration": "Al-'Asr",
+  "translation_en": "The Declining Day",
+  "type": "meccan",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَٱلۡعَصۡرِ",
+      "transliteration": "WaalAAasri",
+      "translation_en": "By time",
+      "translation_bn": "কসম যুগের (সময়ের)",
+      "translation_ur": "زمانے کی قسم"
+    },
+    {
+      "id": 2,
+      "arabic": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "transliteration": "Inna alinsana lafee khusrin",
+      "translation_en": "Indeed, mankind is in loss",
+      "translation_bn": "নিশ্চয় মানুষ ক্ষতিগ্রস্ত",
+      "translation_ur": "انسان درحقیقت بڑے خسارے میں ہے"
+    },
+    {
+      "id": 3,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati watawasaw bialhaqqi watawasaw bialssabri",
+      "translation_en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience",
+      "translation_bn": "কিন্তু তারা নয়, যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে এবং পরস্পরকে তাকীদ করে সত্যের এবং তাকীদ করে সবরের।",
+      "translation_ur": "سوائے اُن لوگوں کے جو ایمان لائے، اور نیک اعمال کرتے رہے، اور ایک دوسرے کو حق کی نصیحت اور صبر کی تلقین کرتے رہے"
+    }
+  ]
+}

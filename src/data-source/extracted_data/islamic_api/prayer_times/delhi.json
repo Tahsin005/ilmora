@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "04:57",
+      "Sunrise": "06:16",
+      "Dhuhr": "12:10",
+      "Asr": "15:34",
+      "Sunset": "18:04",
+      "Maghrib": "18:04",
+      "Isha": "19:18",
+      "Imsak": "04:47",
+      "Midnight": "00:10",
+      "Firstthird": "22:08",
+      "Lastthird": "02:12"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": -1
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 266.6,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 3834.56,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "06:16",
+        "end": "06:31"
+      },
+      "noon": {
+        "start": "12:00",
+        "end": "12:10"
+      },
+      "sunset": {
+        "start": "17:49",
+        "end": "18:04"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "abbreviation": "IST"
+    }
+  },
+  "city_info": {
+    "name": "Delhi",
+    "country": "India",
+    "slug": "delhi",
+    "lat": 28.6139,
+    "lon": 77.209
+  }
+}

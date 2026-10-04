@@ -1,0 +1,1336 @@
+{
+  "category": {
+    "name": "Grave / Funeral",
+    "url": "grave-funeral",
+    "icon": "grave_funeral.svg",
+    "meta": "5 Subcategories"
+  },
+  "total_subcategories": 5,
+  "total_duas": 25,
+  "subcategories": [
+    {
+      "id": 54,
+      "title": "Things to do for the dead",
+      "category": "grave-funeral",
+      "dua-ids": [
+        285
+      ],
+      "duas": [
+        {
+          "dua_id": 285,
+          "title": "Dua for the deceased",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لَهُ، وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ، وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهُ فِي قَبْرِهِ، وَنَوِّرْ لَهُ فِيهِ",
+          "audio": "/audio/dua/285.mp3",
+          "transliteration": "Alla-humma'gfir lahu (person's name), warfa'a darajatahu fil mahdiyin, wa'khlufhu fi 'aqibihi fil ga-birin, wagfir lana wa lahu ya rabbal' a-lamin, wafsa'ah lahu fi qabrihi, wa nau-wir lahu fihi",
+          "translation": "O Allah, forgive him (person's name), raise his degree among those who are rightly guided, grant him a successor in his descendants who remain. Forgive us and him, O Lord of the Universe, and make his grave spacious, and grant him light in it.\n\nThe Messenger of Allah (ﷺ) came to Abu Salama (RA) (as he died). His eyes were fixedly open. Rasoolullah (ﷺ) closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say \"Amen\" to what you say. He then said- (The dua is mentioned above)",
+          "reference": "Muslim: 920",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو إِسْحَاقَ الْفَزَارِيُّ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ قَبِيصَةَ بْنِ ذُؤَيْبٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى أَبِي سَلَمَةَ وَقَدْ شَقَّ بَصَرُهُ فَأَغْمَضَهُ ثُمَّ قَالَ ‏\"‏ إِنَّ الرُّوحَ إِذَا قُبِضَ تَبِعَهُ الْبَصَرُ ‏\"‏ ‏.‏ فَضَجَّ نَاسٌ مِنْ أَهْلِهِ فَقَالَ ‏\"‏ لاَ تَدْعُوا عَلَى أَنْفُسِكُمْ إِلاَّ بِخَيْرٍ فَإِنَّ الْمَلاَئِكَةَ يُؤَمِّنُونَ عَلَى مَا تَقُولُونَ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ اغْفِرْ لأَبِي سَلَمَةَ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّينَ وَاخْلُفْهُ فِي عَقِبِهِ فِي الْغَابِرِينَ وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِينَ وَافْسَحْ لَهُ فِي قَبْرِهِ ‏.‏ وَنَوِّرْ لَهُ فِيهِ ‏\"‏ ‏.‏",
+            "translation": "Umm Salama reported: The Messenger of Allah (may peace be upon came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say\" Amen\" to what you say. He then said: O Allah, forgive Abu Salama, raise his degree among those who are rightly guided, grant him a successor in his descendants who remain. Forgive us and him, O Lord of the Universe, and make his grave spacious, and grant him light in it. [Muslim: 920]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for the Deceased",
+            "description": "This dua for the deceased brings hope and mercy for the one who passed away, asking Allah to forgive, give light in the grave, and raise their place among the guided with Barakah for their family.",
+            "points": [
+              "Dua for the deceased asks Allah to forgive and raise the person’s darajat.",
+              "Janazah dua brings light and peace to the grave of the dead muslim.",
+              "Prayer for the dead helps the family get Barakah and Allah’s mercy too.",
+              "Dua for maghfirat makes Allah forgive both the deceased and those who pray.",
+              "Islamic prayer for the dead gives hope for Jannah and rest for the soul."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for the Deceased",
+            "description": "The dua for the deceased is a gentle prayer asking Allah for Maghfirah, Barakah, and light in the grave, bringing comfort to the hearts of Muslims who remember loved ones and seek forgiveness for them.",
+            "points": [
+              "After finishing salatul janazah, recite the dua for the deceased for Allah’s mercy.",
+              "When you visit a graveyard, use this prayer for the dead to ask for light and ease.",
+              "At home after hearing news of someone’s death, make dua for the deceased for Maghfirat.",
+              "During your own salah, remember a loved one and recite the dua for forgiveness of sins.",
+              "On Fridays, pray the dua for a deceased person to ask ya rabbal alamin for Barakah and peace."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for the Deceased",
+            "description": "When someone leaves this world, the dua for the deceased is a way to ask Allah for forgiveness and light for their soul. This islamic prayer for the dead brings comfort to hearts and hope for the person who passed away.",
+            "steps": [
+              "Stand after janazah prayer and softly recite the dua for the deceased with full yaqeen in Allah.",
+              "Mention the name of the dead person in your dua for maghfirat, asking Allah to forgive their sins.",
+              "Pray for Allah to make their grave wide and fill it with noor, using the words from the janazah dua.",
+              "Ask Allah to raise their rank among the guided and give Barakah to their family left behind.",
+              "Keep making this prayer for the dead, especially after salah and when you visit their grave for more reward."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "To bury the dead",
+      "category": "grave-funeral",
+      "dua-ids": [
+        286,
+        287,
+        288,
+        289
+      ],
+      "duas": [
+        {
+          "dua_id": 286,
+          "title": "Dua and Sunnah After Janaza Prayer (Hadith)",
+          "category_tags": [],
+          "introduction": "It is narrated in Sahih Hadith that after burying the dead, it is Sunnah for those present to throw soil three times with both hands. Abu Hurairah (RA) said: \"The Prophet (ﷺ) offered a janaza prayer. Then he went to the grave of the dead man and threw soil on him three times from the side of his head.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Ibn Majah:1565",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 287,
+          "title": "Dua when placing the deceased in Grave",
+          "category_tags": [],
+          "introduction": "Ibn 'Umar (RA) said, \"The Messenger of Allah (ﷺ) used to say this dua when he put the dead body in the grave:",
+          "arabic": "بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُوْلِ اللَّهِ (ﷺ)",
+          "audio": "/audio/dua/287.mp3",
+          "transliteration": "Bismillaahi wa 'alaa sunnati Rasulillaah",
+          "translation": "With the Name of Allah and according to the Sunnah of the Messenger of Allah (ﷺ).",
+          "reference": "Sahih. Abu Dawud: 3213",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، ح وَحَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَبِي الصِّدِّيقِ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا وَضَعَ الْمَيِّتَ فِي الْقَبْرِ قَالَ ‏ \"‏ بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏\" ‏ ‏.‏ هَذَا لَفْظُ مُسْلِمٍ ‏.‏",
+            "translation": "Narrated Abdullah ibn Umar: When the Prophet (ﷺ) placed the dead in the grave, he said: In the name of Allah, and following the Sunnah of the Messenger of Allah (ﷺ). This is Muslim's version. [Sahih (Albani). Abu Dawud: 3213]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Grave",
+            "description": "This dua for grave brings peace and Barakah when placing the deceased, following the Sunnah and asking Allah to make the burial easy and full of mercy for the one in the grave.",
+            "points": [
+              "Bismillah at burial keeps the grave safe with Allah’s name and protection.",
+              "Dua for grave follows the Sunnah and brings blessings to the dead muslim.",
+              "Islamic burial dua helps the soul rest easy and gives hope for Allah’s mercy.",
+              "Qabar par mitti dalne ki dua makes the burial simple and full of Barakah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Grave",
+            "description": "This dua for grave is said with Iman and respect, asking Allah for mercy and following the Sunnah during muslim burial, as we place our loved one in the grave in the name of Allah.",
+            "points": [
+              "When lowering the body into the grave in islam, recite bismillah and this dua for grave.",
+              "At the time of qabar par mitti dalne ki dua, use this islamic burial dua for Barakah.",
+              "After salatul janazah prayer, say the dua for funeral before placing the deceased.",
+              "While standing by the grave in islam, make this dua for grave with a soft heart.",
+              "During muslim burial, remember to recite in the name of allah and follow the Sunnah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua when placing the deceased in Grave",
+            "description": "At the time of burial, the dua for grave is a simple but important act in Islamic burial. Saying this masnoon dua brings peace and follows the Sunnah, giving Barakah to the one being buried.",
+            "steps": [
+              "Before lowering the body, quietly say bismillah and remember the Sunnah of Rasulullah.",
+              "As you place the deceased in the grave, softly recite the dua for grave with full respect.",
+              "Make sure the head faces the qiblah, following the right way of muslim burial in islam.",
+              "Ask Allah to give ease and mercy to the person in the grave, using this islamic prayer.",
+              "Keep your heart humble and make silent dua for forgiveness as you finish the burial steps."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 288,
+          "title": "Dua when placing the body in Grave",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said, ‘When you put death body in grave, say:",
+          "arabic": "بِسْمِ اللَّهِ وَعَلَى مِلَّةِ رَسُوْلِ اللَّهِ",
+          "audio": "/audio/dua/288.mp3",
+          "transliteration": "Bismillaahi wa 'alaa millati Rasoolillaah",
+          "translation": "With the Name of Allah and according to the millat of the Messenger of Allah (ﷺ).\n\nSunnah is to place the dead in the grave on his right side. There is no evidence to place the dead on his back and hands on the chest. When giving soil, there is no Dua to recite except Bismillah.",
+          "reference": "Sahih. Ibn Majah: 1550",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا لَيْثُ بْنُ أَبِي سُلَيْمٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، حَدَّثَنَا الْحَجَّاجُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ إِذَا أُدْخِلَ الْمَيِّتُ الْقَبْرَ قَالَ ‏\"‏ بِسْمِ اللَّهِ وَعَلَى مِلَّةِ رَسُولِ اللَّهِ ‏\"‏ ‏.‏ وَقَالَ أَبُو خَالِدٍ مَرَّةً إِذَا وُضِعَ الْمَيِّتُ فِي لَحْدِهِ قَالَ ‏\"‏ بِسْمِ اللَّهِ وَعَلَى سُنَّةِ رَسُولِ اللَّهِ ‏\"‏ ‏.‏ وَقَالَ هِشَامٌ فِي حَدِيثِهِ ‏\"‏ بِسْمِ اللَّهِ وَفِي سَبِيلِ اللَّهِ وَعَلَى مِلَّةِ رَسُولِ اللَّهِ ‏\"‏ ‏.‏",
+            "translation": "It was narrated that Ibn ‘Umar said: “When the deceased was placed in the grave, the Prophet (ﷺ) would say: ‘Bismillah, wa ‘ala millati rasul-illah (In the Name of Allah and according to the religion of the Messenger of Allah).’” Abu Khalid said on one occasion, when the deceased was placed in the grave: “Bismillah wa ‘ala sunnati rasul- illah (In the Name of Allah and according to the Sunnah of the Messenger of Allah).” Hisham said in his narration: “Bismillah, wa fi sabil-illah, wa ‘ala millati rasul-illah (In the Name of Allah, for the sake of Allah and according to the religion of the Messenger of Allah).” [Sahih (Albani). Ibn Majah: 1550]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Funeral",
+            "description": "This dua for funeral brings comfort and Barakah when placing the body in the grave, following the way of the Messenger of Allah and asking for Allah’s mercy and protection for the deceased.",
+            "points": [
+              "Bismillah at burial gives the grave safety and peace with Allah’s name.",
+              "Dua for funeral follows the Messenger of Allah’s way and brings blessings.",
+              "Islamic burial dua helps the soul rest easy and keeps the burial simple.",
+              "Qabar par mitti dalne ki dua brings hope for Allah’s mercy on the deceased."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Funeral",
+            "description": "This dua for funeral is recited with a heart full of Iman, asking Allah for mercy and following the Messenger of Allah’s way as we place the body in the grave in the name of Allah.",
+            "points": [
+              "When placing the body in the grave in Islam, recite this dua for funeral with bismillah.",
+              "At the time of qabar par mitti dalne ki dua, use this Islamic burial dua for the deceased.",
+              "After finishing funeral prayer in Islam, say the dua for grave before burial starts.",
+              "While attending a Muslim funeral service, make this dua for funeral for Barakah and mercy.",
+              "During burial in Islam, remember to recite in the name of Allah and follow the Messenger of Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua when placing the body in Grave",
+            "description": "At the time of burial, the dua for funeral is a short but blessed act that follows the way of the Messenger of Allah. This Islamic burial step brings comfort and Barakah for the person being buried.",
+            "steps": [
+              "Quietly say bismillah before you lower the body, remembering Allah’s name in your heart.",
+              "As you place the body in the grave, recite the dua for funeral with full respect and care.",
+              "Make sure the body faces the qiblah, following the right way of Muslim burial in Islam.",
+              "Ask Allah to give the person ease and forgiveness, using this masnoon dua for grave.",
+              "After finishing, keep making silent dua for the deceased, hoping for Allah’s mercy and light."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 289,
+          "title": "Dua when put the body in Grave",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said, When you put death body in grave, say:",
+          "arabic": "بِسْمِ اللَّهِ وَفِي سَبِيلِ اللَّهِ وَعَلَى مِلَّةِ رَسُولِ اللَّهِ",
+          "audio": "/audio/dua/289.mp3",
+          "transliteration": "Bismillahi wa fi sabilillahi wa 'ala millati rasoolillah (ﷺ)",
+          "translation": "With the Name of Allah, in the path of Allah and according to the millat of the Messenger of Allah (ﷺ)",
+          "reference": "Sahih. Ibn Majah: 1270",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي الْقَاسِمِ أَبُو الأَحْوَصِ، حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، حَدَّثَنَا حُصَيْنٌ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ جَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ لَقَدْ جِئْتُكَ مِنْ عِنْدِ قَوْمٍ مَا يَتَزَوَّدُ لَهُمْ رَاعٍ وَلاَ يَخْطِرُ لَهُمْ فَحْلٌ ‏.‏ فَصَعِدَ الْمِنْبَرَ فَحَمِدَ اللَّهَ ثُمَّ قَالَ ‏ \"‏ اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا مَرِيئًا طَبَقًا مَرِيعًا غَدَقًا عَاجِلاً غَيْرَ رَائِثٍ ‏\" ‏ ‏.‏ ثُمَّ نَزَلَ فَمَا يَأْتِيهِ أَحَدٌ مِنْ وَجْهٍ مِنَ الْوُجُوهِ إِلاَّ قَالُوا قَدْ أُحْيِينَا ‏.‏",
+            "translation": "It was narrated that Ibn ‘Abbas said: “A Bedouin came to the Prophet (ﷺ) and said: ‘O Messenger of Allah, I have come to you from people who have no place to graze their flocks and even their male camels have become weak. He mounted the pulpit and praised Allah, then he said: ‘O Allah, send upon us all abundant, wholesome rain, productive and plentiful, sooner rather than later.’ Then the rain came down, and no one came to him from any direction but they said: ‘We have been revived.’” [Sahih (Albani). Ibn Majah: 1270]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for the Dead",
+            "description": "This dua for the dead brings peace and mercy when placing the body in the grave, following the path of Allah and the Messenger, and asking for Barakah and safety for the deceased.",
+            "points": [
+              "Bismillah at burial gives the grave protection and Allah’s special care.",
+              "Fi sabilillah in this dua shows the burial is done for Allah’s sake only.",
+              "Dua for grave follows the Messenger’s way and brings blessings to the dead.",
+              "Qabar par mitti dalne ki dua brings hope for Allah’s mercy and forgiveness."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For The Dead",
+            "description": "This dua for the dead is recited with Iman and hope, asking Allah for mercy and Barakah as we place the body in the grave, following the path of Allah and the Messenger of Allah in every step.",
+            "points": [
+              "When putting the body in the grave in Islam, recite this dua for the dead with fi sabilillah.",
+              "At the time of qabar par mitti dalne ki dua, use this Islamic burial dua for the deceased.",
+              "After janaza ki dua, say the dua for grave before the burial is fully done.",
+              "While standing by the grave in Islam, make this dua for the dead for Barakah and forgiveness.",
+              "During Muslim burial, remember to recite in the name of Allah and follow the Messenger of Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for the Dead at Burial",
+            "description": "When a Muslim is placed in the grave, this dua for the dead is recited to ask Allah for mercy and to follow the way of the Messenger of Allah. It is a simple masnoon dua that brings Barakah and peace at the time of burial.",
+            "steps": [
+              "Stand by the grave and softly say in the name of Allah fi sabilillah and on the millat of the Messenger of Allah.",
+              "As you lower the body, recite this dua for grave to remember the path of Islamic burial.",
+              "When putting soil on the grave, say this qabar par mitti dalne ki dua for the dead.",
+              "After the burial, make janaza ki dua and ask Allah to forgive the person in the grave.",
+              "While leaving the graveyard, remember to do zikr Allah and pray for all Muslims who have passed away."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Duas for visiting graves",
+      "category": "grave-funeral",
+      "dua-ids": [
+        290,
+        291,
+        292,
+        293
+      ],
+      "duas": [
+        {
+          "dua_id": 290,
+          "title": "Dua for Visiting the Grave (Assalamualaikum ya ahlal quboor)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلسَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ إِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُوْنَ أَسْاَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ",
+          "audio": "/audio/dua/290.mp3",
+          "transliteration": "As-salamu 'alaykum ahlad diyari min al-mu'minina wal-muslimin, inna In sha' Allahu bikum lahikun, as-alullaha lana walakumul 'afiyah",
+          "translation": "Peace be upon you, the inhabitants of the grave, among the believers, and Muslims, and if Allah will then we shall join you. I pray to Allah peace for us and for you.\n\nBuraida ibnul husaib aslami (RA) narrated that the Messenger of Allah (ﷺ) used to teach them to recite this dua when anyone went to the graveyard.",
+          "reference": "Muslim: 975",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، الأَسَدِيُّ عَنْ سُفْيَانَ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَلِّمُهُمْ إِذَا خَرَجُوا إِلَى الْمَقَابِرِ فَكَانَ قَائِلُهُمْ يَقُولُ - فِي رِوَايَةِ أَبِي بَكْرٍ - السَّلاَمُ عَلَى أَهْلِ الدِّيَارِ - وَفِي رِوَايَةِ زُهَيْرٍ - السَّلاَمُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ وَإِنَّا إِنْ شَاءَ اللَّهُ لَلَاحِقُونَ أَسْأَلُ اللَّهَ لَنَا وَلَكُمْ الْعَافِيَةَ.",
+            "translation": "Sulaiman b. Buraida narrated on the authority of his father that the Messenger of Allah (ﷺ) used to teach them when they went out to the graveyard. One of the narrators used to say this in the narration transmitted on the authority of Abu Bakr: \" Peace be upon the inhabitants of the city (i. e. graveyard).\" In the hadith transmitted by Zuhair (the words are):\" Peace be upon you, the inhabitants of the city, among the believers, and Muslims, and God willing we shall join you. I beg of Allah peace for us and for you.\" [Muslim: 975]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Visiting the Grave",
+            "description": "This dua for visiting the grave brings peace to both the living and those resting, reminding us of our return to Allah and the bond between Muslims even after death.",
+            "points": [
+              "Allah gives Barakah to the one who makes dua for visiting the grave with Iman.",
+              "Saying assalamu alaikum ya ahlal kubur brings peace to the people of the grave.",
+              "Qabristan jane ki dua helps Muslims remember death and keep Amal strong.",
+              "This dua at graveyard asks Allah for safety and mercy for both living and dead.",
+              "Using this masnoon dua for graveyard keeps the heart soft and full of zikr Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Visiting The Grave",
+            "description": "This dua for visiting the grave is recited with a soft heart, sending peace to the believers in the graveyard and asking Allah for safety for both the living and those who have passed away.",
+            "points": [
+              "When entering the graveyard, greet with assalamu alaikum ya ahlal kubur and recite this dua for visiting the grave.",
+              "After making intention for qabristan jane ki dua, use this dua for graveyard before any other zikr.",
+              "While standing by the graves, say the dua for visiting graves and pray for peace and Barakah.",
+              "When leaving the graveyard, remember to recite this dua for visiting the grave for all Muslims.",
+              "During any visit to qabristan, make this dua at graveyard for the believers and your own safety."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Visiting the Grave",
+            "description": "When you visit the graveyard, this dua for visiting the grave brings peace to the dead and reminds us of our own return to Allah. It is a masnoon dua that every Muslim should say with a soft heart and full Iman.",
+            "steps": [
+              "Enter the graveyard with right foot and greet with assalamu alaikum ya ahlal kubur.",
+              "Stand near the graves and recite this dua for visiting graves for the believers resting there.",
+              "While walking between graves, quietly say this dua for graveyard and remember your own end.",
+              "Raise your hands and ask Allah for safety and Barakah for both you and those in the graves.",
+              "Before leaving, make qabristan ki dua and pray for all Muslims buried in the graveyard."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 291,
+          "title": "Dua for Entering Graveyard (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلسَّلَامُ عَلَى أَهْلِ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ وَيَرْحَمُ اللَّهُ الْمُسْتَقْدِمِيْنَ مِنَّا وَالْمُسْتَأْخِرِيْنَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلَاحِقُونَ",
+          "audio": "/audio/dua/291.mp3",
+          "transliteration": "As-salamu 'ala ahlid diya-ri minal mu’minin wal muslimin, wa yarhamullahul mustaq’dimina minna-wal mustakhirin, wa inna- insa allahu bikum lala-’hiqun",
+          "translation": "Peace be upon the inhabitants of this place among the believers and Muslims. May Allah have mercy upon those who have gone on ahead of us and those who come later on, and we will join you, if Allah wills.\n\nA’isha (RA) asked Allah’s messenger (ﷺ) what she should say, i.e. when visiting graves, and he told her to say (The Dua is mentioned above).",
+          "reference": "Sahih. Mishkatul Masabih: 1767",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "\"وَعَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: كَيْفَ أَقُولُ يَا رَسُولَ اللَّهِ؟ تَعْنِي فِي زِيَارَةِ الْقُبُورِ قَالَ: \"\" قُولِي: السَّلَامُ عَلَى أَهْلِ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ وَيَرْحَمُ اللَّهُ الْمُسْتَقْدِمِينَ مِنَّا وَالْمُسْتَأْخِرِينَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ للاحقون \"\" . رَوَاهُ مُسلم",
+            "translation": "She said she asked God’s messenger what she should say, i.e. when visiting graves, and he told her to say, “Peace be upon the inhabitants of the abodes, believers and Muslims, and God show mercy to those of us who go before and those who go later. If God will we shall join you.\"\" Muslim transmitted it. [Sahih (Albani). Mishkatul Masabih: 1767]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Entering Graveyard",
+            "description": "This dua for entering graveyard reminds Muslims of the shortness of life, brings mercy for those who passed, and keeps the heart soft with hope in Allah’s forgiveness and kindness.",
+            "points": [
+              "Allah shows Rahmah to Muslims who use this dua for entering graveyard.",
+              "Masnoon dua for dead person brings maghfirat for those resting in qabristan.",
+              "This dua for forgiveness in Islam helps Muslims remember their own akhirah.",
+              "Qabristan ki dua keeps the heart full of zikr Allah and Amal for the dead.",
+              "Using this masnoon dua at graveyard asks Allah to forgive both early and late ones."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Entering Graveyard",
+            "description": "This dua for entering graveyard is recited with Iman, sending peace to the believers resting in qabristan and asking Allah for forgiveness and mercy for those who passed and those still living.",
+            "points": [
+              "When stepping into the graveyard, recite this dua for entering graveyard for all Muslims.",
+              "After reaching qabristan, use this masnoon dua for dead and pray for maghfirat.",
+              "While walking among the graves, say the dua for graveyard and ask Allah for forgiveness in Islam.",
+              "When visiting for dua for dead person, make this dua for entering graveyard for Barakah.",
+              "During any visit to qabristan, remember to recite this dua for grave and mercy for all."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Entering Graveyard",
+            "description": "When you step into the qabristan, this dua for entering graveyard is a way to greet the dead and ask Allah for forgiveness for all. It is a masnoon dua that brings Barakah and reminds us of our own return to Allah.",
+            "steps": [
+              "Enter the graveyard with right foot and say this masnoon dua for dead with a soft voice.",
+              "Stand still and recite dua for maghfirat, asking Allah to forgive those in the graves.",
+              "Remember to pray for both early and late Muslims by saying this dua for forgiveness in Islam.",
+              "While walking, quietly repeat this dua for graveyard and think about your own akhirah.",
+              "Before leaving, make dua for dead person and ask Allah to give mercy to all buried in qabristan."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 292,
+          "title": "Dua for Visiting the Grave (Graveyard Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلسَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِيْنَ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُوْنَ",
+          "audio": "/audio/dua/292.mp3",
+          "transliteration": "As-salamu 'alaikum dara qaumin mu’minin, wa inna-insha- allahu bikum la-‘hikun",
+          "translation": "Peace be upon you, O you who believe. We will meet you, if Allah willing.\n\nAbu Hurairah said, \"The Messenger of Allah (ﷺ) went to the graveyard and said these words.\"",
+          "reference": "Muslim: 249",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَسُرَيْجُ بْنُ يُونُسَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَعَلِيُّ بْنُ حُجْرٍ، جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، - قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَاعِيلُ، - أَخْبَرَنِي الْعَلاَءُ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَتَى الْمَقْبُرَةَ فَقَالَ ‏\"‏ السَّلاَمُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِينَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لاَحِقُونَ وَدِدْتُ أَنَّا قَدْ رَأَيْنَا إِخْوَانَنَا ‏\"‏ ‏.‏ قَالُوا أَوَلَسْنَا إِخْوَانَكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ أَنْتُمْ أَصْحَابِي وَإِخْوَانُنَا الَّذِينَ لَمْ يَأْتُوا بَعْدُ ‏\"‏ ‏.‏ فَقَالُوا كَيْفَ تَعْرِفُ مَنْ لَمْ يَأْتِ بَعْدُ مِنْ أُمَّتِكَ يَا رَسُولَ اللَّهِ فَقَالَ ‏\"‏ أَرَأَيْتَ لَوْ أَنَّ رَجُلاً لَهُ خَيْلٌ غُرٌّ مُحَجَّلَةٌ بَيْنَ ظَهْرَىْ خَيْلٍ دُهْمٍ بُهْمٍ أَلاَ يَعْرِفُ خَيْلَهُ ‏\"‏ ‏.‏ قَالُوا بَلَى يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ فَإِنَّهُمْ يَأْتُونَ غُرًّا مُحَجَّلِينَ مِنَ الْوُضُوءِ وَأَنَا فَرَطُهُمْ عَلَى الْحَوْضِ أَلاَ لَيُذَادَنَّ رِجَالٌ عَنْ حَوْضِي كَمَا يُذَادُ الْبَعِيرُ الضَّالُّ أُنَادِيهِمْ أَلاَ هَلُمَّ ‏.‏ فَيُقَالُ إِنَّهُمْ قَدْ بَدَّلُوا بَعْدَكَ ‏.‏ فَأَقُولُ سُحْقًا سُحْقًا ‏\"‏ ‏.‏",
+            "translation": "Abu Huraira reported: The Messenger of Allah (ﷺ) came to the graveyard and said: \"Peace be upon you! The abode of the believing people and we, if God so wills, are about to join you. I love to see my brothers.\" They (the hearers) said: Aren't we your brothers, O Messenger of Allah? He said: You are my companions, and our brothers are those who have, so far, not come into the world. They said: Messenger of Allah, how would you recognise those persons of your Ummah who have not yet been born? He said: Supposing a man had horses with white blazes on foreheads and legs among horses which were all black, tell me, would he not recognise his own horses? They said: Certainly, O Messenger of Allah. He said: They would come with white faces and arms and legs owing to ablution, and I would arrive at the Cistern before them. Some people would be driven away from my Cistern as the stray camel is driven away. I would call out: Come, come. Then it would be said (to me): These people changed themselves after you, and I would say: Be off, be off. Sahih Muslim 249a [Muslim: 249]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Visiting the Grave",
+            "description": "This dua for visiting the graveyard brings peace to the hearts, connects believers, and reminds us of our own return to Allah, making every visit full of hope and kindness.",
+            "points": [
+              "Allah gives peace to the dead when Muslims say assalamualaikum at graveyard.",
+              "Using this dua for visiting the grave keeps Iman strong and hearts soft with zikr.",
+              "Qabristan ki dua helps Muslims remember insha allah we all meet again one day.",
+              "This dua for the dead brings hope of maghfirat and mercy for those resting.",
+              "Saying peace be upon you at graveyard keeps the bond of Muslims alive always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Visiting the Grave",
+            "description": "This dua for visiting the grave brings peace to the hearts, reminds us of the hereafter, and helps us send Barakah and dua e maghfirat for the deceased with true Iman and hope in Allah’s mercy.",
+            "points": [
+              "When entering the graveyard, greet with assalamualaikum and recite this dua for visiting the grave.",
+              "While standing near a loved one's grave, use the graveyard dua to ask Allah for peace.",
+              "After finishing your ziarat, say the dua for deceased and remember insha allah we will meet.",
+              "On Fridays, many Muslims visit qabristan and make this dua for the dead with hope for maghfirat.",
+              "If you pass by a grave while walking, quietly recite peace be upon you and make dua for graveyard."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Visiting the Grave",
+            "description": "When you visit the graveyard, this dua for visiting the grave is said to greet the believers and remember our own meeting with them, insha allah. It is a simple Islamic dua that brings peace and Barakah to the dead.",
+            "steps": [
+              "Enter the graveyard and softly say assalamualaikum to the believers resting there.",
+              "Stand by the grave and recite peace be upon you, remembering the meaning of this dua.",
+              "While walking between graves, quietly say this dua for the dead and think of your own end.",
+              "Raise your hands and make dua e maghfirat for all deceased Muslims in the graveyard.",
+              "Before leaving, repeat alaikum salam and pray insha allah for mercy on all buried in qabristan."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 293,
+          "title": "Dua for Visiting Muslim Graves (Graveyard Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلسَّلَامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِيْنَ وَأَتَاكُمْ مَا تُوعَدُونَ غَدًا مُؤَجَّلُونَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ اَللَّهُمَّ اغْفِرْ لِأَهْلِ بَقِيعِ الْغَرْقَدِ",
+          "audio": "/audio/dua/293.mp3",
+          "transliteration": "As-salamu 'alaikum da-ra kaumin mu’minin, wa ata-kum ma-tu’aadun ‘gadan muajjalun, wa inna-insha- allahu bikum la-’hikun. Alla-humma’gfir liahli baki‘eil garqad.",
+          "translation": "Peace be upon you, O you who believers inhabitants of the grave! The promise that was given to you has come to you, and you are waiting for the day to come. And we will meet you by the will of Allah. O Allah, forgive the inhabitants of the Baqi graveyard.\n\nAyesha (RA) said, \"When Rasoolullah (ﷺ) stayed in my house, he used to go to the Baqi' graveyard at the last hour of night and say these words.",
+          "reference": "Muslim: 974",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ شَرِيكٍ، - وَهُوَ ابْنُ أَبِي نَمِرٍ - عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم - كُلَّمَا كَانَ لَيْلَتُهَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم - يَخْرُجُ مِنْ آخِرِ اللَّيْلِ إِلَى الْبَقِيعِ فَيَقُولُ ‏\"‏ السَّلاَمُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِينَ وَأَتَاكُمْ مَا تُوعَدُونَ غَدًا مُؤَجَّلُونَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لاَحِقُونَ اللَّهُمَّ اغْفِرْ لأَهْلِ بَقِيعِ الْغَرْقَدِ ‏\"‏ ‏.‏ وَلَمْ يُقِمْ قُتَيْبَةُ قَوْلَهُ ‏\"‏ وَأَتَاكُمْ ‏\"‏ ‏.‏ '",
+            "translation": "A'isha reported (that whenever it was her turn for Allah's Messenger [may peace be upon him] to spend the night with her) he would go out towards the end of the night to al-Baqi' and say: Peace be upon you, abode of a people who are believers. What you were promised would come to you tomorrow, you receiving it after some delay; and God willing we shall join you. O Allah, grant forgiveness to the inhabitants of Baqi' al-Gharqad. Qutaiba did not mention his words:\" would come to you\". [Muslim: 974]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Graveyard",
+            "description": "This dua for graveyard brings hope for forgiveness, connects hearts with those resting, and reminds every Muslim of Allah’s promise and the mercy waiting for all believers.",
+            "points": [
+              "Allah gives maghfirat to the dead when Muslims use this dua for graveyard.",
+              "Saying assalamualaikum at Jannatul Baqi keeps the bond of Iman strong always.",
+              "This dua for forgiveness in Islam brings hope for mercy to all in the qabristan.",
+              "Muslim prayer for the dead asks Allah to forgive every believer resting in graves.",
+              "Using peace be upon you at graveyard reminds us of in sha allah meeting again."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Graveyard",
+            "description": "This dua for graveyard is recited to send peace, ask forgiveness for the dead, and remember the promise of Allah, bringing Barakah and hope for Jannatul Baqi and all believers resting in graves.",
+            "points": [
+              "When you enter a graveyard, greet with assalamualaikum and recite this dua for graveyard.",
+              "While visiting Jannatul Baqi, use the dua for forgiveness and ask Allah for mercy.",
+              "After making salam to the graves, quietly say this Muslim prayer for the dead with Iman.",
+              "On days of Eid or special visits, remember to recite the dua for dead person and seek maghfirat.",
+              "If you pass by a graveyard, softly say peace be upon you and make this forgiveness prayer for all."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Graveyard",
+            "description": "When you visit the graveyard, this dua for graveyard is recited to greet the believers, remember the promise of Allah, and ask for forgiveness for those buried, especially in Jannatul Baqi. It is a masnoon dua that brings peace and mercy.",
+            "steps": [
+              "Enter the graveyard and gently say assalamualaikum to the Muslims resting there.",
+              "Stand by the graves and recite peace be upon you, thinking of the promise from Allah.",
+              "While walking, quietly make this dua for the dead and ask forgiveness in Islam for all.",
+              "Raise your hands and say the forgiveness prayer for the people of Jannatul Baqi.",
+              "Before leaving, repeat salamu alaikum and pray in sha allah for mercy on every dead person."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Funeral prayers",
+      "category": "grave-funeral",
+      "dua-ids": [
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "duas": [
+        {
+          "dua_id": 294,
+          "title": "Dua for Deceased in the Funeral (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) used to say in funeral prayer:",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَصَغِيرِنَا وَكَبِيرِنَا وَذَكَرِنَا وَأُنْثَانَا وَشَاهِدِنَا وَغَائِبِنَا اَللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الْإِيمَانِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الْإِسْلَامِ اَللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تُضِلَّنَا بَعْدَهُ",
+          "audio": "/audio/dua/294.mp3",
+          "transliteration": "Allahum-maghfir lihayyinaa, wa mayyitinaa, wa sagheerinaa wa kabeerinaa, wa thakarinaa wa 'unthaanaa, wa shaahidinaa, wa ghaa'ibinaa. Allaahumma man 'ahyaytahu minnaa fa'ahyihi 'alal-'Imaan, wa man tawaffaytahu minnaa fatawaffahu 'alal-'Islam, Allaahumma laa tahrimnaa 'ajrahu wa laa tudhillanaa ba'dahu",
+          "translation": "O Allah, forgive those of us who are living and those of us who are dead, those of us who are present and those of us who are absent, our young and our old, our male and our female. O Allah, to whomsoever of us You givest life grant him life as a believer, and whomsoever of us You takest in death take him in death as a follower of Islam. O Allah, do not withhold from us the reward (of faith) and do not lead us astray after his death.",
+          "reference": "Sahih (Albani). Abu Dawud: 3201",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُوسَى بْنُ مَرْوَانَ الرَّقِّيُّ، حَدَّثَنَا شُعَيْبٌ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى جَنَازَةٍ فَقَالَ ‏ \"‏ اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَصَغِيرِنَا وَكَبِيرِنَا وَذَكَرِنَا وَأُنْثَانَا وَشَاهِدِنَا وَغَائِبِنَا اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الإِيمَانِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِسْلاَمِ اللَّهُمَّ لاَ تَحْرِمْنَا أَجْرَهُ وَلاَ تُضِلَّنَا بَعْدَهُ ‏\" ‏ ‏.‏",
+            "translation": "Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) prayed over a dead person, he said: O Allah, forgive those of us who are living and those of us who are dead, those of us who are present and those of us who are absent, our young and our old, our male and our female. O Allah, to whomsoever of us Thou givest life grant him life as a believer, and whomsoever of us Thou takest in death take him in death as a follower of Islam. O Allah, do not withhold from us the reward (of faith) and do not lead us astray after his death. [Sahih (Albani). Abu Dawud: 3201]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Deceased in the Funeral (Masnun Dua)",
+            "description": "This janaja dua brings hope and comfort for families, asking Allah to forgive and bless the deceased, and to keep the living strong in Iman and Amal during funeral prayer in Islam.",
+            "points": [
+              "Allah grants maghfirat to the dead when Muslims make this janaza dua with heart.",
+              "This dua for deceased helps keep Iman strong for those alive and those who passed.",
+              "Janaza dua brings Barakah and reward for the one who prays and the dead person.",
+              "Asking dua for forgiveness in salat al janaza brings peace to the dead in grave.",
+              "Allah keeps the Muslims on right path after funeral in Islam with this masnun dua."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Janaja Dua",
+            "description": "This janaja dua is recited to ask Allah for forgiveness and Barakah for both the living and the dead, bringing hope, Iman, and comfort to families during funeral prayer in Islam and times of loss.",
+            "points": [
+              "During the funeral prayer Islam, recite janaza dua for the deceased and all Muslims.",
+              "After salat al janaza, quietly make dua for forgiveness and maghfirat for the dead.",
+              "When visiting a grave after burial, use this janaza dua for dead person and pray for mercy.",
+              "At home after hearing news of a death, remember to recite this prayer for deceased Muslim.",
+              "If you attend a janaza, softly say this dua for dead parents and all who passed with Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Janaja Dua",
+            "description": "This janaja dua is recited during the funeral prayer in Islam, asking Allah for forgiveness and mercy for the deceased and all Muslims. It is a masnun dua that brings Barakah and comfort to the hearts of those present.",
+            "steps": [
+              "Stand in rows behind the imam for salat al janaza and make your niyyah for funeral prayer in Islam.",
+              "After the first takbeer, quietly recite surah al fatiha as part of the janaza prayer.",
+              "On the second takbeer, say this janaja dua for deceased, asking Allah for maghfirat.",
+              "At the third takbeer, pray for the dead person and all Muslims using this dua for forgiveness.",
+              "When the prayer ends, send a condolence message in Islam and make dua for dead parents and all believers."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 295,
+          "title": "Dua for a Deceased Male (Janaza dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ وَأَدْخِلْهُ الْجَنَّةَ وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ [وَعَذَابِ النَّارِ]",
+          "audio": "/audio/dua/295.mp3",
+          "transliteration": "Allahum-maghfir lahu warhamhu, wa 'aafihi, wa'fu 'anhu, wa 'akrim nuzulahu, wa wassi' mudkhalahu, waghsilhu bilmaa'i waththalji walbarad, wa naqqihi minal-khataayaa kamaa naqqaytath-thawbal-'abyadha minad-danas, wa 'abdilhu daaran khayran min daarihi, wa 'ahlan khayran min 'ahlihi, wa zawjan khayran min zawjihi, wa 'adkhilhul-jannata, wa 'a'idhhu min 'adhaabil-qabr (wa 'adhaabin-naar)",
+          "translation": "O Allah, forgive him and have mercy on him and give him strength and pardon him. Be generous to him and cause his entrance to be wide and wash him with water and snow and hail. Cleanse him of his transgressions as white cloth is cleansed of stains. Give him an abode better than his home, and a family better than his family and a spouse better than his spouse. Take him into Paradise and protect him from the punishment of the grave [and from the punishment of Hell-fire].\n\nAwf ibn Malik (RA) said, When the Messenger of Allah (ﷺ) performed the funeral prayer, I memorized this dua from him. Hearing this dua, I wished that the dead body would be me! (The dua is Mentioned above)",
+          "reference": "Muslim: 963",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ حَبِيبِ بْنِ عُبَيْدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، سَمِعَهُ يَقُولُ سَمِعْتُ عَوْفَ بْنَ مَالِكٍ، يَقُولُ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى جَنَازَةٍ فَحَفِظْتُ مِنْ دُعَائِهِ وَهُوَ يَقُولُ ‏ \"‏ اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ وَأَهْلاً خَيْرًا مِنْ أَهْلِهِ وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ وَأَدْخِلْهُ الْجَنَّةَ وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ أَوْ مِنْ عَذَابِ النَّارِ ‏\"‏ ‏.‏ قَالَ حَتَّى تَمَنَّيْتُ أَنْ أَكُونَ أَنَا ذَلِكَ الْمَيِّتَ ‏.‏ قَالَ وَحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ جُبَيْرٍ حَدَّثَهُ عَنْ أَبِيهِ عَنْ عَوْفِ بْنِ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم بِنَحْوِ هَذَا الْحَدِيثِ أَيْضًا ‏.‏",
+            "translation": "Jubair b. Nufair says: I heard it from 'Auf b. Malik that the Prophet (ﷺ) said prayer on the dead body, and I remembered his prayer: \" O Allah! forgive him, have mercy upon him, give him peace and absolve him. Receive him with honour and make his grave spacious; wash him with water, snow and hail. Cleanse him from faults as Thou wouldst cleanse a white garment from impurity. Requite him with an abode more excellent than his abode, with a family better than his family, and with a mate better than his mate. Admit him to the Garden, and protect him from the torment of the grave and the torment of the Fire.\" ('Auf bin Malik) said: I earnestly desired that I were this dead body. Sahih Muslim 963a, 963b [Muslim: 963]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for a Deceased Male (Janaza dua)",
+            "description": "This dua for a deceased asks Allah to forgive, show mercy, and grant the dead a better home and family in Jannah, bringing hope and comfort to those who pray during funeral prayer in Islam.",
+            "points": [
+              "Allah gives maghfirat and Rahmah to the dead when Muslims make this dua for a deceased.",
+              "Janaza dua helps the dead person get a better place and family in Jannah.",
+              "This dua for deceased protects from grave and Jahannam punishment by Allah’s mercy.",
+              "Dua for the dead brings Barakah and honor to the soul in the next life after death.",
+              "Asking this masnoon dua in namaz e janaza brings peace and Amal for the dead person."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For a Deceased",
+            "description": "This dua for a deceased is recited to ask Allah for mercy, forgiveness, and Jannah for the dead, bringing Barakah and hope for the soul, and comfort to families during janaza and after the loss of a loved one.",
+            "points": [
+              "During the funeral prayer in Islam, recite this dua for a deceased male after the third takbeer.",
+              "When standing by the grave after burial, quietly make this janaza dua for the dead person.",
+              "At home after hearing about a death, use this prayer for deceased to ask Allah for maghfirat.",
+              "If you visit the grave later, softly recite this dua for deceased and pray for his soul’s peace.",
+              "On days of remembrance, remember to make this dua for dead soul and ask for Jannah and Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for a Deceased",
+            "description": "This dua for a deceased is recited in the funeral prayer in Islam, asking Allah to forgive, show mercy, and grant Jannah to the dead person. It is a masnoon dua that brings comfort and Barakah to the family and all Muslims.",
+            "steps": [
+              "Join the rows for janaza prayer and make your niyyah for dua for a deceased Muslim.",
+              "After the second takbeer, recite this janaza dua for the dead person with full hope in Allah.",
+              "When you say the words, ask Allah to give him a better home and protect from grave punishment.",
+              "Pray for Allah to wash away his sins like clean white cloth and grant him a place in Jannah.",
+              "At the end, make dua for all deceased and ask for Barakah and forgiveness for every Muslim."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 296,
+          "title": "Dua for Namaz e Janaza (Male)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ (إِنَّهُ) عَبْدُكَ وَابْنُ عَبْدِكَ وَابْنُ أَمَتِكَ كَانَ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ وَأَنْتَ أَعْلَمُ بِهِ اَللَّهُمَّ إِنْ كَانَ مُحْسِنًا فَزِدْ فِي إِحْسَانِهِ وَإِنْ كَانَ مُسِيْئًا فَتَجَاوَزْ عَنْ سَيِّئَاتِهِ اَللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تَفْتِنَّا بَعْدَهُ",
+          "audio": "/audio/dua/296.mp3",
+          "transliteration": "Alla-humma, (innahu) ‘abduka, wabnu‘ 'abdika, wabnu amatika, ka-na yashhadu an laa ilaaha illa anta, wa anna mu’hmmadan ‘abduka wa rasooluka, wa aanta a'laamu bihi. Alla-humma, in kaana mu'hhsinan fajid fi e'hsaa-nihi, wa in ka-na musi-an fataja-waz ‘an saiyyi-aa-tihi. Alla-humma laa-ta'harimna-ajrahu, wala-taftinna ba'adahu",
+          "translation": "O Allah, this man is Your servant, the son of Your male servant, the son of female servant. He testified that there is no true ilaah but you and that Muhammad (ﷺ) is your servant and your messenger. And you are more aware of it. O Allah, if he is a doer of good, then increase his goodness. And if he has sinned, then forgive him. O Allah, do not deprive us of His reward and do not tempt us after that.",
+          "reference": "Sahih Mawkuf (Albani). Al-Muwatta: 539",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Namaz e Janaza (Male)",
+            "description": "This dua for namaz e janaza asks Allah to forgive the dead, increase his good deeds, and keep the living safe from fitna, bringing hope and reward in the janaza prayer for every Muslim.",
+            "points": [
+              "Allah increases the Amal of the dead if he was good when this janaza dua is made.",
+              "This dua for namaz e janaza brings maghfirat for the dead if he had mistakes in life.",
+              "Janaza prayer helps Muslims get reward and Barakah for praying for the deceased.",
+              "Allah keeps the living safe from fitna after janaza by this masnun dua in Islam.",
+              "Making this dua for the dead in funeral prayer in Islam brings peace to the heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited to ask Allah for forgiveness, Barakah, and reward for the deceased, and to pray for the family’s Iman and patience during the janaza prayer and after the loss.",
+            "points": [
+              "During the janaza prayer, recite this dua for namaz e janaza after the third takbeer.",
+              "When standing by the body before burial, quietly make this janaza dua for the dead person.",
+              "After salat al janazah, use this prayer for dead person in Islam to ask Allah for mercy.",
+              "At home after hearing about a death, softly recite this dua for deceased and pray for forgiveness.",
+              "If you attend a funeral in Islam, remember to make this dua for janaza and ask for Barakah and reward."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited in the funeral prayer for a Muslim man, asking Allah to forgive him, increase his good deeds, and protect the living from trials. It is a masnun dua that brings hope and Barakah to the janaza.",
+            "steps": [
+              "Stand behind the imam for janaza prayer and make your niyyah for funeral prayer in Islam.",
+              "After the takbeer, recite surah al fatiha quietly then prepare for the dua for namaz e janaza.",
+              "On the next takbeer, say this janaza dua for the dead, asking Allahumma to forgive and reward him.",
+              "Ask Allah to increase his good deeds if he was righteous and forgive his mistakes if he sinned.",
+              "At the end, pray Allah does not deprive you of reward and keeps you safe from fitna after his death."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 297,
+          "title": "Dua for Namaz e Janaza (Allahumma abduka wabnu amatika)",
+          "category_tags": [],
+          "introduction": "Narrated by Yazid Ibn Rukana Ibn Muttalib (RA): When the Messenger of Allah (ﷺ) perform Janazah prayer, he used to say:",
+          "arabic": "اَللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ اِحْتَاجَ إِلَى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِنًا فَزِدْ فِي حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيئًا فَتَجَاوَزْ عَنْهُ",
+          "audio": "/audio/dua/297.mp3",
+          "transliteration": "Allaahumma 'abduka wabnu 'amatika ihtaaja 'ilaa rahmatika, wa 'Anta ghaniyyun 'an 'adhaabihi, 'in kaana mu'hsinan fazid fee hasanaatihi, wa 'in kaana musee'an fatajaawaz 'anhu",
+          "translation": "O Allah, he is the son of One of Your male & female slave, he is in need of Your mercy, and You are not in need of his torment. If he was pious, then increase his rewards and if he was a sinner then pardon him.",
+          "reference": "Sahih (Albani). Al-Hakim: 1/359",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Namaz e Janaza (Allahumma abduka wabnu amatika)",
+            "description": "This dua for namaz e janaza asks Allah to show mercy, forgive mistakes, and increase the good deeds of the dead, bringing hope and comfort to Muslims during janaza prayer.",
+            "points": [
+              "Allah gives more hasanat to the dead if he was pious when this janaza dua is made.",
+              "This dua for namaz e janaza brings maghfirat for the dead if he had sins in his life.",
+              "Janaza prayer helps Muslims ask Allah’s Rahmah for the deceased in funeral prayer.",
+              "Allah shows kindness and pardons the dead when Muslims make this masnun dua.",
+              "Making this dua for the dead in salat al janazah brings peace to the family’s heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited to ask Allah for maghfirat and Barakah for the deceased, seeking mercy and forgiveness in the janaza prayer, and hoping for ease in the grave for our loved ones.",
+            "points": [
+              "During the funeral prayer in Islam, recite the dua for namaz e janaza after the third takbeer.",
+              "When standing in salat al janazah, ask Allah for maghfirat using this janaza dua.",
+              "At the graveyard after burial, make this dua for deceased for more Barakah and forgiveness.",
+              "While remembering a loved one who passed, use the Muslim death prayer for their maghfirat.",
+              "If you miss the main namaz janaza, recite this dua for the dead in your own salah for their ease."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited in the funeral prayer, asking Allah to show mercy, forgive the dead, and increase his good deeds if he was pious. It is a masnun dua that brings hope and comfort to the hearts of Muslims.",
+            "steps": [
+              "Join the rows for salat janaza and make your niyyah for funeral prayer in Islam.",
+              "After the takbeer, quietly recite surah al fatiha and get ready for the janaza dua.",
+              "On the next takbeer, say this dua for namaz e janaza, asking Allah for maghfirat and mercy.",
+              "Ask Allah to increase his hasanat if he was good and pardon him if he made mistakes.",
+              "At the end, pray for all deceased Muslims and ask for Barakah and forgiveness for everyone."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 298,
+          "title": "Dua for the deceased at funeral prayer (Janaza dua)",
+          "category_tags": [],
+          "introduction": "It is narrated on the authority of Wasila ibn al-Aska (RA) that he said, 'The Messenger of Allah (ﷺ) performed the janaza of a Muslim man with us. There I heard him said -",
+          "arabic": "اَللَّهُمَّ إِنَّ (فُلَانَ بْنَ فُلَانٍ) فِي ذِمَّتِكَ وَحَبْلِ جِوَارِكَ فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ وَأَنْتَ أَهْلُ الْوَفَاءِ وَالْحَقِّ اَللَّهُمَّ فَاغْفِرْ لَهُ وَارْحَمْهُ إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+          "audio": "/audio/dua/298.mp3",
+          "transliteration": "Allaahumma 'inna (fulanabna fulan) fee dhimmatika, wa habli jiwaarika, faqihi min fitnatil-qabri wa 'adhaabin-naari, wa 'Anta 'ahlul-wafaa'i walhaqq. Allaahumma Faghfir lahu warhamhu 'innaka 'Antal-Ghafoorur-Raheem.",
+          "translation": "O Allah, surely [name the person] is under Your protection, and in the rope of Your security, so save him from the trial of the grave and from the punishment of the Fire. You fulfill promises and grant rights, so forgive him and have mercy on him. Surely You are Most Forgiving, Most Merciful.",
+          "reference": "Sahih. Abu Dawud: 3202",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ، ح وَحَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا الْوَلِيدُ، - وَحَدِيثُ عَبْدِ الرَّحْمَنِ أَتَمُّ - حَدَّثَنَا مَرْوَانُ بْنُ جُنَاحٍ، عَنْ يُونُسَ بْنِ مَيْسَرَةَ بْنِ حَلْبَسٍ، عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى رَجُلٍ مِنَ الْمُسْلِمِينَ فَسَمِعْتُهُ يَقُولُ ‏\"‏ اللَّهُمَّ إِنَّ فُلاَنَ بْنَ فُلاَنٍ فِي ذِمَّتِكَ فَقِهِ فِتْنَةَ الْقَبْرِ ‏\"‏ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ ‏\"‏ فِي ذِمَّتِكَ وَحَبْلِ جِوَارِكَ فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ وَأَنْتَ أَهْلُ الْوَفَاءِ وَالْحَمْدِ اللَّهُمَّ فَاغْفِرْ لَهُ وَارْحَمْهُ إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ ‏\"‏ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ عَنْ مَرْوَانَ بْنِ جُنَاحٍ ‏.‏",
+            "translation": "Narrated Wathilah ibn al-Asqa': The Messenger of Allah (ﷺ) led us in prayer over bier of a Muslim and I heard him say: O Allah, so and so, son of so and so, is in Thy protection, so guard him from the trial in the grave. (AbdurRahman in his version said: \"In Thy protection and in Thy nearer presence, so guard him from the trial in the grave) and the punishment in Hell. Thou art faithful and worthy of praise. O Allah, forgive him and show him mercy. Thou art the forgiving and the merciful one.\" AbdurRahman said: \"On the authority of Marwan ibn Janah.\" [Sahih (Albani). Abu Dawud: 3202]"
+          },
+          "benefits": {
+            "title": "Benefits of Islamic Prayer for the Dead Person (Janaza dua)",
+            "description": "This islamic prayer for the dead person asks Allah to protect the deceased from grave trials and fire, showing mercy and forgiveness in janaza prayer and bringing comfort to the family.",
+            "points": [
+              "Allah keeps the dead safe from fitna of grave when this janaza dua is made.",
+              "This dua for the deceased brings maghfirat and Rahmah from Allah in funeral prayer.",
+              "Janaza prayer helps the dead get Allah’s protection from Jahannam punishment.",
+              "Allah fulfills His promise of mercy for the dead with this masnun dua in islam.",
+              "Making this dua for someone who passed away brings peace to muslim hearts."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Islamic Prayer For The Dead Person",
+            "description": "This islamic prayer for the dead person is recited to ask Allah for mercy, maghfirat, and protection from the grave’s test, giving hope and Barakah to the deceased during janaza prayer and after burial.",
+            "points": [
+              "At the time of janaza prayer, recite this islamic prayer for the dead person after the third takbeer.",
+              "When standing for funeral prayer in islam, use this janaza dua to ask Allah for forgiveness.",
+              "After the burial is done, make this dua for the deceased for their maghfirat and ease in the grave.",
+              "While visiting the graveyard, recite the prayer for deceased muslim for Allah’s mercy and Barakah.",
+              "If you remember someone who passed away, use this dua for someone who passed away in your own salah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Islamic Prayer for the Dead Person",
+            "description": "This islamic prayer for the dead person is recited in janaza prayer, asking Allah to protect the deceased from the grave’s trial and fire, and to forgive and show mercy. It is a masnun dua that brings hope and Barakah to the janaza.",
+            "steps": [
+              "Stand in line for janaza namaz and make your niyyah for funeral prayer in islam.",
+              "After the takbeer, quietly recite surah al fatiha and get ready for the janaza dua.",
+              "On the next takbeer, say this janaza dua, asking Allah to protect from grave and fire.",
+              "Ask Allah to forgive the dead person and show mercy, using the words allahummaghfirlahu warhamhu.",
+              "At the end, pray for all deceased Muslims and ask for maghfirat and Barakah for everyone."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 299,
+          "title": "Dua for Namaz e Janaza (Female)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لَهَا وَارْحَمْهَا وَعَافِهَا وَاعْفُ عَنْهَا وَأَكْرِمْ نُزُلَهَا وَوَسِّعْ مُدْخَلَهَا وَاغْسِلْهَا بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهَا مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهَا دَارًا خَيْرًا مِنْ دَارِهَا وَأَهْلًا خَيْرًا مِنْ أَهْلِهَا وَزَوْجًا خَيْرًا مِنْ زَوْجِهَا وَأَدْخِلْهَا الْجَنَّةَ وَأَعِذْهَا مِنْ عَذَابِ الْقَبْرِ [عَذَابِ النَّارِ]",
+          "audio": "/audio/dua/299.mp3",
+          "transliteration": "Allahum-maghfir laha warhamha, wa 'aafiha, wa'fu 'anha, wa 'akrim nuzulaha, wa wassi' mudkhalaha, waghsilha bilmaa'i waththalji walbarad, wa naqqiha minal-khataayaa kamaa naqqaytath-thawbal-'abyadha minad-danas, wa 'abdilha daaran khayran min daariha, wa 'ahlan khayran min 'ahliha, wa zawjan khayran min zawjiha, wa 'adkhilhal-jannata, wa 'a'idh-ha min 'adhaabil-qabr [or, 'adhaabin-naar instead of 'adhaabil-qabr].",
+          "translation": "O Allah, forgive her and have mercy on her and give her strength and pardon her. Be generous to her and cause her entrance to be wide and wash her with water and snow and hail. Cleanse her of his transgressions as white cloth is cleansed of stains. Give her an abode better than her home, and a family better than her family and a spouse better than his spouse. Take her into Paradise and protect her from the punishment of the grave [and from the punishment of Hell-fire].",
+          "reference": "Muslim: 963",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ حَبِيبِ بْنِ عُبَيْدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، سَمِعَهُ يَقُولُ سَمِعْتُ عَوْفَ بْنَ مَالِكٍ، يَقُولُ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى جَنَازَةٍ فَحَفِظْتُ مِنْ دُعَائِهِ وَهُوَ يَقُولُ ‏ \"‏ اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ وَأَهْلاً خَيْرًا مِنْ أَهْلِهِ وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ وَأَدْخِلْهُ الْجَنَّةَ وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ أَوْ مِنْ عَذَابِ النَّارِ ‏\"‏ ‏.‏ قَالَ حَتَّى تَمَنَّيْتُ أَنْ أَكُونَ أَنَا ذَلِكَ الْمَيِّتَ ‏.‏ قَالَ وَحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ جُبَيْرٍ حَدَّثَهُ عَنْ أَبِيهِ عَنْ عَوْفِ بْنِ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم بِنَحْوِ هَذَا الْحَدِيثِ أَيْضًا ‏.‏",
+            "translation": "Jubair b. Nufair says: I heard it from 'Auf b. Malik that the Prophet (ﷺ) said prayer on the dead body, and I remembered his prayer: \" O Allah! forgive him, have mercy upon him, give him peace and absolve him. Receive him with honour and make his grave spacious; wash him with water, snow and hail. Cleanse him from faults as Thou wouldst cleanse a white garment from impurity. Requite him with an abode more excellent than his abode, with a family better than his family, and with a mate better than his mate. Admit him to the Garden, and protect him from the torment of the grave and the torment of the Fire.\" ('Auf bin Malik) said: I earnestly desired that I were this dead body. Sahih Muslim 963a, 963b [Muslim: 963]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Namaz e Janaza (Female)",
+            "description": "This dua for namaz e janaza asks Allah to forgive, show mercy, and give the deceased woman a better home and family in Jannah, bringing comfort and hope to muslims in funeral prayer in Islam.",
+            "points": [
+              "Allah grants maghfirat and Rahmah to the deceased female with this janaza dua.",
+              "This dua for deceased mother brings a better place and family for her in Jannah.",
+              "Janaza prayer helps protect the dead woman from grave and Jahannam punishment.",
+              "Allah honors the soul and gives Barakah in the next life by this masnun dua in islam.",
+              "Making this dua for deceased female in salatul janazah brings peace to the family."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited for a deceased female, asking Allah for maghfirat, Barakah, and a place in Jannah, while seeking forgiveness and mercy in the janaza prayer and after burial.",
+            "points": [
+              "During the janaza prayer for a woman, recite this dua for namaz e janaza after the third takbeer.",
+              "When standing in salatul janazah, use this janaza dua for deceased female to ask for Barakah.",
+              "After the burial of a mother or sister, make this dua for deceased mother for her maghfirat.",
+              "While visiting the graveyard, recite the dua for deceased female for Allah’s mercy and ease in the grave.",
+              "If you remember a loved one who passed, use this dua for janaza in your own salah for her forgiveness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Namaz e Janaza (Female)",
+            "description": "This dua for namaz e janaza is recited during the funeral prayer in Islam for a deceased female, asking Allah for forgiveness, mercy, and Jannah for her. Every Muslim should learn this janaza dua to make heartfelt dua for deceased women.",
+            "steps": [
+              "Stand in rows behind the imam for salatul janazah and make your niyyah for the deceased.",
+              "After the third takbeer, recite this janaza ki dua with full hope in Allah’s mercy.",
+              "When saying the dua for deceased female, ask Allah to forgive her and grant her Jannah.",
+              "Raise your hands only at the start, then keep them folded while reciting this dua for deceased.",
+              "At the end of the janaza prayer, quietly make dua e maghfirat for her before the salam."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 300,
+          "title": "Dua for Namaz e Janaza (Allahumma innaha amatuka)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ (إِنَّهَا) أَمَتُكَ وَبِنْتُ عَبْدِكَ وَبِنْتُ أَمَتِكَ كَانَتْ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ وَأَنْتَ أَعْلَمُ بِهِ اَللَّهُمَّ إِنْ كَانَتْ مُحْسِنَةً فَزِدْ فِي إِحْسَانِهَا وَإِنْ كَانَتْ مُسِيْئَةً فَتَجَاوَزْ عَنْ سَيِّئَاتِهَا اَللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهَا وَلَا تَفْتِنَّا بَعْدَهَا",
+          "audio": "/audio/dua/300.mp3",
+          "transliteration": "Alla-humma, (innaha) ‘amatuka, wa bintu 'abdika, wa bintu amatika, kaanat yashhadu an laa ilaaha illaa anta, wa anna mu’hammadan ‘abduka wa rasooluka, wa aanta a’lamu bihi. Alla-humma, in kaanat mu'hsinatan fajid fi ehsaa-niha, wa in kaanat musi-atan fataja-waz ‘an saiyyi-aa-tiha. Alla-humma laa-ta'harimna-ajraha, wala-taftinna ba'adaha.",
+          "translation": "O Allah, this woman is Your servant, the daughter of Your male servant, the daughter of female servant. She testified that there is no true ilaah but you and that Muhammad (ﷺ) is your servant and your messenger. And you are more aware of it. O Allah, if she is a doer of good, then increase her goodness. And if she has sinned, then forgive her. O Allah, do not deprive us of her reward and do not tempt us after that.",
+          "reference": "Sahih Mawkuf (Albani). Al-Muwatta: 539",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Janazah (Allahumma innaha amatuka)",
+            "description": "This dua for janazah asks Allah to forgive the deceased woman, increase her good deeds, and keep the living safe from fitna, bringing hope and reward in janaza prayer for every muslim.",
+            "points": [
+              "Allah raises the Amal of the dead woman if she was good when this janaza dua is made.",
+              "This dua for janazah brings maghfirat for the deceased if she had mistakes in her life.",
+              "Janaza prayer helps muslims get reward and Barakah for praying for the dead woman.",
+              "Allah keeps the living safe from fitna after janaza by this masnun dua in islam.",
+              "Making this dua for deceased in funeral prayer dua brings peace to the family’s heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Janazah",
+            "description": "This dua for janazah is recited for a deceased woman, asking Allah for forgiveness, Barakah, and reward, while remembering her Iman and seeking ease for her in the grave and for the family after her passing.",
+            "points": [
+              "During the janaza prayer, recite this dua for janazah after the third takbeer for a female.",
+              "When standing in salat al janaza, use this janaza prayer dua to ask Allah for her maghfirat.",
+              "After the burial, make this janaza dua for the deceased woman for more Barakah and forgiveness.",
+              "While remembering her Iman, recite la ilaha illa anta in this dua for deceased for her reward.",
+              "If you feel sad after her death, use this funeral prayer dua in your own salah for her ease."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Janazah (Allahumma innaha amatuka)",
+            "description": "This dua for janazah is recited in the funeral prayer for a Muslim woman, asking Allah to forgive her, increase her good deeds, and protect the living from trials. It is a special janaza prayer dua every Muslim should learn for the funeral prayer in Islam.",
+            "steps": [
+              "Join the rows for salat al janaza and make your niyyah for the deceased woman before starting.",
+              "After the third takbeer, recite this janaza ki dua with la ilaha illa anta and full trust in Allah.",
+              "When reading the dua for deceased, ask Allah to forgive her and raise her rank if she did good.",
+              "Fold your hands and quietly say this janaza prayer dua, asking for reward and safety from fitnah.",
+              "At the end of the janaza prayer, make a short dua for the dead in Islam before saying salam."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 301,
+          "title": "Dua for Deceased Female (Janaza dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَمَتُكَ وَبِنْتُ أَمَتِكَ اِحْتَاجَتْ إِلَى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهَا، إِنْ كَانَتْ مُحْسِنَةً فَزِدْ فِي حَسَنَاتِهَا، وَإِنْ كَانَتْ مُسِيئَةً فَتَجَاوَزْ عَنْهَا",
+          "audio": "/audio/dua/301.mp3",
+          "transliteration": "Allaahumma ‛amatuka wabintu ‛amatika, i’htaajat ilaa ra’hmatika, wa anta ghaniyyun ‛an ‛adhaabiha, in kaanat mu’hsinatan fazid fee ‘hasanaatiha, wa in kaanat musee’atan fa tajaawaz ‛anha",
+          "translation": "O Allah, she is the daughter of One of Your male & female slave, she is in need of Your mercy, and You are not in need of her torment. If she was pious then increase her rewards and if she was a sinner then pardon her.",
+          "reference": "Sahih (Albani). Al-Hakim: 1/359",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Namaz e Janaza (Deceased Female)",
+            "description": "This dua for namaz e janaza asks Allah to show mercy, forgive mistakes, and increase the good deeds of the deceased woman, bringing comfort and hope to muslims in funeral prayer in Islam.",
+            "points": [
+              "Allah gives more hasanat to the dead woman if she was pious with this janaza dua.",
+              "This dua for deceased brings maghfirat and Rahmah from Allah in funeral prayer.",
+              "Janaza prayer helps the dead woman get Allah’s mercy and pardon for her mistakes.",
+              "Allah shows kindness and pardons the deceased when muslims make this masnun dua.",
+              "Making this dua for someone who passed away brings peace to the family’s heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited for a deceased female, asking Allah for mercy, maghfirat, and Barakah, seeking forgiveness and reward for her in the janaza prayer and after her burial.",
+            "points": [
+              "At the time of janaza prayer, recite this dua for namaz e janaza after the third takbeer.",
+              "When standing in salat janaza, use this janaza dua for deceased to ask Allah for her maghfirat.",
+              "After the burial is done, make this funeral prayer in islam for her Barakah and forgiveness.",
+              "While remembering a mother or sister, recite the prayer for deceased soul for her ease and reward.",
+              "If you miss the main janaza, use this dua for someone who passed away in your own salah for her."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Namaz e Janaza (Deceased Female)",
+            "description": "This dua for namaz e janaza is a simple janaza dua for a deceased woman, asking Allah for mercy, forgiveness, and reward. It is a heartfelt prayer for the dead that every Muslim should know for the funeral prayer in Islam.",
+            "steps": [
+              "Stand behind the imam for salat janaza and make your niyyah for the deceased female.",
+              "After the third takbeer, recite this janaza prayer dua with hope for Allah’s mercy and kindness.",
+              "When reading the dua for deceased, ask Allah to increase her hasanat if she was pious.",
+              "If she made mistakes, ask Allah in this funeral dua to forgive her and remove her sins.",
+              "At the end of namaz e janaza, quietly make a prayer for the deceased soul before saying salam."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 302,
+          "title": "Dua for Deceased Female (Salat al Janaza)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنَّ (فُلَانَةَ بِنْتُ فُلَانٍ) فِي ذِمَّتِكَ وَحَبْلِ جِوَارِكَ فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ وَأَنْتَ أَهْلُ الْوَفَاءِ وَالْحَقِّ، اَللَّهُمَّ فَاغْفِرْ لَهَا وَارْحَمْهَا إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ",
+          "audio": "/audio/dua/302.mp3",
+          "transliteration": "Allaahumma 'inna (fulanata bintu fulan) fee dhimmatika, wa habli jiwaarika, faqihi min fitnatil-qabri wa 'adhaabin-naari, wa 'Anta 'ahlul-wafaa'i walhaqq. Allaahumma faghfir laha warhamha 'innaka 'Antal-Ghafoorur-Raheem",
+          "translation": "O Allah, surely [name the person] is under Your protection, and in the rope of Your security, so save her from the trial of the grave and from the punishment of the Fire. You fulfill promises and grant rights, so forgive her and have mercy on her. Surely You are Most Forgiving, Most Merciful.",
+          "reference": "Sahih. Abu Dawud: 3202",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ، ح وَحَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا الْوَلِيدُ، - وَحَدِيثُ عَبْدِ الرَّحْمَنِ أَتَمُّ - حَدَّثَنَا مَرْوَانُ بْنُ جُنَاحٍ، عَنْ يُونُسَ بْنِ مَيْسَرَةَ بْنِ حَلْبَسٍ، عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى رَجُلٍ مِنَ الْمُسْلِمِينَ فَسَمِعْتُهُ يَقُولُ ‏\"‏ اللَّهُمَّ إِنَّ فُلاَنَ بْنَ فُلاَنٍ فِي ذِمَّتِكَ فَقِهِ فِتْنَةَ الْقَبْرِ ‏\"‏ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ ‏\"‏ فِي ذِمَّتِكَ وَحَبْلِ جِوَارِكَ فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ وَأَنْتَ أَهْلُ الْوَفَاءِ وَالْحَمْدِ اللَّهُمَّ فَاغْفِرْ لَهُ وَارْحَمْهُ إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ ‏\"‏ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ عَنْ مَرْوَانَ بْنِ جُنَاحٍ ‏.‏",
+            "translation": "Narrated Wathilah ibn al-Asqa': The Messenger of Allah (ﷺ) led us in prayer over bier of a Muslim and I heard him say: O Allah, so and so, son of so and so, is in Thy protection, so guard him from the trial in the grave. (AbdurRahman in his version said: \"In Thy protection and in Thy nearer presence, so guard him from the trial in the grave) and the punishment in Hell. Thou art faithful and worthy of praise. O Allah, forgive him and show him mercy. Thou art the forgiving and the merciful one.\" AbdurRahman said: \"On the authority of Marwan ibn Janah.\" [Sahih (Albani). Abu Dawud: 3202]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Namaz e Janaza (Deceased Female)",
+            "description": "This dua for namaz e janaza asks Allah to protect the deceased woman from grave trials and fire, showing mercy and forgiveness in salat al janaza and bringing comfort to the family.",
+            "points": [
+              "Allah keeps the dead woman safe from fitna of grave with this janaza prayer.",
+              "This dua for namaz e janaza brings maghfirat and Rahmah from Allah for the deceased.",
+              "Salat al janaza helps protect the dead from Jahannam punishment by Allah’s mercy.",
+              "Allah fulfills His promise of mercy for the deceased with this masnun dua in islam.",
+              "Making this dua for grave brings peace and hope to the hearts of muslims."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Namaz e Janaza",
+            "description": "This dua for namaz e janaza is recited to ask Allah for mercy and forgiveness for a deceased Muslim woman, seeking her safety from qabar ka azab and the Fire, and placing her in Allah’s care.",
+            "points": [
+              "During the funeral prayer in islam, recite the dua for namaz e janaza after the third takbeer.",
+              "When standing at the grave after burial, make this dua for grave asking Allah to protect her.",
+              "If you visit the qabar of a Muslimah, use this dua for deceased to pray for her forgiveness.",
+              "While teaching others how to pray janaza, share this masnoon dua for salat al janaza with them.",
+              "At home after hearing news of a Muslim woman’s death, read allahummaghfirlaha warhamha for her."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Namaz e Janaza (Salat al Janaza)",
+            "description": "This dua for namaz e janaza is recited in the funeral prayer for a woman, asking Allah to protect her from the punishment of the grave and Hellfire, and to forgive her. It is a strong janaza prayer every Muslim should know for funeral prayer in Islam.",
+            "steps": [
+              "Stand behind the imam for salat al janaza and make your niyyah for the deceased woman.",
+              "After the third takbeer, say this dua for grave and punishment of the grave with full hope in Allah.",
+              "When reading the janaza prayer, mention her name and ask Allah to keep her safe in His care.",
+              "Ask Allahummaghfirlaha warhamha in this dua for namaz e janaza, seeking forgiveness and mercy.",
+              "At the end of the funeral prayer, quietly make a prayer for the deceased before saying salam."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 303,
+          "title": "Janazah Dua for Forgiveness (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَنْتَ رَبُّهَا، وَأَنْتَ خَلَقْتَهَا، وَأَنْتَ هَدَيْتَهَا لِلْإِسْلَامِ، وَأَنْتَ قَبَضْتَ رُوْحَهَا، وَأَنْتَ أَعْلَمُ بِسِرِّهَا وَعَلَانِيَتِهَا، جِئْنَا شُفَعَاءَ فَاغْفِرْ لَهَا",
+          "audio": "/audio/dua/303.mp3",
+          "transliteration": "Alla-humma, anta rabbuhaa, wa anta khalaqtahaa, wa anta hadaitahaa lil islaam, wa anta qabadta ru'hahaa, wa anta a'lamu bisirriha wa 'ala-niyatihaa, ji'na shufa'a-a fagfir laha",
+          "translation": "O Allah, You are his Lord, You have created him, You have shown him the way to Islam, You have accepted his soul, You know all his open and secrets. We have come to intercede for him, so forgive him.",
+          "reference": "Hasan (Ibn Hajar). Ar-rabbaniyah 4/176",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Muslim Prayer for the Dead (Janazah Dua for Forgiveness)",
+            "description": "This muslim prayer for the dead asks Allah to forgive the deceased, accept intercession, and show mercy, bringing hope and comfort to muslims in funeral prayer in Islam.",
+            "points": [
+              "Allah forgives the dead when muslims come with shafaat and make this janaja dua.",
+              "This dua for forgiveness brings maghfirat for the deceased in namaz e janaza.",
+              "Janaza prayer helps the dead get Allah’s Rahmah and Barakah for their Amal.",
+              "Allah knows all secrets and accepts the intercession with this masnun dua in islam.",
+              "Making this muslim prayer for the dead brings peace to the hearts of the family."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Muslim Prayer for the Dead",
+            "description": "This muslim prayer for the dead is a heartfelt masnun dua, asking Allah for forgiveness and mercy for the deceased, remembering their Iman and seeking Barakah for their final journey to the next life.",
+            "points": [
+              "At the time of janaza prayer, recite this muslim prayer for the dead after the third takbeer.",
+              "When you visit the graveyard, use this dua for the dead to ask Allah for maghfirat.",
+              "After hearing news of a Muslim’s passing, make this prayer for forgiveness at home.",
+              "While teaching children about funeral prayer in islam, share this janaza ki dua with them.",
+              "If you gather for islamic condolences, read this dua for deceased female for her maghfirat."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Muslim Prayer for the Dead (Janazah Dua for Forgiveness)",
+            "description": "This muslim prayer for the dead is a masnun dua asking Allah to forgive the deceased, who was guided to Islam and whose soul was taken by Allah. It is a touching janaza prayer every Muslim should know for funeral prayer in Islam.",
+            "steps": [
+              "Stand behind the imam for namaz e janaza and make your niyyah for the deceased person.",
+              "After the third takbeer, recite this dua for forgiveness with a heart full of hope in Allah’s mercy.",
+              "When reading this prayer for the dead, remember Allah knows all secrets and open deeds.",
+              "Ask Allah in this janaza ki dua to forgive the deceased as you intercede for them.",
+              "At the end of salatul janazah, quietly make dua for maghfirat before saying salam."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Duas at the child's funeral",
+      "category": "grave-funeral",
+      "dua-ids": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+      ],
+      "duas": [
+        {
+          "dua_id": 304,
+          "title": "Dua for Deceased Child (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "Following Dua is good -",
+          "arabic": "اَللَّهُمَّ اجْعَلْهُ فَرَطًا وَذُخْرًا لِوَالِدَيْهِ، وَشَفِيعًا مُجَابًا، اَللَّهُمَّ ثَقِّلْ بِهِ مَوَازِينَهُمَا، وَأَعْظِمْ بِهِ أُجُورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ الْمُؤْمِنِينَ، وَاجْعَلْهُ فِي كَفَالَةِ إِبْرَاهِيمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيمِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ، اَللَّهُمَّ اغْفِرْ لِأَسْلَافِنَا، وَأَفْرَاطِنَا، وَمَنْ سَبَقَنَا بِالْإِيمَانِ",
+          "audio": "/audio/dua/304.mp3",
+          "transliteration": "Allahum-maj'alhu faratan wa dhukhran liwaalidayhi, wa shafee'an mujaaban. Allaahumma thaqqil bihi mawaazeenahumaa wa 'a'dhim bihi 'ujoorahumaa, wa 'alhiqhu bisaalihil-mu'mineen, waj'alhu fee kafaalati 'Ibraaheema, wa qihi birahmatika 'adhaabal-jaheem, wa 'abdilhu daaran khayran min daarihi, wa 'ahlan khayran min 'ahlihi, Allahum-maghfir li'aslaafinaa, wa 'afraatinaa wa man sabaqanaa bil'eemaan.",
+          "translation": "O Allah, make him a precursor, a forerunner and a treasure for his parents and an answered intercessor. O Allah, make him weigh heavily in their scales (of good) and magnify their reward. Make him join the righteous of the believers. Place him in the care of Ibrahim (As). Save him by Your mercy from the torment of Hell. Give him a home better than his home and a family better than his family. O Allah, forgive those who have gone (i.e. passed away) before us, our lost children (by death), and those who have preceded us in Faith.",
+          "reference": "See Al-Mughni, Lee Ibn Kudama, 3/416; See also Ad-Durusul Muhimmah Li ‘Ammatil Ummah, Lish Sheikh Abdil Aziz Ibn Abdillah Ibn Baz, Rahemahullah, p. 15.",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Deceased Female Child",
+            "description": "This heartfelt masnoon dua brings comfort to grieving parents, asking Allah to grant mercy, reward, and a better place for the lost child, while also seeking forgiveness for all believers.",
+            "points": [
+              "Allah gives Barakah to parents by making this dua for deceased female child.",
+              "This islamic dua for the deceased brings peace and hope in times of loss.",
+              "Parents find Amal and reward in their scales through this death dua in Islam.",
+              "Dua for deceased female helps the child join the pious and be safe with Ibrahim.",
+              "Islamic condolences for loss of son or daughter brings comfort to muslim hearts."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Deceased Female",
+            "description": "This dua for deceased female is a heartfelt masnoon dua, asking Allah to grant the child a place with the righteous, bring Barakah to the parents, and forgive all who passed away with Iman and Amal.",
+            "points": [
+              "At the funeral prayer, recite this dua for deceased female after the third takbeer.",
+              "When giving condolences for loss of son, use this deceased dua to comfort the parents.",
+              "After burial, make this death dua at the grave asking Allah for mercy and forgiveness.",
+              "If you remember a lost child during family gatherings, read this dua for the deceased softly.",
+              "While teaching islamic condolences, share this masnoon dua for deceased female with others."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Deceased Female Child",
+            "description": "This masnoon dua is a heartfelt way to ask Allah for mercy and Barakah for a deceased child, bringing comfort to parents and family. It is a special islamic dua that gives hope and peace in times of loss.",
+            "steps": [
+              "Start by making fresh wudu and sit in a clean place to recite this dua for deceased female.",
+              "After janazah salah, raise your hands and read this death dua with full hope in Allah’s mercy.",
+              "When giving condolences for loss of son or daughter, softly recite this islamic dua for the family.",
+              "At the grave, quietly say this deceased dua asking Allah to give her a better home and family.",
+              "In your daily zikr allah, include this masnoon dua to keep her in your prayers and ask for forgiveness."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 305,
+          "title": "Dua for Janazah Prayer (Funeral Prayer)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَعِذْهُ مِنْ عَذَابِ الْقَبْرِ",
+          "audio": "/audio/dua/305.mp3",
+          "transliteration": "Allaahumma 'a'idh-hu min 'adhaabil-qabr",
+          "translation": "O Allah, protect him from the torment of the grave.\n\nNarrated by Sa’eed Ibn Musayyib (R) He said, \"I perform janaza of a child behind Abu Hurairah (RA) who has never committed any sin.\" There I heard Abu Huraira (RA) say: (The dua is Mentioned above)",
+          "reference": "Sahih (Shu'aib al-Arnaut). Al-Muwatta: 540",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Janazah Prayer Dua",
+            "description": "This short but strong dua in janazah prayer asks Allah to save the dead from grave pain, giving hope and mercy to the soul and comfort to the family in their hard time.",
+            "points": [
+              "Allah gives Rahmah to the dead when muslims make this janazah prayer.",
+              "This funeral prayer islam keeps the soul safe from grave’s hard punishment.",
+              "Salatul janazah dua brings maghfirat and hope for the deceased muslim.",
+              "Mayat ki dua helps the family feel peace and trust in Allah’s mercy always.",
+              "Prayer for deceased soul in islam shows true Amal and care for muslim ummah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Janazah Prayer",
+            "description": "This janazah prayer is a short and strong dua, asking Allah to save the deceased from the pain of the grave, bringing hope and Barakah for the soul in the next life and comfort for the family.",
+            "points": [
+              "During salatul janazah, recite this janazah prayer after the third takbeer.",
+              "When you stand at the grave after burial, use this dua for the dead for protection.",
+              "If you hear news of someone’s passing, make this prayer for deceased soul at home.",
+              "While teaching namaz e janaza ka tarika, share this mayat ki dua with students.",
+              "After funeral prayer islam, quietly read this dua for someone who passed away for maghfirat."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Janazah Prayer Dua",
+            "description": "This short janazah prayer is a strong islamic dua asking Allah to save the dead from grave’s pain. It is a simple masnoon dua every Muslim should know for funeral prayer in Islam.",
+            "steps": [
+              "Make your niyyah for salatul janazah and stand with the muslims to pray for the dead.",
+              "After the third takbeer, recite this janaza ki dua with a soft heart for the deceased.",
+              "When you finish namaz e janaza, quietly say this dua for maghfirat for the soul’s peace.",
+              "At the graveyard, repeat this prayer for deceased soul as you lower the mayat in the grave.",
+              "In your daily zikr allah, remember this dua for someone who passed away and ask for mercy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 306,
+          "title": "Dua for Deceased Child (Janaza dua)",
+          "category_tags": [],
+          "introduction": "The famous Tabi'i Hasan Basri (R) used to recite Surah Fatiha at the janaza of child and recite the following du'a:",
+          "arabic": "اَللَّهُمَّ اجْعَلْهُ لَنَا سَلَفًا وَّفَرَطًا وَّأَجْرًا",
+          "audio": "/audio/dua/306.mp3",
+          "transliteration": "Allahum-maj'alhu lanaa salafan, wa faratan, wa 'ajran",
+          "translation": "O Allah, make him for us a precursor, a forerunner and a cause of reward.",
+          "reference": "Mawquf Hasan (Albani). Ahkamul-Jana'iz, 160 Page",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Death Dua for Deceased Child",
+            "description": "This simple janaza dua asks Allah to make the lost child a source of reward and hope, bringing comfort to hearts and keeping the family’s faith strong in times of sadness and loss.",
+            "points": [
+              "Allah gives reward to parents who make this death dua for their child.",
+              "This dua for the deceased helps the child become a means of Barakah in akhirah.",
+              "Janaza dua brings hope and Amal for muslims facing loss of a loved one.",
+              "Prayer for deceased soul in islam keeps the family’s Iman strong and steady.",
+              "Deceased dua reminds muslims to trust Allah’s mercy and His perfect plan."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Death Dua",
+            "description": "This death dua is a gentle janaza dua for a child, asking Allah to make the child a source of reward and Barakah for the family, and to bring hope and comfort to hearts with Iman and Amal.",
+            "points": [
+              "At the time of janaza dua, recite this death dua after the third takbeer for the child.",
+              "When you visit the grave of a young one, use this dua for the deceased for reward.",
+              "After hearing about a child’s passing, quietly make this deceased dua at home for comfort.",
+              "While teaching prayer for the dead, share this dua for the dead with others for learning.",
+              "During family gatherings remembering lost children, softly read this prayer for deceased soul."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Death Dua for Deceased Child",
+            "description": "This death dua is a gentle islamic prayer asking Allah to make the child a source of Barakah and reward for the family. It is a masnoon dua that brings hope and comfort to hearts in times of loss.",
+            "steps": [
+              "Begin by joining the janaza prayer and after takbeer, recite this dua for the deceased child.",
+              "When you visit the grave, softly say this prayer for deceased soul and ask for Allah’s mercy.",
+              "After namaz dua, include this deceased dua in your zikr allah for the child’s reward and peace.",
+              "While giving condolences, share this dua for the dead to bring comfort to the grieving family.",
+              "In your daily duas from quran, remember this janaza dua to keep the child in your prayers."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 307,
+          "title": "Forgiveness Dua for Deceased (Janaza dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لَهُ وَثَبِّتْهُ",
+          "audio": "/audio/dua/307.mp3",
+          "transliteration": "Allahum-maghfir lahu wa thabbithu",
+          "translation": "O Allah, forgive him, strengthen him (During question of grave)\n\nNarrated Uthman ibn Affan (RA) : Whenever the Prophet (ﷺ) became free from burying the dead, he used to stay at him (i.e. his grave) and say: Seek forgiveness for your brother, and beg steadfastness for him, for he will be questioned now.",
+          "reference": "Sahih. Abu Dawud: 3221",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، حَدَّثَنَا هِشَامٌ، عَنْ عَبْدِ اللَّهِ بْنِ بَحِيرٍ، عَنْ هَانِئٍ، مَوْلَى عُثْمَانَ عَنْ عُثْمَانَ بْنِ عَفَّانَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا فَرَغَ مِنْ دَفْنِ الْمَيِّتِ وَقَفَ عَلَيْهِ فَقَالَ ‏ \"‏ اسْتَغْفِرُوا لأَخِيكُمْ وَسَلُوا لَهُ التَّثْبِيتَ فَإِنَّهُ الآنَ يُسْأَلُ ‏\" ‏ ‏.‏ قَالَ أَبُو دَاوُدَ بَحِيرُ بْنُ رَيْسَانَ ‏.‏",
+            "translation": "Narrated Uthman ibn Affan: Whenever the Prophet (ﷺ) became free from burying the dead, he used to stay at him (i.e. his grave) and say: Seek forgiveness for your brother, and beg steadfastness for him, for he will be questioned now. Abu Dawud said: The full name of the narrator Buhair is Buhair b. Raisan. [Sahih (Albani). Abu Dawud: 3221]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Forgiveness for Deceased",
+            "description": "This short janaza dua asks Allah for forgiveness and strength for the dead, bringing hope and peace to families and reminding muslims to trust Allah’s mercy in every moment of loss.",
+            "points": [
+              "Allah forgives the dead when muslims make this dua of forgiveness in janaza.",
+              "This islamic prayer for the dead gives strength during grave’s hard questions.",
+              "Janaza dua brings comfort and Barakah to the family in their time of sadness.",
+              "Prayer for deceased soul in islam helps muslims remember Allah’s Rahmah always.",
+              "Saying allahummaghfirlahu shows true Amal and care for the muslim ummah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Forgiveness Dua for Deceased (Janaza dua)",
+            "description": "This dua of forgiveness is recited for the deceased, asking Allah to forgive and give strength to the soul during the grave’s questions, bringing peace and Barakah to the departed in line with Islamic prayers.",
+            "points": [
+              "After the funeral prayer in islam, recite allahummaghfirlahu for the deceased soul.",
+              "When visiting a graveyard, muslims use this janaza dua as a prayer for the dead.",
+              "During burial, make dua for deceased by saying allahummaghfirlahu warhamhu.",
+              "If you hear news of a muslim passing, offer this islamic prayer for the dead right away.",
+              "At times of islamic condolences, say this dua for the dead to ask Allah for mercy and Jannah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of Forgiveness for Deceased",
+            "description": "This dua of forgiveness is a short but strong islamic prayer for the dead, asking Allah to forgive and give strength to the deceased in the grave. It is a masnoon dua every Muslim should use in janaza dua and daily zikr allah.",
+            "steps": [
+              "Stand with the jamaat for funeral prayer in islam and recite allahummaghfirlahu after takbeer.",
+              "At the grave, quietly say this dua for deceased and ask Allah to keep him firm in questioning.",
+              "When you hear news of death, softly read this prayer for the dead and make dua for forgiveness.",
+              "After namaz dua, include this islamic prayer for deceased in your daily duas from quran.",
+              "While giving islamic condolences, share this janaza dua to comfort the family and pray for Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 308,
+          "title": "Dua for Death and Patience (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنَّ لِلَّهِ مَا أَخَذَ وَلَهُ مَا أَعْطَى وَكُلٌّ عِنْدَهُ بِأَجَلٍ مُسَمًّى",
+          "audio": "/audio/dua/308.mp3",
+          "transliteration": "Inna lillaahi maa 'akhadha, wa lahu maa 'a'taa, wa kullun 'indahu bi'ajalin musamma",
+          "translation": "Whatever Allah takes is His, and whatever He gives is His, and everything with Him has a limited fixed term (in this world).\n\nNarrated by Usama bin Zaid (RA): We were with the Prophet (ﷺ) when suddenly there came to him a messenger from one of his daughters who was asking him to come and see her son who was dying. The Prophet (ﷺ) said (to the messenger), (The dua is Mentioned above). So order her to be patient and hope for Allah's reward.",
+          "reference": "Bukhari: 7377",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم إِذْ جَاءَهُ رَسُولُ إِحْدَى بَنَاتِهِ يَدْعُوهُ إِلَى ابْنِهَا فِي الْمَوْتِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ارْجِعْ فَأَخْبِرْهَا أَنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَىْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَمُرْهَا فَلْتَصْبِرْ وَلْتَحْتَسِبْ ‏\"‏‏.‏ فَأَعَادَتِ الرَّسُولَ أَنَّهَا أَقْسَمَتْ لَتَأْتِيَنَّهَا، فَقَامَ النَّبِيُّ صلى الله عليه وسلم وَقَامَ مَعَهُ سَعْدُ بْنُ عُبَادَةَ وَمُعَاذُ بْنُ جَبَلٍ، فَدُفِعَ الصَّبِيُّ إِلَيْهِ وَنَفْسُهُ تَقَعْقَعُ كَأَنَّهَا فِي شَنٍّ فَفَاضَتْ عَيْنَاهُ فَقَالَ لَهُ سَعْدٌ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ هَذِهِ رَحْمَةٌ جَعَلَهَا اللَّهُ فِي قُلُوبِ عِبَادِهِ، وَإِنَّمَا يَرْحَمُ اللَّهُ مِنْ عِبَادِهِ الرُّحَمَاءَ ‏\"‏‏.‏",
+            "translation": "Narrated Usama bin Zaid: We were with the Prophet (ﷺ) when suddenly there came to him a messenger from one of his daughters who was asking him to come and see her son who was dying. The Prophet (ﷺ) said (to the messenger), \"Go back and tell her that whatever Allah takes is His, and whatever He gives is His, and everything with Him has a limited fixed term (in this world). So order her to be patient and hope for Allah's reward.\" But she sent the messenger to the Prophet (ﷺ) again, swearing that he should come to her. So the Prophet got up, and so did Sa`d bin 'Ubada and Mu`adh bin Jabal (and went to her). When the child was brought to the Prophet (ﷺ) his breath was disturbed in his chest as if it were in a water skin. On that the eyes of the Prophet (ﷺ) became flooded with tears, whereupon Sa`d said to him, \"O Allah's Messenger (ﷺ)! What is this?\" The Prophet (ﷺ) said, \"This is mercy which Allah has put in the heart of His slaves, and Allah bestows His mercy only on those of His slaves who are merciful (to others).\" [Bukhari: 7377]"
+          },
+          "benefits": {
+            "title": "Benefits of Death Dua and Patience (Inna Lillahi)",
+            "description": "This masnun dua reminds Muslims that all things belong to Allah and every loss has a set time, helping hearts find patience and trust in Allah’s plan during hard moments of death.",
+            "points": [
+              "Muslims say inna lillahi to show full trust in Allah’s Qadr and wisdom.",
+              "This death dua brings sabr and peace to hearts when someone passes away.",
+              "Saying innalillahiwainnailaihirojiun helps Muslims accept Allah’s will.",
+              "Dua for patience in Islam gives hope and Barakah in times of sadness.",
+              "Remembering this masnoon dua keeps Iman strong and Amal steady in every loss."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Death Dua and Patience (Masnun Dua)",
+            "description": "This death dua reminds us that all things belong to Allah, helping hearts find patience and Sabr when facing loss, and guiding Muslims to trust Allah’s plan with every test and every blessing.",
+            "points": [
+              "When hearing news of a Muslim’s death, recite inna lillahi for patience and Barakah.",
+              "At times of giving condolences message Islam, use this dua for sabr and comfort.",
+              "After losing a loved one, Muslims say this death dua to remember Allah’s Qadr.",
+              "While visiting a grieving family, offer this dua for patience in Islamic way.",
+              "When reflecting on Islamic quotes on death, recite this dua for strength and Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Death Dua for Patience",
+            "description": "This death dua teaches us to trust Allah’s plan and find sabr when someone passes away. It is a masnun dua that brings calm and helps Muslims remember everything belongs to Allah.",
+            "steps": [
+              "When you hear about a death, say inna lillahi wa inna ilayhi rajiun with this dua for patience.",
+              "At the home of the grieving family, gently recite this dua for sabr and remind them of Allah’s mercy.",
+              "During condolences message Islam, share this Islamic quotes on death to give hope and comfort.",
+              "After salah, include this dua in your zikr Allah to ask for patience in Islam and strong Iman.",
+              "While talking to children, explain this hadith on patience and help them learn this masnoon dua."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 309,
+          "title": "Condolence Dua for Death (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "It is better to recite this dua in giving condolence",
+          "arabic": "أَعْظَمَ اللَّهُ أَجْرَكَ، وَأَحْسَنَ عَزَاءَكَ، وَغَفَرَ لِمَيِّتِكَ",
+          "audio": "/audio/dua/309.mp3",
+          "transliteration": "A'dhamAllahu 'ajraka, wa 'ahsana 'azaa'aka wa ghafara limayyitik.",
+          "translation": "May Allah increase your reward, grant you the tawfiq of patience (in mourning), and forgive the dead person.",
+          "reference": "Al-Adhkaar lin Nawawi P. 126",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Condolence Dua for Death",
+            "description": "This masnun dua gives comfort to grieving hearts, asking Allah to reward, forgive, and help the family stay patient, showing true care and support in times of loss and sadness.",
+            "points": [
+              "Allah gives more reward to the family when Muslims say this condolence dua for death.",
+              "This dua for deceased brings hope and Barakah to the hearts of those in pain.",
+              "Islamic condolences help the family find sabr and tawfiq in their hard days.",
+              "Prayer for dead in Islam asks Allah to forgive the one who passed away.",
+              "Saying this dua for the deceased shows real Amal and love for the Muslim ummah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Condolence Dua for Death (Masnun Dua)",
+            "description": "This condolence dua for death brings comfort to grieving hearts, asking Allah to reward the mourner, give Sabr, and forgive the deceased, following the way of Islamic condolences and Barakah in every word.",
+            "points": [
+              "When meeting a grieving family, offer this condolence dua for death for comfort.",
+              "At the time of giving condolence message in Islam, recite this dua for deceased.",
+              "After hearing news of someone’s passing, Muslims use this dua for the dead.",
+              "While attending a janaza, make this prayer for dead to ask Allah for mercy and reward.",
+              "When remembering a loved one, say this dua for someone who passed away for Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Condolence Dua for Death",
+            "description": "This condolence dua for death is a gentle way to comfort someone who lost a loved one, asking Allah to give them patience and forgive the deceased. It is a masnun dua every Muslim should know for times of loss.",
+            "steps": [
+              "When you meet a grieving family, softly recite this condolence dua for death to show care.",
+              "At the home of the deceased, say this dua for deceased after giving your Islamic condolences.",
+              "If you hear news of someone’s passing, use this dua for someone who passed away right away.",
+              "While sending a condolence message in Islam, write this masnun dua to bring peace to hearts.",
+              "After janazah prayer, repeat this dua for the dead to ask Allah for mercy and Barakah for the deceased."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

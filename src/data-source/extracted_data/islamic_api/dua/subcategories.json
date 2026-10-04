@@ -1,0 +1,1833 @@
+{
+  "status": "success",
+  "message": "Sub-category fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "title": "The servant is dependent on his Lord",
+      "category": "duas-importance",
+      "dua-ids": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The most important thing to ask Allah for",
+      "category": "duas-importance",
+      "dua-ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ask for paradise & protection from fire",
+      "category": "duas-importance",
+      "dua-ids": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Dua to remain steadfast on the religion",
+      "category": "duas-importance",
+      "dua-ids": [
+        15,
+        16,
+        922
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dua of good outcome in all deeds",
+      "category": "duas-importance",
+      "dua-ids": [
+        17
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Seeking whatever good Allah can bestow",
+      "category": "duas-importance",
+      "dua-ids": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Shelter from horror, misery, evil consequences and rejoicing of the enemy",
+      "category": "duas-importance",
+      "dua-ids": [
+        20
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer",
+      "category": "duas-excellence",
+      "dua-ids": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Times and places when dua will be accepted",
+      "category": "time-of-dua",
+      "dua-ids": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Those whose duas are accepted",
+      "category": "dua-acceptance",
+      "dua-ids": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Excellence of dua in the morning & evening",
+      "category": "morning-and-evening",
+      "dua-ids": [
+        77
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Morning & Evening Adhkar",
+      "category": "morning-and-evening",
+      "dua-ids": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        862,
+        864,
+        866,
+        1001
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Dhikr in busy state",
+      "category": "morning-and-evening",
+      "dua-ids": [
+        111,
+        112,
+        113,
+        114,
+        863,
+        865,
+        867
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Before sleep",
+      "category": "sleep",
+      "dua-ids": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ]
+    },
+    {
+      "id": 15,
+      "title": "After waking up",
+      "category": "sleep",
+      "dua-ids": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Duas related to wearing clothes",
+      "category": "cloths",
+      "dua-ids": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ]
+    },
+    {
+      "id": 17,
+      "title": "When leaving the home",
+      "category": "home",
+      "dua-ids": [
+        154,
+        155,
+        156
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Upon entering the home",
+      "category": "home",
+      "dua-ids": [
+        157,
+        158,
+        159
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Duas related to toilets",
+      "category": "toilet",
+      "dua-ids": [
+        160,
+        161
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Dua while hearing the adhaan",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        162,
+        163
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Dua after the adhaan",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        164,
+        165
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Dua between Adhaan and Iqamah",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Dua for Imam and Mu'adhdhin",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        168
+      ]
+    },
+    {
+      "id": 24,
+      "title": "When starting ablution",
+      "category": "ablution-and-bath",
+      "dua-ids": [
+        169
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Upon completing the ablution",
+      "category": "ablution-and-bath",
+      "dua-ids": [
+        170,
+        171,
+        172
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Going to the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        173,
+        174
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Entering the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Getting out of the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        179,
+        180,
+        181,
+        182,
+        183
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Announcement of lost things in the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        184
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Trading in the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        185
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Duas After Takbeer (Start of prayer)",
+      "category": "salah",
+      "dua-ids": [
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        872
+      ]
+    },
+    {
+      "id": 32,
+      "title": "If afflicted by whisperings in prayer or recitation",
+      "category": "salah",
+      "dua-ids": [
+        193
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Duas in rukoo",
+      "category": "salah",
+      "dua-ids": [
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        871,
+        873
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Upon rising from rukoo",
+      "category": "salah",
+      "dua-ids": [
+        202,
+        203
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Duas while in a state of rukoo",
+      "category": "salah",
+      "dua-ids": [
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        874,
+        876
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Duas in prostration [sujood]",
+      "category": "salah",
+      "dua-ids": [
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Duas in between two prostrations",
+      "category": "salah",
+      "dua-ids": [
+        222,
+        223
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Prostration due to Quran recitation",
+      "category": "salah",
+      "dua-ids": [
+        224,
+        225,
+        226,
+        227
+      ]
+    },
+    {
+      "id": 39,
+      "title": "The Tashahhud",
+      "category": "salah",
+      "dua-ids": [
+        228,
+        868,
+        869
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Prayers upon the Prophet (ﷺ) after tashahhud",
+      "category": "salah",
+      "dua-ids": [
+        229,
+        230
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Duas after the last tashahhud & before salam",
+      "category": "salah",
+      "dua-ids": [
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        875
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Duas in salat",
+      "category": "salah",
+      "dua-ids": [
+        246,
+        870
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Duas after Fajr and Maghrib",
+      "category": "salah",
+      "dua-ids": [
+        247,
+        248,
+        249
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Masnun Dhikr after obligatory prayers",
+      "category": "salah",
+      "dua-ids": [
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Duas after salaam",
+      "category": "salah",
+      "dua-ids": [
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Dua after Fajr prayer",
+      "category": "salah",
+      "dua-ids": [
+        269,
+        270
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Other duas related to salat",
+      "category": "salah",
+      "dua-ids": [
+        271,
+        272
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Dua for starting Tahajjud prayer",
+      "category": "witr-and-other",
+      "dua-ids": [
+        273,
+        877,
+        878
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Dua of Witr prayer",
+      "category": "witr-and-other",
+      "dua-ids": [
+        274,
+        275,
+        276
+      ]
+    },
+    {
+      "id": 50,
+      "title": "The Surahs that the Prophet (ﷺ) used to recite in the Witr prayer",
+      "category": "witr-and-other",
+      "dua-ids": [
+        277
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Dua Qunut",
+      "category": "witr-and-other",
+      "dua-ids": [
+        278,
+        279,
+        280
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Tahajjud prayer (Qiyam Al Layl)",
+      "category": "witr-and-other",
+      "dua-ids": [
+        281,
+        282
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Some special prayers",
+      "category": "witr-and-other",
+      "dua-ids": [
+        283,
+        284
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Things to do for the dead",
+      "category": "grave-funeral",
+      "dua-ids": [
+        285
+      ]
+    },
+    {
+      "id": 55,
+      "title": "To bury the dead",
+      "category": "grave-funeral",
+      "dua-ids": [
+        286,
+        287,
+        288,
+        289
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Duas for visiting graves",
+      "category": "grave-funeral",
+      "dua-ids": [
+        290,
+        291,
+        292,
+        293
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Funeral prayers",
+      "category": "grave-funeral",
+      "dua-ids": [
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Duas at the child's funeral",
+      "category": "grave-funeral",
+      "dua-ids": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Duas to be recited in Ramadan",
+      "category": "fasting",
+      "dua-ids": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Duas for Musafir",
+      "category": "travel",
+      "dua-ids": [
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        879
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Duas for Hajjis",
+      "category": "hajj-and-umrah",
+      "dua-ids": [
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        880,
+        881,
+        882,
+        883,
+        884,
+        885,
+        886,
+        887,
+        888,
+        889,
+        890,
+        891
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Duas for sacrificer",
+      "category": "sacrifice",
+      "dua-ids": [
+        346,
+        347,
+        348,
+        349,
+        350
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Duas for expelling the devil and his whisperings",
+      "category": "evil-protection",
+      "dua-ids": [
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Prayers for the safety of the child",
+      "category": "evil-protection",
+      "dua-ids": [
+        360,
+        361,
+        362,
+        363
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Other prayers related to evil",
+      "category": "evil-protection",
+      "dua-ids": [
+        364,
+        365,
+        366,
+        367,
+        368
+      ]
+    },
+    {
+      "id": 66,
+      "title": "If you feel waswasa (evil whispers) in your heart",
+      "category": "evil-protection",
+      "dua-ids": [
+        369,
+        370,
+        371,
+        372
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Shelter from the evils of the Dajjal",
+      "category": "evil-protection",
+      "dua-ids": [
+        373
+      ]
+    },
+    {
+      "id": 68,
+      "title": "When angry",
+      "category": "evil-protection",
+      "dua-ids": [
+        374,
+        375,
+        376
+      ]
+    },
+    {
+      "id": 69,
+      "title": "The best prayer for forgiveness - Sayyidul Istigfar",
+      "category": "forgiveness",
+      "dua-ids": [
+        382
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Istigfaar which are mentioned in Hadith",
+      "category": "forgiveness",
+      "dua-ids": [
+        377,
+        378,
+        379,
+        380,
+        381,
+        920,
+        921,
+        932,
+        935,
+        936,
+        937,
+        938,
+        940,
+        957,
+        958,
+        959,
+        960,
+        961,
+        962,
+        963,
+        964
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Istigfaar which are mentioned in Quran",
+      "category": "forgiveness",
+      "dua-ids": [
+        939,
+        942,
+        943,
+        944,
+        945,
+        946,
+        947,
+        948,
+        949,
+        950,
+        951,
+        952,
+        953,
+        954,
+        955,
+        956
+      ]
+    },
+    {
+      "id": 72,
+      "title": "The words of the Qur'an and Hadith about repentance",
+      "category": "forgiveness",
+      "dua-ids": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Sermon of Marriage",
+      "category": "marriage",
+      "dua-ids": [
+        390
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Blessings after marriage",
+      "category": "marriage",
+      "dua-ids": [
+        391,
+        392,
+        393,
+        394,
+        395
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Duas related to the newborn",
+      "category": "marriage",
+      "dua-ids": [
+        396,
+        397
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Duas regarding to the family",
+      "category": "family",
+      "dua-ids": [
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        892
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Duas for settling debt",
+      "category": "debt",
+      "dua-ids": [
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        458,
+        459,
+        899
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Duas for distressed",
+      "category": "anxiety",
+      "dua-ids": [
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        893,
+        894,
+        895
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Duas in the time of hopelessness",
+      "category": "danger",
+      "dua-ids": [
+        428,
+        429
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Duas in the time of fearing of harm",
+      "category": "danger",
+      "dua-ids": [
+        430,
+        431,
+        432
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Duas to be recited when one is in danger",
+      "category": "danger",
+      "dua-ids": [
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Duas related to War",
+      "category": "danger",
+      "dua-ids": [
+        896,
+        897,
+        900,
+        901,
+        902
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Duas to be recited in condemnation and praise",
+      "category": "condemnationpraise",
+      "dua-ids": [
+        450,
+        451,
+        452
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Duas to be recited for the welfare of others",
+      "category": "condemnationpraise",
+      "dua-ids": [
+        453,
+        454,
+        455,
+        456,
+        457,
+        460,
+        461,
+        898
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Etiquette in sneezing and yawn",
+      "category": "manners",
+      "dua-ids": [
+        462,
+        463,
+        464,
+        465,
+        466,
+        467
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Duas for sneezing",
+      "category": "manners",
+      "dua-ids": [
+        468,
+        469,
+        470,
+        471,
+        472,
+        473
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Duas at the end of the meeting",
+      "category": "manners",
+      "dua-ids": [
+        474,
+        475
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Duas recited upon seeing something pleasant or harmful",
+      "category": "manners",
+      "dua-ids": [
+        476,
+        477
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Duas about praise",
+      "category": "manners",
+      "dua-ids": [
+        478,
+        479
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Etiquette of salutation",
+      "category": "manners",
+      "dua-ids": [
+        480,
+        481,
+        904
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Duas on various manners and etiquettes",
+      "category": "manners",
+      "dua-ids": [
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        903
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Dua for a person in meeting",
+      "category": "gathering",
+      "dua-ids": [
+        492,
+        493,
+        494,
+        495,
+        496
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Etiquette of taking food and drink",
+      "category": "food",
+      "dua-ids": [
+        497
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Prayers at the beginning of the meal",
+      "category": "food",
+      "dua-ids": [
+        498,
+        499
+      ]
+    },
+    {
+      "id": 95,
+      "title": "If forget to mention the name of Allah in the beginning",
+      "category": "food",
+      "dua-ids": [
+        500
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Dua between eating and drinking",
+      "category": "food",
+      "dua-ids": [
+        501
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Duas at the end of the meal",
+      "category": "food",
+      "dua-ids": [
+        502,
+        503,
+        504,
+        505,
+        506,
+        905,
+        906
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Dua by the guest for the host",
+      "category": "food",
+      "dua-ids": [
+        507,
+        508,
+        509
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Duas regarding to animals",
+      "category": "animals",
+      "dua-ids": [
+        510,
+        511,
+        512,
+        513,
+        514,
+        515
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Duas related to nature",
+      "category": "rainnature",
+      "dua-ids": [
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        907,
+        908,
+        909,
+        910,
+        911,
+        912
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Duas for the sick person",
+      "category": "sickness",
+      "dua-ids": [
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        913,
+        914,
+        915,
+        916,
+        917,
+        918
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Duas for the dead person",
+      "category": "sickness",
+      "dua-ids": [
+        551,
+        552
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Duas related to evil eye",
+      "category": "sickness",
+      "dua-ids": [
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        919
+      ]
+    },
+    {
+      "id": 104,
+      "title": "What to do in the treatment of Jinn, black magics and diseases",
+      "category": "jinndiseases",
+      "dua-ids": [
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578
+      ]
+    },
+    {
+      "id": 105,
+      "title": "What to do after the possession is confirmed",
+      "category": "jinndiseases",
+      "dua-ids": [
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Duas related to the oppressed",
+      "category": "quranic-dua",
+      "dua-ids": [
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        1000
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Duas for seeking forgiveness",
+      "category": "quranic-dua",
+      "dua-ids": [
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        924
+      ]
+    },
+    {
+      "id": 108,
+      "title": "General duas",
+      "category": "quranic-dua",
+      "dua-ids": [
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Other duas",
+      "category": "quranic-dua",
+      "dua-ids": [
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Duas by the name of Allah",
+      "category": "greatest-name-of-allah",
+      "dua-ids": [
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683
+      ]
+    },
+    {
+      "id": 111,
+      "title": "The way the Prophets and the Messengers prayed",
+      "category": "prophets-dua",
+      "dua-ids": [
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694
+      ]
+    },
+    {
+      "id": 112,
+      "title": "How the Prophet (ﷺ) and his Companions made duas",
+      "category": "duas-of-hadith",
+      "dua-ids": [
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        923
+      ]
+    },
+    {
+      "id": 113,
+      "title": "About Muhammad (ﷺ) and his Companions",
+      "category": "duas-of-sahaba",
+      "dua-ids": [
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Some duas mentioned in the hadith",
+      "category": "masnun-duas",
+      "dua-ids": [
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        814,
+        815,
+        816
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Duas on various subjects",
+      "category": "other-duas",
+      "dua-ids": [
+        817,
+        818,
+        819,
+        820,
+        821,
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830,
+        831,
+        832,
+        833,
+        834,
+        835,
+        836,
+        837,
+        838,
+        839,
+        925
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Daily Sunnah sentences",
+      "category": "when-to-say-what",
+      "dua-ids": [
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854,
+        855,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Duas to be read on the day of Eid",
+      "category": "eid",
+      "dua-ids": [
+        926,
+        927,
+        928,
+        929
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Rabbana Duas",
+      "category": "40-rabbana-duas",
+      "dua-ids": [
+        930,
+        931,
+        933,
+        934,
+        941,
+        965,
+        966,
+        967,
+        968,
+        969,
+        970,
+        971,
+        972,
+        973,
+        974,
+        975,
+        976,
+        977,
+        978,
+        979,
+        980,
+        981,
+        982,
+        983,
+        984,
+        985,
+        986,
+        987,
+        988,
+        989,
+        990,
+        991,
+        992,
+        993,
+        994,
+        995,
+        996,
+        997,
+        998,
+        999
+      ]
+    }
+  ]
+}

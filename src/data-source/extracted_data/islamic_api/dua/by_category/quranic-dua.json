@@ -1,0 +1,2938 @@
+{
+  "category": {
+    "name": "Quranic Dua",
+    "url": "quranic-dua",
+    "icon": "quranic_dua.svg",
+    "meta": "4 Subcategories"
+  },
+  "total_subcategories": 4,
+  "total_duas": 85,
+  "subcategories": [
+    {
+      "id": 106,
+      "title": "Duas related to the oppressed",
+      "category": "quranic-dua",
+      "dua-ids": [
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        1000
+      ],
+      "duas": [
+        {
+          "dua_id": 594,
+          "title": "Dua for Relief from Oppressive People (Surah An-Nisa)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا أَخْرِجْنَا مِنْ هَـٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَاجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا",
+          "audio": "/audio/dua/594.mp3",
+          "transliteration": "Rabbanaaa akhrijnaa min haazihil-qaryatiz-zaalimi ahluhaa waj'al lanaa mil-ladunka waliyyan waj'al lanaa mil-ladunka naseeraa.",
+          "translation": "Our Lord, take us out of this city of oppressive people and appoint for us from Yourself a protector and appoint for us from Yourself a helper?\"",
+          "reference": "Surah Nisa 4:75",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 595,
+          "title": "Dua for Guidance in Difficult Times (Surah Al-Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنتَ خَيْرُ الْفَاتِحِينَ",
+          "audio": "/audio/dua/595.mp3",
+          "transliteration": "'Alallaahi tawakkalnaa; Rabbanaftah bainanaa wa baina qawminaa bil-haqqi wa Anta Khairul-Faatiheen.",
+          "translation": "Our Lord, decide between us and our people in truth, and You are the best of those who give decision.",
+          "reference": "Surah A'raf 7:89",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 596,
+          "title": "Dua of the oppressed​ from Wrongdoers (Surah Yunus)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ ﴿٨٥﴾ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ ﴿٨٦﴾",
+          "audio": "/audio/dua/596.mp3",
+          "transliteration": "'Alallaahi tawakkalnaa Rabbanaa laa taj'alnaa fitnatal-lil-qawmiz-zaalimeen. Wa najjinaa birahmatika minal-qawmil-kaafireen.",
+          "translation": "(85) Upon Allah do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people (86) And save us by Your mercy from the disbelieving people.",
+          "reference": "Surah Yunus 10: 85-86",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 597,
+          "title": "Dua for Protection from Corrupt People (Surah Ankabut)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ",
+          "audio": "/audio/dua/597.mp3",
+          "transliteration": "Rabbin-surnee 'alal-qawmil-mufsideen.",
+          "translation": "My Lord, support me against the corrupting people.",
+          "reference": "Surah Ankabut 29:30",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 598,
+          "title": "Dua for Protection from Wrongdoers (Surah Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+          "audio": "/audio/dua/598.mp3",
+          "transliteration": "Rabbanaa laa taj'alnaa ma'al-qawmiz-zaalimeen.",
+          "translation": "Our Lord, do not place us with the wrongdoing people.",
+          "reference": "Surah A'raf 7:47",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 599,
+          "title": "Dua for Safety from Wrongdoers (Surah Al-Qasas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+          "audio": "/audio/dua/599.mp3",
+          "transliteration": "Rabbi najjinee minal-qawmiz-zaalimeen.",
+          "translation": "My Lord, save me from the wrongdoing people.",
+          "reference": "Surah Al-Qasas 28:21",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 600,
+          "title": "Dua for Protection from Temptation (Surah Yusuf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ",
+          "audio": "/audio/dua/600.mp3",
+          "transliteration": "Rabbis-sijnu ahabbu ilaiya mimmaa yad'oonaneee ilaih; wa illaa tasrif 'annee kaidahunna asbu ilaihinna wa akum-minal-jaahileen.",
+          "translation": "My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant.",
+          "reference": "Surah Yusuf 12:33",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 601,
+          "title": "Dua for Pain and Hardship Relief (Surah Al-Anbya)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+          "audio": "/audio/dua/601.mp3",
+          "transliteration": "Annee massaniyad-durru wa Anta Arhamur-Raahimeen.",
+          "translation": "Indeed, adversity has touched me, and you are the Most Merciful of the merciful.",
+          "reference": "Surah Al-Ambiya 21:83",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 602,
+          "title": "Dua for Safety of Family from Harmful Deeds",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
+          "audio": "/audio/dua/602.mp3",
+          "transliteration": "Rabbi najjinee wa ahlee mimmaa ya'maloon.",
+          "translation": "My Lord, save me and my family from [the consequence of] what they do.",
+          "reference": "Surah Ash-Shu'ara 26:169",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 603,
+          "title": "Dua for Help in Times of Hardship (Surah Qamar)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَنِّي مَغْلُوبٌ فَانتَصِرْ",
+          "audio": "/audio/dua/603.mp3",
+          "transliteration": "Annee maghloobun fantasir.",
+          "translation": "Indeed, I am overpowered, so help.",
+          "reference": "Surah Qamar 54:10",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 1000,
+          "title": "Dua for Protection Against Oppression (Surah Ta Ha)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَىٰ ‎﴿٤٥﴾‏",
+          "audio": "",
+          "transliteration": "Rabbanaa innanaa nakhaafu 'an yafruta 'alaynaa 'aw 'an yatghaa",
+          "translation": "Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.",
+          "reference": "Surah Ta Ha 20:45",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Duas for seeking forgiveness",
+      "category": "quranic-dua",
+      "dua-ids": [
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        924
+      ],
+      "duas": [
+        {
+          "dua_id": 604,
+          "title": "Dua for Forgiveness (Surah Qasas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+          "audio": "/audio/dua/604.mp3",
+          "transliteration": "Rabbi innee zalamtu nafsee faghfir lee.",
+          "translation": "My Lord, indeed I have wronged myself, so forgive me",
+          "reference": "Surah Qasas 28:16",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 605,
+          "title": "Dua for Parents & Children (Dua of Prophet Ibrahim)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ ﴿٤٠﴾ رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ ﴿٤١﴾",
+          "audio": "/audio/dua/605.mp3",
+          "transliteration": "Rabbij-'alnee muqeemas-Salaati wa min zurriyyatee Rabbanaa wa taqabbal du'aaa'. Rabbanagh-fir lee wa liwaalidayya wa lil-mu'mineena Yawma yaqoomul-hisaab.",
+          "translation": "(40) My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication. (41) Our Lord, forgive me and my parents and the believers the Day when the account is established.",
+          "reference": "Surah Ibrahim 14:40-41",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 606,
+          "title": "Forgiveness Dua from Surah Sad",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ ٱغْفِرْ لِى",
+          "audio": "/audio/dua/606.mp3",
+          "transliteration": "Rabbigh-fir lee.",
+          "translation": "My Lord, forgive me",
+          "reference": "Surah Soad 38:35",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 607,
+          "title": "Dua for Muslim Family and Guidance (Surah Al-Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ",
+          "audio": "/audio/dua/607.mp3",
+          "transliteration": "Rabbanaa waj'alnaa muslimaini laka wa min zurriyyatinaa ummatan muslimatal-laka wa arinaa manaasikanaa wa tub 'alainaa innaka Antat-Tawwaabur-Raheem.",
+          "translation": "Our Lord! Make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful",
+          "reference": "Surah Al-Baqara 2:128",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 608,
+          "title": "Dua for Seeking Forgiveness and Mercy (Surah Muminun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+          "audio": "/audio/dua/608.mp3",
+          "transliteration": "Rabbanaaa aamannaa faghfir lanaa warhamnaa wa Anta Khairur-Raahimeen.",
+          "translation": "Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
+          "reference": "Surah Muminun 23:109",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 609,
+          "title": "Dua for Allah’s Forgiveness and Kindness (Surah Muminun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+          "audio": "/audio/dua/609.mp3",
+          "transliteration": "Rabbigh-fir warham wa Anta Khairur-Raahimeen.",
+          "translation": "My Lord, forgive and have mercy, and You are the best of the merciful.",
+          "reference": "Surah Muminun 23:118",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 610,
+          "title": "Dua for Forgiveness for Siblings (Surah Al-Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ ۖ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+          "audio": "/audio/dua/610.mp3",
+          "transliteration": "Rabbigh-fir lee wa li-akhee wa adkhilnaa fee rahmatika wa Anta Arhamur-Raahimeen.",
+          "translation": "My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.",
+          "reference": "Surah Al-A'raf 7:151",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 611,
+          "title": "Dua for Obedience and Forgiveness (Surah Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ",
+          "audio": "/audio/dua/611.mp3",
+          "transliteration": "Sami'naa wa ata'naa ghufraanaka Rabbanaa wa ilaikal-maseer.",
+          "translation": "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.",
+          "reference": "Surah Baqara 2:285",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 612,
+          "title": "Dua for Forgiveness and Fire Protection (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+          "audio": "/audio/dua/612.mp3",
+          "transliteration": "Rabbanaaa innanaaa aamannaa faghfir lanaa zunoobanaa wa qinaa 'azaaban-Naar.",
+          "translation": "Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire",
+          "reference": "Surah Ali-Imran 3:16",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 613,
+          "title": "Dua for Forgiveness and Strength in Hard Times (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+          "audio": "/audio/dua/613.mp3",
+          "transliteration": "Rabbanagh-fir lanaa zunoobanaa wa israafanaa feee amrinaa wa thabbit aqdaamanaa wansurnaa 'alal-qawmil-kaafireen.",
+          "translation": "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.",
+          "reference": "Surah Ali-Imran 3:147",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 614,
+          "title": "Dua for Forgiveness & Seeking Mercy (Surah Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+          "audio": "/audio/dua/614.mp3",
+          "transliteration": "Rabbanaa zalamnaaa anfusanaa wa il-lam taghfir lanaa wa tarhamnaa lanakoonanna minal-khaasireen.",
+          "translation": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+          "reference": "Surah A'raf 7:23",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 615,
+          "title": "Dua for Knowledge and Forgiveness (Surah Hud)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ إِنِّي أَعُوْذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِّنَ الْخَاسِرِينَ",
+          "audio": "/audio/dua/615.mp3",
+          "transliteration": "Rabbi innee a'oozu bika an as'alaka maa laisa lee bihee 'ilm; wa illaa taghfir lee wa tarhamneee akum-minal-khaasireen.",
+          "translation": "My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.",
+          "reference": "Surah Hud 11:47",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 616,
+          "title": "Dua for Forgiveness and Unity Among Believers",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+          "audio": "/audio/dua/616.mp3",
+          "transliteration": "Rabbanagh-fir lanaa wa li-ikhwaaninallazeena sabaqoonaa bil-eemaani wa laa taj'al fee quloobinaa ghillal-lillazeena aamanoo Rabbanaaa innaka Ra'oofur-Raheem.",
+          "translation": "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.",
+          "reference": "Surah Hashr 59:10",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 617,
+          "title": "Dua for Parents and Believers Forgiveness (Surah Nooh)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+          "audio": "/audio/dua/617.mp3",
+          "transliteration": "Rabbigh-fir lee wa liwaalidayya wa liman dakhala baitiya mu'minan wa lil-mu'mineena wal-mu'minaat; wa laa tazidiz-zaalimeena illaa tabaaraa.",
+          "translation": "My Lord, forgive me and my parents and whoever enters my house as a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.",
+          "reference": "Surah Nooh 71:28",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 924,
+          "title": "Dua for Forgiveness for Sins and Mistakes",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لِي خَطِيْئَتِي وَجَهْلِي، وَإِسْرَافِي فِي أَمْرِي، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، اَللَّهُمَّ اغْفِرْ لِي هَزْلِي وَجِدِّي وَخَطَايَايَ وَعَمْدِي، وَكُلُّ ذَلِكَ عِنْدِي",
+          "audio": "",
+          "transliteration": "Allaahummaghfir lee khatee a-tee wa jahlee, wa israafee fee amree, wa maa anta a‛lamu bihi minnee, Allaahumma-ghfir lee hazlee wa jiddee wa khataayaaya wa ‛amdee, wa kullu dhaalika ‛indee.",
+          "translation": "O Allah, forgive my sin, my ignorance, my excessiveness in my affairs, and whatever You are better aware (of my affairs) than myself. O Allah, grant me forgiveness [of the faults which I committed] jestingly or in earnest, and which I committed inadvertently and deliberately; and indeed, all of these [failings] are in me.",
+          "reference": "Bukhari: 6399",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا إِسْرَائِيلُ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى، وَأَبِي، بُرْدَةَ ـ أَحْسِبُهُ ـ عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَدْعُو ‏ \"‏ اللَّهُمَّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي وَإِسْرَافِي فِي أَمْرِي، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، اللَّهُمَّ اغْفِرْ لِي هَزْلِي وَجِدِّي وَخَطَاىَ وَعَمْدِي، وَكُلُّ ذَلِكَ عِنْدِي ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Musa Al-Ash`ari: The Prophet (ﷺ) used to invoke Allah, saying, \"Allahumma ighfirli khati'ati wa jahli wa israfi fi `Amri, wa ma anta a-'lamu bihi minni. Allahumma ighfirli hazali wa jiddi wa khata'i wa amdi, wa kullu dhalika 'indi.\" [Bukhari: 6399]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "General duas",
+      "category": "quranic-dua",
+      "dua-ids": [
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634
+      ],
+      "duas": [
+        {
+          "dua_id": 618,
+          "title": "Dua for Mercy, Forgiveness & Paradise (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾ رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ ﴿١٩٢﴾ رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾ رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾",
+          "audio": "/audio/dua/618.mp3",
+          "transliteration": "Rabbanaa maa khalaqta haazaa baatilan Subhaanaka faqinaa 'azaaban-Naar. Rabbanaa innaka man tudkhilin-Naara faqad akhzaitahoo wa maa lizzaalimeena min ansaar. Rabbanaa innanaa sami'naa munaadiyan yunaadee lil-eemaani an aaminoo bi-Rabbikum fa-aamannaa; Rabbanaa faghfir lanaa zunoobanaa wa kaffir 'annaa sayyi-aatinaa wa tawaffanaa ma'al-abraar. Rabbanaa wa aatinaa maa wa'adtanaa 'alaa rusulika wa laa tukhzinaa Yawmal-Qiyaamah; innaka laa tukhliful-mee'aad.",
+          "translation": "(191) Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire (192) Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers. (193) Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous. (194) Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\"",
+          "reference": "Surah Ali-Imran 3:191-194",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 619,
+          "title": "Dua for Righteousness and Jannah (Surah Ash-Shu'ara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ ﴿٨٣﴾ وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ ﴿٨٤﴾ وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ ﴿٨٥﴾",
+          "audio": "/audio/dua/619.mp3",
+          "transliteration": "Rabbi hab lee hukman wa alhiqnee bis-saaliheen. Waj'al lee lisaana sidqin fil-aakhireen. Waj'alnee min warathati Jannatin-Na'eem.",
+          "translation": "(83) \"My Lord, grant me authority and join me with the righteous. (84) And grant me a reputation of honor among later generations.(85) And place me among the inheritors of the Garden of Pleasure.",
+          "reference": "Surah Shu'ara 26:83-85",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 620,
+          "title": "Dua for Protection from Humiliation (Surah Ash-Shu'ara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ ﴿٨٧﴾ يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ ﴿٨٨﴾ إِلَّا مَنْ أَتَى اللَّـهَ بِقَلْبٍ سَلِيمٍ ﴿٨٩﴾",
+          "audio": "/audio/dua/620.mp3",
+          "transliteration": "Wa laa tukhzinee Yawma yub'athoon. Yawma laa yanfa'u maalun wa laa banoon. Illaa man atallaaha biqalbin saleem.",
+          "translation": "(87) And do not disgrace me on the Day they are [all] resurrected (88) The Day when there will not benefit [anyone] wealth or children (89) But only one who comes to Allah with a sound heart.",
+          "reference": "Surah Shu'ara 26:87-89",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 621,
+          "title": "Dua to Seek Allah’s Help and Forgiveness (Surah Mumtahina)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ ﴿٤﴾ رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ ﴿٥﴾",
+          "audio": "",
+          "transliteration": "Rabbanaa 'alaika tawakkalnaa wa ilaika anabnaa wa ilaikal-maseer. Rabbanaa laa taj'alnaa fitnatal-lillazeena kafaroo waghfir lanaa Rabbanaa innaka Antal-'Azeezul-Hakeem.",
+          "translation": "(4) Our Lord, upon You we have relied, and to You we have returned, and to You is the destination. (5) Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.",
+          "reference": "Surah Mumtahina 60:4-5",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 622,
+          "title": "Dua for Noor and Maghfirat (Surah At-Tahrim)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          "audio": "/audio/dua/622.mp3",
+          "transliteration": "Rabbanaaa atmim lanaa nooranaa waghfir lanaa innaka 'alaa kulli shai'in Qadeer.",
+          "translation": "Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.",
+          "reference": "Surah Tahrim 66:8",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 623,
+          "title": "Dua for Offspring (Surah Al-Anbya)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ",
+          "audio": "/audio/dua/623.mp3",
+          "transliteration": "Rabbi laa tazarnee fardan wa Anta Khairul-waaritheen.",
+          "translation": "My Lord, do not leave me alone [with no heir], while you are the best of inheritors.",
+          "reference": "Surah Ambiya 21:89",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 624,
+          "title": "Dua to Thank Allah for His Favour and Blessings (Surah An-Naml)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+          "audio": "/audio/dua/624.mp3",
+          "transliteration": "Rabbi awzi'nee an ashkura ni'matakal-lateee an'amta 'alayya wa 'alaa waalidayya wa an a'mala saalihan tardaahu wa adkhilnee birahmatika fee 'ibaadikas-saaliheen.",
+          "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.",
+          "reference": "Surah An-Naml 27:19",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 625,
+          "title": "Yunus Dua for Help in Difficult Times (Surah Al-Anbiya)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+          "audio": "/audio/dua/625.mp3",
+          "transliteration": "Laaa ilaaha illaa Anta Subhaanaka innee kuntu minaz-zaalimeen.",
+          "translation": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+          "reference": "Surah Al-Ambiya 21:87",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 626,
+          "title": "Dua for Relief from Hardship (Surah Al-Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+          "audio": "/audio/dua/626.mp3",
+          "transliteration": "Rabbanaa laa tu'aakhiznaaa in naseenaaa aw akhta'naa; Rabbanaa wa laa tahmil 'alainaa isran kamaa hamaltahoo 'alal-lazeena min qablinaa; Rabbanaa wa laa tuhammilnaa maa laa taaqata lanaa bih; wa'fu 'annaa waghfir lanaa warhamnaa; Anta Mawlaanaa fansurnaa 'alal-qawmil-kaafireen.",
+          "translation": "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.",
+          "reference": "Surah Al-Baqara 2:286",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 627,
+          "title": "Dua for Thanking Allah and Family Wellbeing",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي ۖ إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+          "audio": "/audio/dua/627.mp3",
+          "transliteration": "Rabbi awzi'nee an ashkura ni'matakal-lateee an'amta 'alayya wa 'alaa waalidayya wa an a'mala saalihan tardaahu wa aslih lee fee zurriyyatee innee tubtu ilaika wa innee minal-muslimeen.",
+          "translation": "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.",
+          "reference": "Surah Al-Ahqaf 46:15",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 628,
+          "title": "Dua for Faith and Witnessing in Quran",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+          "audio": "/audio/dua/628.mp3",
+          "transliteration": "Rabbanaaa aamannaa faktubnaa ma'ash-shaahideen.",
+          "translation": "Our Lord, we have believed, so register us among the witnesses.",
+          "reference": "Surah Al-Maidah 5:83",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 629,
+          "title": "Dua for Trusting Allah in difficult times (Surah At-Tawbah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+          "audio": "/audio/dua/629.mp3",
+          "transliteration": "Hasbiyallaahu laaa ilaaha illaa Huwa 'alaihi tawakkaltu wa Huwa Rabbul-'Arshil-'Azeem.",
+          "translation": "Sufficient for me is Allah; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.",
+          "reference": "Surah At-Tawbah 9:129",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 630,
+          "title": "Duas for Sabr in Hard Times (Surah Al-A'raf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+          "audio": "",
+          "transliteration": "Rabbanaaa afrigh 'alainaa sabran wa tawaffanaa muslimeen.",
+          "translation": "Our Lord, pour upon us patience and let us die as Muslims [in submission to You].",
+          "reference": "Surah Al-A'raf 7:126",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 631,
+          "title": "Dua for Guidance and Forgiveness (Surah Al-A'raf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّايَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا ۖ إِنْ هِيَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَاءُ وَتَهْدِي مَن تَشَاءُ ۖ أَنتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا ۖ وَأَنتَ خَيْرُ الْغَافِرِينَ ﴿١٥٥﴾ وَاكْتُبْ لَنَا فِي هَـٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ ۚ ﴿١٥٦﴾",
+          "audio": "/audio/dua/631.mp3",
+          "transliteration": "Rabbi law shi'ta ahlaktahum-min qablu wa iyyaay; atuhlikunaa bimaa fa'alas-sufahaaa'u minnaa; in hiya illaa fitnatuka tudillu bihaa man tashaaa'u wa tahdee man tashaaa'; Anta waliyyunaa faghfir lanaa warhamnaa wa Anta Khairul-Ghaafireen. Waktub lanaa fee haazihid-dunyaa hasanatan wa fil-Aakhirati innaa hudnaaa ilaik.",
+          "translation": "(155) My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers. (156) And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You.",
+          "reference": "Surah Al-A'raf 7:155-156",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 632,
+          "title": "Dua for Strength in Difficult Times (Surah Maryam)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ إِنِّى وَهَنَ الْعَظْمُ مِنِّى وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا",
+          "audio": "",
+          "transliteration": "Rabbi innee wahanal-'azmu minnee washta'alar-ra'su shaiban wa lam akum-bidu'aaa'ika Rabbi Shaqiyyaa.",
+          "translation": "My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy.",
+          "reference": "Surah Maryam 19:4",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 633,
+          "title": "Dua for Repentance and Protection (Surah Ghafir)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ",
+          "audio": "/audio/dua/633.mp3",
+          "transliteration": "Rabbanaa wasi'ta kulla shai'ir-rahmatan wa 'ilman faghfir lillazeena taaboo wattaba'oo sabeelaka wa qihim 'azaabal-Jaheem.",
+          "translation": "Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.",
+          "reference": "Surah Ghafir 40:7",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 634,
+          "title": "Dua for Not Supporting Wrongdoers (Surah Al-Qasas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ",
+          "audio": "/audio/dua/634.mp3",
+          "transliteration": "Rabbi bimaaa an'amta 'alayya falan akoona zaheeral-lil-mujrimeen.",
+          "translation": "My Lord, for the favor You bestowed upon me, I will never be an assistant to the criminals.",
+          "reference": "Surah Al-Qasas - 28:17",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Other duas",
+      "category": "quranic-dua",
+      "dua-ids": [
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676
+      ],
+      "duas": [
+        {
+          "dua_id": 635,
+          "title": "Surah Fatiha Dua for Help and Guidance",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+          "audio": "/audio/dua/635.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. Alhamdu lillaahi Rabbil-'aalameen. Ar-Rahmaanir-Raheem. Maaliki Yawmid-Deen. Iyyaaka na'budu wa iyyaaka nasta'een. Ihdinas-Siraatal-mustaqeem. Siraatal-lazeena an'amta 'alaihim ghairil-maghdoobi 'alaihim wa lad-daallleen.",
+          "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds. (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path. (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+          "reference": "Surah Fatiha 1:1-7",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 636,
+          "title": "Dua for Success in Life and Akhirah (Surah Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+          "audio": "/audio/dua/636.mp3",
+          "transliteration": "Rabbanaaa aatinaa fid-dunyaa hasanatan wa fil-Aakhirati hasanatan wa qinaa 'azaaban-Naar.",
+          "translation": "Our Lord! Grant us good in this world and good in the hereafter, and save us from the chastisement of the fire",
+          "reference": "Surah Baqara 2:201",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 637,
+          "title": "Dua for Steadfast Heart and Mercy (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ",
+          "audio": "/audio/dua/637.mp3",
+          "transliteration": "Rabbanaa laa tuzigh quloobanaa ba'da iz hadaitanaa wa hab lanaa mil-ladunka rahmah; innaka Antal-Wahhaab.",
+          "translation": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+          "reference": "Surah Ali-Imran 3:8",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 638,
+          "title": "Dua for Respect and Honour (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اللَّـهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          "audio": "/audio/dua/638.mp3",
+          "transliteration": "Allaahumma Maalikul-mulki tu'til-mulka man tashaaa'u wa tanzi'ul-mulka mimman tashaaa'u wa tu'izzu man tashaaa'u wa tuzillu man tashaaa'u biyadikal-khair; innaka 'alaa kulli shai'in Qadeer.",
+          "translation": "O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.",
+          "reference": "Surah Ali-Imran 3:26",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 639,
+          "title": "Dua for True Believers and Witnesses (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا آمَنَّا بِمَا أَنزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+          "audio": "/audio/dua/639.mp3",
+          "transliteration": "Rabbanaaa aamannaa bimaaa anzalta wattaba'nar-Rasoola faktubnaa ma'ash-shaahideen.",
+          "translation": "Our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses [to truth].",
+          "reference": "Surah Ali-Imran 3:53",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 640,
+          "title": "Dua for Safety and Protection from Shirk (Dua of Ibrahim)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ اجْعَلْ هَـٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ",
+          "audio": "/audio/dua/640.mp3",
+          "transliteration": "Rabbij-'al haazal-balada aaminan wajnubnee wa baniyya an na'budal-asnaam.",
+          "translation": "My Lord, make this city secure and keep me and my sons away from worshipping idols.",
+          "reference": "Surah Ibrahim 14:35",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 641,
+          "title": "Dua for Success & Truth (Surah Al-Isra)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا",
+          "audio": "/audio/dua/641.mp3",
+          "transliteration": "Rabbi adkhilnee mudkhala sidqin wa akhrijnee mukhraja sidqin waj'al lee mil-ladunka sultaanan naseeraa.",
+          "translation": "My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.",
+          "reference": "Surah Isra 17:80",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 642,
+          "title": "Dua for Confidence & Speech (Surah Ta-Ha)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي ﴿٢٥﴾ وَيَسِّرْ لِي أَمْرِي ﴿٢٦﴾ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ﴿٢٧﴾ يَفْقَهُوا قَوْلِي ﴿٢٨﴾",
+          "audio": "/audio/dua/642.mp3",
+          "transliteration": "Rabbish-rah lee sadree. Wa yassir leee amree. Wahlul 'uqdatam-mil-lisaanee. Yafqahoo qawlee.",
+          "translation": "(25) My Lord, expand for me my breast [with assurance] (26) And ease for me my task (27) And untie the knot from my tongue (28) That they may understand my speech.",
+          "reference": "Surah Ta Ha 20:25-28",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 643,
+          "title": "Dua to Increase Knowledge (Rabbi Zidni Ilma)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ زِدْنِي عِلْمًا",
+          "audio": "/audio/dua/643.mp3",
+          "transliteration": "Rabbi zidnee 'ilmaa.",
+          "translation": "My Lord, increase me in knowledge.",
+          "reference": "Surah Ta Ha 20:114",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 644,
+          "title": "Quranic Dua When Someone Insults (Surah Anbiya)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ احْكُم بِالْحَقِّ ۗ وَرَبُّنَا الرَّحْمَـٰنُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+          "audio": "/audio/dua/644.mp3",
+          "transliteration": "Rabbih-kum bil-haqq; wa Rabbunar-Rahmaanul-Musta'aanu 'alaa maa tasifoon.",
+          "translation": "My Lord, judge [between us] in truth. And our Lord is the Most Merciful, the one whose help is sought against that which you describe.",
+          "reference": "Surah Ambiya 21:112",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 645,
+          "title": "Powerful Quranic Dua for Protection from Shaitan (Surah Muminun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ أَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ ﴿٩٧﴾ وَأَعُوْذُ بِكَ رَبِّ أَن يَحْضُرُونِ ﴿٩٨﴾",
+          "audio": "/audio/dua/645.mp3",
+          "transliteration": "Rabbi a'oozu bika min hamazaatish-Shayaateen. Wa a'oozu bika Rabbi ay-yahduroon.",
+          "translation": "(97)My Lord, I seek refuge in You from the incitements of the devils, (98) And I seek refuge in You, my Lord, lest they be present with me.",
+          "reference": "Surah Muminun 23:97-98",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 646,
+          "title": "Dua for Protection from Hellfire (Surah Furqan)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا ﴿٦٥﴾ إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا ﴿٦٦﴾",
+          "audio": "/audio/dua/646.mp3",
+          "transliteration": "Rabbanas-rif 'annaa 'azaaba Jahannama inna 'azaabahaa kaana gharaamaa. Innahaa saaa'at mustaqarran wa muqaamaa.",
+          "translation": "(65)Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering (66) Indeed, it is evil as a settlement and residence.",
+          "reference": "Surah Furqan 25:65-66",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 647,
+          "title": "Dua for Rizq and Wealth (Surah Al-Qasas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+          "audio": "/audio/dua/647.mp3",
+          "transliteration": "Rabbi innee limaaa anzalta ilaiya min khairin faqeer.",
+          "translation": "My Lord, indeed I am, for whatever good You would send down to me, in need.",
+          "reference": "Surah Qasas 28:24",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 648,
+          "title": "Dua for Acceptance of Good Deeds (Surah Al-Baqarah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+          "audio": "/audio/dua/648.mp3",
+          "transliteration": "Rabbanaa taqabbal minnaa innaka Antas-Samee'ul-'Aleem.",
+          "translation": "Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing.",
+          "reference": "Surah Al-Baqara 2:127",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 649,
+          "title": "Powerful Dua to Offer Salah (Surah Ibrahim)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِن ذُرِّيَّتِي ۚ رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+          "audio": "/audio/dua/649.mp3",
+          "transliteration": "Rabbij-'alnee muqeemas-Salaati wa min zurriyyatee Rabbanaa wa taqabbal du'aaa'.",
+          "translation": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+          "reference": "Surah Ibrahim 14:40",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 650,
+          "title": "Dua for Righteous Children (Surah As-Saffat)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ هَبْ لِى مِنَ الصّٰلِحِينَ",
+          "audio": "/audio/dua/650.mp3",
+          "transliteration": "Rabbi hab lee minas-saaliheen.",
+          "translation": "My Lord, grant me [a child] from among the righteous.",
+          "reference": "Surah As-Saffat 37:100",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 651,
+          "title": "Dua for Childbirth (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+          "audio": "/audio/dua/651.mp3",
+          "transliteration": "Rabbi hab lee mil-ladunka zurriyyatan tayyibatan innaka Samee'ud-du'aaa'.",
+          "translation": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+          "reference": "Surah Ali-Imran 3:38",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 652,
+          "title": "Dua for Allah’s Mercy (Surah Al-Kahf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+          "audio": "/audio/dua/652.mp3",
+          "transliteration": "Rabbanaa aatinaa mil-ladunka rahmatan wa hayyi' lanaa min amrinaa rashadaa.",
+          "translation": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+          "reference": "Surah Al-Kahf 18:10",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 653,
+          "title": "Dua for Marriage & Children (Surah Al-Furqan)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+          "audio": "/audio/dua/653.mp3",
+          "transliteration": "Rabbanaa hab lanaa min azwaajinaa wa zurriyyaatinaa qurrata a'yunin waj'alnaa lil-muttaqeena imaamaa.",
+          "translation": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+          "reference": "Surah Al-Furqan 25:74",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 654,
+          "title": "Dua for Asking Guidance from Allah (Surah Al-Qasas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "عَسَىٰ رَبِّي أَن يَهْدِيَنِي سَوَاءَ السَّبِيلِ",
+          "audio": "/audio/dua/654.mp3",
+          "transliteration": "'Asaa Rabbeee ay-yahdiyanee sawaaa'as-sabeel.",
+          "translation": "Perhaps my Lord will guide me to the sound way.",
+          "reference": "Surah Al-Qasas 28:22",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 655,
+          "title": "Dua For Protection From Ignorance (Surah Al-Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ",
+          "audio": "/audio/dua/655.mp3",
+          "transliteration": "A'oozu billaahi an akoona minal-jaahileen.",
+          "translation": "I seek refuge in Allah from being among the ignorant.",
+          "reference": "Surah Al-Baqara 2:67",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 656,
+          "title": "Islamic Dua for Protection and Blessings (Surah Al-Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۖ",
+          "audio": "/audio/dua/656.mp3",
+          "transliteration": "Rabbij-'al haazaa baladan aaminan warzuq ahlahoo minath-thamaraati man aamana minhum billaahi wal-Yawmil-Aakhir.",
+          "translation": "My Lord, make this a secure city and provide its people with fruits - whoever of them believes in Allah and the Last Day.",
+          "reference": "Surah Al-Baqara 2:126",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 657,
+          "title": "Powerful Dua for Sabr (Surah Al-Baqara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى القَوْمِ الكَافِرِينَ",
+          "audio": "/audio/dua/657.mp3",
+          "transliteration": "Rabbanaaa afrigh 'alainaa sabran wa thabbit aqdaamanaa wansurnaa 'alal-qawmil-kaafireen.",
+          "translation": "Our Lord! Bestow on us endurance, make our foothold sure, and give us help against the disbelieving folk",
+          "reference": "Surah Al-Baqara 2:250",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 658,
+          "title": "Dua for Protection from Disobedient People (Surah Al-Maidah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ",
+          "audio": "/audio/dua/658.mp3",
+          "transliteration": "Fafruq bainanaa wa bainal-qawmil-faasiqeen.",
+          "translation": "Part us from the defiantly disobedient people.",
+          "reference": "Surah Al-Maidah 5:25",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 659,
+          "title": "Powerful Dua for Rizq (Surah Al-Maidah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ",
+          "audio": "/audio/dua/659.mp3",
+          "transliteration": "Warzuqnaa wa Anta Khairur-Raaziqeen.",
+          "translation": "And provide for us, and You are the best of providers.",
+          "reference": "Surah Al-Maidah 5:114",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 660,
+          "title": "Dua for a Righteous Child (Surah Al-Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَئِنْ آتَيْتَنَا صَالِحًا لَّنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+          "audio": "/audio/dua/660.mp3",
+          "transliteration": "La'in aataitanaa saalihan lanakoonanna minash-shaakireen.",
+          "translation": "If You should give us a good [child], we will surely be among the grateful.",
+          "reference": "Surah Al-A'raf 7:189",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 661,
+          "title": "Dua for Safety and Showing Gratitude (Surah Yunus)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+          "audio": "/audio/dua/661.mp3",
+          "transliteration": "La'in anjaitanaa min haazihee lanakoonanna minash-shaakireen.",
+          "translation": "If You should save us from this, we will surely be among the thankful.",
+          "reference": "Surah Yunus 10:22",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 662,
+          "title": "Dua for Travelling (Surah Hud)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآۚ إِنَّ رَبِّى لَغَفُورٌ رَّحِيمٌ",
+          "audio": "/audio/dua/662.mp3",
+          "transliteration": "Bismillaahi majraihaa wa mursaahaa; inna Rabbee la-Ghafoorur-Raheem.",
+          "translation": "In the name of Allah is its course and its anchorage. Indeed, my Lord is Forgiving and Merciful.",
+          "reference": "Surah Hud 11:41",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 663,
+          "title": "Dua for Strength and Guidance in Difficult Times (Surah Yusuf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+          "audio": "/audio/dua/663.mp3",
+          "transliteration": "Ma'aazallaahi innahoo Rabbeee ahsana mathwaay; innahoo laa yuflihuz-zaalimoon.",
+          "translation": "[I seek] the refuge of Allah. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.",
+          "reference": "Surah Yusuf 12:23",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 664,
+          "title": "Prophet Yusuf Dua for Protection & Peace (Surah Yusuf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+          "audio": "/audio/dua/664.mp3",
+          "transliteration": "Faatiras-samaawaati wal-ardi Anta Waliyyee fid-dunyaa wal-Aakhirah; tawaffanee musliman wa alhiqnee bis-saaliheen.",
+          "translation": "My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and in the Hereafter. Cause me to die a Muslim and join me with the righteous.",
+          "reference": "Surah Yusuf 12:101",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 665,
+          "title": "Dua for Heir from Surah Maryam",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَإِنِّي خِفْتُ الْمَوَالِيَ مِن وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا",
+          "audio": "/audio/dua/665.mp3",
+          "transliteration": "Wa innee khiftul-mawaaliya min waraaa'ee wa kaanatim-ra'atee 'aaqiran fahab lee mil-ladunka waliyyaa.",
+          "translation": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir",
+          "reference": "Surah Maryam 19:5",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 666,
+          "title": "Dua for Parents (Rabbir Hamhuma Kama Rabbayani Sagheera)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+          "audio": "/audio/dua/666.mp3",
+          "transliteration": "Rabbir-hamhumaa kamaa rabbayaanee sagheeraa.",
+          "translation": "My Lord, have mercy upon them as they brought me up [when I was] small.",
+          "reference": "Surah Al-Isra 17:24",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 667,
+          "title": "Dua for Seeking Allah's Help (Surah Al-Mu'minun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ انصُرْنِي",
+          "audio": "/audio/dua/667.mp3",
+          "transliteration": "Rabbin-surnee.",
+          "translation": "My Lord, support me",
+          "reference": "Surah Al-Mu'minun 23:26",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 668,
+          "title": "Dua for Accommodation (Surah Al-Mu'minun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ",
+          "audio": "/audio/dua/668.mp3",
+          "transliteration": "Rabbi anzilnee munzalam-mubaarakan wa Anta Khairul-munzileen.",
+          "translation": "My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].",
+          "reference": "Surah Al-Mu'minun 23:29",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 669,
+          "title": "Dua To be a Pious Muslim (Surah Al-Mu'minun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ",
+          "audio": "/audio/dua/669.mp3",
+          "transliteration": "Rabbi falaa taj'alnee fil-qawmiz-zaalimeen.",
+          "translation": "My Lord, then do not place me among the wrongdoing people.\"",
+          "reference": "Surah Al-Mu'minun 23:94",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 670,
+          "title": "Dua for Help and Safety from Allah (Surah Ash-Shu'ara)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِيَ مِنَ الْمُؤْمِنِينَ",
+          "audio": "/audio/dua/670.mp3",
+          "transliteration": "Faftah bainee wa bainahum fat-han wa najjinee wa man ma'iya minal-mu'mineen.",
+          "translation": "Then judge between me and them with decisive judgement and save me and those with me of the believers.",
+          "reference": "Surah Ash-Shu'ara 26:118",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 671,
+          "title": "Rabbana Dua for Jannah with Family (Surah Ghafir)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+          "audio": "/audio/dua/671.mp3",
+          "transliteration": "Rabbanaa wa adkhilhum jannaati 'adninil-latee wa'adtahum wa man salaha min aabaaa'ihim wa azwaajihim wa zurriyyaatihim; innaka Antal-'Azeezul-Hakeem.",
+          "translation": "Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.",
+          "reference": "Surah Ghafir 40:8",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 672,
+          "title": "Dua to Seek Forgiveness and Protection from Hell (Surah Ghafir)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+          "audio": "/audio/dua/672.mp3",
+          "transliteration": "Wa qihimus-sayyi-aat; wa man taqis-sayyi-aati Yawma'izin faqad rahimtah; wa zaalika huwal-fawzul-'azeem.",
+          "translation": "And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.",
+          "reference": "Surah Ghafir 40:9",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 673,
+          "title": "Dua for Protection Against Arrogant (Surah Ghafir)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنِّي عُذْتُ بِرَبِّي وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ لَّا يُؤْمِنُ بِيَوْمِ الْحِسَابِ",
+          "audio": "/audio/dua/673.mp3",
+          "transliteration": "Innee 'uztu bi-Rabbee wa Rabbikum-min kulli mutakabbiril-laa yu'minu bi-Yawmil-Hisaab.",
+          "translation": "Indeed, I have sought refuge in my Lord and your Lord from every arrogant one who does not believe in the Day of Account.",
+          "reference": "Surah Ghafir 40:27",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 674,
+          "title": "Dua for Trust in Allah (Surah Ghafir)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ ۚ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ",
+          "audio": "/audio/dua/674.mp3",
+          "transliteration": "Wa ufawwidu amreee ilallaah; innallaaha baseerum-bil-'ibaad.",
+          "translation": "I entrust my affair to Allah. Indeed, Allah is Seeing of [His] servants.",
+          "reference": "Surah Ghafir 40:44",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 675,
+          "title": "Dua for a House in Jannah (Surah At-Tahrim)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ",
+          "audio": "/audio/dua/675.mp3",
+          "transliteration": "Rabbib-ni lee 'indaka baitan fil-Jannati.",
+          "translation": "My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.",
+          "reference": "Surah At-Tahrim 66:11",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 676,
+          "title": "Dua Against Disbelievers (Surah Nuh)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+          "audio": "/audio/dua/676.mp3",
+          "transliteration": "Rabbi laa tazar 'alal-ardi minal-kaafireena dayyaaraa.",
+          "translation": "My Lord, do not leave upon the earth from among the disbelievers an inhabitant.",
+          "reference": "Surah Nooh 71:26",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

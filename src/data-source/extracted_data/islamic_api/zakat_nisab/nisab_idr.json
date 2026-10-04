@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "status": "success",
+  "calculation_standard": "classical",
+  "currency": "idr",
+  "weight_unit": "gram",
+  "updated_at": "2026-10-03T00:00:27+00:00",
+  "data": {
+    "nisab_thresholds": {
+      "gold": {
+        "weight": 87.48,
+        "unit_price": 2381646.0568,
+        "nisab_amount": 208346397.05
+      },
+      "silver": {
+        "weight": 612.36,
+        "unit_price": 34712.7787,
+        "nisab_amount": 21256717.19
+      }
+    },
+    "zakat_rate": "2.5%",
+    "notes": "Nisab values are updated based on current market prices"
+  }
+}

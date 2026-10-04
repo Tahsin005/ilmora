@@ -1,0 +1,218 @@
+{
+  "status": "success",
+  "message": "Languages fetched successfully",
+  "data": {
+    "am": {
+      "name": "አማርኛ",
+      "name_en": "Amharic"
+    },
+    "ar": {
+      "name": "العربية",
+      "name_en": "Arabic"
+    },
+    "az": {
+      "name": "Azərbaycan",
+      "name_en": "Azerbaijani"
+    },
+    "bg": {
+      "name": "Български",
+      "name_en": "Bulgarian"
+    },
+    "bn": {
+      "name": "বাংলা",
+      "name_en": "Bengali"
+    },
+    "bs": {
+      "name": "Bosanski",
+      "name_en": "Bosnian"
+    },
+    "cs": {
+      "name": "Čeština",
+      "name_en": "Czech"
+    },
+    "da": {
+      "name": "Dansk",
+      "name_en": "Danish"
+    },
+    "de": {
+      "name": "Deutsch",
+      "name_en": "German"
+    },
+    "dv": {
+      "name": "ދިވެހި",
+      "name_en": "Dhivehi"
+    },
+    "el": {
+      "name": "Ελληνικά",
+      "name_en": "Greek"
+    },
+    "en": {
+      "name": "English",
+      "name_en": "English"
+    },
+    "es": {
+      "name": "Español",
+      "name_en": "Spanish"
+    },
+    "et": {
+      "name": "Eesti",
+      "name_en": "Estonian"
+    },
+    "fa": {
+      "name": "فارسی",
+      "name_en": "Persian"
+    },
+    "fi": {
+      "name": "Suomi",
+      "name_en": "Finnish"
+    },
+    "fr": {
+      "name": "Français",
+      "name_en": "French"
+    },
+    "gu": {
+      "name": "ગુજરાતી",
+      "name_en": "Gujarati"
+    },
+    "ha": {
+      "name": "Hausa",
+      "name_en": "Hausa"
+    },
+    "haw": {
+      "name": "ʻŌlelo Hawaiʻi",
+      "name_en": "Hawaiian"
+    },
+    "he": {
+      "name": "עברית",
+      "name_en": "Hebrew"
+    },
+    "hi": {
+      "name": "हिन्दी",
+      "name_en": "Hindi"
+    },
+    "hr": {
+      "name": "Hrvatski",
+      "name_en": "Croatian"
+    },
+    "hu": {
+      "name": "Magyar",
+      "name_en": "Hungarian"
+    },
+    "hy": {
+      "name": "Հայերեն",
+      "name_en": "Armenian"
+    },
+    "id": {
+      "name": "Bahasa Indonesia",
+      "name_en": "Indonesian"
+    },
+    "is": {
+      "name": "Íslenska",
+      "name_en": "Icelandic"
+    },
+    "it": {
+      "name": "Italiano",
+      "name_en": "Italian"
+    },
+    "ja": {
+      "name": "日本語",
+      "name_en": "Japanese"
+    },
+    "ka": {
+      "name": "ქართული",
+      "name_en": "Georgian"
+    },
+    "kk": {
+      "name": "Қазақ тілі",
+      "name_en": "Kazakh"
+    },
+    "km": {
+      "name": "ភាសាខ្មែរ",
+      "name_en": "Khmer"
+    },
+    "kn": {
+      "name": "ಕನ್ನಡ",
+      "name_en": "Kannada"
+    },
+    "ko": {
+      "name": "한국어",
+      "name_en": "Korean"
+    },
+    "ku": {
+      "name": "کوردی",
+      "name_en": "Kurdish"
+    },
+    "lo": {
+      "name": "ລາວ",
+      "name_en": "Lao"
+    },
+    "lt": {
+      "name": "Lietuvių",
+      "name_en": "Lithuanian"
+    },
+    "ml": {
+      "name": "മലയാളം",
+      "name_en": "Malayalam"
+    },
+    "mr": {
+      "name": "मराठी",
+      "name_en": "Marathi"
+    },
+    "ms": {
+      "name": "Bahasa Melayu",
+      "name_en": "Malay"
+    },
+    "mt": {
+      "name": "Malti",
+      "name_en": "Maltese"
+    },
+    "my": {
+      "name": "မြန်မာဘာသာ",
+      "name_en": "Burmese"
+    },
+    "ne": {
+      "name": "नेपाली",
+      "name_en": "Nepali"
+    },
+    "pa": {
+      "name": "ਪੰਜਾਬੀ",
+      "name_en": "Punjabi"
+    },
+    "pt": {
+      "name": "Português",
+      "name_en": "Portuguese"
+    },
+    "ro": {
+      "name": "Română",
+      "name_en": "Romanian"
+    },
+    "ru": {
+      "name": "Русский",
+      "name_en": "Russian"
+    },
+    "ta": {
+      "name": "தமிழ்",
+      "name_en": "Tamil"
+    },
+    "te": {
+      "name": "తెలుగు",
+      "name_en": "Telugu"
+    },
+    "th": {
+      "name": "ไทย",
+      "name_en": "Thai"
+    },
+    "tr": {
+      "name": "Türkçe",
+      "name_en": "Turkish"
+    },
+    "ur": {
+      "name": "اردو",
+      "name_en": "Urdu"
+    },
+    "zh": {
+      "name": "中文",
+      "name_en": "Chinese"
+    }
+  }
+}

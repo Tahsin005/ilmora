@@ -1,0 +1,238 @@
+{
+  "category": {
+    "name": "Ablution & Bath",
+    "url": "ablution-and-bath",
+    "icon": "ablution_bath.svg",
+    "meta": "2 Subcategories"
+  },
+  "total_subcategories": 2,
+  "total_duas": 4,
+  "subcategories": [
+    {
+      "id": 24,
+      "title": "When starting ablution",
+      "category": "ablution-and-bath",
+      "dua-ids": [
+        169
+      ],
+      "duas": [
+        {
+          "dua_id": 169,
+          "title": "Dua Before Wudu (Ablution Dua)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said that, whoever doesn't say Bismillaah, his ablution will be invalidated.",
+          "arabic": "بِسْمِ اللَّهِ",
+          "audio": "/audio/dua/169.mp3",
+          "transliteration": "Bismillaah",
+          "translation": "In the Name of Allah",
+          "reference": "Irwa'ul-Ghalil 1/122 ,Ibn Majah No. 397",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قَالُوا حَدَّثَنَا كَثِيرُ بْنُ زَيْدٍ، عَنْ رُبَيْحِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ لاَ وُضُوءَ لِمَنْ لَمْ يَذْكُرِ اسْمَ اللَّهِ عَلَيْهِ ‏\"‏ ‏.‏",
+            "translation": "It was narrated from Abu Sa'eed that: The Messenger of Allah said: \"There is no ablution for one who does not mention the Name of Allah (before doing it).\" Sunan Ibn Majah 397 [Irwa'ul-Ghalil 1/122 ,Ibn Majah No. 397]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Wudu (Ablution Dua)",
+            "description": "Saying Bismillah before wudu brings Allah’s name to every step, making the act of ablution full of Barakah and helping a muslim start Salah with a clean heart and pure Amal.",
+            "points": [
+              "Bismillah before wudu brings more Barakah and reward in every ablution.",
+              "Dua before ablution helps muslims get more purity in wudu and Salah.",
+              "Wudu dua makes the washing steps count as acts of Iman and Amal.",
+              "Saying Bismillah in arabic before wudu keeps shaitan away from the act.",
+              "Ablution dua helps muslims remember Allah before every namaz and prayer."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Wudu",
+            "description": "This dua before wudu brings Barakah to your ablution, making every step of wudu in Islam more pure and helping your Iman grow strong with the simple words Bismillah before you start.",
+            "points": [
+              "Before touching water for wudu, muslims should say the dua before wudu for Barakah.",
+              "When teaching kids how to make wudu, remind them to recite Bismillah in arabic first.",
+              "At the masjid, before starting ablution, use the ablution dua to begin with zikr Allah.",
+              "If you forget at first, say the wudu dua as soon as you remember during wudu steps.",
+              "Before every salah, start your wudu in islam with Bismillah for more reward in amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua before Wudu",
+            "description": "Saying Bismillah before wudu is a short but important islamic dua that brings Barakah and makes your ablution accepted, helping you start your wudu in the name of Allah with a clean heart and pure niyyah.",
+            "steps": [
+              "Begin by standing near clean water and softly say Bismillah with full niyyah for wudu.",
+              "Before touching water, let your lips move with this dua before ablution for Barakah.",
+              "As you wash each part, remember the meaning of Bismillah in your heart and mind.",
+              "If you forget at the start, say this wudu dua as soon as you remember during ablution.",
+              "Teach children and family to always use this wazu ki dua before making wudu for every Salah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Upon completing the ablution",
+      "category": "ablution-and-bath",
+      "dua-ids": [
+        170,
+        171,
+        172
+      ],
+      "duas": [
+        {
+          "dua_id": 170,
+          "title": "Dua After Wudu (Ablution)",
+          "category_tags": [],
+          "introduction": "After doing ablution well, one should say:",
+          "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+          "audio": "/audio/dua/170.mp3",
+          "transliteration": "Ash-hadu 'an laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluhu",
+          "translation": "I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad is His slave and His Messenger (ﷺ).\n\nUqba bin 'Amir (RA) reported: Allah's Messenger (ﷺ) say: If any Muslim performs ablution well, then stands and prays two rak'ahs setting about them with his heart as well as his face, Paradise would be guaranteed to him.",
+          "reference": "Muslim: 234 , 576",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ الأَسْوَدَ، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَرَأَ ‏{‏ وَالنَّجْمِ‏}‏ فَسَجَدَ فِيهَا وَسَجَدَ مَنْ كَانَ مَعَهُ غَيْرَ أَنَّ شَيْخًا أَخَذَ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ فَرَفَعَهُ إِلَى جَبْهَتِهِ وَقَالَ يَكْفِينِي هَذَا ‏.‏ قَالَ عَبْدُ اللَّهِ لَقَدْ رَأَيْتُهُ بَعْدُ قُتِلَ كَافِرًا ‏.‏",
+            "translation": "Abdullah (b. 'Umar) reported: The Apostle of Allah (ﷺ) recited (Surat) al Najm and performed prostration during its recital and all those who were along with him also prostrated themselves except one old man who took a handful of pebbles or dust in his palm and lifted it to his forehead and said: This is sufficient for me. 'Abdullah said: I saw that he was later killed in a state of unbelief. Sahih Muslim 576 [Muslim: 234 , 576]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua After Wudu (Ablution)",
+            "description": "This dua after wudu makes a muslim’s Iman strong, brings Barakah to every Salah, and helps keep the heart clean by remembering Allah and the truth of Muhammad ﷺ as His Messenger.",
+            "points": [
+              "Ash hadu alla ilaha illallah after wudu brings more reward for every Amal.",
+              "Dua after ablution helps muslims keep their Iman fresh and strong in heart.",
+              "Saying lailahaillallah after wudu makes Salah more accepted by Allah.",
+              "Wudu dua after washing reminds muslims of the shahada and true faith.",
+              "After wudu dua brings peace and Barakah before every namaz and prayer."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Wudu",
+            "description": "This dua after wudu helps your Iman shine, bringing Barakah to your amal and making your ablution in Islam more strong with the words of shahada and praise for Allah and His Messenger ﷺ.",
+            "points": [
+              "Right after finishing wudu steps, muslims should recite the dua after wudu for Barakah.",
+              "When teaching kids how to perform wudu, remind them to say lailahaillallah after ablution.",
+              "At the masjid, after making wudu, use the after wudu dua before going for salah.",
+              "If you forget at first, say the dua for after wudu as soon as you remember for reward.",
+              "Before entering prayer area, recite the shahada after wudu to complete your wudu prayer."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Wudu",
+            "description": "Reciting the dua after wudu is a strong way to show your Iman and thank Allah for letting you finish your ablution, making your Salah and Amal more accepted and full of Barakah.",
+            "steps": [
+              "Right after washing your last part, say the shahada dua after wudu with a clear voice.",
+              "While still at the wudu place, recite ash hadu alla ilaha illallah wa ashhadu anna muhammadur rasulullah.",
+              "If you forget, say this wudu dua after as soon as you remember for your ablution.",
+              "Teach kids and family to always use this dua after ablution to keep their Amal strong.",
+              "In gatherings, remind others about this muslim prayer for after wudu to get more reward."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 171,
+          "title": "After Wudu Dua (Ablution)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِيْنَ",
+          "audio": "/audio/dua/171.mp3",
+          "transliteration": "Allaahummaj'alnee minat-tawwaabeena waj'alnee minal-mutatahhireen",
+          "translation": "O Allah, make me among those who turn to You in repentance, and make me among those who are purified.\n\nIt has been narrated in Sahih Hadith that the dua should be recited after the previous dhikr. The eight gates of Paradise will be opened for the one who recites these two duas; He will enter (Paradise) through whichever door he wishes.",
+          "reference": "Sahih (Albani). Tirmidhi: 55",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا جَعْفَرُ بْنُ مُحَمَّدِ بْنِ عِمْرَانَ الثَّعْلَبِيُّ الْكُوفِيُّ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ الدِّمَشْقِيِّ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، وَأَبِي، عُثْمَانَ عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ ثُمَّ قَالَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ فُتِحَتْ لَهُ ثَمَانِيَةُ أَبْوَابِ الْجَنَّةِ يَدْخُلُ مِنْ أَيِّهَا شَاءَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَنَسٍ وَعُقْبَةَ بْنِ عَامِرٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عُمَرَ قَدْ خُولِفَ زَيْدُ بْنُ حُبَابٍ فِي هَذَا الْحَدِيثِ ‏.‏ قَالَ وَرَوَى عَبْدُ اللَّهِ بْنُ صَالِحٍ وَغَيْرُهُ عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ عَنْ رَبِيعَةَ بْنِ يَزِيدَ عَنْ أَبِي إِدْرِيسَ عَنْ عُقْبَةَ بْنِ عَامِرٍ عَنْ عُمَرَ ‏.‏ وَعَنْ رَبِيعَةَ عَنْ أَبِي عُثْمَانَ عَنْ جُبَيْرِ بْنِ نُفَيْرٍ عَنْ عُمَرَ ‏.‏ وَهَذَا حَدِيثٌ فِي إِسْنَادِهِ اضْطِرَابٌ وَلاَ يَصِحُّ عَنِ النَّبِيِّ صلى الله عليه وسلم فِي هَذَا الْبَابِ كَبِيرُ شَيْءٍ ‏.‏ قَالَ مُحَمَّدٌ وَأَبُو إِدْرِيسَ لَمْ يَسْمَعْ مِنْ عُمَرَ شَيْئًا ‏.‏",
+            "translation": "Umar bin Al-Khattab narrated that: Allah's Messenger said: 'Whoever performs Wudu, making Wudu well, then says: (Ashhadu an la ilaha illallah, wahdahu la sharika lahu, wa ashhadu anna Muhammadan-abduhu wa rasuluhu, Allahummajalni minat tawwabin, waj'alni minal mutatahhirin) 'I testify that none has the right to be worshipped but Allah Alone, there are no partners for Him. And I testify that Muhammad is His servant and Messenger. O Allah! Make me among the repentant, and make me among those who purify themselves.' Then eight gates of Paradise are opened for him, that may enter by whichever of them wishes.\" Jami` at-Tirmidhi 55 [Sahih (Albani). Tirmidhi: 55]"
+          },
+          "benefits": {
+            "title": "Benefits of After Wudu Dua",
+            "description": "This after wudu dua brings a muslim closer to Allah by asking for forgiveness and purity, making every ablution a chance to earn Barakah and keep the heart clean for Salah and Amal.",
+            "points": [
+              "Allahumma in this after wudu dua helps a muslim get Barakah in every Salah.",
+              "Dua after ablution makes the heart soft for tawbah and forgiveness of sins.",
+              "Dua for after wudu lets a muslim join those who love purity and clean Amal.",
+              "Wudu dua after helps keep Iman strong and brings peace before every namaz.",
+              "Dua for repentance in islam gives hope for Allah’s mercy and forgiveness always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite After Wudu Dua",
+            "description": "This after wudu dua brings Barakah to your ablution, asking Allah for tawbah and to be counted among the pure, making your Iman and amal better with every wudu you do in Islam.",
+            "points": [
+              "After finishing ablution, muslims should recite the after wudu dua for Barakah.",
+              "When teaching kids about wudu, remind them to say this dua after ablution for tawbah.",
+              "At the masjid, after making wudu, use the dua for after wudu before entering prayer area.",
+              "If you forget at first, say the after wudu dua as soon as you remember for forgiveness.",
+              "Before starting salah, recite the after wudu dua to ask Allah for purity and repentance."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform After Wudu Dua",
+            "description": "This after wudu dua is a simple islamic prayer for forgiveness and tawbah, asking Allah to make you from those who always turn back to Him and keep their hearts and bodies clean after every ablution.",
+            "steps": [
+              "Once you finish your wudu, quietly say allahumma aj’alni minat-tawwabeen waj’alni minal-mutatahhireen.",
+              "While your hands are still wet, recite this dua for repentance and forgiveness in islam.",
+              "If you forget, say this after wudu dua as soon as you remember for Barakah in your Amal.",
+              "Teach your family and friends to use this islamic prayer for forgiveness after every ablution.",
+              "In masjid or at home, remind others about this dua for after wudu to keep their hearts pure."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 172,
+          "title": "Dua After Ablution (Wudu Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
+          "audio": "/audio/dua/172.mp3",
+          "transliteration": "Subhaanaka Allaahumma wa bihamdika, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'astaghfiruka wa 'atoobu 'ilayk",
+          "translation": "Glory is to You, O Allah, and praise; I bear witness that there is none worthy of worship but You. I seek Your forgiveness and turn to You in repentance.\n\nAbu Sayed (RA) said, Rasulullah (ﷺ) said, if someone says this dua after ablution, it will be written in a letter and sealed (under the throne). That seal will not be broken before the Resurrection.",
+          "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylah, p. 173. See also Al-Albani, 'Irwa'ul-Ghalil 1/135 and 2/94.",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua After Ablution",
+            "description": "This dua after ablution helps a muslim remember Allah’s greatness and ask for forgiveness, making every wudu a time to clean the heart and get ready for Salah with Barakah and Iman.",
+            "points": [
+              "Subhanaka allahumma wa bihamdika in this dua after ablution brings Barakah.",
+              "La ilaha illa anta subhanaka makes a muslim’s Iman strong after every wudu.",
+              "Astaghfar in wudu dua after helps clean old sins and brings hope for forgiveness.",
+              "Dua for after wudu lets a muslim start namaz with a pure heart and clean Amal.",
+              "Repentance dua after wudu gives a chance to get closer to Allah’s mercy always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Ablution",
+            "description": "This dua after ablution is a way to thank Allah for cleanliness, ask for forgiveness, and renew your Iman after every wudu, making your amal and salah full of Barakah and blessings.",
+            "points": [
+              "After finishing wudu, recite the dua after ablution to thank Allah for purity.",
+              "Before leaving the wudu area, use the wudu dua after to ask for forgiveness and Barakah.",
+              "When you want to renew your niyyah, say subhanaka allahumma wa bihamdika after wudu.",
+              "If you feel your heart heavy, make the dua for after wudu for repentance and istighfar.",
+              "Before starting your fard salah, recite the wazu ki dua to seek Allah’s mercy and help."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Ablution",
+            "description": "This dua after ablution is a strong islamic prayer for forgiveness and tawbah, helping you thank Allah, ask for forgiveness, and keep your heart clean after every wudu.",
+            "steps": [
+              "Right after finishing wudu, say subhanaka allahumma wa bihamdika with full focus.",
+              "While your hands are still wet, recite this dua for after wudu to seek Allah’s forgiveness.",
+              "If you forget, say this wudu dua after as soon as you remember for more Barakah.",
+              "Teach your kids and family to use this istighfar dua after ablution for every Salah.",
+              "In masjid or at home, remind others about this repentance dua to keep their Amal pure."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

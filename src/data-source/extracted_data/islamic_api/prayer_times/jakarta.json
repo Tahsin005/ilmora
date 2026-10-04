@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "04:27",
+      "Sunrise": "05:36",
+      "Dhuhr": "11:41",
+      "Asr": "14:45",
+      "Sunset": "17:47",
+      "Maghrib": "17:47",
+      "Isha": "18:52",
+      "Imsak": "04:17",
+      "Midnight": "23:41",
+      "Firstthird": "21:43",
+      "Lastthird": "01:40"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": -1
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 295.15,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 7920.13,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "05:36",
+        "end": "05:51"
+      },
+      "noon": {
+        "start": "11:31",
+        "end": "11:41"
+      },
+      "sunset": {
+        "start": "17:32",
+        "end": "17:47"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Jakarta",
+      "utc_offset": "+07:00",
+      "abbreviation": "WIB"
+    }
+  },
+  "city_info": {
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "slug": "jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456
+  }
+}

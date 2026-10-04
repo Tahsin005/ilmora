@@ -1,0 +1,531 @@
+{
+  "category": {
+    "name": "Masnun Duas",
+    "url": "masnun-duas",
+    "icon": "masnun_duas.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 15,
+  "subcategories": [
+    {
+      "id": 114,
+      "title": "Some duas mentioned in the hadith",
+      "category": "masnun-duas",
+      "dua-ids": [
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        814,
+        815,
+        816
+      ],
+      "duas": [
+        {
+          "dua_id": 802,
+          "title": "Masnoon Dua for Difficulties",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ وَدَرَكِ الشَّقَاءِ وَسُوْءِ الْقَضَاءِ وَشَمَاتَةِ الْأَعْدَاءِ",
+          "audio": "/audio/dua/802.mp3",
+          "transliteration": "Allaahumma innee ‘a’oodhu bika min jahdil-balaa’i, wa darakish-shaqaa’i, wa soo’il qadhaa’i, wa shamaatatil-‘a’adaa",
+          "translation": "O Allah, I seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies.",
+          "reference": "Bukhari: 6347",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي سُمَىٌّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَعَوَّذُ مِنْ جَهْدِ الْبَلاَءِ، وَدَرَكِ الشَّقَاءِ، وَسُوءِ الْقَضَاءِ، وَشَمَاتَةِ الأَعْدَاءِ‏.‏ قَالَ سُفْيَانُ الْحَدِيثُ ثَلاَثٌ زِدْتُ أَنَا وَاحِدَةً، لاَ أَدْرِي أَيَّتُهُنَّ هِيَ‏.‏",
+            "translation": "Narrated Abu Huraira: Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies. Sufyan said, \"This narration contained three items only, but I added one. I do not know which one that was.\" [Bukhari: 6347]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 803,
+          "title": "Masnoon Dua for Protection from Harm",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اَللَّهُمَّ آتِ نَفْسِيْ تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ وَمِنْ قَلْبٍ لَا يَخْشَعُ وَمِنْ نَفْسٍ لَا تَشْبَعُ وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا.",
+          "audio": "/audio/dua/803.mp3",
+          "transliteration": "Allaahumma innee a‛oodhu bika minal ‛ajzi wal-kasali, wal-jubni wal-bukhli, wal harami wa ‛adhaabil-qabr, Allaahumma aati nafsee taq-waahaa wa zakkihaa anta khairu man zakkaahaa anta wali-yuhaa wa mawlaahaa, Allaahumma inni a‛oodhu bika min ‛ilmin laa yanfa‛u, wa min qalbin laa yakh-sha‛u, wa min nafsin laa tashba‛u, wa min da‛wat-in laa yustajaabu lahaa",
+          "translation": "O Allah, I seek refuge with You from weakness, and laziness, cowardice and miserliness, old and infirm age, and the torment of the grave. O Allah, give my soul piety and purify it, for indeed You are the best of those who can purify it, You are it's Guardian and Master. O Allah, I seek refuge with You from knowledge that does not benefit, from a heart that does not get humbled [to Allah], from a soul which is never satisfied and from a supplication which does not get answered.",
+          "reference": "Muslim: 2722",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، - وَاللَّفْظُ لاِبْنِ نُمَيْرٍ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآَخَرَانِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، وَعَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ لاَ أَقُولُ لَكُمْ إِلاَّ كَمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ كَانَ يَقُولُ ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلاَهَا اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَمِنْ قَلْبٍ لاَ يَخْشَعُ وَمِنْ نَفْسٍ لاَ تَشْبَعُ وَمِنْ دَعْوَةٍ لاَ يُسْتَجَابُ لَهَا ‏\" ‏ ‏.‏",
+            "translation": "Zaid b. Alqam reported: I am not going to say anything but only that which Allah's Messenger (may peace be upgn him) used to say. He used to supplicate:\" O Allah, I seek refuge in Thee from incapacity, from sloth, from cowardice, from miserliness, decrepitude and from torment of the grave. O Allah, grant to my soul the sense of righteousness and purify it, for Thou art the Best Purifier thereof. Thou art the Protecting Friend thereof, and Guardian thereof. O Allah, I seek refuge in Thee from the knowledge which does not benefit, from the heart that does not entertain the fear (of Allah), from the soul that does not feel contented and the supplication that is not responded.\" [Muslim: 2722]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 804,
+          "title": "Masnoon Dua for Protection from Sudden Punishment",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ وَجَمِيْعِ سَخَطِكَ",
+          "audio": "/audio/dua/804.mp3",
+          "transliteration": "Allaahumma inni A‛oodhu bika min zawaali ni'matika, wa tahawwuli 'afiyatika, wa fujaa-ati niqmatika, wa jami'i sakhatik",
+          "translation": "O Allah, I seek refuge in Thee from the withdrawal of your blessing and the change of your protection (from me) and from the sudden your wrath, and from your every displeasure.",
+          "reference": "Muslim: 2739",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْكَرِيمِ أَبُو زُرْعَةَ، حَدَّثَنَا ابْنُ بُكَيْرٍ، حَدَّثَنِي يَعْقُوبُ بْنُ، عَبْدِ الرَّحْمَنِ عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ كَانَ مِنْ دُعَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ وَفُجَاءَةِ نِقْمَتِكَ وَجَمِيعِ سَخَطِكَ ‏\" ‏ ‏.‏ '",
+            "translation": "Abdullah b. Umar reported that Allah's Messenger (ﷺ) supplicated in these words: \" O Allah, I seek refuge in Thee from the withdrawal of Thine blessing and the change of Thine protection (from me) and from the sudden wrath of Thine, and from every displeasure of Thine.\" [Muslim: 2739]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 805,
+          "title": "Masnoon Dua for Allah’s Love",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ ارْزُقْنِي حُبَّكَ وَحُبَّ مَنْ يَنْفَعُنِي حُبُّهُ عِنْدَكَ اَللَّهُمَّ مَا رَزَقْتَنِي مِمَّا أُحِبُّ فَاجْعَلْهُ قُوَّةً لِي فِيمَا تُّحِبُّ، اَللَّهُمَّ وَمَا زَوَيْتَ عَنِّي مِمَّا أُحِبُّ فَاجْعَلْهُ لِي فَرَاغًا فِيمَا تُحِبُّ",
+          "audio": "",
+          "transliteration": "Allaahummar zuqni 'hubbaka, wa 'hubba man yanfa’uni 'hubbuhu ‘indaka. Allaahumma maa razaqtani mimma u'hibbu faaj’alhu quwwatan lee fimaa tu'hibbu. Allaahumma wa maa zawaita ‘anni mimma u'hibbu faaj’alhu lee faraaghan fimaa tu'hibbu",
+          "translation": "O Allah grant me Your love and the love of those whose love will benefit me. O Allah, whatever you have provided me of that which I love, make it strength for me for achieving that which You love. O Allah, and what you have kept from me of that which I love, then make it for me a period of rest for achieving that which You love.",
+          "reference": "Hasan (Ibn Hazar). Takhrijul Masaabih: 3/31",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 806,
+          "title": "Masnoon Dua for Allah's Blessings",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ زِدْنَا وَلَا تَنْقُصْنَا وَأَكْرِمْنَا وَلَا تُهِنَّا وَأَعْطِنَا وَلَا تَحْرِمْنَا وَآثِرْنَا وَلَا تُؤْثِرْ عَلَيْنَا وَأَرْضِنَا وَارْضَ عَنَّا",
+          "audio": "",
+          "transliteration": "Allaahumma zidnaa wa laa tanqusnaa, wa akrimnaa wa laa tuhinnaa, wa aa-tinaa wa laa tahrimnaa, wa athir-naa wa laa tu-'thir ‘alaynaa, wa ardinaa warda ‘annaa",
+          "translation": "O Allah! Increase us [in Your Blessings] and do not decrease us, honor us and do not humiliate us, give us [from Your Gifts] and do not deprive us, be in favor of us and not against us, and make us satisfied and be satisfied with us.",
+          "reference": "Sahih (Ahmad Shakir). Musnad Ahmad 1/124",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 807,
+          "title": "Masnoon Dua for Guidance",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+          "audio": "/audio/dua/807.mp3",
+          "transliteration": "Allaahumma inni as-alukal hudaa wattuqa, wal 'afaafa wal ghinaa",
+          "translation": "O Allah, indeed, I ask You for guidance, piety, chastity, and sufficiency.",
+          "reference": "Muslim: 2721",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَقُولُ ‏ \"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى ‏\" ‏ ‏.‏",
+            "translation": "Abdullah reported that Allah's Messenger (ﷺ) used to supplicate (in these words): \" O Allah. I beg of Thee the right guidance, safeguard against evils, chastity and freedom from want.\" [Muslim: 2721]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 808,
+          "title": "Masnoon Dua for Steadfast Heart",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "يَا مُقَلِّبَ الْقُلُوْبِ ثَبِّتْ قَلْبِيْ عَلَى دِيْنِكَ",
+          "audio": "/audio/dua/808.mp3",
+          "transliteration": "Ya Muqallibal-qulubi, thabbit qalbi `alaa dinik",
+          "translation": "O Changer of the hearts, make my heart firm upon Your religion.",
+          "reference": "Sahih. Tirmidhi: 3522",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو مُوسَى الأَنْصَارِيُّ، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ، عَنْ أَبِي كَعْبٍ، صَاحِبِ الْحَرِيرِ حَدَّثَنِي شَهْرُ بْنُ حَوْشَبٍ، قَالَ قُلْتُ لأُمِّ سَلَمَةَ يَا أُمَّ الْمُؤْمِنِينَ مَا كَانَ أَكْثَرُ دُعَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذَا كَانَ عِنْدَكِ قَالَتْ كَانَ أَكْثَرُ دُعَائِهِ ‏\"‏ يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ ‏\"‏ ‏.‏ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا لأَكْثَرِ دُعَائِكَ يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ قَالَ ‏\"‏ يَا أُمَّ سَلَمَةَ إِنَّهُ لَيْسَ آدَمِيٌّ إِلاَّ وَقَلْبُهُ بَيْنَ أُصْبُعَيْنِ مِنْ أَصَابِعِ اللَّهِ فَمَنْ شَاءَ أَقَامَ وَمَنْ شَاءَ أَزَاغَ ‏\"‏ ‏.‏ فَتَلاَ مُعَاذٌ ‏:‏ ‏",
+            "translation": "(‏ ربَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا ‏) ‏ قَالَ وَفِي الْبَابِ عَنْ عَائِشَةَ وَالنَّوَّاسِ بْنِ سَمْعَانَ وَأَنَسٍ وَجَابِرٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو وَنُعَيْمِ بْنِ هَمَّارٍ ‏.‏ قَالَ وَهَذَا حَدِيثٌ حَسَنٌ ‏.‏ Shahr bin Hawshab said: “I said to Umm Salamah: ‘O Mother of the Believers! What was the supplication that the Messenger of Allah (ﷺ) said most frequently when he was with you?” She said: ‘The supplication he said most frequently was: “O Changer of the hearts, make my heart firm upon Your religion (Yā Muqallibal-qulūb, thabbit qalbī `alā dīnik).’” She said: ‘So I said: “O Messenger of Allah, why do you supplicate so frequently: ‘O Changer of the hearts, make my heart firm upon Your religion.’ He said: ‘O Umm Salamah! Verily, there is no human being except that his heart is between Two Fingers of the Fingers of Allah, so whomsoever He wills He makes steadfast, and whomever He wills He causes to deviate.’” [Sahih (Albani). Tirmidhi: 3522]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 809,
+          "title": "Masnoon Dua for Protection from Hellfire",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُوْرِ كُلِّهَا، وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْآخِرَةِ",
+          "audio": "/audio/dua/809.mp3",
+          "transliteration": "Allaahumma a’hsin ‘aaqibatanaa fil-umuri kullihaa, wa ajirnaa min khizy-id dunyaa wa adhaabil akhirah",
+          "translation": "O Allah! grant us a good outcome on all of our affairs and save us from the disgrace of this world and the punishment of the Hereafter.",
+          "reference": "Sahih (Ahmad Shakir). 'Umdatut Tafsir: 1/162",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "\"حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، قَالَ أَخْبَرَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ أَبِي خَالِدٍ، عَنْ قَيْسٍ، قَالَ قَامَ أَبُو بَكْرٍ رَضِيَ اللَّهُ عَنْهُ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ يَا أَيُّهَا النَّاسُ إِنَّكُمْ تَقْرَءُونَ هَذِهِ الْآيَةَ ‏ {‏يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ‏} ‏ وَإِنَّا سَمِعْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ النَّاسَ إِذَا رَأَوْا الْمُنْكَرَ فَلَمْ يُنْكِرُوهُ أَوْشَكَ أَنْ يَعُمَّهُمْ اللَّهُ بِعِقَابِهِ‏.‏",
+            "translation": "It was narrated that Qais said: Abu Bakr stood up and praised and glorified Allah, then he said: O people, you recite this verse: `O you who believe! Take care of your ownselves. If you follow the (right) guidance (and enjoin what is right (Islamic Monotheism and all that Islam orders one to do) and forbid what is wrong (polytheism, disbelief and all that Islam has forbidden)] no hurt can come to you from those who are in error` (al-Ma'idah 5:105]. We heard the Messenger of Allah (ﷺ) say: `lf the people see evil and do not change it, soon Allah will send His punishment upon them all.` [Sahih (Ahmad Shakir). 'Umdatut Tafsir: 1/162]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 810,
+          "title": "Masnoon Dua for Illness",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُوْنِ وَالْجُذَامِ وَمِنْ سَيِّئِ الْأَسْقَامِ",
+          "audio": "/audio/dua/810.mp3",
+          "transliteration": "Allaahumma inni a‛oodhu bika minal-barasi, wal-jununi, wal-judhami, wa min sayyi'il-asqam",
+          "translation": "O Allah, I seek refuge in Thee from leprosy, madness, elephantiasis, and evil diseases.",
+          "reference": "Sahih. Abu Dawud: 1554",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا قَتَادَةُ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُونِ وَالْجُذَامِ وَمِنْ سَيِّئِ الأَسْقَامِ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Anas ibn Malik: The Prophet (ﷺ) used to say: \"O Allah, I seek refuge in Thee from leprosy, madness, elephantiasis, and evil diseases.\" [Sahih (Albani). Abu Dawud: 1554]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 811,
+          "title": "Masnoon Dua for Protection from Disease",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ حْفَظْنِي بِالْإِسْلَامِ قَائِمًا وَاحْفَظْنِي بِالْإِسْلَامِ قَاعِدًا وَحْفَظْنِي بِالْإِسْلَامِ رَاقِدًا وَلَا تُشْمِتْ بِي عَدُوًّا وَلَا حَسِدًا، اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ كُلِّ خَيْرٍ خَزَائِنُهُ بِيَدِكَ وَأَعُوْذُ بِكَ مِنْ كُلِّ شَرٍّ خَزَائِنُهُ بِيَدِكَ",
+          "audio": "/audio/dua/811.mp3",
+          "transliteration": "Allaahumma’h fazni bil-islaami qaa'iman wa’h faazni bil-islaami qaa'idan wa’h fazni bil-islaami raaqidan walaa tushmit bi ‘aduwan walaa ‘hasidan. Allaahumma inni as-aluka min kulli khayrin khazaa-inuhu bi yadik, wa A‛oodhu bika min kulli sharrin khazaa-inuhu bi yadik",
+          "translation": "O Allah! Protect me with Islam when standing, and protect me with Islam when sitting down, and protect me with Islam when reclining, and do not make an enemy or envier rejoice at me. O Allah! I ask you for every good whose stores are in Your Hand, and I seek refuge with you from every evil whose stores are in Your Hand.",
+          "reference": "Hasan (Albani). Silsilatul Sahihah: 1540",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 812,
+          "title": "Masnoon Dua for Provision and Longevity",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اجْعَلْ أَوْسَعَ رِزْقِكَ عَلَىَّ عِنْدَ كِبَرِ سِنِّي وَانْقِطَاعِ عُمُرِي",
+          "audio": "/audio/dua/812.mp3",
+          "transliteration": "Allahumm-aj'al Awsa'a Rizqika Alayya inda kibari sinni wan qita-i umuri",
+          "translation": "O Allah! Expand for me Your provision till my old age and till the end of my life.",
+          "reference": "Hasan (Haithami). Majmauz Zawayid: 10/185",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 813,
+          "title": "Masnoon Dua for Protection from Illness and Hardship",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَالْهَرَمِ وَالْقَسْوَةِ وَالْغَفْلَةِ وَالْعَيْلَةِ وَالذِّلَّةِ وَالْمَسْكَنَةِ وَأَعُوْذُ بِكَ مِنَ الْفَقْرِ وَالْكُفْرِ وَالْفُسُوْقِ وَالشِّقَّاقِ وَالنِّفَقِ وَالسُّمْعَةِ والرِّيَاءِ وَأَعُوْذُ بِكَ مِنَ الصَّمَمِ وَالْبَكَمِ وَالْجُنُوْنِ وَالْجُذَامِ وَالْبَرَصِ وَسَيِّءِ الْأَسْقَامِ",
+          "audio": "/audio/dua/813.mp3",
+          "transliteration": "Allaahumma inni A‛oodhu bika minal-'ajzi, wal-kasali, wal-jubni, wal-bukhli, wal-harami, wal qaswati wal ghaflati wal’aylati wadh-dhillati wal maskanati wa a’uudhu bika minal faqri wal kufri wal fusuuqi wash-shiqaaqi wan nifaaqi was-sum’ati war-riyaai wa A‛oodhu bika minas-samami wal bakami wal junuuni wal judhaami wal barasi wasayyi-il-asqaam",
+          "translation": "O Allah, I seek refuge in You from Inability; lethargy; Cowardice, Miserliness, Senility, Hard heartedness, Heedlessness, Deprivation; Humiliation, misery; And I seek refuge in You from absolute poverty, Disbelief, Rebellion; Dissension, Hypocrisy, Seeking fame, And showing off, And I seek refuge in You from deafness, Being mute, Insanity; Leprosy, Leukederma, And from any worst kind of illness.",
+          "reference": "Sahih (Albani). Sahihul Jame: 1285",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 814,
+          "title": "Masnoon Dua for Protection from Bad Days and Neighbors",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ يَوْمِ السُّوءِ وَمِنْ لَيْلَةِ السُّوءِ وَمِنْ سَاعَةِ السُّوءِ وَمِنْ صَاحِبِ السُّوءِ وَمِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامَةِ",
+          "audio": "",
+          "transliteration": "Allaahumma innee A‛oodhu bika min yawmis-suu’i, wa min laylatis-suu’i, wa min saa‛atis-suu’i, wa min saa’hibis-suu’i, wa min jaaris-suu’i fee daaril-muqaamah",
+          "translation": "O Allah, I seek refuge in You from bad days, bad nights, bad hours, bad companions, and bad neighbours in my place of residence.",
+          "reference": "Hasan (Albani). Sahihul Jami: 1299",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 815,
+          "title": "Masnoon Dua for Beneficial Knowledge",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي وَزِدْنِي عِلْمًا",
+          "audio": "/audio/dua/815.mp3",
+          "transliteration": "Allahum-manfa'ni bima 'al-lamtani, wa 'al-limni maa yanfa'uni, wa zidni 'ilma",
+          "translation": "Oh Allah, benefit me with what You have taught me and teach me what benefits me, and increase me in knowledge.",
+          "reference": "Sahih. Tirmidhi: 3599",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ مُوسَى بْنِ عُبَيْدَةَ، عَنْ مُحَمَّدِ بْنِ ثَابِتٍ، عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي وَزِدْنِي عِلْمًا الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ وَأَعُوذُ بِاللَّهِ مِنْ حَالِ أَهْلِ النَّارِ ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏",
+            "translation": "Abu Hurairah, may Allah be pleased with him, narrated that the Messenger of Allah (ﷺ) said: “O Allah, benefit me with that which You have taught me, and teach me that which will benefit me, and increase me in knowledge. All praise is due to Allah in every condition, and I seek refuge in Allah from the condition of the people of the Fire (Allāhummanfa`nī bimā `allamtanī wa `allimnī mā yanfa`unī, wa zidnī `ilma, al-ḥamdulillāhi `alā kulli ḥālin, wa a`ūdhu billāhi min ḥāli ahlin-nār).” [Sahih (Albani). Tirmidhi: 3599]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 816,
+          "title": "Dua for Health and Revenge from Oppressors",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ مَتِّعْنِي بِسَمْعِي وَبَصَرِي وَاجْعَلْهُمَا الْوَارِثَ مِنِّي، وَانْصُرْنِي عَلَى مَنْ ظَلَمَنِي وَخُذْ مِنْهُ بِثَأْرِي",
+          "audio": "/audio/dua/816.mp3",
+          "transliteration": "Allahumm-a matti‛ni bi sam‛i wa basari waj-‛alhumal-waaritha minni, wan-surni ‛alaa man zalamani, wa khudh minhu bi tha’ri",
+          "translation": "O Allah, grant me enjoyment of my hearing and sight, and keep them healthy and sound until the day I die, and aid me against those who oppress me, and avenge me from them.",
+          "reference": "Hasan. Tirmidhi: 3604",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اسْتَعِيذُوا بِاللَّهِ مِنْ عَذَابِ جَهَنَّمَ اسْتَعِيذُوا بِاللَّهِ مِنْ عَذَابِ الْقَبْرِ اسْتَعِيذُوا بِاللَّهِ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ وَاسْتَعِيذُوا بِاللَّهِ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "translation": "Abu Hurairah narrated that the Messenger of Allah (ﷺ) said: “Seek refuge with Allah from the punishment of Hell, and seek refuge in Allah from the punishment of the grave. Seek refuge in Allah from the trial of Al-Masihid-Dajjal, and seek refuge in Allah from the trials of life and death.” [Hasan (Albani). Tirmidhi: 3604]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

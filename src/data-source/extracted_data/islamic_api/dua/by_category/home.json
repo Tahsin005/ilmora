@@ -1,0 +1,342 @@
+{
+  "category": {
+    "name": "Home",
+    "url": "home",
+    "icon": "home.svg",
+    "meta": "2 Subcategories"
+  },
+  "total_subcategories": 2,
+  "total_duas": 6,
+  "subcategories": [
+    {
+      "id": 17,
+      "title": "When leaving the home",
+      "category": "home",
+      "dua-ids": [
+        154,
+        155,
+        156
+      ],
+      "duas": [
+        {
+          "dua_id": 154,
+          "title": "Dua for leaving home",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+          "audio": "/audio/dua/154.mp3",
+          "transliteration": "bismillaahi, tawakkaltu 'alal-laahi, laa hawla wa laa quwwata illaa billaah",
+          "translation": "In the name of Allah, I place my trust in Allah and there is no might nor power except with Allah.\n\nNarrated Anas ibn Malik (RA): The Prophet (ﷺ) said: When a man goes out of his house and say these words, the following will be said to him at that time: \"You are guided, defended and protected.\" The devils will go far from him and another devil will say: How can you deal with a man who has been guided, defended and protected?",
+          "reference": "Sahih (Albani). Abu Dawud: 5095",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ الْخَثْعَمِيُّ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا خَرَجَ الرَّجُلُ مِنْ بَيْتِهِ فَقَالَ بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ‏\"‏ ‏.‏ قَالَ ‏\"‏ يُقَالُ حِينَئِذٍ هُدِيتَ وَكُفِيتَ وَوُقِيتَ فَتَتَنَحَّى لَهُ الشَّيَاطِينُ فَيَقُولُ لَهُ شَيْطَانٌ آخَرُ كَيْفَ لَكَ بِرَجُلٍ قَدْ هُدِيَ وَكُفِيَ وَوُقِيَ ‏\"‏ ‏.‏",
+            "translation": "Narrated Anas ibn Malik: The Prophet (ﷺ) said: When a man goes out of his house and says: \"In the name of Allah, I trust in Allah; there is no might and no power but in Allah,\" the following will be said to him at that time: \"You are guided, defended and protected.\" The devils will go far from him and another devil will say: How can you deal with a man who has been guided, defended and protected? [Sahih (Albani). Abu Dawud: 5095]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Leaving Home",
+            "description": "Dua for leaving home reminds every Muslim to trust Allah, seek His help, and ask for Barakah and safety before stepping out, making every journey start with Iman and hope in Allah’s care.",
+            "points": [
+              "Reciting this dua brings Barakah and protection before leaving home.",
+              "It helps you trust Allah and seek His help in every step outside.",
+              "Saying this dua keeps the heart calm and full of Tawakkul.",
+              "This masnoon dua is a Sunnah and brings peace to the heart before travel.",
+              "Teaching this dua to family and kids helps them remember Allah in daily life."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Leaving Home",
+            "description": "This dua for leaving home reminds every Muslim to trust Allah, seek His help, and ask for Barakah and safety before stepping out, making every journey start with Iman and hope in Allah’s care.",
+            "points": [
+              "Before stepping out the door, read the dua for leaving home to ask Allah for protection.",
+              "When heading to work or school, use the dua when leaving home for Barakah and safety.",
+              "As you get ready for travel, recite bismillahi tawakkaltu allah for a safe journey.",
+              "While leaving for any important task, say dua before leaving house to trust Allah’s plan.",
+              "If you feel worried about going out, make dua for leaving the home for peace and help."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Leaving Home",
+            "description": "This dua for leaving home is a strong Islamic prayer that keeps you safe and reminds you to trust Allah before stepping out. It is a simple masnoon dua every Muslim should say for Barakah and protection.",
+            "steps": [
+              "Before you open the door, quietly say the dua for leaving home with full trust in Allah.",
+              "As you step outside, recite bismillahi tawakkaltu allah to ask for Allah’s help and safety.",
+              "When leaving for work, school, or travel, use the dua before leaving house to keep your day blessed.",
+              "If you feel worried or scared, softly say la hawla wala quwwata illa billah meaning to find peace.",
+              "While walking on the road, repeat the dua for leaving the home so Allah protects you from harm and gives you Iman."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 155,
+          "title": "Dua before leaving house",
+          "category_tags": [],
+          "introduction": "Umm Salamah (RA) narrated that: When the Prophet (ﷺ) would leave his house, he would say:",
+          "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ اَللَّـهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نَزِلَّ أَوْ نَضِلَّ أَوْ نَظْلِمَ أَوْ نُظْلَمَ أَوْ نَجْهَلَ أَوْ يُجْهَلَ عَلَيْنَا",
+          "audio": "/audio/dua/155.mp3",
+          "transliteration": "Bismillaahi, tawakkaltu 'alal-laahi. Allaahumma, inna na`udhu bika min an nazilla aw nadilla, aw nazlima aw nuzlama, aw najhala aw yujhala 'alaina",
+          "translation": "In the Name of Allah, I place my trust in Allah. O Allah! We seek refuge in You from slipping unintentionally or becoming misguided, or committing oppression or being oppressed, or acting ignorantly or being treated ignorantly.\n\nA mu'min should recite these adhkar by his/her heart whenever (Day/Night) he/she goes outside.",
+          "reference": "Sahih (Albani). Tirmidhi: 3427",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ عَامِرٍ الشَّعْبِيِّ، عَنْ أُمِّ سَلَمَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا خَرَجَ مِنْ بَيْتِهِ قَالَ ‏ \"‏ بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ اللَّهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نَزِلَّ أَوْ نَضِلَّ أَوْ نَظْلِمَ أَوْ نُظْلَمَ أَوْ نَجْهَلَ أَوْ يُجْهَلَ عَلَيْنَا ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "translation": "Umm Salamah narrated that : When the Prophet (ﷺ) would leave his house, he would say: “In the Name of Allah, I place my trust in Allah. O Allah! We seek refuge in You from slipping unintentionally or becoming misguided, or committing oppression or being oppressed, or acting ignorantly or being treated ignorantly (Bismillāh, tawakkaltu `alallāh. Allāhumma, innā na`ūdhu bika min an nazilla aw naḍilla, aw naẓlima aw nuẓlam, aw najhala aw yujhala alainā).” [Sahih (Albani). Tirmidhi: 3427]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua before Leaving House",
+            "description": "Dua before leaving house helps Muslims start their day with Iman, asking Allah for Barakah, safety from harm, and protection from mistakes or being wronged while outside.",
+            "points": [
+              "Dua before leaving house brings Allah’s help and covers you with His protection.",
+              "Bismillahi tawakkaltu alallah gives safety from harm and mistakes outside.",
+              "This masnoon dua keeps your heart full of trust in Allah and away from fear.",
+              "Reciting this dua before leaving home protects from being misguided or wronged.",
+              "It is a simple way to start your day with Barakah and Iman."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Leaving House",
+            "description": "This dua before leaving house helps Muslims start their day with Iman, asking Allah for Barakah, safety from harm, and protection from mistakes or being wronged while outside.",
+            "points": [
+              "Before opening your door, read the dua before leaving house for Allah’s help and safety.",
+              "When you step out for work or errands, use dua when leaving home to avoid mistakes.",
+              "As you leave for a journey, recite bismillahi tawakkaltu alallah for protection from harm.",
+              "While going out for any meeting, say dua for leaving the home to stay safe from injustice.",
+              "If you feel unsure about the day, make dua before leaving home for peace and Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua before leaving house",
+            "description": "Reciting the dua before leaving house brings Allah’s help and keeps you safe from harm, mistakes, and wrong actions. This simple dua for leaving home is a strong way to start your day with Barakah and Iman.",
+            "steps": [
+              "Start by saying bismillahi tawakkaltu alallah with full trust in Allah before stepping out.",
+              "As you open your door, quietly read this dua for leaving the home to seek Allah’s help.",
+              "When you walk outside, remember the meaning of bismillahi tawakkaltu alallah in your heart.",
+              "If you travel by car or bus, softly recite this dua for protection and safe journey.",
+              "After saying the dua, believe Allah will keep you safe from harm and guide your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 156,
+          "title": "Dua when leaving the house",
+          "category_tags": [],
+          "introduction": "Umm Salamah (RA) said, whenever Rasul (ﷺ) went outside my home he recite these words looking at the sky-",
+          "arabic": "اَللَّـهُمَّ إِنِّي أَعُوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضَلَّ، أَوْ أَزِلَّ، أَوْ أُزَلَّ، أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ",
+          "audio": "/audio/dua/156.mp3",
+          "transliteration": "Allaahumma innee a‛oodhu bika an adilla aw udalla, aw azilla aw uzalla, aw azlima aw uzlama, aw adhala aw yudhala ‛alayya",
+          "translation": "O Allah, I seek refuge with You lest I should stray or be led astray, or slip (i.e. to commit a sin unintentionally) or be tripped, or oppress or be oppressed, or behave foolishly or be treated foolishly.",
+          "reference": "Sahih (Albani). Abu Dawud: 5094",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنِ الشَّعْبِيِّ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ مَا خَرَجَ النَّبِيُّ صلى الله عليه وسلم مِنْ بَيْتِي قَطُّ إِلاَّ رَفَعَ طَرْفَهُ إِلَى السَّمَاءِ فَقَالَ ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ أَوْ أَزِلَّ أَوْ أُزَلَّ أَوْ أَظْلِمَ أَوْ أُظْلَمَ أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَىَّ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Umm Salamah, Ummul Mu'minin: The Messenger of Allah (ﷺ) never went out of my house without raising his eye to the sky and saying: \"O Allah! I seek refuge in Thee lest I stray or be led astray, or slip or made to slip, or cause injustice, or suffer injustice, or do wrong, or have wrong done to me.\" [Sahih (Albani). Abu Dawud: 5094]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua When Leaving the House",
+            "description": "This dua when leaving the house is a strong shield for Muslims, asking Allah for Barakah, safety from mistakes, and protection from harm or being wronged as you step outside with Iman.",
+            "points": [
+              "Dua when leaving the house protects from going astray or being led astray.",
+              "Allahumma inni auzubika gives safety from harm, mistakes, and injustice.",
+              "This masnoon dua keeps your Iman strong and your Amal safe from wrong actions.",
+              "Reciting this dua before leaving home brings Allah’s help in every step outside.",
+              "It is a simple way to protect your Iman and Amal every day."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua When Leaving the House",
+            "description": "This dua when leaving the house is a strong shield for Muslims, asking Allah for Barakah, safety from mistakes, and protection from harm or being wronged as you step outside with Iman.",
+            "points": [
+              "Before you walk out, read the dua when leaving the house for Allah’s protection.",
+              "When heading out for any work, use dua for leaving the home to avoid being misguided.",
+              "As you get ready for travel, recite allahumma inni auzubika for safety from harm and sin.",
+              "While leaving for school or market, say dua before leaving house to stay safe from injustice.",
+              "If you feel worried about your day, make dua when leaving home for peace and Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua when leaving the house",
+            "description": "Saying the dua when leaving the house gives you Allah’s help and keeps you safe from mistakes, harm, and wrong actions. This dua for leaving the home is a simple way to protect your Iman and Amal every day.",
+            "steps": [
+              "Make your niyyah for safety and softly say allahumma inni auzubika before you step out.",
+              "As you touch the door, quietly read this dua for leaving house to seek Allah’s help.",
+              "While going out, keep the meaning of dua when leaving the house in your heart.",
+              "If you travel for work or school, recite this dua for protection and safe journey.",
+              "After saying the dua, trust Allah to keep you safe from harm and guide your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Upon entering the home",
+      "category": "home",
+      "dua-ids": [
+        157,
+        158,
+        159
+      ],
+      "duas": [
+        {
+          "dua_id": 157,
+          "title": "Dua for entering home",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+          "audio": "/audio/dua/157.mp3",
+          "transliteration": "Allaahumma inni as'aluka khairal-mawliji wa khairal-makhraji. Bismillahi wa lajna, wa bismillahi kharajna, wa 'al-Allahi rabbina tawakkalna",
+          "translation": "O Allah! I ask Thee for good both when entering and when going out; in the name of Allah we have entered, and in the name of Allah we have gone out, and in Allah our Lord do we trust.\n\nRasoolullah (ﷺ) commanded us to mention Allah upon entering home and informed that, who does that devil can’t enter into the house with him. Fundamental dua upon entering home is giving salaam. Abu Malik Ash’ari (RA) narrated that, Rasoolullah (ﷺ) said that, when anyone from you enter into the house, he should recite these words and then give salaam to his family. The narrators of this narration are all trustworthy but there is a probability that the hadith is ‘Mursaal’.",
+          "reference": "Hasan (Ibn Baz). Abu Dawud: 5096",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا ابْنُ عَوْفٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي أَبِي، - قَالَ ابْنُ عَوْفٍ وَرَأَيْتُ فِي أَصْلِ إِسْمَاعِيلَ - قَالَ حَدَّثَنِي ضَمْضَمٌ، عَنْ شُرَيْحٍ، عَنْ أَبِي مَالِكٍ الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا وَلَجَ الرَّجُلُ فِي بَيْتِهِ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا ثُمَّ لْيُسَلِّمْ عَلَى أَهْلِهِ ‏\" ‏ ‏.‏",
+            "translation": "Narrated AbuMalik Al-Ash'ari: The Prophet (ﷺ) said: When a man goes into his house, he should say: \"O Allah! I ask Thee for good both when entering and when going out; in the name of Allah we have entered, and in the name of Allah we have gone out, and in Allah our Lord do we trust.\" He should then greet his family. [Hasan (Ibn Baz). Abu Dawud: 5096]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Entering Home",
+            "description": "Dua for entering home brings Barakah and peace, asking Allah for good, safety, and trust in Him every time you step inside, making your house a place of Iman and comfort.",
+            "points": [
+              "Dua for entering home brings Allah’s Barakah and safety to your house.",
+              "Bismillah and tawakkul in this dua keep shaytan away and protect your family.",
+              "This masnoon dua makes every entry and exit full of Barakah and Amal.",
+              "Reciting this dua for entering home helps hearts stay strong with Iman.",
+              "It is a simple way to ask Allah for good for your family and Amal."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Entering Home",
+            "description": "This dua for entering home brings Barakah and peace, asking Allah for good, safety, and trust in Him every time you step inside, making your house a place of Iman and comfort.",
+            "points": [
+              "When you reach your door, read the dua for entering home for Allah’s Barakah and safety.",
+              "After coming back from work or school, use dua before entering home to bring peace inside.",
+              "As you enter with family, recite bismillah and dua for entering the house for protection.",
+              "When moving into a new house, say dua for entering home to ask Allah for good and blessings.",
+              "If you feel worried or tired, make dua of entering home for comfort and trust in Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for entering home",
+            "description": "Reciting the dua for entering home brings Barakah and keeps your house safe with Allah’s help. This dua for entering the house is a simple way to start with Iman and ask for good for your family and Amal.",
+            "steps": [
+              "Enter your home by stepping in with your right foot and say bismillah with trust.",
+              "As you cross the door, softly read this dua for entering home to seek Allah’s Barakah.",
+              "When you see your family, greet them and remember the meaning of allahumma in your heart.",
+              "If you come home after a long day, recite this dua for protection of family and peace.",
+              "After saying the dua, believe Allah will fill your house with goodness and guide your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 158,
+          "title": "Dua before entering home",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+          "audio": "/audio/dua/158.mp3",
+          "transliteration": "As-salaamu 'alaykum wara'hmatullaahi wa barakaatuh",
+          "translation": "Peace be upon you, and the Mercy of Allah and His Blessings.\n\nTo give salaam upon all is sunnah. Giving salaam upon spouse and family members is additional sunnah. It is recommended and have special rewards and those who have this character, this below mentioned hadith give glad tidings. Abu umama (RA) said that, Rasoolullah (ﷺ) said, “Allah will give guarantee and protection for three kinds of people. If he live then all of his matter will be protected by Allah and if he die then he will enter into jannah. (First one is) He who give salaam before enter into the house, he will enter in the protection of Allah….”",
+          "reference": "Hasan (Ibn Hajar). MIshkat: 4/316",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَعَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: \" بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ وَالْحَجِّ وَصَوْمِ رَمَضَانَ \"",
+            "translation": "Ibn ‘Umar reported God's messenger as saying, “Islam is based on five things: the testimony that there is no god but God and that Muhammad is His servant and messenger, the observance of the prayer, the payment of zakat , the Pilgrimage, and the fast during Ramadan.” (Bukhari and Muslim.) [Hasan (Ibn Hajar). MIshkat: 4/316]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua before Entering Home",
+            "description": "Bring peace and Barakah to your house by saying this dua before entering home, letting Allah’s mercy and blessings fill your family and protect everyone inside from harm and trouble.",
+            "points": [
+              "Saying assalamualaikum warahmatullahi wabarakatuh brings Allah’s Barakah to the home.",
+              "Salam alaikum at the door keeps shaytan away and brings peace to the family.",
+              "Dua before entering home helps grow love and unity among all who live there.",
+              "Using this masnoon dua for entering home makes every step full of Allah’s mercy.",
+              "Dua for enter home gives protection from unseen harm and keeps hearts soft with Iman."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Entering Home",
+            "description": "This dua before entering home fills your house with Barakah, peace, and Allah’s mercy, greeting everyone with Iman and making your entry a source of blessings for all inside.",
+            "points": [
+              "When you reach your door, greet with dua before entering home for peace and Barakah.",
+              "After a long day outside, use assalamualaikum warahmatullahi wabarakatuh to bring mercy.",
+              "As you enter with family, say salam alaikum for blessings and comfort in your home.",
+              "When visiting someone’s house, recite dua for entering home to spread Allah’s mercy.",
+              "If you feel tired or upset, make dua of entering home for calm and Allah’s kindness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua before entering home",
+            "description": "Saying the dua before entering home brings peace, Barakah, and Allah’s mercy to your house. This simple dua before entering home is a way to greet your family and fill your home with blessings and Iman.",
+            "steps": [
+              "Step to your door and say assalamualaikum warahmatullahi wabarakatuh with a smile.",
+              "When you enter, greet your family using this dua for entering home to spread Barakah.",
+              "If you come home after work or school, softly say salam alaikum for Allah’s mercy.",
+              "While opening the door, remember the meaning of assalamualaikum in your heart.",
+              "After saying the dua, believe Allah will fill your home with peace and guide your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 159,
+          "title": "Dua of entering home",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+          "audio": "/audio/dua/159.mp3",
+          "transliteration": "Bismil-laahi walajna, wabismil-laahi kharajna, wa'alallaahi rabbina tawakkalna",
+          "translation": "In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.\n\nThen give salaam to the people of the house. [1] When a person enters his house and mentions the name of Allah at the time of entering it and while eating the food, Satan says (addressing himself: You have no place to spend the night and no evening meal;[2]",
+          "reference": "[1] Hasan (Ibn Baz). Abu Dawud: 5096 [2] Muslim: 2018",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا ابْنُ عَوْفٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي أَبِي، - قَالَ ابْنُ عَوْفٍ وَرَأَيْتُ فِي أَصْلِ إِسْمَاعِيلَ - قَالَ حَدَّثَنِي ضَمْضَمٌ، عَنْ شُرَيْحٍ، عَنْ أَبِي مَالِكٍ الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا وَلَجَ الرَّجُلُ فِي بَيْتِهِ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا ثُمَّ لْيُسَلِّمْ عَلَى أَهْلِهِ ‏\" ‏ ‏.‏",
+            "translation": "Narrated AbuMalik Al-Ash'ari: The Prophet (ﷺ) said: When a man goes into his house, he should say: \"O Allah! I ask Thee for good both when entering and when going out; in the name of Allah we have entered, and in the name of Allah we have gone out, and in Allah our Lord do we trust.\" He should then greet his family. [[1] Hasan (Ibn Baz). Abu Dawud: 5096 [2] Muslim: 2018]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Entering Home",
+            "description": "Let your house be filled with Allah’s care and trust by saying this dua of entering home, making every step inside and outside safe with His name and keeping your family close to His Rahmah.",
+            "points": [
+              "Bismillah in this dua for entering home keeps shaytan away from your house.",
+              "Placing tawakkal on Allah with this dua brings peace and safety to the family.",
+              "Dua of entering home makes every entry and exit full of Barakah and Amal.",
+              "Using this masnoon dua for entering house helps hearts stay strong with Iman.",
+              "Saying this dua for entering the home brings Allah’s help in all daily matters."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua of Entering Home",
+            "description": "This dua of entering home reminds every Muslim to say bismillah and trust Allah, bringing Barakah and safety to the house, and making every step inside or outside full of tawakkal and Iman.",
+            "points": [
+              "Entering your house, always say the dua of entering home for Barakah and safety.",
+              "When leaving your home, recite bismillah and this dua for Allah’s protection.",
+              "After coming back from work or school, use the dua for entering the house for peace.",
+              "If you move to a new home, make the dua for entering home to ask for Allah’s blessings.",
+              "Before opening the door at night, remember the dua for entering house for calm and tawakkal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of entering home",
+            "description": "Reciting the dua of entering home brings Barakah and keeps your house safe with Allah’s name. This dua for entering home is a simple way to start and end your day with Iman and trust in Allah’s help.",
+            "steps": [
+              "Enter your house by stepping in with your right foot and say bismillah with full heart.",
+              "As you cross the door, softly read this dua of entering home to seek Allah’s Barakah.",
+              "When you leave the house, remember to say bismillahi tawakkaltu alallah for protection.",
+              "If you come home after a long day, recite this dua for entering the house and leaving.",
+              "After saying the dua, trust Allah to fill your home with peace and guide your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

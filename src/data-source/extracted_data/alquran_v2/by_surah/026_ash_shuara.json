@@ -1,0 +1,1826 @@
+{
+  "id": 26,
+  "name": "الشعراء",
+  "transliteration": "Ash-Shu'ara",
+  "translation_en": "The Poets",
+  "type": "meccan",
+  "total_verses": 227,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "طسٓمٓ",
+      "transliteration": "Taseenmeem",
+      "translation_en": "Ta, Seen, Meem",
+      "translation_bn": "ত্বা, সীন, মীম।",
+      "translation_ur": "ط س م"
+    },
+    {
+      "id": 2,
+      "arabic": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+      "transliteration": "Tilka ayatu alkitabi almubeeni",
+      "translation_en": "These are the verses of the clear Book",
+      "translation_bn": "এগুলো সুস্পষ্ট কিতাবের আয়াত।",
+      "translation_ur": "یہ کتاب مبین کی آیات ہیں"
+    },
+    {
+      "id": 3,
+      "arabic": "لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ",
+      "transliteration": "LaAAallaka bakhiAAun nafsaka alla yakoonoo mumineena",
+      "translation_en": "Perhaps, [O Muhammad], you would kill yourself with grief that they will not be believers",
+      "translation_bn": "তারা বিশ্বাস করে না বলে আপনি হয়তো মর্মব্যথায় আত্নঘাতী হবেন।",
+      "translation_ur": "اے محمدؐ، شاید تم اس غم میں اپنی جان کھو دو گے کہ یہ لوگ ایمان نہیں لاتے"
+    },
+    {
+      "id": 4,
+      "arabic": "إِن نَّشَأۡ نُنَزِّلۡ عَلَيۡهِم مِّنَ ٱلسَّمَآءِ ءَايَةٗ فَظَلَّتۡ أَعۡنَٰقُهُمۡ لَهَا خَٰضِعِينَ",
+      "transliteration": "In nasha nunazzil AAalayhim mina alssamai ayatan fathallat aAAnaquhum laha khadiAAeena",
+      "translation_en": "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled",
+      "translation_bn": "আমি যদি ইচ্ছা করি, তবে আকাশ থেকে তাদের কাছে কোন নিদর্শন নাযিল করতে পারি। অতঃপর তারা এর সামনে নত হয়ে যাবে।",
+      "translation_ur": "ہم چاہیں تو آسمان سے ایسی نشانی نازل کر سکتے ہیں کہ اِن کی گردنیں اس کے آگے جھک جائیں"
+    },
+    {
+      "id": 5,
+      "arabic": "وَمَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّنَ ٱلرَّحۡمَٰنِ مُحۡدَثٍ إِلَّا كَانُواْ عَنۡهُ مُعۡرِضِينَ",
+      "transliteration": "Wama yateehim min thikrin mina alrrahmani muhdathin illa kanoo AAanhu muAArideena",
+      "translation_en": "And no revelation comes to them anew from the Most Merciful except that they turn away from it",
+      "translation_bn": "যখনই তাদের কাছে রহমান এর কোন নতুন উপদেশ আসে, তখনই তারা তা থেকে মুখ ফিরিয়ে নেয়।",
+      "translation_ur": "اِن لوگوں کے پاس رحمان کی طرف سے جو نئی نصیحت بھی آتی ہے یہ اس سے منہ موڑ لیتے ہیں"
+    },
+    {
+      "id": 6,
+      "arabic": "فَقَدۡ كَذَّبُواْ فَسَيَأۡتِيهِمۡ أَنۢبَـٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "transliteration": "Faqad kaththaboo fasayateehim anbao ma kanoo bihi yastahzioona",
+      "translation_en": "For they have already denied, but there will come to them the news of that which they used to ridicule",
+      "translation_bn": "অতএব তারা তো মিথ্যারোপ করেছেই; সুতরাং যে বিষয় নিয়ে তারা ঠাট্টা-বিদ্রুপ করত, তার যথার্থ স্বরূপ শীঘ্রই তাদের কাছে পৌছবে।",
+      "translation_ur": "اب کہ یہ جھٹلا چکے ہیں، عنقریب اِن کو اس چیز کی حقیقت (مختلف طریقوں سے) معلوم ہو جائے گی جس کا یہ مذاق اڑاتے رہے ہیں"
+    },
+    {
+      "id": 7,
+      "arabic": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٖ كَرِيمٍ",
+      "transliteration": "Awalam yaraw ila alardi kam anbatna feeha min kulli zawjin kareemin",
+      "translation_en": "Did they not look at the earth - how much We have produced therein from every noble kind",
+      "translation_bn": "তারা কি ভুপৃষ্ঠের প্রতি দৃষ্টিপাত করে না? আমি তাতে সর্বপ্রকার বিশেষ-বস্তু কত উদগত করেছি।",
+      "translation_ur": "اور کیا انہوں نے کبھی زمین پر نگاہ نہیں ڈالی کہ ہم نے کتنی کثیر مقدار میں ہر طرح کی عمدہ نباتات اس میں پیدا کی ہیں؟"
+    },
+    {
+      "id": 8,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "নিশ্চয় এতে নিদর্শন আছে, কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+      "translation_ur": "یقیناً اس میں ایک نشانی ہے، مگر ان میں سے اکثر ماننے والے نہیں"
+    },
+    {
+      "id": 9,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "আপনার পালনকর্তা তো পরাক্রমশালী পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 10,
+      "arabic": "وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّـٰلِمِينَ",
+      "transliteration": "Waith nada rabbuka moosa ani iti alqawma alththalimeena",
+      "translation_en": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people",
+      "translation_bn": "যখন আপনার পালনকর্তা মূসাকে ডেকে বললেনঃ তুমি পাপিষ্ঠ সম্প্রদায়ের নিকট যাও",
+      "translation_ur": "اِنہیں اس وقت کا قصہ سناؤ جب کہ تمہارے رب نے موسیٰؑ کو پکارا \"ظالم قوم کے پاس جا"
+    },
+    {
+      "id": 11,
+      "arabic": "قَوۡمَ فِرۡعَوۡنَۚ أَلَا يَتَّقُونَ",
+      "transliteration": "Qawma firAAawna ala yattaqoona",
+      "translation_en": "The people of Pharaoh. Will they not fear Allah",
+      "translation_bn": "ফেরাউনের সম্প্রদায়ের নিকট; তারা কি ভয় করে না",
+      "translation_ur": "فرعون کی قوم کے پاس، کیا وہ ڈرتے نہیں؟"
+    },
+    {
+      "id": 12,
+      "arabic": "قَالَ رَبِّ إِنِّيٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "transliteration": "Qala rabbi innee akhafu an yukaththibooni",
+      "translation_en": "He said, \"My Lord, indeed I fear that they will deny me",
+      "translation_bn": "সে বলল, হে আমার পালনকর্তা, আমার আশংকা হচ্ছে যে, তারা আমাকে মিথ্যাবাদী বলে দেবে।",
+      "translation_ur": "اُس نے عرض کیا \"اے رب، مجھے خوف ہے کہ وہ مجھے جھٹلا دیں گے"
+    },
+    {
+      "id": 13,
+      "arabic": "وَيَضِيقُ صَدۡرِي وَلَا يَنطَلِقُ لِسَانِي فَأَرۡسِلۡ إِلَىٰ هَٰرُونَ",
+      "transliteration": "Wayadeequ sadree wala yantaliqu lisanee faarsil ila haroona",
+      "translation_en": "And that my breast will tighten and my tongue will not be fluent, so send for Aaron",
+      "translation_bn": "এবং আমার মন হতবল হয়ে পড়ে এবং আমার জিহবা অচল হয়ে যায়। সুতরাং হারুনের কাছে বার্তা প্রেরণ করুন।",
+      "translation_ur": "میرا سینہ گھٹتا ہے اور میری زبان نہیں چلتی آپ ہارونؑ کی طرف رسالت بھیجیں"
+    },
+    {
+      "id": 14,
+      "arabic": "وَلَهُمۡ عَلَيَّ ذَنۢبٞ فَأَخَافُ أَن يَقۡتُلُونِ",
+      "transliteration": "Walahum AAalayya thanbun faakhafu an yaqtulooni",
+      "translation_en": "And they have upon me a [claim due to] sin, so I fear that they will kill me",
+      "translation_bn": "আমার বিরুদ্ধে তাদের অভিযোগ আছে। অতএব আমি আশংকা করি যে, তারা আমাকে হত্যা করবে।",
+      "translation_ur": "اور مجھ پر اُن کے ہاں ایک جرم کا الزام بھی ہے، اس لیے ڈرتا ہوں کہ وہ مجھے قتل کر دیں گے"
+    },
+    {
+      "id": 15,
+      "arabic": "قَالَ كَلَّاۖ فَٱذۡهَبَا بِـَٔايَٰتِنَآۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ",
+      "transliteration": "Qala kalla faithhaba biayatina inna maAAakum mustamiAAoona",
+      "translation_en": "[Allah] said, \"No. Go both of you with Our signs; indeed, We are with you, listening",
+      "translation_bn": "আল্লাহ বলেন, কখনই নয় তোমরা উভয়ে যাও আমার নিদর্শনাবলী নিয়ে। আমি তোমাদের সাথে থেকে শোনব।",
+      "translation_ur": "فرمایا \"ہرگز نہیں، تم دونوں جاؤ ہماری نشانیاں لے کر، ہم تمہارے ساتھ سب کچھ سنتے رہیں گے"
+    },
+    {
+      "id": 16,
+      "arabic": "فَأۡتِيَا فِرۡعَوۡنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Fatiya firAAawna faqoola inna rasoolu rabbi alAAalameena",
+      "translation_en": "Go to Pharaoh and say, 'We are the messengers of the Lord of the worlds",
+      "translation_bn": "অতএব তোমরা ফেরআউনের কাছে যাও এবং বল, আমরা বিশ্বজগতের পালনকর্তার রসূল।",
+      "translation_ur": "فرعون کے پاس جاؤ اور اس سے کہو، ہم کو رب العٰلمین نے اس لیے بھیجا ہے"
+    },
+    {
+      "id": 17,
+      "arabic": "أَنۡ أَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَـٰٓءِيلَ",
+      "transliteration": "An arsil maAAana banee israeela",
+      "translation_en": "[Commanded to say], \"Send with us the Children of Israel",
+      "translation_bn": "যাতে তুমি বনী-ইসরাঈলকে আমাদের সাথে যেতে দাও।",
+      "translation_ur": "کہ تو بنی اسرائیل کو ہمارے ساتھ جانے دے"
+    },
+    {
+      "id": 18,
+      "arabic": "قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ سِنِينَ",
+      "transliteration": "Qala alam nurabbika feena waleedan walabithta feena min AAumurika sineena",
+      "translation_en": "[Pharaoh] said, \"Did we not raise you among us as a child, and you remained among us for years of your life",
+      "translation_bn": "ফেরাউন বলল, আমরা কি তোমাকে শিশু অবস্থায় আমাদের মধ্যে লালন-পালন করিনি? এবং তুমি আমাদের মধ্যে জীবনের বহু বছর কাটিয়েছ।",
+      "translation_ur": "فرعون نے کہا \"کیا ہم نے تجھ کو اپنے ہاں بچہ سا نہیں پالا تھا؟ تو نے اپنی عمر کے کئی سال ہمارے ہاں گزارے"
+    },
+    {
+      "id": 19,
+      "arabic": "وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِي فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَٰفِرِينَ",
+      "transliteration": "WafaAAalta faAAlataka allatee faAAalta waanta mina alkafireena",
+      "translation_en": "And [then] you did your deed which you did, and you were of the ungrateful",
+      "translation_bn": "তুমি সেই-তোমরা অপরাধ যা করবার করেছ। তুমি হলে কৃতঘ্ন।",
+      "translation_ur": "اور اس کے بعد کر گیا جو کچھ کہ کر گیا، تو بڑا احسان فراموش آدمی ہے"
+    },
+    {
+      "id": 20,
+      "arabic": "قَالَ فَعَلۡتُهَآ إِذٗا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+      "transliteration": "Qala faAAaltuha ithan waana mina alddalleena",
+      "translation_en": "[Moses] said, \"I did it, then, while I was of those astray",
+      "translation_bn": "মূসা বলল, আমি সে অপরাধ তখন করেছি, যখন আমি ভ্রান্ত ছিলাম।",
+      "translation_ur": "موسیٰؑ نے جواب دیا \"اُس وقت وہ کام میں نے نادانستگی میں کر دیا تھا"
+    },
+    {
+      "id": 21,
+      "arabic": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي مِنَ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "Fafarartu minkum lamma khiftukum fawahaba lee rabbee hukman wajaAAalanee mina almursaleena",
+      "translation_en": "So I fled from you when I feared you. Then my Lord granted me wisdom and prophethood and appointed me [as one] of the messengers",
+      "translation_bn": "অতঃপর আমি ভীত হয়ে তোমাদের কাছ থেকে পলায়ন করলাম। এরপর আমার পালনকর্তা আমাকে প্রজ্ঞা দান করেছেন এবং আমাকে পয়গম্বর করেছেন।",
+      "translation_ur": "پھر میں تمہارے خوف سے بھاگ گیا اس کے بعد میرے رب نے مجھ کو حکم عطا کیا اور مجھے رسولوں میں شامل کر لیا"
+    },
+    {
+      "id": 22,
+      "arabic": "وَتِلۡكَ نِعۡمَةٞ تَمُنُّهَا عَلَيَّ أَنۡ عَبَّدتَّ بَنِيٓ إِسۡرَـٰٓءِيلَ",
+      "transliteration": "Watilka niAAmatun tamunnuha AAalayya an AAabbadta banee israeela",
+      "translation_en": "And is this a favor of which you remind me - that you have enslaved the Children of Israel",
+      "translation_bn": "আমার প্রতি তোমার যে অনুগ্রহের কথা বলছ, তা এই যে, তুমি বনী-ইসলাঈলকে গোলাম বানিয়ে রেখেছ।",
+      "translation_ur": "رہا تیرا احسان جو تو نے مجھ پر جتایا ہے تو اس کی حقیقت یہ ہے کہ تو نے بنی اسرائیل کو غلام بنا لیا تھا"
+    },
+    {
+      "id": 23,
+      "arabic": "قَالَ فِرۡعَوۡنُ وَمَا رَبُّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Qala firAAawnu wama rabbu alAAalameena",
+      "translation_en": "Said Pharaoh, \"And what is the Lord of the worlds",
+      "translation_bn": "ফেরাউন বলল, বিশ্বজগতের পালনকর্তা আবার কি",
+      "translation_ur": "فرعون نے کہا \"اور یہ رب العالمین کیا ہوتا ہے؟"
+    },
+    {
+      "id": 24,
+      "arabic": "قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ",
+      "transliteration": "Qala rabbu alssamawati waalardi wama baynahuma in kuntum mooqineena",
+      "translation_en": "[Moses] said, \"The Lord of the heavens and earth and that between them, if you should be convinced",
+      "translation_bn": "মূসা বলল, তিনি নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যবর্তী সবকিছুর পালনকর্তা যদি তোমরা বিশ্বাসী হও।",
+      "translation_ur": "موسیٰؑ نے جواب دیا \"آسمان اور زمین کا رب، اور اُن سب چیزوں کا رب جو آسمان اور زمین کے درمیان ہیں، اگر تم یقین لانے والے ہو"
+    },
+    {
+      "id": 25,
+      "arabic": "قَالَ لِمَنۡ حَوۡلَهُۥٓ أَلَا تَسۡتَمِعُونَ",
+      "transliteration": "Qala liman hawlahu ala tastamiAAoona",
+      "translation_en": "[Pharaoh] said to those around him, \"Do you not hear",
+      "translation_bn": "ফেরাউন তার পরিষদবর্গকে বলল, তোমরা কি শুনছ না",
+      "translation_ur": "فرعون نے اپنے گرد و پیش کے لوگوں سے کہا \"سُنتے ہو؟"
+    },
+    {
+      "id": 26,
+      "arabic": "قَالَ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+      "transliteration": "Qala rabbukum warabbu abaikumu alawwaleena",
+      "translation_en": "[Moses] said, \"Your Lord and the Lord of your first forefathers",
+      "translation_bn": "মূসা বলল, তিনি তোমাদের পালনকর্তা এবং তোমাদের পূর্ববর্তীদেরও পালনকর্তা।",
+      "translation_ur": "موسیٰؑ نے کہا \"تمہارا رب بھی اور تمہارے ان آباء و اجداد کا رب بھی جو گزر چکے ہیں"
+    },
+    {
+      "id": 27,
+      "arabic": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيٓ أُرۡسِلَ إِلَيۡكُمۡ لَمَجۡنُونٞ",
+      "transliteration": "Qala inna rasoolakumu allathee orsila ilaykum lamajnoonun",
+      "translation_en": "[Pharaoh] said, \"Indeed, your 'messenger' who has been sent to you is mad",
+      "translation_bn": "ফেরাউন বলল, তোমাদের প্রতি প্রেরিত তোমাদের রসূলটি নিশ্চয়ই বদ্ধ পাগল।",
+      "translation_ur": "فرعون نے (حاضرین سے) کہا \"تمہارے یہ رسول صاحب جو تمہاری طرف بھیجے گئے ہیں، بالکل ہی پاگل معلوم ہوتے ہیں"
+    },
+    {
+      "id": 28,
+      "arabic": "قَالَ رَبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُمۡ تَعۡقِلُونَ",
+      "transliteration": "Qala rabbu almashriqi waalmaghribi wama baynahuma in kuntum taAAqiloona",
+      "translation_en": "[Moses] said, \"Lord of the east and the west and that between them, if you were to reason",
+      "translation_bn": "মূসা বলল, তিনি পূর্ব, পশ্চিম ও এতদুভয়ের মধ্যবর্তী সব কিছুর পালনকর্তা, যদি তোমরা বোঝ।",
+      "translation_ur": "موسیٰؑ نے کہا \"مشرق و مغرب اور جو کچھ ان کے درمیان ہے سب کا رب، اگر آپ لوگ کچھ عقل رکھتے ہیں"
+    },
+    {
+      "id": 29,
+      "arabic": "قَالَ لَئِنِ ٱتَّخَذۡتَ إِلَٰهًا غَيۡرِي لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِينَ",
+      "transliteration": "Qala laini ittakhathta ilahan ghayree laajAAalannaka mina almasjooneena",
+      "translation_en": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned",
+      "translation_bn": "ফেরাউন বলল, তুমি যদি আমার পরিবর্তে অন্যকে উপাস্যরূপে গ্রহণ কর তবে আমি অবশ্যই তোমাকে কারাগারে নিক্ষেপ করব।",
+      "translation_ur": "فرعون نے کہا \"اگر تو نے میرے سوا کسی اور کو معبود بنایا تو تجھے میں اُن لوگوں میں شامل کر دوں گا جو قید خانوں میں پڑے سڑ رہے ہیں"
+    },
+    {
+      "id": 30,
+      "arabic": "قَالَ أَوَلَوۡ جِئۡتُكَ بِشَيۡءٖ مُّبِينٖ",
+      "transliteration": "Qala awalaw jituka bishayin mubeenin",
+      "translation_en": "[Moses] said, \"Even if I brought you proof manifest",
+      "translation_bn": "মূসা বলল, আমি তোমার কাছে কোন স্পষ্ট বিষয় নিয়ে আগমন করলেও কি",
+      "translation_ur": "موسیٰؑ نے کہا \"اگرچہ میں لے آؤں تیرے سامنے ایک صریح چیز بھی؟"
+    },
+    {
+      "id": 31,
+      "arabic": "قَالَ فَأۡتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "transliteration": "Qala fati bihi in kunta mina alssadiqeena",
+      "translation_en": "[Pharaoh] said, \"Then bring it, if you should be of the truthful",
+      "translation_bn": "ফেরাউন বলল, তুমি সত্যবাদী হলে তা উপস্থিত কর।",
+      "translation_ur": "فرعون نے کہا \"اچھا تو لے آ اگر تو سچا ہے"
+    },
+    {
+      "id": 32,
+      "arabic": "فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعۡبَانٞ مُّبِينٞ",
+      "transliteration": "Faalqa AAasahu faitha hiya thuAAbanun mubeenun",
+      "translation_en": "So [Moses] threw his staff, and suddenly it was a serpent manifest",
+      "translation_bn": "অতঃপর তিনি লাঠি নিক্ষেপ করলে মুহূর্তের মধ্যে তা সুস্পষ্ট অজগর হয়ে গেল।",
+      "translation_ur": "(اس کی زبان سے یہ بات نکلتے ہی) موسیٰؑ نے اپنا عصا پھینکا اور یکایک وہ ایک صریح اژدھا تھا"
+    },
+    {
+      "id": 33,
+      "arabic": "وَنَزَعَ يَدَهُۥ فَإِذَا هِيَ بَيۡضَآءُ لِلنَّـٰظِرِينَ",
+      "transliteration": "WanazaAAa yadahu faitha hiya baydao lilnnathireena",
+      "translation_en": "And he drew out his hand; thereupon it was white for the observers",
+      "translation_bn": "আর তিনি তার হাত বের করলেন, তৎক্ষণাৎ তা দর্শকদের কাছে সুশুভ্র প্রতিভাত হলো।",
+      "translation_ur": "پھر اُس نے اپنا ہاتھ (بغل سے) کھینچا اور وہ سب دیکھنے والوں کے سامنے چمک رہا تھا"
+    },
+    {
+      "id": 34,
+      "arabic": "قَالَ لِلۡمَلَإِ حَوۡلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٞ",
+      "transliteration": "Qala lilmalai hawlahu inna hatha lasahirun AAaleemun",
+      "translation_en": "[Pharaoh] said to the eminent ones around him, \"Indeed, this is a learned magician",
+      "translation_bn": "ফেরাউন তার পরিষদবর্গকে বলল, নিশ্চয় এ একজন সুদক্ষ জাদুকর।",
+      "translation_ur": "فرعون اپنے گرد و پیش کے سرداروں سے بولا \"یہ شخص یقیناً ایک ماہر جادوگر ہے"
+    },
+    {
+      "id": 35,
+      "arabic": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ",
+      "transliteration": "Yureedu an yukhrijakum min ardikum bisihrihi famatha tamuroona",
+      "translation_en": "He wants to drive you out of your land by his magic, so what do you advise",
+      "translation_bn": "সে তার জাদু বলে তোমাদেরকে তোমাদের দেশ থেকে বহিস্কার করতে চায়। অতএব তোমাদের মত কি",
+      "translation_ur": "چاہتا ہے کہ اپنے جادو کے زور سے تم کو ملک سے نکال دے اب بتاؤ تم کیا حکم دیتے ہو؟"
+    },
+    {
+      "id": 36,
+      "arabic": "قَالُوٓاْ أَرۡجِهۡ وَأَخَاهُ وَٱبۡعَثۡ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ",
+      "transliteration": "Qaloo arjih waakhahu waibAAath fee almadaini hashireena",
+      "translation_en": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers",
+      "translation_bn": "তারা বলল, তাকে ও তার ভাইকে কিছু অবকাশ দিন এবং শহরে শহরে ঘোষক প্রেরণ করুন।",
+      "translation_ur": "انہوں نے کہا \"اسے اور اس کے بھائی کو روک لیجیے اور شہروں میں ہرکارے بھیج دیجیے"
+    },
+    {
+      "id": 37,
+      "arabic": "يَأۡتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٖ",
+      "transliteration": "Yatooka bikulli sahharin AAaleemin",
+      "translation_en": "Who will bring you every learned, skilled magician",
+      "translation_bn": "তারা যেন আপনার কাছে প্রত্যেকটি দক্ষ জাদুকর কে উপস্থিত করে।",
+      "translation_ur": "کہ ہر سیانے جادوگر کو آپ کے پاس لے آئیں"
+    },
+    {
+      "id": 38,
+      "arabic": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "transliteration": "FajumiAAa alssaharatu limeeqati yawmin maAAloomin",
+      "translation_en": "So the magicians were assembled for the appointment of a well-known day",
+      "translation_bn": "অতঃপর এক নির্দিষ্ট দিনে জাদুকরদেরকে একত্রিত করা হল।",
+      "translation_ur": "چنانچہ ایک روز مقرر وقت پر جادوگر اکٹھے کر لیے گئے"
+    },
+    {
+      "id": 39,
+      "arabic": "وَقِيلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ",
+      "transliteration": "Waqeela lilnnasi hal antum mujtamiAAoona",
+      "translation_en": "And it was said to the people, \"Will you congregate",
+      "translation_bn": "এবং জনগণের মধ্যে ঘোষণা করা হল, তোমরাও সমবেত হও।",
+      "translation_ur": "اور لوگوں سے کہا گیا \"تم اجتماع میں چلو گے؟"
+    },
+    {
+      "id": 40,
+      "arabic": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُواْ هُمُ ٱلۡغَٰلِبِينَ",
+      "transliteration": "LaAAallana nattabiAAu alssaharata in kanoo humu alghalibeena",
+      "translation_en": "That we might follow the magicians if they are the predominant",
+      "translation_bn": "যাতে আমরা জাদুকরদের অনুসরণ করতে পারি-যদি তারাই বিজয়ী হয়।",
+      "translation_ur": "شاید کہ ہم جادوگروں کے دین ہی پر رہ جائیں اگر وہ غالب رہے"
+    },
+    {
+      "id": 41,
+      "arabic": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُواْ لِفِرۡعَوۡنَ أَئِنَّ لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَٰلِبِينَ",
+      "transliteration": "Falamma jaa alssaharatu qaloo lifirAAawna ainna lana laajran in kunna nahnu alghalibeena",
+      "translation_en": "And when the magicians arrived, they said to Pharaoh, \"Is there indeed for us a reward if we are the predominant",
+      "translation_bn": "যখন যাদুকররা আগমণ করল, তখন ফেরআউনকে বলল, যদি আমরা বিজয়ী হই, তবে আমরা পুরস্কার পাব তো",
+      "translation_ur": "جب جادوگر میدان میں آ گئے تو انہوں نے فرعون سے کہا \"ہمیں انعام تو ملے گا اگر ہم غالب رہے؟"
+    },
+    {
+      "id": 42,
+      "arabic": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ",
+      "transliteration": "Qala naAAam wainnakum ithan lamina almuqarrabeena",
+      "translation_en": "He said, \"Yes, and indeed, you will then be of those near [to me]",
+      "translation_bn": "ফেরাউন বলল, হঁ্যা এবং তখন তোমরা আমার নৈকট্যশীলদের অন্তর্ভুক্ত হবে।",
+      "translation_ur": "اس نے کہا \"ہاں، اور تم تو اس وقت مقربین میں شامل ہو جاؤ گے"
+    },
+    {
+      "id": 43,
+      "arabic": "قَالَ لَهُم مُّوسَىٰٓ أَلۡقُواْ مَآ أَنتُم مُّلۡقُونَ",
+      "transliteration": "Qala lahum moosa alqoo ma antum mulqoona",
+      "translation_en": "Moses said to them, \"Throw whatever you will throw",
+      "translation_bn": "মূসা (আঃ) তাদেরকে বললেন, নিক্ষেপ কর তোমরা যা নিক্ষেপ করবে।",
+      "translation_ur": "موسیٰؑ نے کہا \"پھینکو جو تمہیں پھینکنا ہے"
+    },
+    {
+      "id": 44,
+      "arabic": "فَأَلۡقَوۡاْ حِبَالَهُمۡ وَعِصِيَّهُمۡ وَقَالُواْ بِعِزَّةِ فِرۡعَوۡنَ إِنَّا لَنَحۡنُ ٱلۡغَٰلِبُونَ",
+      "transliteration": "Faalqaw hibalahum waAAisiyyahum waqaloo biAAizzati firAAawna inna lanahnu alghaliboona",
+      "translation_en": "So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant",
+      "translation_bn": "অতঃপর তারা তাদের রশি ও লাঠি নিক্ষেপ করল এবং বলল, ফেরাউনের ইযযতের কসম, আমরাই বিজয়ী হব।",
+      "translation_ur": "انہوں نے فوراً اپنی رسیاں اور لاٹھیاں پھینک دیں اور بولے \"فرعون کے اقبال سے ہم ہی غالب رہیں گے"
+    },
+    {
+      "id": 45,
+      "arabic": "فَأَلۡقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلۡقَفُ مَا يَأۡفِكُونَ",
+      "transliteration": "Faalqa moosa AAasahu faitha hiya talqafu ma yafikoona",
+      "translation_en": "Then Moses threw his staff, and at once it devoured what they falsified",
+      "translation_bn": "অতঃপর মূসা তাঁর লাঠি নিক্ষেপ করল, হঠাৎ তা তাদের অলীক কীর্তিগুলোকে গ্রাস করতে লাগল।",
+      "translation_ur": "پھر موسیٰؑ نے اپنا عصا پھینکا تو یکایک وہ ان کے جھوٹے کرشموں کو ہڑپ کرتا چلا جا رہا تھا"
+    },
+    {
+      "id": 46,
+      "arabic": "فَأُلۡقِيَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+      "transliteration": "Faolqiya alssaharatu sajideena",
+      "translation_en": "So the magicians fell down in prostration [to Allah]",
+      "translation_bn": "তখন জাদুকররা সেজদায় নত হয়ে গেল।",
+      "translation_ur": "اس پر سارے جادوگر بے اختیار سجدے میں گر پڑے"
+    },
+    {
+      "id": 47,
+      "arabic": "قَالُوٓاْ ءَامَنَّا بِرَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Qaloo amanna birabbi alAAalameena",
+      "translation_en": "They said, \"We have believed in the Lord of the worlds",
+      "translation_bn": "তারা বলল, আমরা রাব্বুল আলামীনের প্রতি বিশ্বাস স্থাপন করলাম।",
+      "translation_ur": "اور بول اٹھے کہ \"مان گئے ہم رب العالمین کو"
+    },
+    {
+      "id": 48,
+      "arabic": "رَبِّ مُوسَىٰ وَهَٰرُونَ",
+      "transliteration": "Rabbi moosa waharoona",
+      "translation_en": "The Lord of Moses and Aaron",
+      "translation_bn": "যিনি মূসা ও হারুনের রব।",
+      "translation_ur": "موسیٰؑ اور ہارونؑ کے رب کو"
+    },
+    {
+      "id": 49,
+      "arabic": "قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَ فَلَسَوۡفَ تَعۡلَمُونَۚ لَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ وَلَأُصَلِّبَنَّكُمۡ أَجۡمَعِينَ",
+      "transliteration": "Qala amantum lahu qabla an athana lakum innahu lakabeerukumu allathee AAallamakumu alssihra falasawfa taAAlamoona laoqattiAAanna aydiyakum waarjulakum min khilafin walaosallibannakum ajmaAAeena",
+      "translation_en": "[Pharaoh] said, \"You believed Moses before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all",
+      "translation_bn": "ফেরাউন বলল, আমার অনুমতি দানের পূর্বেই তোমরা কি তাকে মেনে নিলে? নিশ্চয় সে তোমাদের প্রধান, যে তোমাদেরকে জাদু শিক্ষা দিয়েছে। শীঘ্রই তোমরা পরিণাম জানতে পারবে। আমি অবশ্যই তোমাদের হাত ও পা বিপরীত দিক থেকে কর্তন করব। এবং তোমাদের সবাইকে শূলে চড়াব।",
+      "translation_ur": "فرعون نے کہا \"تم موسیٰؑ کی بات مان گئے قبل اس کے کہ میں تمہیں اجازت دیتا! ضرور یہ تمہارا بڑا ہے جس نے تمہیں جادو سکھایا ہے اچھا، ابھی تمہیں معلوم ہوا جاتا ہے، میں تمہارے ہاتھ پاؤں مخالف سمتوں میں کٹواؤں گا اور تم سب کو سولی چڑھا دوں گا"
+    },
+    {
+      "id": 50,
+      "arabic": "قَالُواْ لَا ضَيۡرَۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+      "transliteration": "Qaloo la dayra inna ila rabbina munqaliboona",
+      "translation_en": "They said, \"No harm. Indeed, to our Lord we will return",
+      "translation_bn": "তারা বলল, কোন ক্ষতি নেই। আমরা আমাদের পালনকর্তার কাছে প্রত্যাবর্তন করব।",
+      "translation_ur": "انہوں نے جواب دیا \"کچھ پرواہ نہیں، ہم اپنے رب کے حضور پہنچ جائیں گے"
+    },
+    {
+      "id": 51,
+      "arabic": "إِنَّا نَطۡمَعُ أَن يَغۡفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ أَوَّلَ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "Inna natmaAAu an yaghfira lana rabbuna khatayana an kunna awwala almumineena",
+      "translation_en": "Indeed, we aspire that our Lord will forgive us our sins because we were the first of the believers",
+      "translation_bn": "আমরা আশা করি, আমাদের পালনকর্তা আমাদের ক্রটি-বিচ্যুতি মার্জনা করবেন। কারণ, আমরা বিশ্বাস স্থাপনকারীদের মধ্যে অগ্রণী।",
+      "translation_ur": "اور ہمیں توقع ہے کہ ہمارا رب ہمارے گناہ معاف کر دے گا کیونکہ سب سے پہلے ہم ایمان لائے ہیں"
+    },
+    {
+      "id": 52,
+      "arabic": "۞وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِيٓ إِنَّكُم مُّتَّبَعُونَ",
+      "transliteration": "Waawhayna ila moosa an asri biAAibadee innakum muttabaAAoona",
+      "translation_en": "And We inspired to Moses, \"Travel by night with My servants; indeed, you will be pursued",
+      "translation_bn": "আমি মূসাকে আদেশ করলাম যে, আমার বান্দাদেরকে নিয়ে রাত্রিযোগে বের হয়ে যাও, নিশ্চয় তোমাদের পশ্চাদ্ধাবন করা হবে।",
+      "translation_ur": "ہم نے موسیٰؑ کو وحی بھیجی کہ \"راتوں رات میرے بندوں کو لے کر نکل جاؤ، تمہارا پیچھا کیا جائے گا"
+    },
+    {
+      "id": 53,
+      "arabic": "فَأَرۡسَلَ فِرۡعَوۡنُ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ",
+      "transliteration": "Faarsala firAAawnu fee almadaini hashireena",
+      "translation_en": "Then Pharaoh sent among the cities gatherers",
+      "translation_bn": "অতঃপর ফেরাউন শহরে শহরে সংগ্রাহকদেরকে প্রেরণ করল",
+      "translation_ur": "اس پر فرعون نے (فوجیں جمع کرنے کے لیے) شہروں میں نقیب بھیج دیے"
+    },
+    {
+      "id": 54,
+      "arabic": "إِنَّ هَـٰٓؤُلَآءِ لَشِرۡذِمَةٞ قَلِيلُونَ",
+      "transliteration": "Inna haolai lashirthimatun qaleeloona",
+      "translation_en": "[And said], \"Indeed, those are but a small band",
+      "translation_bn": "নিশ্চয় এরা (বনী-ইসরাঈলরা) ক্ষুদ্র একটি দল।",
+      "translation_ur": "(اور کہلا بھیجا) کہ \"یہ کچھ مٹھی بھر لوگ ہیں"
+    },
+    {
+      "id": 55,
+      "arabic": "وَإِنَّهُمۡ لَنَا لَغَآئِظُونَ",
+      "transliteration": "Wainnahum lana laghaithoona",
+      "translation_en": "And indeed, they are enraging us",
+      "translation_bn": "এবং তারা আমাদের ক্রোধের উদ্রেক করেছে।",
+      "translation_ur": "اور انہوں نے ہم کو بہت ناراض کیا ہے"
+    },
+    {
+      "id": 56,
+      "arabic": "وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ",
+      "transliteration": "Wainna lajameeAAun hathiroona",
+      "translation_en": "And indeed, we are a cautious society",
+      "translation_bn": "এবং আমরা সবাই সদা শংকিত।",
+      "translation_ur": "اور ہم ایک ایسی جماعت ہیں جس کا شیوہ ہر وقت چوکنا رہنا ہے"
+    },
+    {
+      "id": 57,
+      "arabic": "فَأَخۡرَجۡنَٰهُم مِّن جَنَّـٰتٖ وَعُيُونٖ",
+      "transliteration": "Faakhrajnahum min jannatin waAAuyoonin",
+      "translation_en": "So We removed them from gardens and springs",
+      "translation_bn": "অতঃপর আমি ফেরআউনের দলকে তাদের বাগ-বাগিচা ও ঝর্ণাসমূহ থেকে বহিষ্কার করলাম।",
+      "translation_ur": "اِس طرح ہم انہیں ان کے باغوں اور چشموں"
+    },
+    {
+      "id": 58,
+      "arabic": "وَكُنُوزٖ وَمَقَامٖ كَرِيمٖ",
+      "transliteration": "Wakunoozin wamaqamin kareemin",
+      "translation_en": "And treasures and honorable station",
+      "translation_bn": "এবং ধন-ভান্ডার ও মনোরম স্থানসমূহ থেকে।",
+      "translation_ur": "اور خزانوں اور ان کی بہترین قیام گاہوں سے نکال لائے"
+    },
+    {
+      "id": 59,
+      "arabic": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا بَنِيٓ إِسۡرَـٰٓءِيلَ",
+      "transliteration": "Kathalika waawrathnaha banee israeela",
+      "translation_en": "Thus. And We caused to inherit it the Children of Israel",
+      "translation_bn": "এরূপই হয়েছিল এবং বনী-ইসলাঈলকে করে দিলাম এসবের মালিক।",
+      "translation_ur": "یہ تو ہوا اُن کے ساتھ، اور (دوسری طرف) بنی اسرائیل کو ہم نے ان سب چیزوں کا وارث کر دیا"
+    },
+    {
+      "id": 60,
+      "arabic": "فَأَتۡبَعُوهُم مُّشۡرِقِينَ",
+      "transliteration": "FaatbaAAoohum mushriqeena",
+      "translation_en": "So they pursued them at sunrise",
+      "translation_bn": "অতঃপর সুর্যোদয়ের সময় তারা তাদের পশ্চাদ্ধাবন করল।",
+      "translation_ur": "صبح ہوتے ہی یہ لوگ اُن کے تعاقب میں چل پڑے"
+    },
+    {
+      "id": 61,
+      "arabic": "فَلَمَّا تَرَـٰٓءَا ٱلۡجَمۡعَانِ قَالَ أَصۡحَٰبُ مُوسَىٰٓ إِنَّا لَمُدۡرَكُونَ",
+      "transliteration": "Falamma taraa aljamAAani qala ashabu moosa inna lamudrakoona",
+      "translation_en": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken",
+      "translation_bn": "যখন উভয় দল পরস্পরকে দেখল, তখন মূসার সঙ্গীরা বলল, আমরা যে ধরা পড়ে গেলাম।",
+      "translation_ur": "جب دونوں گروہوں کا آمنا سامنا ہوا تو موسیٰؑ کے ساتھی چیخ اٹھے کہ \"ہم تو پکڑے گئے"
+    },
+    {
+      "id": 62,
+      "arabic": "قَالَ كَلَّآۖ إِنَّ مَعِيَ رَبِّي سَيَهۡدِينِ",
+      "transliteration": "Qala kalla inna maAAiya rabbee sayahdeeni",
+      "translation_en": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me",
+      "translation_bn": "মূসা বলল, কখনই নয়, আমার সাথে আছেন আমার পালনকর্তা। তিনি আমাকে পথ বলে দেবেন।",
+      "translation_ur": "موسیٰؑ نے کہا \"ہرگز نہیں میرے ساتھ میرا رب ہے وہ ضرور میری رہنمائی فرمائے گا"
+    },
+    {
+      "id": 63,
+      "arabic": "فَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرۡقٖ كَٱلطَّوۡدِ ٱلۡعَظِيمِ",
+      "transliteration": "Faawhayna ila moosa ani idrib biAAasaka albahra fainfalaqa fakana kullu firqin kaalttawdi alAAatheemi",
+      "translation_en": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain",
+      "translation_bn": "অতঃপর আমি মূসাকে আদেশ করলাম, তোমার লাঠি দ্বারা সমূদ্রকে আঘাত কর। ফলে, তা বিদীর্ণ হয়ে গেল এবং প্রত্যেক ভাগ বিশাল পর্বতসদৃশ হয়ে গেল।",
+      "translation_ur": "ہم نے موسیٰؑ کو وحی کے ذریعہ سے حکم دیا کہ \"مار اپنا عصا سمندر پر\" یکایک سمندر پھَٹ گیا اور اس کا ہر ٹکڑا ایک عظیم الشان پہاڑ کی طرح ہو گیا"
+    },
+    {
+      "id": 64,
+      "arabic": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡأٓخَرِينَ",
+      "transliteration": "Waazlafna thamma alakhareena",
+      "translation_en": "And We advanced thereto the pursuers",
+      "translation_bn": "আমি সেথায় অপর দলকে পৌঁছিয়ে দিলাম।",
+      "translation_ur": "اُسی جگہ ہم دوسرے گروہ کو بھی قریب لے آئے"
+    },
+    {
+      "id": 65,
+      "arabic": "وَأَنجَيۡنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجۡمَعِينَ",
+      "transliteration": "Waanjayna moosa waman maAAahu ajmaAAeena",
+      "translation_en": "And We saved Moses and those with him, all together",
+      "translation_bn": "এবং মূসা ও তাঁর সংগীদের সবাইকে বাঁচিয়ে দিলাম।",
+      "translation_ur": "موسیٰؑ اور اُن سب لوگوں کو جو اس کے ساتھ تھے، ہم نے بچا لیا"
+    },
+    {
+      "id": 66,
+      "arabic": "ثُمَّ أَغۡرَقۡنَا ٱلۡأٓخَرِينَ",
+      "transliteration": "Thumma aghraqna alakhareena",
+      "translation_en": "Then We drowned the others",
+      "translation_bn": "অতঃপর অপর দলটিকে নিমজ্জত কললাম।",
+      "translation_ur": "اور دوسروں کو غرق کر دیا"
+    },
+    {
+      "id": 67,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "নিশ্চয় এতে একটি নিদর্শন আছে এবং তাদের অধিকাংশই বিশ্বাসী ছিল না।",
+      "translation_ur": "اس واقعہ میں ایک نشانی ہے، مگر اِن لوگوں میں سے اکثر ماننے والے نہیں ہیں"
+    },
+    {
+      "id": 68,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "আপনার পালনকর্তা অবশ্যই পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 69,
+      "arabic": "وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ إِبۡرَٰهِيمَ",
+      "transliteration": "Waotlu AAalayhim nabaa ibraheema",
+      "translation_en": "And recite to them the news of Abraham",
+      "translation_bn": "আর তাদেরকে ইব্রাহীমের বৃত্তান্ত শুনিয়ে দিন।",
+      "translation_ur": "اور اِنہیں ابراہیمؑ کا قصہ سناؤ"
+    },
+    {
+      "id": 70,
+      "arabic": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ",
+      "transliteration": "Ith qala liabeehi waqawmihi ma taAAbudoona",
+      "translation_en": "When he said to his father and his people, \"What do you worship",
+      "translation_bn": "যখন তাঁর পিতাকে এবং তাঁর সম্প্রদায়কে বললেন, তোমরা কিসের এবাদত কর",
+      "translation_ur": "جبکہ اس نے اپنے باپ اور اپنی قوم سے پوچھا تھا کہ \"یہ کیا چیزیں ہیں جن کو تم پوجتے ہو؟"
+    },
+    {
+      "id": 71,
+      "arabic": "قَالُواْ نَعۡبُدُ أَصۡنَامٗا فَنَظَلُّ لَهَا عَٰكِفِينَ",
+      "transliteration": "Qaloo naAAbudu asnaman fanathallu laha AAakifeena",
+      "translation_en": "They said, \"We worship idols and remain to them devoted",
+      "translation_bn": "তারা বলল, আমরা প্রতিমার পূজা করি এবং সারাদিন এদেরকেই নিষ্ঠার সাথে আঁকড়ে থাকি।",
+      "translation_ur": "انہوں نے جواب دیا \"کچھ بت ہیں جن کی ہم پوجا کرتے ہیں اور انہی کی سیوا میں ہم لگے رہتے ہیں"
+    },
+    {
+      "id": 72,
+      "arabic": "قَالَ هَلۡ يَسۡمَعُونَكُمۡ إِذۡ تَدۡعُونَ",
+      "transliteration": "Qala hal yasmaAAoonakum ith tadAAoona",
+      "translation_en": "He said, \"Do they hear you when you supplicate",
+      "translation_bn": "ইব্রাহীম (আঃ) বললেন, তোমরা যখন আহবান কর, তখন তারা শোনে কি",
+      "translation_ur": "اس نے پوچھا \"کیا یہ تمہاری سنتے ہیں جب تم انہیں پکارتے ہو؟"
+    },
+    {
+      "id": 73,
+      "arabic": "أَوۡ يَنفَعُونَكُمۡ أَوۡ يَضُرُّونَ",
+      "transliteration": "Aw yanfaAAoonakum aw yadurroona",
+      "translation_en": "Or do they benefit you, or do they harm",
+      "translation_bn": "অথবা তারা কি তোমাদের উপকার কিংবা ক্ষতি করতে পারে",
+      "translation_ur": "یا یہ تمہیں کچھ نفع یا نقصان پہنچاتے ہیں؟"
+    },
+    {
+      "id": 74,
+      "arabic": "قَالُواْ بَلۡ وَجَدۡنَآ ءَابَآءَنَا كَذَٰلِكَ يَفۡعَلُونَ",
+      "transliteration": "Qaloo bal wajadna abaana kathalika yafAAaloona",
+      "translation_en": "They said, \"But we found our fathers doing thus",
+      "translation_bn": "তারা বললঃ না, তবে আমরা আমাদের পিতৃপুরুষদেরকে পেয়েছি, তারা এরূপই করত।",
+      "translation_ur": "انہوں نے جواب دیا \"نہیں، بلکہ ہم نے اپنے باپ دادا کو ایسا ہی کرتے پایا ہے"
+    },
+    {
+      "id": 75,
+      "arabic": "قَالَ أَفَرَءَيۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ",
+      "transliteration": "Qala afaraaytum ma kuntum taAAbudoona",
+      "translation_en": "He said, \"Then do you see what you have been worshipping",
+      "translation_bn": "ইব্রাহীম বললেন, তোমরা কি তাদের সম্পর্কে ভেবে দেখেছ, যাদের পূজা করে আসছ।",
+      "translation_ur": "اس پر ابراہیمؑ نے کہا \"کبھی تم نے (آنکھیں کھول کر) اُن چیزوں کو دیکھا بھی جن کی بندگی تم"
+    },
+    {
+      "id": 76,
+      "arabic": "أَنتُمۡ وَءَابَآؤُكُمُ ٱلۡأَقۡدَمُونَ",
+      "transliteration": "Antum waabaokumu alaqdamoona",
+      "translation_en": "You and your ancient forefathers",
+      "translation_bn": "তোমরা এবং তোমাদের পূর্ববর্তী পিতৃপুরুষেরা",
+      "translation_ur": "اور تمہارے پچھلے باپ دادا بجا لاتے رہے؟"
+    },
+    {
+      "id": 77,
+      "arabic": "فَإِنَّهُمۡ عَدُوّٞ لِّيٓ إِلَّا رَبَّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Fainnahum AAaduwwun lee illa rabba alAAalameena",
+      "translation_en": "Indeed, they are enemies to me, except the Lord of the worlds",
+      "translation_bn": "বিশ্বপালনকর্তা ব্যতীত তারা সবাই আমার শত্রু।",
+      "translation_ur": "میرے تو یہ سب دشمن ہیں، بجز ایک رب العالمین کے"
+    },
+    {
+      "id": 78,
+      "arabic": "ٱلَّذِي خَلَقَنِي فَهُوَ يَهۡدِينِ",
+      "transliteration": "Allathee khalaqanee fahuwa yahdeeni",
+      "translation_en": "Who created me, and He [it is who] guides me",
+      "translation_bn": "যিনি আমাকে সৃষ্টি করেছেন, অতঃপর তিনিই আমাকে পথপ্রদর্শন করেন",
+      "translation_ur": "جس نے مجھے پیدا کیا، پھر وہی میری رہنمائی فرماتا ہے"
+    },
+    {
+      "id": 79,
+      "arabic": "وَٱلَّذِي هُوَ يُطۡعِمُنِي وَيَسۡقِينِ",
+      "transliteration": "Waallathee huwa yutAAimunee wayasqeeni",
+      "translation_en": "And it is He who feeds me and gives me drink",
+      "translation_bn": "যিনি আমাকে আহার এবং পানীয় দান করেন",
+      "translation_ur": "جو مجھے کھلاتا اور پلاتا ہے"
+    },
+    {
+      "id": 80,
+      "arabic": "وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ",
+      "transliteration": "Waitha maridtu fahuwa yashfeeni",
+      "translation_en": "And when I am ill, it is He who cures me",
+      "translation_bn": "যখন আমি রোগাক্রান্ত হই, তখন তিনিই আরোগ্য দান করেন।",
+      "translation_ur": "اور جب میں بیمار ہو جاتا ہوں تو وہی مجھے شفا دیتا ہے"
+    },
+    {
+      "id": 81,
+      "arabic": "وَٱلَّذِي يُمِيتُنِي ثُمَّ يُحۡيِينِ",
+      "transliteration": "Waallathee yumeetunee thumma yuhyeeni",
+      "translation_en": "And who will cause me to die and then bring me to life",
+      "translation_bn": "যিনি আমার মৃত্যু ঘটাবেন, অতঃপর পুনর্জীবন দান করবেন।",
+      "translation_ur": "جو مجھے موت دے گا اور پھر دوبارہ مجھ کو زندگی بخشے گا"
+    },
+    {
+      "id": 82,
+      "arabic": "وَٱلَّذِيٓ أَطۡمَعُ أَن يَغۡفِرَ لِي خَطِيٓـَٔتِي يَوۡمَ ٱلدِّينِ",
+      "transliteration": "Waallathee atmaAAu an yaghfira lee khateeatee yawma alddeeni",
+      "translation_en": "And who I aspire that He will forgive me my sin on the Day of Recompense",
+      "translation_bn": "আমি আশা করি তিনিই বিচারের দিনে আমার ক্রটি-বিচ্যুতি মাফ করবেন।",
+      "translation_ur": "اور جس سے میں امید رکھتا ہوں کہ روزِ جزا میں وہ میری خطا معاف فرما دے گا"
+    },
+    {
+      "id": 83,
+      "arabic": "رَبِّ هَبۡ لِي حُكۡمٗا وَأَلۡحِقۡنِي بِٱلصَّـٰلِحِينَ",
+      "transliteration": "Rabbi hab lee hukman waalhiqnee bialssaliheena",
+      "translation_en": "[And he said], \"My Lord, grant me authority and join me with the righteous",
+      "translation_bn": "হে আমার পালনকর্তা, আমাকে প্রজ্ঞা দান কর এবং আমাকে সৎকর্মশীলদের অন্তর্ভুক্ত কর",
+      "translation_ur": "(اِس کے بعد ابراہیمؑ نے دعا کی) \"اے میرے رب، مجھے حکم عطا کر اور مجھ کو صالحوں کے ساتھ ملا"
+    },
+    {
+      "id": 84,
+      "arabic": "وَٱجۡعَل لِّي لِسَانَ صِدۡقٖ فِي ٱلۡأٓخِرِينَ",
+      "transliteration": "WaijAAal lee lisana sidqin fee alakhireena",
+      "translation_en": "And grant me a reputation of honor among later generations",
+      "translation_bn": "এবং আমাকে পরবর্তীদের মধ্যে সত্যভাষী কর।",
+      "translation_ur": "اور بعد کے آنے والوں میں مجھ کو سچی ناموری عطا کر"
+    },
+    {
+      "id": 85,
+      "arabic": "وَٱجۡعَلۡنِي مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+      "transliteration": "WaijAAalnee min warathati jannati alnnaAAeemi",
+      "translation_en": "And place me among the inheritors of the Garden of Pleasure",
+      "translation_bn": "এবং আমাকে নেয়ামত উদ্যানের অধিকারীদের অন্তর্ভূক্ত কর।",
+      "translation_ur": "اور مجھے جنتِ نعیم کے وارثوں میں شامل فرما"
+    },
+    {
+      "id": 86,
+      "arabic": "وَٱغۡفِرۡ لِأَبِيٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+      "transliteration": "Waighfir liabee innahu kana mina alddalleena",
+      "translation_en": "And forgive my father. Indeed, he has been of those astray",
+      "translation_bn": "এবং আমার পিতাকে ক্ষমা কর। সে তো পথভ্রষ্টদের অন্যতম।",
+      "translation_ur": "اور میرے باپ کو معاف کر دے کہ بے شک وہ گمراہ لوگوں میں سے ہے"
+    },
+    {
+      "id": 87,
+      "arabic": "وَلَا تُخۡزِنِي يَوۡمَ يُبۡعَثُونَ",
+      "transliteration": "Wala tukhzinee yawma yubAAathoona",
+      "translation_en": "And do not disgrace me on the Day they are [all] resurrected",
+      "translation_bn": "এবং পূনরুত্থান দিবসে আমাকে লাঞ্ছিত করো না",
+      "translation_ur": "اور مجھے اس دن رسوا نہ کر جبکہ سب لوگ زندہ کر کے اٹھائے جائیں گے"
+    },
+    {
+      "id": 88,
+      "arabic": "يَوۡمَ لَا يَنفَعُ مَالٞ وَلَا بَنُونَ",
+      "transliteration": "Yawma la yanfaAAu malun wala banoona",
+      "translation_en": "The Day when there will not benefit [anyone] wealth or children",
+      "translation_bn": "যে দিবসে ধন-সম্পদ ও সন্তান সন্ততি কোন উপকারে আসবে না",
+      "translation_ur": "جبکہ نہ مال کوئی فائدہ دے گا نہ اولاد"
+    },
+    {
+      "id": 89,
+      "arabic": "إِلَّا مَنۡ أَتَى ٱللَّهَ بِقَلۡبٖ سَلِيمٖ",
+      "transliteration": "Illa man ata Allaha biqalbin saleemin",
+      "translation_en": "But only one who comes to Allah with a sound heart",
+      "translation_bn": "কিন্তু যে সুস্থ অন্তর নিয়ে আল্লাহর কাছে আসবে।",
+      "translation_ur": "بجز اس کے کہ کوئی شخص قلب سلیم لیے ہوئے اللہ کے حضور حاضر ہو"
+    },
+    {
+      "id": 90,
+      "arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ",
+      "transliteration": "Waozlifati aljannatu lilmuttaqeena",
+      "translation_en": "And Paradise will be brought near [that Day] to the righteous",
+      "translation_bn": "জান্নাত আল্লাহভীরুদের নিকটবর্তী করা হবে।",
+      "translation_ur": "(اس روز) جنت پرہیزگاروں کے قریب لے آئی جائے گی"
+    },
+    {
+      "id": 91,
+      "arabic": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِلۡغَاوِينَ",
+      "transliteration": "Waburrizati aljaheemu lilghaweena",
+      "translation_en": "And Hellfire will be brought forth for the deviators",
+      "translation_bn": "এবং বিপথগামীদের সামনে উম্মোচিত করা হবে জাহান্নাম।",
+      "translation_ur": "اور دوزخ بہکے ہوئے لوگوں کے سامنے کھول دی جائے گی"
+    },
+    {
+      "id": 92,
+      "arabic": "وَقِيلَ لَهُمۡ أَيۡنَ مَا كُنتُمۡ تَعۡبُدُونَ",
+      "transliteration": "Waqeela lahum ayna ma kuntum taAAbudoona",
+      "translation_en": "And it will be said to them, \"Where are those you used to worship",
+      "translation_bn": "তাদেরকে বলা হবেঃ তারা কোথায়, তোমরা যাদের পূজা করতে।",
+      "translation_ur": "اور ان سے پوچھا جائے گا کہ \"اب کہاں ہیں وہ جن کی تم خدا کو چھوڑ کر عبادت کیا کرتے تھے؟"
+    },
+    {
+      "id": 93,
+      "arabic": "مِن دُونِ ٱللَّهِ هَلۡ يَنصُرُونَكُمۡ أَوۡ يَنتَصِرُونَ",
+      "transliteration": "Min dooni Allahi hal yansuroonakum aw yantasiroona",
+      "translation_en": "Other than Allah? Can they help you or help themselves",
+      "translation_bn": "আল্লাহর পরিবর্তে? তারা কি তোমাদের সাহায্য করতে পারে, অথবা তারা প্রতিশোধ নিতে পারে",
+      "translation_ur": "کیا وہ تمہاری کچھ مدد کر رہے ہیں یا خود اپنا بچاؤ کر سکتے ہیں؟"
+    },
+    {
+      "id": 94,
+      "arabic": "فَكُبۡكِبُواْ فِيهَا هُمۡ وَٱلۡغَاوُۥنَ",
+      "transliteration": "Fakubkiboo feeha hum waalghawoona",
+      "translation_en": "So they will be overturned into Hellfire, they and the deviators",
+      "translation_bn": "অতঃপর তাদেরকে এবং পথভ্রষ্টদেরকে আধোমুখি করে নিক্ষেপ করা হবে জাহান্নামে।",
+      "translation_ur": "پھر وہ معبود اور یہ بہکے ہوئے لوگ"
+    },
+    {
+      "id": 95,
+      "arabic": "وَجُنُودُ إِبۡلِيسَ أَجۡمَعُونَ",
+      "transliteration": "Wajunoodu ibleesa ajmaAAoona",
+      "translation_en": "And the soldiers of Iblees, all together",
+      "translation_bn": "এবং ইবলীস বাহিনীর সকলকে।",
+      "translation_ur": "اور ابلیس کے لشکر سب کے سب اس میں اُوپر تلے دھکیل دیے جائیں گے"
+    },
+    {
+      "id": 96,
+      "arabic": "قَالُواْ وَهُمۡ فِيهَا يَخۡتَصِمُونَ",
+      "transliteration": "Qaloo wahum feeha yakhtasimoona",
+      "translation_en": "They will say while they dispute therein",
+      "translation_bn": "তারা তথায় কথা কাটাকাটিতে লিপ্ত হয়ে বলবেঃ",
+      "translation_ur": "وہاں یہ سب آپس میں جھگڑیں گے اور یہ بہکے ہوئے لوگ (اپنے معبودوں سے) کہیں گے"
+    },
+    {
+      "id": 97,
+      "arabic": "تَٱللَّهِ إِن كُنَّا لَفِي ضَلَٰلٖ مُّبِينٍ",
+      "transliteration": "TaAllahi in kunna lafee dalalin mubeenin",
+      "translation_en": "By Allah, we were indeed in manifest error",
+      "translation_bn": "আল্লাহর কসম, আমরা প্রকাশ্য বিভ্রান্তিতে লিপ্ত ছিলাম।",
+      "translation_ur": "کہ \"خدا کی قسم، ہم تو صریح گمراہی میں مبتلا تھے"
+    },
+    {
+      "id": 98,
+      "arabic": "إِذۡ نُسَوِّيكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Ith nusawweekum birabbi alAAalameena",
+      "translation_en": "When we equated you with the Lord of the worlds",
+      "translation_bn": "যখন আমরা তোমাদেরকে বিশ্ব-পালনকর্তার সমতুল্য গন্য করতাম।",
+      "translation_ur": "جبکہ تم کو رب العالمین کی برابری کا درجہ دے رہے تھے"
+    },
+    {
+      "id": 99,
+      "arabic": "وَمَآ أَضَلَّنَآ إِلَّا ٱلۡمُجۡرِمُونَ",
+      "transliteration": "Wama adallana illa almujrimoona",
+      "translation_en": "And no one misguided us except the criminals",
+      "translation_bn": "আমাদেরকে দুষ্টকর্মীরাই গোমরাহ করেছিল।",
+      "translation_ur": "اور وہ مجرم لوگ ہی تھے جنہوں نے ہم کو اس گمراہی میں ڈالا"
+    },
+    {
+      "id": 100,
+      "arabic": "فَمَا لَنَا مِن شَٰفِعِينَ",
+      "transliteration": "Fama lana min shafiAAeena",
+      "translation_en": "So now we have no intercessors",
+      "translation_bn": "অতএব আমাদের কোন সুপারিশকারী নেই।",
+      "translation_ur": "اب نہ ہمارا کوئی سفارشی ہے"
+    },
+    {
+      "id": 101,
+      "arabic": "وَلَا صَدِيقٍ حَمِيمٖ",
+      "transliteration": "Wala sadeeqin hameemin",
+      "translation_en": "And not a devoted friend",
+      "translation_bn": "এবং কোন সহৃদয় বন্ধু ও নেই।",
+      "translation_ur": "اور نہ کوئی جگری دوست"
+    },
+    {
+      "id": 102,
+      "arabic": "فَلَوۡ أَنَّ لَنَا كَرَّةٗ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "Falaw anna lana karratan fanakoona mina almumineena",
+      "translation_en": "Then if we only had a return [to the world] and could be of the believers",
+      "translation_bn": "হায়, যদি কোনরুপে আমরা পৃথিবীতে প্রত্যাবর্তনের সুযোগ পেতাম, তবে আমরা বিশ্বাস স্থাপনকারী হয়ে যেতাম।",
+      "translation_ur": "کاش ہمیں ایک دفعہ پھر پلٹنے کا موقع مل جائے تو ہم مومن ہوں"
+    },
+    {
+      "id": 103,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "নিশ্চয়, এতে নিদর্শন আছে এবং তাদের অধিকাংশই বিশ্বাসী নয়।",
+      "translation_ur": "یقیناً اس میں ایک بڑی نشانی ہے، مگر ان میں سے اکثر لوگ ایمان لانے والے نہیں"
+    },
+    {
+      "id": 104,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 105,
+      "arabic": "كَذَّبَتۡ قَوۡمُ نُوحٍ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "Kaththabat qawmu noohin almursaleena",
+      "translation_en": "The people of Noah denied the messengers",
+      "translation_bn": "নূহের সম্প্রদায় পয়গম্বরগণকে মিথ্যারোপ করেছে।",
+      "translation_ur": "قوم نوحؑ نے رسولوں کو جھٹلایا"
+    },
+    {
+      "id": 106,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ نُوحٌ أَلَا تَتَّقُونَ",
+      "transliteration": "Ith qala lahum akhoohum noohun ala tattaqoona",
+      "translation_en": "When their brother Noah said to them, \"Will you not fear Allah",
+      "translation_bn": "যখন তাদের ভ্রাতা নূহ তাদেরকে বললেন, তোমাদের কি ভয় নেই",
+      "translation_ur": "یاد کرو جبکہ ان کے بھائی نوحؑ نے ان سے کہا تھا \"کیا تم ڈرتے نہیں ہو؟"
+    },
+    {
+      "id": 107,
+      "arabic": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "transliteration": "Innee lakum rasoolun ameenun",
+      "translation_en": "Indeed, I am to you a trustworthy messenger",
+      "translation_bn": "আমি তোমাদের জন্য বিশ্বস্ত বার্তাবাহক।",
+      "translation_ur": "میں تمہارے لیے ایک امانت دار رسول ہوں"
+    },
+    {
+      "id": 108,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+      "translation_ur": "لہٰذا تم اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 109,
+      "arabic": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Wama asalukum AAalayhi min ajrin in ajriya illa AAala rabbi alAAalameena",
+      "translation_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds",
+      "translation_bn": "আমি তোমাদের কাছে এর জন্য কোন প্রতিদান চাই না, আমার প্রতিদান তো বিশ্ব-পালনকর্তাই দেবেন।",
+      "translation_ur": "میں اس کام پر تم سے کسی اجر کا طالب نہیں ہوں میرا اجر تو رب العالمین کے ذمہ ہے"
+    },
+    {
+      "id": 110,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+      "translation_ur": "پس تم اللہ سے ڈرو اور (بے کھٹکے) میری اطاعت کرو"
+    },
+    {
+      "id": 111,
+      "arabic": "۞قَالُوٓاْ أَنُؤۡمِنُ لَكَ وَٱتَّبَعَكَ ٱلۡأَرۡذَلُونَ",
+      "transliteration": "Qaloo anuminu laka waittabaAAaka alarthaloona",
+      "translation_en": "They said, \"Should we believe you while you are followed by the lowest [class of people]",
+      "translation_bn": "তারা বলল, আমরা কি তোমাকে মেনে নেব যখন তোমার অনুসরণ করছে ইতরজনেরা",
+      "translation_ur": "انہوں نے جواب دیا \"“کیا ہم تجھے مان لیں حالانکہ تیری پیروی رذیل ترین لوگوں نے اختیار کی ہے؟"
+    },
+    {
+      "id": 112,
+      "arabic": "قَالَ وَمَا عِلۡمِي بِمَا كَانُواْ يَعۡمَلُونَ",
+      "transliteration": "Qala wama AAilmee bima kanoo yaAAmaloona",
+      "translation_en": "He said, \"And what is my knowledge of what they used to do",
+      "translation_bn": "নূহ বললেন, তারা কি কাজ করছে, তা জানা আমার কি দরকার",
+      "translation_ur": "نوحؑ نے کہا \"میں کیا جانوں کہ ان کے عمل کیسے ہیں"
+    },
+    {
+      "id": 113,
+      "arabic": "إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّيۖ لَوۡ تَشۡعُرُونَ",
+      "transliteration": "In hisabuhum illa AAala rabbee law tashAAuroona",
+      "translation_en": "Their account is only upon my Lord, if you [could] perceive",
+      "translation_bn": "তাদের হিসাব নেয়া আমার পালনকর্তারই কাজ; যদি তোমরা বুঝতে",
+      "translation_ur": "ان کا حساب تو میرے رب کے ذمہ ہے، کاش تم کچھ شعور سے کام لو"
+    },
+    {
+      "id": 114,
+      "arabic": "وَمَآ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "Wama ana bitaridi almumineena",
+      "translation_en": "And I am not one to drive away the believers",
+      "translation_bn": "আমি মুমিনগণকে তাড়িয়ে দেয়ার লোক নই।",
+      "translation_ur": "میرا یہ کام نہیں ہے کہ جو ایمان لائیں ان کو میں دھتکار دوں"
+    },
+    {
+      "id": 115,
+      "arabic": "إِنۡ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ",
+      "transliteration": "In ana illa natheerun mubeenun",
+      "translation_en": "I am only a clear warner",
+      "translation_bn": "আমি তো শুধু একজন সুস্পষ্ট সতর্ককারী।",
+      "translation_ur": "میں تو بس ایک صاف صاف متنبہ کر دینے والا آدمی ہوں"
+    },
+    {
+      "id": 116,
+      "arabic": "قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِينَ",
+      "transliteration": "Qaloo lain lam tantahi ya noohu latakoonanna mina almarjoomeena",
+      "translation_en": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned",
+      "translation_bn": "তারা বলল, হে নূহ যদি তুমি বিরত না হও, তবে তুমি নিশ্চিতই প্রস্তরাঘাতে নিহত হবে।",
+      "translation_ur": "انہوں نے کہا \"اے نوحؑ، اگر تو باز نہ آیا تو پھٹکارے ہوئے لوگوں میں شامل ہو کر رہے گا"
+    },
+    {
+      "id": 117,
+      "arabic": "قَالَ رَبِّ إِنَّ قَوۡمِي كَذَّبُونِ",
+      "transliteration": "Qala rabbi inna qawmee kaththabooni",
+      "translation_en": "He said, \"My Lord, indeed my people have denied me",
+      "translation_bn": "নূহ বললেন, হে আমার পালনকর্তা, আমার সম্প্রদায় তো আমাকে মিথ্যাবাদী বলছে।",
+      "translation_ur": "نوحؑ نے دعا کی \"“اے میرے رب، میری قوم نے مجھے جھٹلا دیا"
+    },
+    {
+      "id": 118,
+      "arabic": "فَٱفۡتَحۡ بَيۡنِي وَبَيۡنَهُمۡ فَتۡحٗا وَنَجِّنِي وَمَن مَّعِيَ مِنَ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "Faiftah baynee wabaynahum fathan wanajjinee waman maAAiya mina almumineena",
+      "translation_en": "Then judge between me and them with decisive judgement and save me and those with me of the believers",
+      "translation_bn": "অতএব, আমার ও তাদের মধ্যে কোন ফয়সালা করে দিন এবং আমাকে ও আমার সংগী মুমিনগণকে রক্ষা করুন।",
+      "translation_ur": "اب میرے اور ان کے درمیان دو ٹوک فیصلہ کر دے اور مجھے اور جو مومن میرے ساتھ ہیں ان کو نجات دے"
+    },
+    {
+      "id": 119,
+      "arabic": "فَأَنجَيۡنَٰهُ وَمَن مَّعَهُۥ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+      "transliteration": "Faanjaynahu waman maAAahu fee alfulki almashhooni",
+      "translation_en": "So We saved him and those with him in the laden ship",
+      "translation_bn": "অতঃপর আমি তাঁকে ও তাঁর সঙ্গিগণকে বোঝাই করা নৌকায় রক্ষা করলাম।",
+      "translation_ur": "آخرکار ہم نے اس کو اور اس کے ساتھیوں کو ایک بھری ہوئی کشتی میں بچا لیا"
+    },
+    {
+      "id": 120,
+      "arabic": "ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِينَ",
+      "transliteration": "Thumma aghraqna baAAdu albaqeena",
+      "translation_en": "Then We drowned thereafter the remaining ones",
+      "translation_bn": "এরপর অবশিষ্ট সবাইকে নিমজ্জত করলাম।",
+      "translation_ur": "اور اس کے بعد باقی لوگوں کو غرق کر دیا"
+    },
+    {
+      "id": 121,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "নিশ্চয় এতে নিদর্শন আছে এবং তাদের অধিকাংশই বিশ্বাসী নয়।",
+      "translation_ur": "یقیناً اس میں ایک نشانی ہے، مگر ان میں سے اکثر لوگ ماننے والے نہیں"
+    },
+    {
+      "id": 122,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "নিশ্চয় আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 123,
+      "arabic": "كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "Kaththabat AAadun almursaleena",
+      "translation_en": "Aad denied the messengers",
+      "translation_bn": "আদ সম্প্রদায় পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+      "translation_ur": "عاد نے رسولوں کو جھٹلایا"
+    },
+    {
+      "id": 124,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ هُودٌ أَلَا تَتَّقُونَ",
+      "transliteration": "Ith qala lahum akhoohum hoodun ala tattaqoona",
+      "translation_en": "When their brother Hud said to them, \"Will you not fear Allah",
+      "translation_bn": "তখন তাদের ভাই হুদ তাদেরকে বললেনঃ তোমাদের কি ভয় নেই",
+      "translation_ur": "یاد کرو جبکہ ان کے بھائی ہودؑ نے ان سے کہا تھا \"کیا تم ڈرتے نہیں؟"
+    },
+    {
+      "id": 125,
+      "arabic": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "transliteration": "Innee lakum rasoolun ameenun",
+      "translation_en": "Indeed, I am to you a trustworthy messenger",
+      "translation_bn": "আমি তোমাদের বিশ্বস্ত রসূল।",
+      "translation_ur": "میں تمہارے لیے ایک امانت دار رسول ہوں"
+    },
+    {
+      "id": 126,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+      "translation_ur": "لہٰذا تم اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 127,
+      "arabic": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Wama asalukum AAalayhi min ajrin in ajriya illa AAala rabbi alAAalameena",
+      "translation_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds",
+      "translation_bn": "আমি তোমাদের কাছে এর জন্যে প্রতিদান চাই না। আমার প্রতিদান তো পালনকর্তা দেবেন।",
+      "translation_ur": "میں اس کام پر تم سے کسی اجر کا طالب نہیں ہوں میرا اجر تو رب العالمین کے ذمہ ہے"
+    },
+    {
+      "id": 128,
+      "arabic": "أَتَبۡنُونَ بِكُلِّ رِيعٍ ءَايَةٗ تَعۡبَثُونَ",
+      "transliteration": "Atabnoona bikulli reeAAin ayatan taAAbathoona",
+      "translation_en": "Do you construct on every elevation a sign, amusing yourselves",
+      "translation_bn": "তোমরা কি প্রতিটি উচ্চস্থানে অযথা নিদর্শন নির্মান করছ",
+      "translation_ur": "یہ تمہارا کیا حال ہے کہ ہر اونچے مقام پر لا حاصل ایک یادگار عمارت بنا ڈالتے ہو"
+    },
+    {
+      "id": 129,
+      "arabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ",
+      "transliteration": "Watattakhithoona masaniAAa laAAallakum takhludoona",
+      "translation_en": "And take for yourselves palaces and fortresses that you might abide eternally",
+      "translation_bn": "এবং বড় বড় প্রাসাদ নির্মাণ করছ, যেন তোমরা চিরকাল থাকবে",
+      "translation_ur": "اور بڑے بڑے قصر تعمیر کرتے ہو گویا تمہیں ہمیشہ رہنا ہے"
+    },
+    {
+      "id": 130,
+      "arabic": "وَإِذَا بَطَشۡتُم بَطَشۡتُمۡ جَبَّارِينَ",
+      "transliteration": "Waitha batashtum batashtum jabbareena",
+      "translation_en": "And when you strike, you strike as tyrants",
+      "translation_bn": "যখন তোমরা আঘাত হান, তখন জালেম ও নিষ্ঠুরের মত আঘাত হান।",
+      "translation_ur": "اور جب کسی پر ہاتھ ڈالتے ہو جبّار بن کر ڈالتے ہو"
+    },
+    {
+      "id": 131,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, আল্লাহকে ভয় কর এবং আমার অনুগত্য কর।",
+      "translation_ur": "پس تم لوگ اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 132,
+      "arabic": "وَٱتَّقُواْ ٱلَّذِيٓ أَمَدَّكُم بِمَا تَعۡلَمُونَ",
+      "transliteration": "Waittaqoo allathee amaddakum bima taAAlamoona",
+      "translation_en": "And fear He who provided you with that which you know",
+      "translation_bn": "ভয় কর তাঁকে, যিনি তোমাদেরকে সেসব বস্তু দিয়েছেন, যা তোমরা জান।",
+      "translation_ur": "ڈرو اُس سے جس نے وہ کچھ تمہیں دیا ہے جو تم جانتے ہو"
+    },
+    {
+      "id": 133,
+      "arabic": "أَمَدَّكُم بِأَنۡعَٰمٖ وَبَنِينَ",
+      "transliteration": "Amaddakum bianAAamin wabaneena",
+      "translation_en": "Provided you with grazing livestock and children",
+      "translation_bn": "তোমাদেরকে দিয়েছেন চতুষ্পদ জন্তু ও পুত্র-সন্তান",
+      "translation_ur": "تمہیں جانور دیے، اولادیں دیں"
+    },
+    {
+      "id": 134,
+      "arabic": "وَجَنَّـٰتٖ وَعُيُونٍ",
+      "transliteration": "Wajannatin waAAuyoonin",
+      "translation_en": "And gardens and springs",
+      "translation_bn": "এবং উদ্যান ও ঝরণা।",
+      "translation_ur": "باغ دیے اور چشمے دیے"
+    },
+    {
+      "id": 135,
+      "arabic": "إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
+      "transliteration": "Innee akhafu AAalaykum AAathaba yawmin AAatheemin",
+      "translation_en": "Indeed, I fear for you the punishment of a terrible day",
+      "translation_bn": "আমি তোমাদের জন্যে মহাদিবসের শাস্তি আশংকা করি।",
+      "translation_ur": "مجھے تمہارے حق میں ایک بڑے دن کے عذاب کا ڈر ہے"
+    },
+    {
+      "id": 136,
+      "arabic": "قَالُواْ سَوَآءٌ عَلَيۡنَآ أَوَعَظۡتَ أَمۡ لَمۡ تَكُن مِّنَ ٱلۡوَٰعِظِينَ",
+      "transliteration": "Qaloo sawaon AAalayna awaAAathta am lam takun mina alwaAAitheena",
+      "translation_en": "They said, \"It is all the same to us whether you advise or are not of the advisors",
+      "translation_bn": "তারা বলল, তুমি উপদেশ দাও অথবা উপদেশ নাই দাও, উভয়ই আমাদের জন্যে সমান।",
+      "translation_ur": "انہوں نے جواب دیا \"تو نصیحت کر یا نہ کر، ہمارے لیے یکساں ہے"
+    },
+    {
+      "id": 137,
+      "arabic": "إِنۡ هَٰذَآ إِلَّا خُلُقُ ٱلۡأَوَّلِينَ",
+      "transliteration": "In hatha illa khuluqu alawwaleena",
+      "translation_en": "This is not but the custom of the former peoples",
+      "translation_bn": "এসব কথাবার্তা পূর্ববর্তী লোকদের অভ্যাস বৈ নয়।",
+      "translation_ur": "یہ باتیں تو یوں ہی ہوتی چلی آئی ہیں"
+    },
+    {
+      "id": 138,
+      "arabic": "وَمَا نَحۡنُ بِمُعَذَّبِينَ",
+      "transliteration": "Wama nahnu bimuAAaththabeena",
+      "translation_en": "And we are not to be punished",
+      "translation_bn": "আমরা শাস্তিপ্রাপ্ত হব না।",
+      "translation_ur": "اور ہم عذاب میں مُبتلا ہونے والے نہیں ہیں"
+    },
+    {
+      "id": 139,
+      "arabic": "فَكَذَّبُوهُ فَأَهۡلَكۡنَٰهُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Fakaththaboohu faahlaknahum inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "And they denied him, so We destroyed them. Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "অতএব, তারা তাঁকে মিথ্যাবাদী বলতে লাগল এবং আমি তাদেরকে নিপাত করে দিলাম। এতে অবশ্যই নিদর্শন আছে; কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+      "translation_ur": "آخرکار انہوں نے اُسے جھٹلا دیا اور ہم نے ان کو ہلاک کر دیا یقیناً اس میں ایک نشانی ہے، مگر ان میں سے اکثر لوگ ماننے والے نہیں ہیں"
+    },
+    {
+      "id": 140,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "এবং আপনার পালনকর্তা, তিনি তো প্রবল পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 141,
+      "arabic": "كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "Kaththabat thamoodu almursaleena",
+      "translation_en": "Thamud denied the messengers",
+      "translation_bn": "সামুদ সম্প্রদায় পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+      "translation_ur": "ثمود نے رسولوں کو جھٹلایا"
+    },
+    {
+      "id": 142,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ صَٰلِحٌ أَلَا تَتَّقُونَ",
+      "transliteration": "Ith qala lahum akhoohum salihun ala tattaqoona",
+      "translation_en": "When their brother Salih said to them, \"Will you not fear Allah",
+      "translation_bn": "যখন তাদের ভাই সালেহ, তাদেরকে বললেন, তোমরা কি ভয় কর না",
+      "translation_ur": "یاد کرو جبکہ ان کے بھائی صالحؑ نے ان سے کہا \"کیا تم ڈرتے نہیں؟"
+    },
+    {
+      "id": 143,
+      "arabic": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "transliteration": "Innee lakum rasoolun ameenun",
+      "translation_en": "Indeed, I am to you a trustworthy messenger",
+      "translation_bn": "আমি তোমাদের বিশ্বস্ত পয়গম্বর।",
+      "translation_ur": "میں تمہارے لیے ایک امانت دار رسول ہوں"
+    },
+    {
+      "id": 144,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+      "translation_ur": "لہٰذا تم اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 145,
+      "arabic": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Wama asalukum AAalayhi min ajrin in ajriya illa AAala rabbi alAAalameena",
+      "translation_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds",
+      "translation_bn": "আমি এর জন্যে তোমাদের কাছে কোন প্রতিদান চাই না। আমার প্রতিদান তো বিশ্ব-পালনকর্তাই দেবেন।",
+      "translation_ur": "میں اس کام پر تم سے کسی اجر کا طالب نہیں، میرا اجر تو رب العالمین کے ذمہ ہے"
+    },
+    {
+      "id": 146,
+      "arabic": "أَتُتۡرَكُونَ فِي مَا هَٰهُنَآ ءَامِنِينَ",
+      "transliteration": "Atutrakoona fee ma hahuna amineena",
+      "translation_en": "Will you be left in what is here, secure [from death]",
+      "translation_bn": "তোমাদেরকে কি এ জগতের ভোগ-বিলাসের মধ্যে নিরাপদে রেখে দেয়া হবে",
+      "translation_ur": "کیا تم اُن سب چیزوں کے درمیان، جو یہاں ہیں، بس یوں ہی اطمینان سے رہنے دیے جاؤ گے؟"
+    },
+    {
+      "id": 147,
+      "arabic": "فِي جَنَّـٰتٖ وَعُيُونٖ",
+      "transliteration": "Fee jannatin waAAuyoonin",
+      "translation_en": "Within gardens and springs",
+      "translation_bn": "উদ্যানসমূহের মধ্যে এবং ঝরণাসমূহের মধ্যে",
+      "translation_ur": "اِن باغوں اور چشموں میں؟"
+    },
+    {
+      "id": 148,
+      "arabic": "وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ",
+      "transliteration": "WazurooAAin wanakhlin talAAuha hadeemun",
+      "translation_en": "And fields of crops and palm trees with softened fruit",
+      "translation_bn": "শস্যক্ষেত্রের মধ্যে এবং মঞ্জুরিত খেজুর বাগানের মধ্যে",
+      "translation_ur": "اِن کھیتوں اور نخلستانوں میں جن کے خوشے رس بھرے ہیں؟"
+    },
+    {
+      "id": 149,
+      "arabic": "وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتٗا فَٰرِهِينَ",
+      "transliteration": "Watanhitoona mina aljibali buyootan fariheena",
+      "translation_en": "And you carve out of the mountains, homes, with skill",
+      "translation_bn": "তোমরা পাহাড় কেটে জাঁক জমকের গৃহ নির্মাণ করছ।",
+      "translation_ur": "تم پہاڑ کھود کھود کر فخریہ اُن میں عمارتیں بناتے ہو"
+    },
+    {
+      "id": 150,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "সুতরাং তোমরা আল্লাহকে ভয় কর এবং আমার অনুগত্য কর।",
+      "translation_ur": "اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 151,
+      "arabic": "وَلَا تُطِيعُوٓاْ أَمۡرَ ٱلۡمُسۡرِفِينَ",
+      "transliteration": "Wala tuteeAAoo amra almusrifeena",
+      "translation_en": "And do not obey the order of the transgressors",
+      "translation_bn": "এবং সীমালংঘনকারীদের আদেশ মান্য কর না",
+      "translation_ur": "اُن بے لگام لوگوں کی اطاعت نہ کرو"
+    },
+    {
+      "id": 152,
+      "arabic": "ٱلَّذِينَ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
+      "transliteration": "Allatheena yufsidoona fee alardi wala yuslihoona",
+      "translation_en": "Who cause corruption in the land and do not amend",
+      "translation_bn": "যারা পৃথিবীতে অনর্থ সৃষ্টি করে এবং শান্তি স্থাপন করে না",
+      "translation_ur": "جو زمین میں فساد برپا کرتے ہیں اور کوئی اصلاح نہیں کرتے"
+    },
+    {
+      "id": 153,
+      "arabic": "قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ",
+      "transliteration": "Qaloo innama anta mina almusahhareena",
+      "translation_en": "They said, \"You are only of those affected by magic",
+      "translation_bn": "তারা বলল, তুমি তো জাদুগ্রস্থুরেদ একজন।",
+      "translation_ur": "انہوں نے جواب دیا \"تو محض ایک سحر زدہ آدمی ہے"
+    },
+    {
+      "id": 154,
+      "arabic": "مَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا فَأۡتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "transliteration": "Ma anta illa basharun mithluna fati biayatin in kunta mina alssadiqeena",
+      "translation_en": "You are but a man like ourselves, so bring a sign, if you should be of the truthful",
+      "translation_bn": "তুমি তো আমাদের মতই একজন মানুষ বৈ নও। সুতরাং যদি তুমি সত্যবাদী হও, তবে কোন নিদর্শন উপস্থিত কর।",
+      "translation_ur": "تو ہم جیسے ایک انسان کے سوا اور کیا ہے لا کوئی نشانی اگر تو سچّا ہے"
+    },
+    {
+      "id": 155,
+      "arabic": "قَالَ هَٰذِهِۦ نَاقَةٞ لَّهَا شِرۡبٞ وَلَكُمۡ شِرۡبُ يَوۡمٖ مَّعۡلُومٖ",
+      "transliteration": "Qala hathihi naqatun laha shirbun walakum shirbu yawmin maAAloomin",
+      "translation_en": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day",
+      "translation_bn": "সালেহ বললেন এই উষ্ট্রী, এর জন্যে আছে পানি পানের পালা এবং তোমাদের জন্যে আছে পানি পানের পালা নির্দিষ্ট এক-এক দিনের।",
+      "translation_ur": "صالحؑ نے کہا \"یہ اونٹنی ہے ایک دن اس کے پینے کا ہے اور ایک دن تم سب کے پانی لینے کا"
+    },
+    {
+      "id": 156,
+      "arabic": "وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابُ يَوۡمٍ عَظِيمٖ",
+      "transliteration": "Wala tamassooha bisooin fayakhuthakum AAathabu yawmin AAatheemin",
+      "translation_en": "And do not touch her with harm, lest you be seized by the punishment of a terrible day",
+      "translation_bn": "তোমরা একে কোন কষ্ট দিও না। তাহলে তোমাদেরকে মহাদিবসের আযাব পাকড়াও করবে।",
+      "translation_ur": "اس کو ہرگز نہ چھیڑنا ورنہ ایک بڑے دن کا عذاب تم کو آ لے گا"
+    },
+    {
+      "id": 157,
+      "arabic": "فَعَقَرُوهَا فَأَصۡبَحُواْ نَٰدِمِينَ",
+      "transliteration": "FaAAaqarooha faasbahoo nadimeena",
+      "translation_en": "But they hamstrung her and so became regretful",
+      "translation_bn": "তারা তাকে বধ করল ফলে, তারা অনুতপ্ত হয়ে গেল।",
+      "translation_ur": "مگر انہوں نے اس کی کوچیں کاٹ دیں اور آخرکار پچھتاتے رہ گئے"
+    },
+    {
+      "id": 158,
+      "arabic": "فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Faakhathahumu alAAathabu inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "এরপর আযাব তাদেরকে পাকড়াও করল। নিশ্চয় এতে নিদর্শন আছে। কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+      "translation_ur": "عذاب نے انہیں آ لیا یقیناً اس میں ایک نشانی ہے، مگر ان میں سے اکثر ماننے والے نہیں"
+    },
+    {
+      "id": 159,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 160,
+      "arabic": "كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "Kaththabat qawmu lootin almursaleena",
+      "translation_en": "The people of Lot denied the messengers",
+      "translation_bn": "লূতের সম্প্রদায় পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+      "translation_ur": "لوطؑ کی قوم نے رسولوں کو جھٹلایا"
+    },
+    {
+      "id": 161,
+      "arabic": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ لُوطٌ أَلَا تَتَّقُونَ",
+      "transliteration": "Ith qala lahum akhoohum lootun ala tattaqoona",
+      "translation_en": "When their brother Lot said to them, \"Will you not fear Allah",
+      "translation_bn": "যখন তাদের ভাই লূত তাদেরকে বললেন, তোমরা কি ভয় কর না",
+      "translation_ur": "یاد کرو جبکہ ان کے بھائی لوطؑ نے ان سے کہا تھا \"کیا تم ڈرتے نہیں؟"
+    },
+    {
+      "id": 162,
+      "arabic": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "transliteration": "Innee lakum rasoolun ameenun",
+      "translation_en": "Indeed, I am to you a trustworthy messenger",
+      "translation_bn": "আমি তোমাদের বিশ্বস্ত পয়গম্বর।",
+      "translation_ur": "میں تمہارے لیے ایک امانت دار رسول ہوں"
+    },
+    {
+      "id": 163,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+      "translation_ur": "لہٰذا تم اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 164,
+      "arabic": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Wama asalukum AAalayhi min ajrin in ajriya illa AAala rabbi alAAalameena",
+      "translation_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds",
+      "translation_bn": "আমি এর জন্যে তোমাদের কাছে কোন প্রতিদান চাই না। আমার প্রতিদান তো বিশ্ব-পালনকর্তা দেবেন।",
+      "translation_ur": "میں اس کام پر تم سے کسی اجر کا طالب نہیں ہوں، میرا اجر تو رب العالمین کے ذمہ ہے"
+    },
+    {
+      "id": 165,
+      "arabic": "أَتَأۡتُونَ ٱلذُّكۡرَانَ مِنَ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Atatoona alththukrana mina alAAalameena",
+      "translation_en": "Do you approach males among the worlds",
+      "translation_bn": "সারা জাহানের মানুষের মধ্যে তোমরাই কি পুরূষদের সাথে কুকর্ম কর",
+      "translation_ur": "کیا تم دنیا کی مخلوق میں سے مَردوں کے پاس جاتے ہو"
+    },
+    {
+      "id": 166,
+      "arabic": "وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَٰجِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ",
+      "transliteration": "Watatharoona ma khalaqa lakum rabbukum min azwajikum bal antum qawmun AAadoona",
+      "translation_en": "And leave what your Lord has created for you as mates? But you are a people transgressing",
+      "translation_bn": "এবং তোমাদের পালনকর্তা তোমাদের জন্যে যে স্ত্রীগনকে সৃষ্টি করেছেন, তাদেরকে বর্জন কর? বরং তোমরা সীমালঙ্ঘনকারী সম্প্রদায়।",
+      "translation_ur": "اور تمہاری بیویوں میں تمہارے رب نے تمہارے لیے جو کچھ پیدا کیا ہے اسے چھوڑ دیتے ہو؟ بلکہ تم لوگ تو حد سے ہی گزر گئے ہو"
+    },
+    {
+      "id": 167,
+      "arabic": "قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلۡمُخۡرَجِينَ",
+      "transliteration": "Qaloo lain lam tantahi ya lootu latakoonanna mina almukhrajeena",
+      "translation_en": "They said, \"If you do not desist, O Lot, you will surely be of those evicted",
+      "translation_bn": "তারা বলল, হে লূত, তুমি যদি বিরত না হও, তবে অবশ্যই তোমাকে বহিস্কৃত করা হবে।",
+      "translation_ur": "انہوں نے کہا “اے لوطؑ، \"اگر تو اِن باتوں سے باز نہ آیا تو جو لوگ ہماری بستیوں سے نکالے گئے ہیں اُن میں تو بھی شامل ہو کر رہے گا"
+    },
+    {
+      "id": 168,
+      "arabic": "قَالَ إِنِّي لِعَمَلِكُم مِّنَ ٱلۡقَالِينَ",
+      "transliteration": "Qala innee liAAamalikum mina alqaleena",
+      "translation_en": "He said, \"Indeed, I am, toward your deed, of those who detest [it]",
+      "translation_bn": "লূত বললেন, আমি তোমাদের এই কাজকে ঘৃণা করি।",
+      "translation_ur": "اس نے کہا \"تمہارے کرتوتوں پر جو لوگ کُڑھ رہے ہیں میں اُن میں شامل ہوں"
+    },
+    {
+      "id": 169,
+      "arabic": "رَبِّ نَجِّنِي وَأَهۡلِي مِمَّا يَعۡمَلُونَ",
+      "transliteration": "Rabbi najjinee waahlee mimma yaAAmaloona",
+      "translation_en": "My Lord, save me and my family from [the consequence of] what they do",
+      "translation_bn": "হে আমার পালনকর্তা, আমাকে এবং আমার পরিবারবর্গকে তারা যা করে, তা থেকে রক্ষা কর।",
+      "translation_ur": "اے پروردگار، مجھے اور میرے اہل و عیال کو ان کی بد کرداریوں سے نجات دے"
+    },
+    {
+      "id": 170,
+      "arabic": "فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥٓ أَجۡمَعِينَ",
+      "transliteration": "Fanajjaynahu waahlahu ajmaAAeena",
+      "translation_en": "So We saved him and his family, all",
+      "translation_bn": "অতঃপর আমি তাঁকে ও তাঁর পরিবারবর্গকে রক্ষা করলাম।",
+      "translation_ur": "آخرکار ہم نے اسے اور اس کے سب اہل و عیال کو بچا لیا"
+    },
+    {
+      "id": 171,
+      "arabic": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
+      "transliteration": "Illa AAajoozan fee alghabireena",
+      "translation_en": "Except an old woman among those who remained behind",
+      "translation_bn": "এক বৃদ্ধা ব্যতীত, সে ছিল ধ্বংস প্রাপ্তদের অন্তর্ভুক্ত।",
+      "translation_ur": "بجز ایک بڑھیا کے جو پیچھے رہ جانے والوں میں تھی"
+    },
+    {
+      "id": 172,
+      "arabic": "ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ",
+      "transliteration": "Thumma dammarna alakhareena",
+      "translation_en": "Then We destroyed the others",
+      "translation_bn": "এরপর অন্যদেরকে নিপাত করলাম।",
+      "translation_ur": "پھر باقی ماندہ لوگوں کو ہم نے تباہ کر دیا"
+    },
+    {
+      "id": 173,
+      "arabic": "وَأَمۡطَرۡنَا عَلَيۡهِم مَّطَرٗاۖ فَسَآءَ مَطَرُ ٱلۡمُنذَرِينَ",
+      "transliteration": "Waamtarna AAalayhim mataran fasaa mataru almunthareena",
+      "translation_en": "And We rained upon them a rain [of stones], and evil was the rain of those who were warned",
+      "translation_bn": "তাদের উপর এক বিশেষ বৃষ্টি বর্ষণ করলাম। ভীতি-প্রদর্শিত দের জন্যে এই বৃষ্টি ছিল কত নিকৃষ্ট।",
+      "translation_ur": "اور ان پر برسائی ایک برسات، بڑی ہی بُری بارش تھی جو اُن ڈرائے جانے والوں پر نازل ہوئی"
+    },
+    {
+      "id": 174,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "নিশ্চয়ই এতে নিদর্শন রয়েছে; কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+      "translation_ur": "یقیناً اس میں ایک نشانی ہے، مگر اِن میں سے اکثر ماننے والے نہیں"
+    },
+    {
+      "id": 175,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "নিশ্চয়ই আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 176,
+      "arabic": "كَذَّبَ أَصۡحَٰبُ لۡـَٔيۡكَةِ ٱلۡمُرۡسَلِينَ",
+      "transliteration": "Kaththaba ashabu alaykati almursaleena",
+      "translation_en": "The companions of the thicket denied the messengers",
+      "translation_bn": "বনের অধিবাসীরা পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+      "translation_ur": "اصحاب الاَیکہ نے رسولوں کو جھٹلایا"
+    },
+    {
+      "id": 177,
+      "arabic": "إِذۡ قَالَ لَهُمۡ شُعَيۡبٌ أَلَا تَتَّقُونَ",
+      "transliteration": "Ith qala lahum shuAAaybun ala tattaqoona",
+      "translation_en": "When Shu'ayb said to them, \"Will you not fear Allah",
+      "translation_bn": "যখন শো’আয়ব তাদের কে বললেন, তোমরা কি ভয় কর না",
+      "translation_ur": "یاد کرو جبکہ شعیبؑ نے ان سے کہا تھا \"کیا تم ڈرتے نہیں؟"
+    },
+    {
+      "id": 178,
+      "arabic": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "transliteration": "Innee lakum rasoolun ameenun",
+      "translation_en": "Indeed, I am to you a trustworthy messenger",
+      "translation_bn": "আমি তোমাদের বিশ্বস্ত পয়গম্বর।",
+      "translation_ur": "میں تمہارے لیے ایک امانت دار رسول ہوں"
+    },
+    {
+      "id": 179,
+      "arabic": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Faittaqoo Allaha waateeAAooni",
+      "translation_en": "So fear Allah and obey me",
+      "translation_bn": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+      "translation_ur": "لہٰذا تم اللہ سے ڈرو اور میری اطاعت کرو"
+    },
+    {
+      "id": 180,
+      "arabic": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Wama asalukum AAalayhi min ajrin in ajriya illa AAala rabbi alAAalameena",
+      "translation_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds",
+      "translation_bn": "আমি তোমাদের কাছে এর জন্য কোন প্রতিদান চাই না। আমার প্রতিদান তো বিশ্ব-পালনকর্তাই দেবেন।",
+      "translation_ur": "میں اس کام پر تم سے کسی اجر کا طالب نہیں ہوں میرا اجر تو رب العالمین کے ذمہ ہے"
+    },
+    {
+      "id": 181,
+      "arabic": "۞أَوۡفُواْ ٱلۡكَيۡلَ وَلَا تَكُونُواْ مِنَ ٱلۡمُخۡسِرِينَ",
+      "transliteration": "Awfoo alkayla wala takoonoo mina almukhsireena",
+      "translation_en": "Give full measure and do not be of those who cause loss",
+      "translation_bn": "মাপ পূর্ণ কর এবং যারা পরিমাপে কম দেয়, তাদের অন্তর্ভুক্ত হয়ো না।",
+      "translation_ur": "پیمانے ٹھیک بھرو اور کسی کو گھاٹا نہ دو"
+    },
+    {
+      "id": 182,
+      "arabic": "وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِ",
+      "transliteration": "Wazinoo bialqistasi almustaqeemi",
+      "translation_en": "And weigh with an even balance",
+      "translation_bn": "সোজা দাঁড়ি-পাল্লায় ওজন কর।",
+      "translation_ur": "صحیح ترازو سے تولو"
+    },
+    {
+      "id": 183,
+      "arabic": "وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+      "transliteration": "Wala tabkhasoo alnnasa ashyaahum wala taAAthaw fee alardi mufsideena",
+      "translation_en": "And do not deprive people of their due and do not commit abuse on earth, spreading corruption",
+      "translation_bn": "মানুষকে তাদের বস্তু কম দিও না এবং পৃথিবীতে অনর্থ সৃষ্টি করে ফিরো না।",
+      "translation_ur": "اور لوگوں کو ان کی چیزیں کم نہ دو زمین میں فساد نہ پھیلاتے پھرو"
+    },
+    {
+      "id": 184,
+      "arabic": "وَٱتَّقُواْ ٱلَّذِي خَلَقَكُمۡ وَٱلۡجِبِلَّةَ ٱلۡأَوَّلِينَ",
+      "transliteration": "Waittaqoo allathee khalaqakum waaljibillata alawwaleena",
+      "translation_en": "And fear He who created you and the former creation",
+      "translation_bn": "ভয় কর তাঁকে, যিনি তোমাদেরকে এবং তোমাদের পূর্ববর্তী লোক-সম্প্রদায়কে সৃষ্টি করেছেন।",
+      "translation_ur": "اور اُس ذات کا خوف کرو جس نے تمہیں اور گزشتہ نسلوں کو پیدا کیا ہے"
+    },
+    {
+      "id": 185,
+      "arabic": "قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ",
+      "transliteration": "Qaloo innama anta mina almusahhareena",
+      "translation_en": "They said, \"You are only of those affected by magic",
+      "translation_bn": "তারা বলল, তুমি তো জাদুগ্রস্তদের অন্যতম।",
+      "translation_ur": "انہوں نے کہا \"تو محض ایک سحرزدہ آدمی ہے"
+    },
+    {
+      "id": 186,
+      "arabic": "وَمَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَٰذِبِينَ",
+      "transliteration": "Wama anta illa basharun mithluna wain nathunnuka lamina alkathibeena",
+      "translation_en": "You are but a man like ourselves, and indeed, we think you are among the liars",
+      "translation_bn": "তুমি আমাদের মত মানুষ বৈ তো নও। আমাদের ধারণা-তুমি মিথ্যাবাদীদের অন্তর্ভুক্ত।",
+      "translation_ur": "اور تو کچھ نہیں مگر ایک انسان ہم ہی جیسا، اور ہم تو تجھے بالکل جھوٹا سمجھتے ہیں"
+    },
+    {
+      "id": 187,
+      "arabic": "فَأَسۡقِطۡ عَلَيۡنَا كِسَفٗا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "transliteration": "Faasqit AAalayna kisafan mina alssamai in kunta mina alssadiqeena",
+      "translation_en": "So cause to fall upon us fragments of the sky, if you should be of the truthful",
+      "translation_bn": "অতএব, যদি সত্যবাদী হও, তবে আকাশের কোন টুকরো আমাদের উপর ফেলে দাও।",
+      "translation_ur": "اگر تو سچا ہے تو ہم پر آسمان کا کوئی ٹکڑا گرا دے"
+    },
+    {
+      "id": 188,
+      "arabic": "قَالَ رَبِّيٓ أَعۡلَمُ بِمَا تَعۡمَلُونَ",
+      "transliteration": "Qala rabbee aAAlamu bima taAAmaloona",
+      "translation_en": "He said, \"My Lord is most knowing of what you do",
+      "translation_bn": "শো’আয়ব বললেন, তোমরা যা কর, সে সম্পর্কে আমার পালনকর্তা ভালরূপে অবহিত।",
+      "translation_ur": "شعیبؑ نے کہا \"میرا رب جانتا ہے جو کچھ تم کر رہے ہو"
+    },
+    {
+      "id": 189,
+      "arabic": "فَكَذَّبُوهُ فَأَخَذَهُمۡ عَذَابُ يَوۡمِ ٱلظُّلَّةِۚ إِنَّهُۥ كَانَ عَذَابَ يَوۡمٍ عَظِيمٍ",
+      "transliteration": "Fakaththaboohu faakhathahum AAathabu yawmi alththullati innahu kana AAathaba yawmin AAatheemin",
+      "translation_en": "And they denied him, so the punishment of the day of the black cloud seized them. Indeed, it was the punishment of a terrible day",
+      "translation_bn": "অতঃপর তারা তাঁকে মিথ্যাবাদী বলে দিল। ফলে তাদেরকে মেঘাচ্ছন্ন দিবসের আযাব পাকড়াও করল। নিশ্চয় সেটা ছিল এক মহাদিবসের আযাব।",
+      "translation_ur": "انہوں نے اسے جھٹلا دیا، آخرکار چھتری والے دن کا عذاب ان پر آ گیا، اور وہ بڑے ہی خوفناک دن کا عذاب تھا"
+    },
+    {
+      "id": 190,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+      "transliteration": "Inna fee thalika laayatan wama kana aktharuhum mumineena",
+      "translation_en": "Indeed in that is a sign, but most of them were not to be believers",
+      "translation_bn": "নিশ্চয় এতে নিদর্শন রয়েছে; কিন্তু তাদের অধিকাংশই বিশ্বাস করে না।",
+      "translation_ur": "یقیناً اس میں ایک نشانی ہے، مگر ان میں سے اکثر لوگ ماننے والے نہیں"
+    },
+    {
+      "id": 191,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Wainna rabbaka lahuwa alAAazeezu alrraheemu",
+      "translation_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful",
+      "translation_bn": "নিশ্চয় আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اور حقیقت یہ ہے کہ تیرا رب زبردست بھی ہے اور رحیم بھی"
+    },
+    {
+      "id": 192,
+      "arabic": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Wainnahu latanzeelu rabbi alAAalameena",
+      "translation_en": "And indeed, the Qur'an is the revelation of the Lord of the worlds",
+      "translation_bn": "এই কোরআন তো বিশ্ব-জাহানের পালনকর্তার নিকট থেকে অবতীর্ণ।",
+      "translation_ur": "یہ رب العالمین کی نازل کردہ چیز ہے"
+    },
+    {
+      "id": 193,
+      "arabic": "نَزَلَ بِهِ ٱلرُّوحُ ٱلۡأَمِينُ",
+      "transliteration": "Nazala bihi alrroohu alameenu",
+      "translation_en": "The Trustworthy Spirit has brought it down",
+      "translation_bn": "বিশ্বস্ত ফেরেশতা একে নিয়ে অবতরণ করেছে।",
+      "translation_ur": "اسے لے کر تیرے دل پر امانت دار روح اتری ہے"
+    },
+    {
+      "id": 194,
+      "arabic": "عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِينَ",
+      "transliteration": "AAala qalbika litakoona mina almunthireena",
+      "translation_en": "Upon your heart, [O Muhammad] - that you may be of the warners",
+      "translation_bn": "আপনার অন্তরে, যাতে আপনি ভীতি প্রদর্শণকারীদের অন্তর্ভুক্ত হন",
+      "translation_ur": "تاکہ تو اُن لوگوں میں شامل ہو جو (خدا کی طرف سے خلق خدا کو) متنبّہ کرنے والے ہیں"
+    },
+    {
+      "id": 195,
+      "arabic": "بِلِسَانٍ عَرَبِيّٖ مُّبِينٖ",
+      "transliteration": "Bilisanin AAarabiyyin mubeenin",
+      "translation_en": "In a clear Arabic language",
+      "translation_bn": "সুস্পষ্ট আরবী ভাষায়।",
+      "translation_ur": "صاف صاف عربی زبان میں"
+    },
+    {
+      "id": 196,
+      "arabic": "وَإِنَّهُۥ لَفِي زُبُرِ ٱلۡأَوَّلِينَ",
+      "transliteration": "Wainnahu lafee zuburi alawwaleena",
+      "translation_en": "And indeed, it is [mentioned] in the scriptures of former peoples",
+      "translation_bn": "নিশ্চয় এর উল্লেখ আছে পূর্ববর্তী কিতাবসমূহে।",
+      "translation_ur": "اور اگلے لوگوں کی کتابوں میں بھی یہ موجود ہے"
+    },
+    {
+      "id": 197,
+      "arabic": "أَوَلَمۡ يَكُن لَّهُمۡ ءَايَةً أَن يَعۡلَمَهُۥ عُلَمَـٰٓؤُاْ بَنِيٓ إِسۡرَـٰٓءِيلَ",
+      "transliteration": "Awalam yakun lahum ayatan an yaAAlamahu AAulamao banee israeela",
+      "translation_en": "And has it not been a sign to them that it is recognized by the scholars of the Children of Israel",
+      "translation_bn": "তাদের জন্যে এটা কি নিদর্শন নয় যে, বনী-ইসরাঈলের আলেমগণ এটা অবগত আছে",
+      "translation_ur": "کیا اِن (اہلِ مکہ) کے لیے یہ کوئی نشانی نہیں ہے کہ اِسے علماء بنی اسرائیل جانتے ہیں؟"
+    },
+    {
+      "id": 198,
+      "arabic": "وَلَوۡ نَزَّلۡنَٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِينَ",
+      "transliteration": "Walaw nazzalnahu AAala baAAdi alaAAjameena",
+      "translation_en": "And even if We had revealed it to one among the foreigners",
+      "translation_bn": "যদি আমি একে কোন ভিন্নভাষীর প্রতি অবতীর্ণ করতাম",
+      "translation_ur": "(لیکن اِن کی ہٹ دھرمی کا حال یہ ہے کہ) اگر اہم اسے کسی عجمی پر بھی نازل کر دیتے"
+    },
+    {
+      "id": 199,
+      "arabic": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
+      "transliteration": "Faqaraahu AAalayhim ma kanoo bihi mumineena",
+      "translation_en": "And he had recited it to them [perfectly], they would [still] not have been believers in it",
+      "translation_bn": "অতঃপর তিনি তা তাদের কাছে পাঠ করতেন, তবে তারা তাতে বিশ্বাস স্থাপন করত না।",
+      "translation_ur": "اور یہ (فصیح عربی کلام) وہ ان کو پڑھ کر سناتا تب بھی یہ مان کر نہ دیتے"
+    },
+    {
+      "id": 200,
+      "arabic": "كَذَٰلِكَ سَلَكۡنَٰهُ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
+      "transliteration": "Kathalika salaknahu fee quloobi almujrimeena",
+      "translation_en": "Thus have We inserted disbelief into the hearts of the criminals",
+      "translation_bn": "এমনিভাবে আমি গোনাহগারদের অন্তরে অবিশ্বাস সঞ্চার করেছি।",
+      "translation_ur": "اِسی طرح ہم نے اس (ذکر) کو مجرموں کے دلوں میں گزارا ہے"
+    },
+    {
+      "id": 201,
+      "arabic": "لَا يُؤۡمِنُونَ بِهِۦ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+      "transliteration": "La yuminoona bihi hatta yarawoo alAAathaba alaleema",
+      "translation_en": "They will not believe in it until they see the painful punishment",
+      "translation_bn": "তারা এর প্রতি বিশ্বাস স্থাপন করবে না, যে পর্যন্ত প্রত্যক্ষ না করে মর্মন্তুদ আযাব।",
+      "translation_ur": "وہ اس پر ایمان نہیں لاتے جب تک عذاب الیم نہ دیکھ لیں"
+    },
+    {
+      "id": 202,
+      "arabic": "فَيَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+      "transliteration": "Fayatiyahum baghtatan wahum la yashAAuroona",
+      "translation_en": "And it will come to them suddenly while they perceive [it] not",
+      "translation_bn": "অতঃপর তা আকস্মিকভাবে তাদের কাছে এসে পড়বে, তারা তা বুঝতে ও পারবে না।",
+      "translation_ur": "پھر جب وہ بے خبری میں ان پر آ پڑتا ہے"
+    },
+    {
+      "id": 203,
+      "arabic": "فَيَقُولُواْ هَلۡ نَحۡنُ مُنظَرُونَ",
+      "transliteration": "Fayaqooloo hal nahnu muntharoona",
+      "translation_en": "And they will say, \"May we be reprieved",
+      "translation_bn": "তখন তারা বলবে, আমরা কি অবকাশ পাব না",
+      "translation_ur": "اُس وقت وہ کہتے ہیں \"کہ “کیا اب ہمیں کچھ مُہلت مِل سکتی ہے؟"
+    },
+    {
+      "id": 204,
+      "arabic": "أَفَبِعَذَابِنَا يَسۡتَعۡجِلُونَ",
+      "transliteration": "AfabiAAathabina yastaAAjiloona",
+      "translation_en": "So for Our punishment are they impatient",
+      "translation_bn": "তারা কি আমার শাস্তি দ্রুত কামনা করে",
+      "translation_ur": "تو کیا یہ لوگ ہمارے عذاب کے لیے جلدی مچا رہے ہیں؟"
+    },
+    {
+      "id": 205,
+      "arabic": "أَفَرَءَيۡتَ إِن مَّتَّعۡنَٰهُمۡ سِنِينَ",
+      "transliteration": "Afaraayta in mattaAAnahum sineena",
+      "translation_en": "Then have you considered if We gave them enjoyment for years",
+      "translation_bn": "আপনি ভেবে দেখুন তো, যদি আমি তাদেরকে বছরের পর বছর ভোগ-বিলাস করতে দেই",
+      "translation_ur": "تم نے کچھ غور کیا، اگر ہم انہیں برسوں تک عیش کرنے کی مُہلت بھی دے دیں"
+    },
+    {
+      "id": 206,
+      "arabic": "ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ",
+      "transliteration": "Thumma jaahum ma kanoo yooAAadoona",
+      "translation_en": "And then there came to them that which they were promised",
+      "translation_bn": "অতঃপর যে বিষয়ে তাদেরকে ওয়াদা দেয়া হত, তা তাদের কাছে এসে পড়ে।",
+      "translation_ur": "اور پھر وہی چیز ان پر آ جائے جس سے انہیں ڈرایا جا رہا ہے"
+    },
+    {
+      "id": 207,
+      "arabic": "مَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يُمَتَّعُونَ",
+      "transliteration": "Ma aghna AAanhum ma kanoo yumattaAAoona",
+      "translation_en": "They would not be availed by the enjoyment with which they were provided",
+      "translation_bn": "তখন তাদের ভোগ বিলাস তা তাদের কি কোন উপকারে আসবে",
+      "translation_ur": "تو وہ سامانِ زیست جو ان کو ملا ہوا ہے اِن کے کس کام آئے گا؟"
+    },
+    {
+      "id": 208,
+      "arabic": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+      "transliteration": "Wama ahlakna min qaryatin illa laha munthiroona",
+      "translation_en": "And We did not destroy any city except that it had warners",
+      "translation_bn": "আমি কোন জনপদ ধ্বংস করিনি; কিন্তু এমতাবস্থায় যে, তারা সতর্ককারী ছিল।",
+      "translation_ur": "(دیکھو) ہم نے کبھی کسی بستی کو اِس کے بغیر ہلاک نہیں کیا کہ اُس کے لیے خبردار کرنے والے حق نصیحت ادا کرنے کو موجود تھے"
+    },
+    {
+      "id": 209,
+      "arabic": "ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ",
+      "transliteration": "Thikra wama kunna thalimeena",
+      "translation_en": "As a reminder; and never have We been unjust",
+      "translation_bn": "স্মরণ করানোর জন্যে, এবং আমার কাজ অন্যায়াচরণ নয়।",
+      "translation_ur": "اور ہم ظالم نہ تھے"
+    },
+    {
+      "id": 210,
+      "arabic": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ",
+      "transliteration": "Wama tanazzalat bihi alshshayateenu",
+      "translation_en": "And the devils have not brought the revelation down",
+      "translation_bn": "এই কোরআন শয়তানরা অবতীর্ণ করেনি।",
+      "translation_ur": "اِس (کتاب مبین) کو شیاطین لے کر نہیں اترے ہیں"
+    },
+    {
+      "id": 211,
+      "arabic": "وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ",
+      "transliteration": "Wama yanbaghee lahum wama yastateeAAoona",
+      "translation_en": "It is not allowable for them, nor would they be able",
+      "translation_bn": "তারা এ কাজের উপযুক্ত নয় এবং তারা এর সামর্থ?451; রাখে না।",
+      "translation_ur": "نہ یہ کام ان کو سجتا ہے، اور نہ وہ ایسا کر ہی سکتے ہیں"
+    },
+    {
+      "id": 212,
+      "arabic": "إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ",
+      "transliteration": "Innahum AAani alssamAAi lamaAAzooloona",
+      "translation_en": "Indeed they, from [its] hearing, are removed",
+      "translation_bn": "তাদেরকে তো শ্রবণের জায়গা থেকে দূরে রাখা রয়েছে।",
+      "translation_ur": "وہ تو اس کی سماعت تک سے دُور رکھے گئے ہیں"
+    },
+    {
+      "id": 213,
+      "arabic": "فَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلۡمُعَذَّبِينَ",
+      "transliteration": "Fala tadAAu maAAa Allahi ilahan akhara fatakoona mina almuAAaththabeena",
+      "translation_en": "So do not invoke with Allah another deity and [thus] be among the punished",
+      "translation_bn": "অতএব, আপনি আল্লাহর সাথে অন্য উপাস্যকে আহবান করবেন না। করলে শাস্তিতে পতিত হবেন।",
+      "translation_ur": "پس اے محمدؐ، اللہ کے ساتھ کسی دُوسرے معبُود کو نہ پکارو، ورنہ تم بھی سزا پانے والوں میں شامل ہو جاؤ گے"
+    },
+    {
+      "id": 214,
+      "arabic": "وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ",
+      "transliteration": "Waanthir AAasheerataka alaqrabeena",
+      "translation_en": "And warn, [O Muhammad], your closest kindred",
+      "translation_bn": "আপনি নিকটতম আত্মীয়দেরকে সতর্ক করে দিন।",
+      "translation_ur": "اپنے قریب ترین رشتہ داروں کو ڈراؤ"
+    },
+    {
+      "id": 215,
+      "arabic": "وَٱخۡفِضۡ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "Waikhfid janahaka limani ittabaAAaka mina almumineena",
+      "translation_en": "And lower your wing to those who follow you of the believers",
+      "translation_bn": "এবং আপনার অনুসারী মুমিনদের প্রতি সদয় হোন।",
+      "translation_ur": "اور ایمان لانے والوں میں سے جو لوگ تمہاری پیروی اختیار کریں ان کے ساتھ تواضع سے پیش آؤ"
+    },
+    {
+      "id": 216,
+      "arabic": "فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّي بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ",
+      "transliteration": "Fain AAasawka faqul innee bareeon mimma taAAmaloona",
+      "translation_en": "And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing",
+      "translation_bn": "যদি তারা আপনার অবাধ্য করে, তবে বলে দিন, তোমরা যা কর, তা থেকে আমি মুক্ত।",
+      "translation_ur": "لیکن اگر وہ تمہاری نافرمانی کریں تو ان سے کہو کہ جو کچھ تم کرتے ہو اس سے میں بری الذ مہ ہوں"
+    },
+    {
+      "id": 217,
+      "arabic": "وَتَوَكَّلۡ عَلَى ٱلۡعَزِيزِ ٱلرَّحِيمِ",
+      "transliteration": "Watawakkal AAala alAAazeezi alrraheemi",
+      "translation_en": "And rely upon the Exalted in Might, the Merciful",
+      "translation_bn": "আপনি ভরসা করুন পরাক্রমশালী, পরম দয়ালুর উপর",
+      "translation_ur": "اور اُس زبردست اور رحیم پر توکل کرو"
+    },
+    {
+      "id": 218,
+      "arabic": "ٱلَّذِي يَرَىٰكَ حِينَ تَقُومُ",
+      "transliteration": "Allathee yaraka heena taqoomu",
+      "translation_en": "Who sees you when you arise",
+      "translation_bn": "যিনি আপনাকে দেখেন যখন আপনি নামাযে দন্ডায়মান হন",
+      "translation_ur": "جو تمہیں اس وقت دیکھ رہا ہوتا ہے جب تم اٹھتے ہو"
+    },
+    {
+      "id": 219,
+      "arabic": "وَتَقَلُّبَكَ فِي ٱلسَّـٰجِدِينَ",
+      "transliteration": "Wataqallubaka fee alssajideena",
+      "translation_en": "And your movement among those who prostrate",
+      "translation_bn": "এবং নামাযীদের সাথে উঠাবসা করেন।",
+      "translation_ur": "اور سجدہ گزار لوگوں میں تمہاری نقل و حرکت پر نگاہ رکھتا ہے"
+    },
+    {
+      "id": 220,
+      "arabic": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+      "transliteration": "Innahu huwa alssameeAAu alAAaleemu",
+      "translation_en": "Indeed, He is the Hearing, the Knowing",
+      "translation_bn": "নিশ্চয় তিনি সর্বশ্রোতা, সর্বজ্ঞানী।",
+      "translation_ur": "وہ سب کچھ سننے اور جاننے والا ہے"
+    },
+    {
+      "id": 221,
+      "arabic": "هَلۡ أُنَبِّئُكُمۡ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَٰطِينُ",
+      "transliteration": "Hal onabbiokum AAala man tanazzalu alshshayateenu",
+      "translation_en": "Shall I inform you upon whom the devils descend",
+      "translation_bn": "আমি আপনাকে বলব কি কার নিকট শয়তানরা অবতরণ করে",
+      "translation_ur": "لوگو، کیا میں تمہیں بتاؤں کہ شیاطین کس پر اُترا کرتے ہیں؟"
+    },
+    {
+      "id": 222,
+      "arabic": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ",
+      "transliteration": "Tanazzalu AAala kulli affakin atheemin",
+      "translation_en": "They descend upon every sinful liar",
+      "translation_bn": "তারা অবতীর্ণ হয় প্রত্যেক মিথ্যাবাদী, গোনাহগারের উপর।",
+      "translation_ur": "وہ ہر جعل ساز بدکار پر اُترا کرتے ہیں"
+    },
+    {
+      "id": 223,
+      "arabic": "يُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَٰذِبُونَ",
+      "transliteration": "Yulqoona alssamAAa waaktharuhum kathiboona",
+      "translation_en": "They pass on what is heard, and most of them are liars",
+      "translation_bn": "তারা শ্রুত কথা এনে দেয় এবং তাদের অধিকাংশই মিথ্যাবাদী।",
+      "translation_ur": "سُنی سُنائی باتیں کانوں میں پھونکتے ہیں، اور ان میں سے اکثر جھوٹے ہوتے ہیں"
+    },
+    {
+      "id": 224,
+      "arabic": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ",
+      "transliteration": "WaalshshuAAarao yattabiAAuhumu alghawoona",
+      "translation_en": "And the poets - [only] the deviators follow them",
+      "translation_bn": "বিভ্রান্ত লোকেরাই কবিদের অনুসরণ করে।",
+      "translation_ur": "رہے شعراء، تو ان کے پیچھے بہکے ہوئے لوگ چلا کرتے ہیں"
+    },
+    {
+      "id": 225,
+      "arabic": "أَلَمۡ تَرَ أَنَّهُمۡ فِي كُلِّ وَادٖ يَهِيمُونَ",
+      "transliteration": "Alam tara annahum fee kulli wadin yaheemoona",
+      "translation_en": "Do you not see that in every valley they roam",
+      "translation_bn": "তুমি কি দেখ না যে, তারা প্রতি ময়দানেই উদভ্রান্ত হয়ে ফিরে",
+      "translation_ur": "کیا تم دیکھتے نہیں ہو کہ وہ ہر وادی میں بھٹکتے ہیں"
+    },
+    {
+      "id": 226,
+      "arabic": "وَأَنَّهُمۡ يَقُولُونَ مَا لَا يَفۡعَلُونَ",
+      "transliteration": "Waannahum yaqooloona ma la yafAAaloona",
+      "translation_en": "And that they say what they do not do",
+      "translation_bn": "এবং এমন কথা বলে, যা তারা করে না।",
+      "translation_ur": "اور ایسی باتیں کہتے ہیں جو کرتے نہیں"
+    },
+    {
+      "id": 227,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَذَكَرُواْ ٱللَّهَ كَثِيرٗا وَٱنتَصَرُواْ مِنۢ بَعۡدِ مَا ظُلِمُواْۗ وَسَيَعۡلَمُ ٱلَّذِينَ ظَلَمُوٓاْ أَيَّ مُنقَلَبٖ يَنقَلِبُونَ",
+      "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati wathakaroo Allaha katheeran waintasaroo min baAAdi ma thulimoo wasayaAAlamu allatheena thalamoo ayya munqalabin yanqaliboona",
+      "translation_en": "Except those [poets] who believe and do righteous deeds and remember Allah often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned",
+      "translation_bn": "তবে তাদের কথা ভিন্ন, যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে এবং আল্লাহ কে খুব স্মরণ করে এবং নিপীড়িত হওয়ার পর প্রতিশোধ গ্রহণ করে। নিপীড়নকারীরা শীঘ্রই জানতে পারবে তাদের গন্তব্যস্থল কিরূপ।",
+      "translation_ur": "بجز اُن لوگوں کے جو ایمان لائے اور جنہوں نے نیک عمل کیے اور اللہ کو کثرت سے یاد کیا اور جب ان پر ظلم کیا گیا تو صرف بدلہ لے لیا، اور ظلم کرنے والوں کو عنقریب معلوم ہو جائے گا کہ وہ کس انجام سے دوچار ہوتے ہیں"
+    }
+  ]
+}

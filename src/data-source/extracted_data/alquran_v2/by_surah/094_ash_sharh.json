@@ -1,0 +1,74 @@
+{
+  "id": 94,
+  "name": "الشرح",
+  "transliteration": "Ash-Sharh",
+  "translation_en": "The Relief",
+  "type": "meccan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+      "transliteration": "Alam nashrah laka sadraka",
+      "translation_en": "Did We not expand for you, [O Muhammad], your breast",
+      "translation_bn": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি",
+      "translation_ur": "(اے نبیؐ) کیا ہم نے تمہارا سینہ تمہارے لیے کھول نہیں دیا؟"
+    },
+    {
+      "id": 2,
+      "arabic": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+      "transliteration": "WawadaAAna AAanka wizraka",
+      "translation_en": "And We removed from you your burden",
+      "translation_bn": "আমি লাঘব করেছি আপনার বোঝা",
+      "translation_ur": "اور تم پر سے وہ بھاری بوجھ اتار دیا"
+    },
+    {
+      "id": 3,
+      "arabic": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+      "transliteration": "Allathee anqada thahraka",
+      "translation_en": "Which had weighed upon your back",
+      "translation_bn": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
+      "translation_ur": "جو تمہاری کمر توڑے ڈال رہا تھا"
+    },
+    {
+      "id": 4,
+      "arabic": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+      "transliteration": "WarafaAAna laka thikraka",
+      "translation_en": "And raised high for you your repute",
+      "translation_bn": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
+      "translation_ur": "اور تمہاری خاطر تمہارے ذکر کا آوازہ بلند کر دیا"
+    },
+    {
+      "id": 5,
+      "arabic": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+      "transliteration": "Fainna maAAa alAAusri yusran",
+      "translation_en": "For indeed, with hardship [will be] ease",
+      "translation_bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+      "translation_ur": "پس حقیقت یہ ہے کہ تنگی کے ساتھ فراخی بھی ہے"
+    },
+    {
+      "id": 6,
+      "arabic": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+      "transliteration": "Inna maAAa alAAusri yusran",
+      "translation_en": "Indeed, with hardship [will be] ease",
+      "translation_bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+      "translation_ur": "بے شک تنگی کے ساتھ فراخی بھی ہے"
+    },
+    {
+      "id": 7,
+      "arabic": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+      "transliteration": "Faitha faraghta fainsab",
+      "translation_en": "So when you have finished [your duties], then stand up [for worship]",
+      "translation_bn": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
+      "translation_ur": "لہٰذا جب تم فارغ ہو تو عبادت کی مشقت میں لگ جاؤ"
+    },
+    {
+      "id": 8,
+      "arabic": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+      "transliteration": "Waila rabbika fairghab",
+      "translation_en": "And to your Lord direct [your] longing",
+      "translation_bn": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।",
+      "translation_ur": "اور اپنے رب ہی کی طرف راغب ہو"
+    }
+  ]
+}

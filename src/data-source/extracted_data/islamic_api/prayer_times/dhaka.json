@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "04:36",
+      "Sunrise": "05:51",
+      "Dhuhr": "11:47",
+      "Asr": "15:11",
+      "Sunset": "17:43",
+      "Maghrib": "17:43",
+      "Isha": "18:54",
+      "Imsak": "04:26",
+      "Midnight": "23:47",
+      "Firstthird": "21:46",
+      "Lastthird": "01:48"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": -1
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 277.57,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 5171.95,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "05:51",
+        "end": "06:06"
+      },
+      "noon": {
+        "start": "11:37",
+        "end": "11:47"
+      },
+      "sunset": {
+        "start": "17:28",
+        "end": "17:43"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Dhaka",
+      "utc_offset": "+06:00",
+      "abbreviation": ""
+    }
+  },
+  "city_info": {
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "slug": "dhaka",
+    "lat": 23.8103,
+    "lon": 90.4125
+  }
+}

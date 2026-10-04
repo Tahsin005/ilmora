@@ -1,0 +1,104 @@
+{
+  "title": "Islamic & Deen Master Dataset Extraction",
+  "last_updated": "2026-10-04T05:31:00Z",
+  "total_files": 1171,
+  "apis": {
+    "islamic_api": {
+      "source": "https://islamicapi.com/api/v1",
+      "components": {
+        "asmaul_husna": "99 Names of Allah in 14 languages + multilingual consolidated view",
+        "zakat_nisab": "Nisab thresholds for 18 currencies (classical standard)",
+        "prayer_times": "Fajr, Sunrise, Dhuhr, Asr, Maghrib, Isha, Qibla for 20 cities",
+        "fasting": "Sahur, Iftar, duration, and White Days for 20 cities",
+        "ramadan": "Full 30-day Ramadan fasting calendar for 20 cities",
+        "dua": "1,001 Duas across 44 categories & 118 subcategories in 5 languages (en, ar, bn, ur, id) + 53 languages list",
+        "ruqyah": "Instant Ruqyah programs (brief, medium, long from Quran & Sunnah) + 13 educational topic articles"
+      }
+    },
+    "hadith_api": {
+      "source": "https://hadithapi.com/api",
+      "total_books": 9,
+      "total_chapters": 410,
+      "total_hadiths": 40465,
+      "pagination_verified": true,
+      "unique_hadiths_verified": true,
+      "books_detail": [
+        {
+          "slug": "sahih-bukhari",
+          "name": "Sahih Bukhari",
+          "chapters": 99,
+          "hadiths": 7276
+        },
+        {
+          "slug": "sahih-muslim",
+          "name": "Sahih Muslim",
+          "chapters": 56,
+          "hadiths": 7564
+        },
+        {
+          "slug": "al-tirmidhi",
+          "name": "Jami Al-Tirmidhi",
+          "chapters": 50,
+          "hadiths": 3956
+        },
+        {
+          "slug": "abu-dawood",
+          "name": "Sunan Abu Dawood",
+          "chapters": 43,
+          "hadiths": 5274
+        },
+        {
+          "slug": "ibn-e-majah",
+          "name": "Sunan Ibn-e-Majah",
+          "chapters": 39,
+          "hadiths": 4341
+        },
+        {
+          "slug": "sunan-nasai",
+          "name": "Sunan An-Nasai",
+          "chapters": 52,
+          "hadiths": 5761
+        },
+        {
+          "slug": "mishkat",
+          "name": "Mishkat Al-Masabih",
+          "chapters": 29,
+          "hadiths": 6293
+        },
+        {
+          "slug": "musnad-ahmad",
+          "name": "Musnad Ahmad",
+          "chapters": 14,
+          "hadiths": 0
+        },
+        {
+          "slug": "al-silsila-sahiha",
+          "name": "Al-Silsila Sahiha",
+          "chapters": 28,
+          "hadiths": 0
+        }
+      ]
+    },
+    "alquran_v2": {
+      "source": "https://alquran-api.pages.dev/api/quran",
+      "languages_count": 12,
+      "surahs_count": 114,
+      "full_translations_count": 12,
+      "by_surah_unified_count": 114
+    },
+    "quran_v1_semarketir": {
+      "source": "https://raw.githubusercontent.com/semarketir/quranjson/master/source",
+      "surahs_arabic": 114,
+      "translations_en": 114,
+      "translations_id": 114,
+      "translations_ar": 114,
+      "juz_index": 1,
+      "surah_list": 1
+    },
+    "currency_api": {
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1",
+      "currencies_supported": 339,
+      "rates_extracted": 22
+    }
+  }
+}

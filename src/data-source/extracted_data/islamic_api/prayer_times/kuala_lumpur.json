@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:51",
+      "Sunrise": "07:00",
+      "Dhuhr": "13:02",
+      "Asr": "16:15",
+      "Sunset": "19:04",
+      "Maghrib": "19:04",
+      "Isha": "20:09",
+      "Imsak": "05:41",
+      "Midnight": "01:02",
+      "Firstthird": "23:03",
+      "Lastthird": "03:01"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": -1
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 292.54,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 6973.89,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "07:00",
+        "end": "07:15"
+      },
+      "noon": {
+        "start": "12:52",
+        "end": "13:02"
+      },
+      "sunset": {
+        "start": "18:49",
+        "end": "19:04"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Kuala_Lumpur",
+      "utc_offset": "+08:00",
+      "abbreviation": ""
+    }
+  },
+  "city_info": {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "slug": "kuala_lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  }
+}

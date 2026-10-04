@@ -1,0 +1,66 @@
+{
+  "id": 1,
+  "name": "الفاتحة",
+  "transliteration": "Al-Fatihah",
+  "translation_en": "The Opener",
+  "type": "meccan",
+  "total_verses": 7,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "transliteration": "Bismi Allahi alrrahmani alrraheemi",
+      "translation_en": "In the name of Allah, the Entirely Merciful, the Especially Merciful",
+      "translation_bn": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+      "translation_ur": "اللہ کے نام سے جو رحمان و رحیم ہے"
+    },
+    {
+      "id": 2,
+      "arabic": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+      "transliteration": "Alhamdu lillahi rabbi alAAalameena",
+      "translation_en": "[All] praise is [due] to Allah, Lord of the worlds",
+      "translation_bn": "যাবতীয় প্রশংসা আল্লাহ তাআলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
+      "translation_ur": "تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے"
+    },
+    {
+      "id": 3,
+      "arabic": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "transliteration": "Alrrahmani alrraheemi",
+      "translation_en": "The Entirely Merciful, the Especially Merciful",
+      "translation_bn": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
+      "translation_ur": "رحمان اور رحیم ہے"
+    },
+    {
+      "id": 4,
+      "arabic": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+      "transliteration": "Maliki yawmi alddeeni",
+      "translation_en": "Sovereign of the Day of Recompense",
+      "translation_bn": "যিনি বিচার দিনের মালিক।",
+      "translation_ur": "روز جزا کا مالک ہے"
+    },
+    {
+      "id": 5,
+      "arabic": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+      "transliteration": "Iyyaka naAAbudu waiyyaka nastaAAeenu",
+      "translation_en": "It is You we worship and You we ask for help",
+      "translation_bn": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
+      "translation_ur": "ہم تیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں"
+    },
+    {
+      "id": 6,
+      "arabic": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+      "transliteration": "Ihdina alssirata almustaqeema",
+      "translation_en": "Guide us to the straight path",
+      "translation_bn": "আমাদেরকে সরল পথ দেখাও",
+      "translation_ur": "ہمیں سیدھا راستہ دکھا"
+    },
+    {
+      "id": 7,
+      "arabic": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+      "transliteration": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala alddalleena",
+      "translation_en": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray",
+      "translation_bn": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।",
+      "translation_ur": "اُن لوگوں کا راستہ جن پر تو نے انعام فرمایا، جو معتوب نہیں ہوئے، جو بھٹکے ہوئے نہیں ہیں"
+    }
+  ]
+}

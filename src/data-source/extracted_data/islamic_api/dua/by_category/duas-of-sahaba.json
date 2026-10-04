@@ -1,0 +1,633 @@
+{
+  "category": {
+    "name": "Duas of Sahaba",
+    "url": "duas-of-sahaba",
+    "icon": "duas_of_sahaba.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 18,
+  "subcategories": [
+    {
+      "id": 113,
+      "title": "About Muhammad (ﷺ) and his Companions",
+      "category": "duas-of-sahaba",
+      "dua-ids": [
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801
+      ],
+      "duas": [
+        {
+          "dua_id": 784,
+          "title": "Dua for Help from Allah (Surah Al-Anfal)",
+          "category_tags": [],
+          "introduction": "Allah says:",
+          "arabic": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ ﴿٩﴾ وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّـهِ ۚ إِنَّ اللَّـهَ عَزِيزٌ حَكِيمٌ ﴿١٠﴾",
+          "audio": "",
+          "transliteration": "Iz tastagheethoona Rabbakum fastajaaba lakum annee mumiddukum bi-alfim-minal-malaaa'ikati murdifeen. Wa maa ja'alahullaahu illaa bushraa wa litatmainna bihee quloobukum; wa man-nasru illaa min 'indillaah; innallaaha 'Azeezun Hakeem.",
+          "translation": "(9) [Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\" (10) And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah. Indeed, Allah is Exalted in Might and Wise.",
+          "reference": "Surah Al-Anfal 8: 9-10",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 785,
+          "title": "Quran Verses on Battle of Badr (Surah Ali-Imran)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَلَقَدْ نَصَرَكُمُ اللَّـهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُونَ ﴿١٢٣﴾ إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَاثَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُنزَلِينَ ﴿١٢٤﴾ بَلَىٰ ۚ إِن تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ آلَافٍ مِّنَ الْمَلَائِكَةِ مُسَوِّمِينَ ﴿١٢٥﴾ وَمَا جَعَلَهُ اللَّـهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِ ۗ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّـهِ الْعَزِيزِ الْحَكِيمِ ﴿١٢٦﴾",
+          "audio": "",
+          "transliteration": "Wa laqad nasarakumullaahu bi-Badrin wa antum azilla; fattaqullaaha la'allakum tashkuroon. Iz taqoolu lil-mu'mineena alan yakfiyakum ay-yumiddakum Rabbukum bithalaathati aalaafim-minal-malaaa'ikati munzaleen. Balaaa; in tasbiroo wa tattaqoo wa ya'tookum min fawrihim haazaa yumdidkum Rabbukum bikhamsati aalaafim-minal-malaaa'ikati musawwimeen. Wa maa ja'alahullaahu illaa bushraa lakum wa litatmainna quloobukum bih; wa man-nasru illaa min 'indillaahil-'Azeezil-Hakeem.",
+          "translation": "(123) And already had Allah given you victory at [the battle of] Badr while you were few in number. Then fear Allah; perhaps you will be grateful. (124) [Remember] when you said to the believers, \"Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down? (125) Yes, if you remain patient and conscious of Allah and the enemy come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction] (126) And Allah made it not except as [a sign of] good tidings for you and to reassure your hearts thereby. And victory is not except from Allah, the Exalted in Might, the Wise -",
+          "reference": "Surah Ali-Imran 3: 123-126",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 786,
+          "title": "Dua to increase Tawakkul in Allah",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّـهُ وَنِعْمَ الْوَكِيلُ ﴿١٧٣﴾ فَانقَلَبُوا بِنِعْمَةٍ مِّنَ اللَّـهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوءٌ وَاتَّبَعُوا رِضْوَانَ اللَّـهِ ۗ وَاللَّـهُ ذُو فَضْلٍ عَظِيمٍ ﴿١٧٤﴾",
+          "audio": "/audio/dua/786.mp3",
+          "transliteration": "Allazeena qaala lahumun-naasu innan-naasa qad jama'oo lakum fakhshawhum fazaadahum eemaanan wa qaaloo hasbunallaahu wa ni'mal-Wakeel. Fanqalaboo bini'matim-minallaahi wa fadlil-lam yamsashum sooo'un wattaba'oo ridwaanallaah; wallaahu zoo fadlin 'azeem.",
+          "translation": "(173) Those to whom hypocrites said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\" (174) So they returned with favor from Allah and bounty, no harm having touched them. And they pursued the pleasure of Allah, and Allah is the possessor of great bounty.",
+          "reference": "Surah Ali-Imran 3: 173-174",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 787,
+          "title": "Dua for Rizq and Wealth",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَأَطِلْ حَيَاتَهُ، وَاغْفِرْ لَهُ",
+          "audio": "/audio/dua/787.mp3",
+          "transliteration": "Allaahumma akthir maalahu wa waladahu wa atil hayaatahu waghfir lahu",
+          "translation": "O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\" a time of distress.\n\nAnas (RA) said, \"The Prophet (ﷺ), used to come to us, the people of his house. One day he came to us and made supplication for us. Umm Sulaym (RA) said, 'Won't you make supplication for your little servant?' He said, (the dua is mentioned above)",
+          "reference": "Bukhari: 6344",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا حَرَمِيٌّ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَتْ أُمِّي يَا رَسُولَ اللَّهِ خَادِمُكَ أَنَسٌ ادْعُ اللَّهَ لَهُ‏.‏ قَالَ ‏ \"‏ اللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ ‏\" ‏‏.‏",
+            "translation": "Narrated Anas: My mother said, \"O Allah's Messenger (ﷺ)! Please invoke Allah on behalf of your servant.\" He said, \"O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\" a time of distress. [Bukhari: 6344]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 788,
+          "title": "Dua for Barakah in Rizq and Nature (Hadith)",
+          "category_tags": [],
+          "introduction": "Anas (RA) had a garden that would bear fruit twice in the year, and there used to be sweet basil in it, from which could be found the smell of musk.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Tirmidhi: 3833",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 789,
+          "title": "Prophet's Dua for Abu Huraira’s Mother",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اهْدِ أُمَّ أَبِي هُرَيْرَةَ",
+          "audio": "/audio/dua/789.mp3",
+          "transliteration": "Allaahummahdi ummi abi Hurairah",
+          "translation": "O Allah, guide mother of Abu Huraira on the right path.\n\nProphet (ﷺ) made dua for mother of Abu Hurairah (RA). Then his mother accepted Islam Immediately. Abu Hurairah (RA) said, “My mother was a polytheist woman. I gave dawah to her to accept Islam. One day I gave dawah to her. While I was giving dawah to her, she said something ill about The Messenger of Allah (ﷺ), which displeased me.Then I went to The Messenger of Allah (ﷺ) crying. I said to him, “Oh The Messenger of Allah (ﷺ)! I was giving dawah to my mother, but she didn’t accept it. Today, I give dawah to her. As a result, she said something ill about. Please make dua for her that Allah give guidance to her. Then the Messenger of Allah (ﷺ) said: (the dua is mentioned above)",
+          "reference": "Muslim: 2491",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 790,
+          "title": "Dua for Acceptance by Believers",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ حَبِّبْ عُبَيْدَكَ هَذَا وَأُمَّهُ إِلَى عِبَادِكَ الْمُؤْمِنِينَ وَحَبِّبْ إِلَيْهِمُ الْمُؤْمِنِيْنَ",
+          "audio": "/audio/dua/790.mp3",
+          "transliteration": "Allaahumma habbib 'ubaidaka hadha wa ummahu ilaa 'ibadikal mu'minin, wa habbib ilayhimul mu'minin",
+          "translation": "O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants.\n\nI came out quite pleased with the supplication of Allah's Apostle (ﷺ) and when I came near the door it was closed from within. My mother heard the noise of my footsteps and she said: Abu Huraira, just wait. And I heard the noise of falling of water. She took a bath and put on the cloth and quickly covered her head with a head-dress and opened the door and then said: Abu Huraira, I bear witness to the fact that there is no god but Allah and Muhammad is His bondsman and His Messenger (ﷺ). He (Abu Huraira) said: I went back to Allah's Messenger (ﷺ) and (this time) I was shedding the tears of joy. I said: Allah's Messenger, be happy, for Allah has responded to your supplication and He has set on the right path the mother of Abu Huraira. He (the Holy Prophet) praised Allah, and extolled Him and uttered good words. I said: O Allah's Messenger (ﷺ), supplicate to Allah so that He may instill love of mine and that of my mother too in the believing servants and let our hearts be filled with their love, whereupon Allah's Messenger (ﷺ) said: O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants. (Abu Huraira said: This prayer) was so well granted by Allah that no believer was ever born who heard of me and who saw me but did not love me.",
+          "reference": "Muslim: 2491",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ الْيَمَامِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، عَنْ أَبِي كَثِيرٍ، يَزِيدَ بْنِ عَبْدِ الرَّحْمَنِ حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ كُنْتُ أَدْعُو أُمِّي إِلَى الإِسْلاَمِ وَهِيَ مُشْرِكَةٌ فَدَعَوْتُهَا يَوْمًا فَأَسْمَعَتْنِي فِي رَسُولِ اللَّهِ صلى الله عليه وسلم مَا أَكْرَهُ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَنَا أَبْكِي قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي كُنْتُ أَدْعُو أُمِّي إِلَى الإِسْلاَمِ فَتَأْبَى عَلَىَّ فَدَعَوْتُهَا الْيَوْمَ فَأَسْمَعَتْنِي فِيكَ مَا أَكْرَهُ فَادْعُ اللَّهَ أَنْ يَهْدِيَ أُمَّ أَبِي هُرَيْرَةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اللَّهُمَّ اهْدِ أُمَّ أَبِي هُرَيْرَةَ ‏\"‏ ‏.‏ فَخَرَجْتُ مُسْتَبْشِرًا بِدَعْوَةِ نَبِيِّ اللَّهِ صلى الله عليه وسلم فَلَمَّا جِئْتُ فَصِرْتُ إِلَى الْبَابِ فَإِذَا هُوَ مُجَافٌ فَسَمِعَتْ أُمِّي خَشْفَ قَدَمَىَّ فَقَالَتْ مَكَانَكَ يَا أَبَا هُرَيْرَةَ ‏.‏ وَسَمِعْتُ خَضْخَضَةَ الْمَاءِ قَالَ - فَاغْتَسَلَتْ وَلَبِسَتْ دِرْعَهَا وَعَجِلَتْ عَنْ خِمَارِهَا فَفَتَحَتِ الْبَابَ ثُمَّ قَالَتْ يَا أَبَا هُرَيْرَةَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ - قَالَ - فَرَجَعْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ وَأَنَا أَبْكِي مِنَ الْفَرَحِ - قَالَ - قُلْتُ يَا رَسُولَ اللَّهِ أَبْشِرْ قَدِ اسْتَجَابَ اللَّهُ دَعْوَتَكَ وَهَدَى أُمَّ أَبِي هُرَيْرَةَ ‏.‏ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ خَيْرًا - قَالَ - قُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يُحَبِّبَنِي أَنَا وَأُمِّي إِلَى عِبَادِهِ الْمُؤْمِنِينَ وَيُحَبِّبَهُمْ إِلَيْنَا - قَالَ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اللَّهُمَّ حَبِّبْ عُبَيْدَكَ هَذَا - يَعْنِي أَبَا هُرَيْرَةَ وَأُمَّهُ - إِلَى عِبَادِكَ الْمُؤْمِنِينَ وَحَبِّبْ إِلَيْهِمُ الْمُؤْمِنِينَ ‏\"‏ ‏.‏ فَمَا خُلِقَ مُؤْمِنٌ يَسْمَعُ بِي وَلاَ يَرَانِي إِلاَّ أَحَبَّنِي ‏.‏",
+            "translation": "Abu Huraira reported: I invited my mother, who was a polytlieist, to Islam. I invited her one day and she said to me something about Allah's Messenger (ﷺ) which I hated. I came to Allah's Messenger (ﷺ) weeping and said: Allah's Messenger, I invited my mother to Islam but she did not accept (my invitation). I invited her today but she said to me something which I did not like. (Kindly) supplicate Allah that He may set the mother of Abu Huraira right. Thereupon Allah's Messenger (ﷺ) said: O Allah, set the mother of Abu Huraira on the right path. I came out quite pleased with the supplication of Allah's Apostle (ﷺ) and when I came near the door it was closed from within. My mother heard the noise of my footsteps and she said: Abu Huraira, just wait. And I heard the noise of falling of water. She took a bath and put on the shirt and quickly covered her head with a headdress and opened the door and then said: Abu Huraira, I bear witness to the fact that there is no god but Allah and Muhammad is His bondsman and His Messenger. He (Abu Huraira) said: I went back to Allah's Messenger (ﷺ) and (this time) I was shedding the tears of joy. I said: Allah's Messenger, be happy, for Allah has responded to your supplication and He has set on the right path the mother of Abu Huraira. He (the Holy Prophet) praised Allah, and extolled Him and uttered good words. I said: Allah's Messenger, supplicate to Allah so that He may instill love of mine and that of my mother too in the believing servants and let our hearts be filled with their love, whereupon Allah's Messenger (ﷺ) said: O Allah, let there be love of these servants of yours, i.e. Abu Huraira and his mother, in the hearts of the believing servants and let their hearts be filled with the love of the believing servants. (Abu Huraira said: This prayer) was so well granted by Allah that no believer was ever born who heard of me and who saw me but did not love me. [Muslim: 2491]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 791,
+          "title": "Prophet's Dua for Business Success (Hadith)",
+          "category_tags": [],
+          "introduction": "The incident was as follows: That the Prophet (ﷺ) gave him one Dinar so as to buy a sheep for him. `Urwa bought two sheep for him with the money. Then he sold one of the sheep for one Dinar, and brought one Dinar and a sheep to the Prophet (ﷺ). On that, the Prophet (ﷺ) invoked Allah to bless him in his deals. So `Urwa used to gain (from any deal) even if he bought dust.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 3642",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 792,
+          "title": "Masnun Dua for Business Success",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) prayed for Urwa ibn Abil Jaad Bariki (RA) as follows:",
+          "arabic": "اَللَّهُمَّ بَارِكْ لَهُ فِي صَفْقَةِ يَمِيْنِهِ",
+          "audio": "/audio/dua/792.mp3",
+          "transliteration": "Allaahumma baarik lahu fi safqati yaminihi",
+          "translation": "Oh Allah! Put barakah on his trade.\n\nHe lived in Kufa; And before returning home, he used to make a profit of forty thousand.",
+          "reference": "Baihaqi: 6/112, Ahmed: 1750",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 793,
+          "title": "Dua for Protection from Oppressors",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ",
+          "audio": "/audio/dua/793.mp3",
+          "transliteration": "Allaahumma 'Alaika bi Quraish",
+          "translation": "O Allah, it is for Thee to deal with the Quraish.\n\nProphet (ﷺ) invoked Allah's imprecations upon some enemy of Allah, and Allah responded his dua. One of the incidence was, in Makkah , polytheists gave much pain to Prophet (ﷺ). One day, while the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba, Abu Jahl commanded some of his evil companions to place foetus of the she-camel between the shoulders of Muhammad when he goes down in prostration (a posture in prayer). This heinous crime was commited by ‘Uqbaa ibn Abi Muait.When the Prophet (ﷺ) had finished his prayer, he invoked Allah's imprecations upon them in a loud voice. Then he said thrice: (the dua is mentioned above)",
+          "reference": "Muslim: 1794",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ مُحَمَّدِ بْنِ أَبَانَ الْجُعْفِيُّ، حَدَّثَنَا عَبْدُ الرَّحِيمِ، - يَعْنِي ابْنَ سُلَيْمَانَ - عَنْ زَكَرِيَّاءَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ الأَوْدِيِّ، عَنِ ابْنِ مَسْعُودٍ، قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي عِنْدَ الْبَيْتِ وَأَبُو جَهْلٍ وَأَصْحَابٌ لَهُ جُلُوسٌ وَقَدْ نُحِرَتْ جَزُورٌ بِالأَمْسِ فَقَالَ أَبُو جَهْلٍ أَيُّكُمْ يَقُومُ إِلَى سَلاَ جَزُورِ بَنِي فُلاَنٍ فَيَأْخُذُهُ فَيَضَعُهُ فِي كَتِفَىْ مُحَمَّدٍ إِذَا سَجَدَ فَانْبَعَثَ أَشْقَى الْقَوْمِ فَأَخَذَهُ فَلَمَّا سَجَدَ النَّبِيُّ صلى الله عليه وسلم وَضَعَهُ بَيْنَ كَتِفَيْهِ قَالَ فَاسْتَضْحَكُوا وَجَعَلَ بَعْضُهُمْ يَمِيلُ عَلَى بَعْضٍ وَأَنَا قَائِمٌ أَنْظُرُ ‏.‏ لَوْ كَانَتْ لِي مَنَعَةٌ طَرَحْتُهُ عَنْ ظَهْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَالنَّبِيُّ صلى الله عليه وسلم سَاجِدٌ مَا يَرْفَعُ رَأْسَهُ حَتَّى انْطَلَقَ إِنْسَانٌ فَأَخْبَرَ فَاطِمَةَ فَجَاءَتْ وَهِيَ جُوَيْرِيَةُ فَطَرَحَتْهُ عَنْهُ ‏.‏ ثُمَّ أَقْبَلَتْ عَلَيْهِمْ تَشْتِمُهُمْ فَلَمَّا قَضَى النَّبِيُّ صلى الله عليه وسلم صَلاَتَهُ رَفَعَ صَوْتَهُ ثُمَّ دَعَا عَلَيْهِمْ وَكَانَ إِذَا دَعَا دَعَا ثَلاَثًا ‏.‏ وَإِذَا سَأَلَ سَأَلَ ثَلاَثًا ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ ‏\"‏ ‏.‏ ثَلاَثَ مَرَّاتٍ فَلَمَّا سَمِعُوا صَوْتَهُ ذَهَبَ عَنْهُمُ الضِّحْكُ وَخَافُوا دَعْوَتَهُ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ عَلَيْكَ بِأَبِي جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيعَةَ وَشَيْبَةَ بْنِ رَبِيعَةَ وَالْوَلِيدِ بْنِ عُقْبَةَ وَأُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ أَبِي مُعَيْطٍ ‏\"‏ ‏.‏ وَذَكَرَ السَّابِعَ وَلَمْ أَحْفَظْهُ فَوَالَّذِي بَعَثَ مُحَمَّدًا صلى الله عليه وسلم بِالْحَقِّ لَقَدْ رَأَيْتُ الَّذِينَ سَمَّى صَرْعَى يَوْمَ بَدْرٍ ثُمَّ سُحِبُوا إِلَى الْقَلِيبِ قَلِيبِ بَدْرٍ ‏.‏ قَالَ أَبُو إِسْحَاقَ الْوَلِيدُ بْنُ عُقْبَةَ غَلَطٌ فِي هَذَا الْحَدِيثِ ‏.‏",
+            "translation": "It has been narrated on the authority of Ibn Mas'ud who said: While the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba and Abu Jahl with his companions was sitting (near by), Abu Jahl said, referring to the she-camel that had been slaughtered the previous day: Who will rise to fetch the foetus of the she-camel of so and so, and place it between the shoulders of Muhammad when he goes down in prostration (a posture in prayer). The one most accursed among the people got up, brought the foetus and, when the Prophet (ﷺ) went down in prostration, placed it between his shoulders. Then they laughed at him and some of them leaned upon the others with laughter. And I stood looking. If I had the power, I would have thrown it away from the back of the Messenger of Allah (ﷺ). The Prophet (ﷺ) had bent down his head in prostration and did not raise it, until a man went (to his house) and informed (his daughter) Fatima, who was a young girl (at that time) (about this ugly incident). She came and removed (the filthy thing) from him. Then she turned towards them rebuking them (the mischief-mongers). When the Prophet (ﷺ) had finished his prayer, he invoked God's imprecations upon them in a loud voice. When he prayed, he prayed thrice, and when he asked for God's blessings, he asked thrice. Then he said thrice: O Allah, it is for Thee to deal with the Quraish. When they heard his voice, laughter vanished from them and they feared his malediction. Then he said: O God, it is for Thee to deal with Abu Jahl b. Hisham, 'Utba b. Rabi'a, Shaiba b. Rabi'a. Walid b. Uqba, Umayya b. Khalaf, Uqba b. Abu Mu'ait (and he mentioned the name of the seventh person. which I did not remember). By One Who sent Muhammad with truth, I saw (all) those he had named lying slain on the Day of Badr. Their dead bodies were dragged to be thrown into a pit near the battlefield. Abu Ishiq had said that the name of Walid b. 'Uqba has been wrongly mentioned in this tradition. [Muslim: 1794]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 794,
+          "title": "Dua for Protection against Enemies",
+          "category_tags": [],
+          "introduction": "When they heard his voice, laughter vanished from them and they feared his malediction. Then Prophet (ﷺ) said:",
+          "arabic": "اَللَّهُمَّ عَلَيْكَ بِأَبِي جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيْعَةَ وَشَيْبَةَ بْنِ رَبِيْعَةَ وَالْوَلِيْدِ بْنِ عُقْبَةَ وَأُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ أَبِيْ مُعَيْطٍ",
+          "audio": "/audio/dua/794.mp3",
+          "transliteration": "Allaahumma ‘Alaika bi abi jahl ibn Hisham, wa Utbath ibn Rabi'ah, wa Shaibah ibn Rabi'ah, wal Walid ibn Uqbah, wa Umayyah ibn Khalaf, wa Uqbah ibn abi Mu'ait",
+          "translation": "O Allah, it is for Thee to deal with Abu Jahl bin Hisham, 'Utba bin Rabi'a, Shaiba bin Rabi'a. Walid bin Uqba, Umayya bin Khalaf, Uqba bin Abu Mu'ait.\n\nIbn Mas’ud (RA) said,”By One Who sent Muhammad (ﷺ) with truth, I saw (all) those he had named lying slain on the Day of Badr. Their dead bodies were dragged to be thrown into a pit near the battlefield”. In another narration, “I swear by Allah that I saw them lying slain in the battlefield of Badr. It being a hot day, their complexion had changed (showing signs of decay).”",
+          "reference": "Muslim: 1794",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ مُحَمَّدِ بْنِ أَبَانَ الْجُعْفِيُّ، حَدَّثَنَا عَبْدُ الرَّحِيمِ، - يَعْنِي ابْنَ سُلَيْمَانَ - عَنْ زَكَرِيَّاءَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ الأَوْدِيِّ، عَنِ ابْنِ مَسْعُودٍ، قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي عِنْدَ الْبَيْتِ وَأَبُو جَهْلٍ وَأَصْحَابٌ لَهُ جُلُوسٌ وَقَدْ نُحِرَتْ جَزُورٌ بِالأَمْسِ فَقَالَ أَبُو جَهْلٍ أَيُّكُمْ يَقُومُ إِلَى سَلاَ جَزُورِ بَنِي فُلاَنٍ فَيَأْخُذُهُ فَيَضَعُهُ فِي كَتِفَىْ مُحَمَّدٍ إِذَا سَجَدَ فَانْبَعَثَ أَشْقَى الْقَوْمِ فَأَخَذَهُ فَلَمَّا سَجَدَ النَّبِيُّ صلى الله عليه وسلم وَضَعَهُ بَيْنَ كَتِفَيْهِ قَالَ فَاسْتَضْحَكُوا وَجَعَلَ بَعْضُهُمْ يَمِيلُ عَلَى بَعْضٍ وَأَنَا قَائِمٌ أَنْظُرُ ‏.‏ لَوْ كَانَتْ لِي مَنَعَةٌ طَرَحْتُهُ عَنْ ظَهْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَالنَّبِيُّ صلى الله عليه وسلم سَاجِدٌ مَا يَرْفَعُ رَأْسَهُ حَتَّى انْطَلَقَ إِنْسَانٌ فَأَخْبَرَ فَاطِمَةَ فَجَاءَتْ وَهِيَ جُوَيْرِيَةُ فَطَرَحَتْهُ عَنْهُ ‏.‏ ثُمَّ أَقْبَلَتْ عَلَيْهِمْ تَشْتِمُهُمْ فَلَمَّا قَضَى النَّبِيُّ صلى الله عليه وسلم صَلاَتَهُ رَفَعَ صَوْتَهُ ثُمَّ دَعَا عَلَيْهِمْ وَكَانَ إِذَا دَعَا دَعَا ثَلاَثًا ‏.‏ وَإِذَا سَأَلَ سَأَلَ ثَلاَثًا ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ ‏\"‏ ‏.‏ ثَلاَثَ مَرَّاتٍ فَلَمَّا سَمِعُوا صَوْتَهُ ذَهَبَ عَنْهُمُ الضِّحْكُ وَخَافُوا دَعْوَتَهُ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ عَلَيْكَ بِأَبِي جَهْلِ بْنِ هِشَامٍ وَعُتْبَةَ بْنِ رَبِيعَةَ وَشَيْبَةَ بْنِ رَبِيعَةَ وَالْوَلِيدِ بْنِ عُقْبَةَ وَأُمَيَّةَ بْنِ خَلَفٍ وَعُقْبَةَ بْنِ أَبِي مُعَيْطٍ ‏\"‏ ‏.‏ وَذَكَرَ السَّابِعَ وَلَمْ أَحْفَظْهُ فَوَالَّذِي بَعَثَ مُحَمَّدًا صلى الله عليه وسلم بِالْحَقِّ لَقَدْ رَأَيْتُ الَّذِينَ سَمَّى صَرْعَى يَوْمَ بَدْرٍ ثُمَّ سُحِبُوا إِلَى الْقَلِيبِ قَلِيبِ بَدْرٍ ‏.‏ قَالَ أَبُو إِسْحَاقَ الْوَلِيدُ بْنُ عُقْبَةَ غَلَطٌ فِي هَذَا الْحَدِيثِ ‏.‏",
+            "translation": "It has been narrated on the authority of Ibn Mas'ud who said: While the Messenger of Allah (ﷺ) was saying his prayer near the Ka'ba and Abu Jahl with his companions was sitting (near by), Abu Jahl said, referring to the she-camel that had been slaughtered the previous day: Who will rise to fetch the foetus of the she-camel of so and so, and place it between the shoulders of Muhammad when he goes down in prostration (a posture in prayer). The one most accursed among the people got up, brought the foetus and, when the Prophet (ﷺ) went down in prostration, placed it between his shoulders. Then they laughed at him and some of them leaned upon the others with laughter. And I stood looking. If I had the power, I would have thrown it away from the back of the Messenger of Allah (ﷺ). The Prophet (ﷺ) had bent down his head in prostration and did not raise it, until a man went (to his house) and informed (his daughter) Fatima, who was a young girl (at that time) (about this ugly incident). She came and removed (the filthy thing) from him. Then she turned towards them rebuking them (the mischief-mongers). When the Prophet (ﷺ) had finished his prayer, he invoked God's imprecations upon them in a loud voice. When he prayed, he prayed thrice, and when he asked for God's blessings, he asked thrice. Then he said thrice: O Allah, it is for Thee to deal with the Quraish. When they heard his voice, laughter vanished from them and they feared his malediction. Then he said: O God, it is for Thee to deal with Abu Jahl b. Hisham, 'Utba b. Rabi'a, Shaiba b. Rabi'a. Walid b. Uqba, Umayya b. Khalaf, Uqba b. Abu Mu'ait (and he mentioned the name of the seventh person. which I did not remember). By One Who sent Muhammad with truth, I saw (all) those he had named lying slain on the Day of Badr. Their dead bodies were dragged to be thrown into a pit near the battlefield. Abu Ishiq had said that the name of Walid b. 'Uqba has been wrongly mentioned in this tradition. [Muslim: 1794]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 795,
+          "title": "Dua for Protection from Harm",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اصْرَعْهُ",
+          "audio": "/audio/dua/795.mp3",
+          "transliteration": "Allahum-mas ra'hu",
+          "translation": "O Allah! Cause him to fall down.\n\nNarrated by Anas bin Malik (RA): Allah's Messenger (ﷺ) arrived at Medina with Abu Bakr (RA), riding behind him on the same camel. Abu Bakr (RA) was an elderly man known to the people, while Allah's Messenger (ﷺ) was a youth that was unknown. Thus, if a man met Abu Bakr (RA), he would say, \"O Abu Bakr! Who is this man in front of you?\" Abu Bakr (RA) would say, \"This man shows me the Way,\" One would think that Abu Bakr (RA) meant the road, while in fact, Abu Bakr (RA) meant the way of virtue and good. Then Abu Bakr (RA) looked behind and saw a horse-rider pursuing them. He said, \"O Allah's Messenger (ﷺ)! This is a horse-rider pursuing us.\" The Prophet (ﷺ) looked behind and said - (The dua is mentioned above)",
+          "reference": "Bukhari: 3911",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي مُحَمَّدٌ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ قَالَ أَقْبَلَ نَبِيُّ اللَّهِ صلى الله عليه وسلم إِلَى الْمَدِينَةِ وَهْوَ مُرْدِفٌ أَبَا بَكْرٍ، وَأَبُو بَكْرٍ شَيْخٌ يُعْرَفُ، وَنَبِيُّ اللَّهِ صلى الله عليه وسلم شَابٌّ لاَ يُعْرَفُ، قَالَ فَيَلْقَى الرَّجُلُ أَبَا بَكْرٍ فَيَقُولُ يَا أَبَا بَكْرٍ، مَنْ هَذَا الرَّجُلُ الَّذِي بَيْنَ يَدَيْكَ فَيَقُولُ هَذَا الرَّجُلُ يَهْدِينِي السَّبِيلَ‏.‏ قَالَ فَيَحْسِبُ الْحَاسِبُ أَنَّهُ إِنَّمَا يَعْنِي الطَّرِيقَ، وَإِنَّمَا يَعْنِي سَبِيلَ الْخَيْرِ، فَالْتَفَتَ أَبُو بَكْرٍ، فَإِذَا هُوَ بِفَارِسٍ قَدْ لَحِقَهُمْ، فَقَالَ يَا رَسُولَ اللَّهِ، هَذَا فَارِسٌ قَدْ لَحِقَ بِنَا‏.‏ فَالْتَفَتَ نَبِيُّ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ اللَّهُمَّ اصْرَعْهُ ‏\"‏‏.‏ فَصَرَعَهُ الْفَرَسُ، ثُمَّ قَامَتْ تُحَمْحِمُ فَقَالَ يَا نَبِيَّ اللَّهِ مُرْنِي بِمَا شِئْتَ‏.‏ قَالَ ‏\"‏ فَقِفْ مَكَانَكَ، لاَ تَتْرُكَنَّ أَحَدًا يَلْحَقُ بِنَا ‏\"‏‏.‏ قَالَ فَكَانَ أَوَّلَ النَّهَارِ جَاهِدًا عَلَى نَبِيِّ اللَّهِ صلى الله عليه وسلم، وَكَانَ آخِرَ النَّهَارِ مَسْلَحَةً لَهُ، فَنَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم جَانِبَ الْحَرَّةِ، ثُمَّ بَعَثَ إِلَى الأَنْصَارِ، فَجَاءُوا إِلَى نَبِيِّ اللَّهِ صلى الله عليه وسلم فَسَلَّمُوا عَلَيْهِمَا، وَقَالُوا ارْكَبَا آمِنَيْنِ مُطَاعَيْنِ‏.‏ فَرَكِبَ نَبِيُّ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ، وَحَفُّوا دُونَهُمَا بِالسِّلاَحِ، فَقِيلَ فِي الْمَدِينَةِ جَاءَ نَبِيُّ اللَّهِ، جَاءَ نَبِيُّ اللَّهِ صلى الله عليه وسلم‏.‏ فَأَشْرَفُوا يَنْظُرُونَ وَيَقُولُونَ جَاءَ نَبِيُّ اللَّهِ، جَاءَ نَبِيُّ اللَّهِ‏.‏ فَأَقْبَلَ يَسِيرُ حَتَّى نَزَلَ جَانِبَ دَارِ أَبِي أَيُّوبَ، فَإِنَّهُ لَيُحَدِّثُ أَهْلَهُ، إِذْ سَمِعَ بِهِ عَبْدُ اللَّهِ بْنُ سَلاَمٍ وَهْوَ فِي نَخْلٍ لأَهْلِهِ يَخْتَرِفُ لَهُمْ، فَعَجِلَ أَنْ يَضَعَ الَّذِي يَخْتَرِفُ لَهُمْ فِيهَا، فَجَاءَ وَهْىَ مَعَهُ، فَسَمِعَ مِنْ نَبِيِّ اللَّهِ صلى الله عليه وسلم ثُمَّ رَجَعَ إِلَى أَهْلِهِ، فَقَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَىُّ بُيُوتِ أَهْلِنَا أَقْرَبُ ‏\"‏‏.‏ فَقَالَ أَبُو أَيُّوبَ أَنَا يَا نَبِيَّ اللَّهِ، هَذِهِ دَارِي، وَهَذَا بَابِي‏.‏ قَالَ ‏\"‏ فَانْطَلِقْ فَهَيِّئْ لَنَا مَقِيلاً ‏\"‏‏.‏ قَالَ قُومَا عَلَى بَرَكَةِ اللَّهِ‏.‏ فَلَمَّا جَاءَ نَبِيُّ اللَّهِ صلى الله عليه وسلم جَاءَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ فَقَالَ أَشْهَدُ أَنَّكَ رَسُولُ اللَّهِ، وَأَنَّكَ جِئْتَ بِحَقٍّ، وَقَدْ عَلِمَتْ يَهُودُ أَنِّي سَيِّدُهُمْ وَابْنُ سَيِّدِهِمْ، وَأَعْلَمُهُمْ وَابْنُ أَعْلَمِهِمْ، فَادْعُهُمْ فَاسْأَلْهُمْ عَنِّي قَبْلَ أَنْ يَعْلَمُوا أَنِّي قَدْ أَسْلَمْتُ، فَإِنَّهُمْ إِنْ يَعْلَمُوا أَنِّي قَدْ أَسْلَمْتُ قَالُوا فِيَّ مَا لَيْسَ فِيَّ‏.‏ فَأَرْسَلَ نَبِيُّ اللَّهِ صلى الله عليه وسلم فَأَقْبَلُوا فَدَخَلُوا عَلَيْهِ‏.‏ فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا مَعْشَرَ الْيَهُودِ، وَيْلَكُمُ اتَّقُوا اللَّهَ، فَوَاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ إِنَّكُمْ لَتَعْلَمُونَ أَنِّي رَسُولُ اللَّهِ حَقًّا، وَأَنِّي جِئْتُكُمْ بِحَقٍّ فَأَسْلِمُوا ‏\"‏‏.‏ قَالُوا مَا نَعْلَمُهُ‏.‏ قَالُوا لِلنَّبِيِّ صلى الله عليه وسلم قَالَهَا ثَلاَثَ مِرَارٍ‏.‏ قَالَ ‏\"‏ فَأَىُّ رَجُلٍ فِيكُمْ عَبْدُ اللَّهِ بْنُ سَلاَمٍ ‏\"‏‏.‏ قَالُوا ذَاكَ سَيِّدُنَا وَابْنُ سَيِّدِنَا، وَأَعْلَمُنَا وَابْنُ أَعْلَمِنَا‏.‏ قَالَ ‏\"‏ أَفَرَأَيْتُمْ إِنْ أَسْلَمَ ‏\"‏‏.‏ قَالُوا حَاشَا لِلَّهِ، مَا كَانَ لِيُسْلِمَ‏.‏ قَالَ ‏\"‏ أَفَرَأَيْتُمْ إِنْ أَسْلَمَ ‏\"‏‏.‏ قَالُوا حَاشَا لِلَّهِ، مَا كَانَ لِيُسْلِمَ‏.‏ قَالَ ‏\"‏ يَا ابْنَ سَلاَمٍ، اخْرُجْ عَلَيْهِمْ ‏\"‏‏.‏ فَخَرَجَ فَقَالَ يَا مَعْشَرَ الْيَهُودِ، اتَّقُوا اللَّهَ، فَوَاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ إِنَّكُمْ لَتَعْلَمُونَ أَنَّهُ رَسُولُ اللَّهِ، وَأَنَّهُ جَاءَ بِحَقٍّ‏.‏ فَقَالُوا كَذَبْتَ‏.‏ فَأَخْرَجَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم‏.‏",
+            "translation": "Narrated Anas bin Malik: Allah's Messenger (ﷺ) arrived at Medina with Abu Bakr, riding behind him on the same camel. Abu Bakr was an elderly man known to the people, while Allah's Messenger (ﷺ) was a youth that was unknown. Thus, if a man met Abu Bakr, he would say, \"O Abu Bakr! Who is this man in front of you?\" Abu Bakr would say, \"This man shows me the Way,\" One would think that Abu Bakr meant the road, while in fact, Abu Bakr meant the way of virtue and good. Then Abu Bakr looked behind and saw a horse-rider pursuing them. He said, \"O Allah's Messenger (ﷺ)! This is a horse-rider pursuing us.\" The Prophet (ﷺ) looked behind and said, \"O Allah! Cause him to fall down.\" So the horse threw him down and got up neighing. After that the rider, Suraqa said, \"O Allah's Prophet! Order me whatever you want.\" The Prophet said, \"Stay where you are and do not allow anybody to reach us.\" So, in the first part of the day Suraqa was an enemy of Allah's Prophet and in the last part of it, he was a protector. Then Allah's Apostle alighted by the side of the Al-Harra and sent a message to the Ansar, and they came to Allah's Prophet and Abu Bakr, and having greeted them, they said, \"Ride (your she-camels) safe and obeyed.\" Allah's Messenger (ﷺ) and Abu Bakr rode and the Ansar, carrying their arms, surrounded them. The news that Allah's Prophet had come circulated in Medina. The people came out and were eagerly looking and saying \"Allah's Prophet has come! Allah's Prophet has come! So the Prophet (ﷺ) went on till he alighted near the house of Abu Ayub. While the Prophet (ﷺ) was speaking with the family members of Abu Ayub, `Abdullah bin Salam heard the news of his arrival while he himself was picking the dates for his family from his family garden. He hurried to the Prophet (ﷺ) carrying the dates which he had collected for his family from the garden. He listened to Allah's Prophet and then went home. Then Allah's Prophet said, \"Which is the nearest of the houses of our kith and kin?\" Abu Ayub replied, \"Mine, O Allah's Prophet! This is my house and this is my gate.\" The Prophet (ﷺ) said, \"Go and prepare a place for our midday rest.\" Abu Ayub said, \"Get up (both of you) with Allah's Blessings.\" So when Allah's Prophet went into the house, `Abdullah bin Salam came and said \"I testify that you (i.e. Muhammad) are Apostle of Allah and that you have come with the Truth. The Jews know well that I am their chief and the son of their chief and the most learned amongst them and the son of the most learned amongst them. So send for them (i.e. Jews) and ask them about me before they know that I have embraced Islam, for if they know that they will say about me things which are not correct.\" So Allah's Messenger (ﷺ) sent for them, and they came and entered. Allah's Messenger (ﷺ) said to them, \"O (the group of) Jews! Woe to you: be afraid of Allah. By Allah except Whom none has the right to be worshipped, you people know for certain, that I am Apostle of Allah and that I have come to you with the Truth, so embrace Islam.\" The Jews replied, \"We do not know this.\" So they said this to the Prophet and he repeated it thrice. Then he said, \"What sort of a man is `Abdullah bin Salam amongst you?\" They said, \"He is our chief and the son of our chief and the most learned man, and the son of the most learned amongst us.\" He said, \"What would you think if he should embrace Islam?\" They said, \"Allah forbid! He can not embrace Islam.\" He said, \" What would you think if he should embrace Islam?\" They said, \"Allah forbid! He can not embrace Islam.\" He said, \"What would you think if he should embrace Islam?\" They said, \"Allah forbid! He can not embrace Islam.\" He said, \"O Ibn Salam! Come out to them.\" He came out and said, \"O (the group of) Jews! Be afraid of Allah except Whom none has the right to be worshipped. You know for certain that he is Apostle of Allah and that he has brought a True Religion!' They said, \"You tell a lie.\" On that Allah's Messenger (ﷺ) turned them out. [Bukhari: 3911]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 796,
+          "title": "Dua of Prophet at Battle of Badr (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي اَللَّهُمَّ آتِ مَا وَعَدْتَنِي اَللَّهُمَّ إِنْ تُهْلِكْ هَذِهِ الْعِصَابَةَ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدُ فِي الْأَرْضِ",
+          "audio": "/audio/dua/796.mp3",
+          "transliteration": "Allaahumma anjiz li ma wa ‘adtani, Allaahumma aati ma wa ‘adtani, Allaahumma in tuhlik hadhi-hil 'ishabata min ahlil Islaami, la tu'badu fil ardi",
+          "translation": "O Allah! Fulfill what You promised for me. [O Allah! Bring about what You promised for me] O Allah! If you destroy this band of adherents to Islam, you will not be worshiped upon the earth.\n\nIt has been narrated on the authority of `Umar bin al-Khattab (RA) who said: When it was the day on which the Battle of Badr was fought, the Messenger of Allah (ﷺ) cast a glance at the infidels, and they were one thousand while his own Companions were three hundred and nineteen. The Prophet (ﷺ) turned (his face) towards the Qibla. Then he stretched his hands and began his supplication to his Lord: (The dua mentioned above)",
+          "reference": "Muslim: 1763",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، حَدَّثَنِي سِمَاكٌ، الْحَنَفِيُّ قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ، قَالَ لَمَّا كَانَ يَوْمُ بَدْرٍ ح وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا عُمَرُ بْنُ يُونُسَ الْحَنَفِيُّ حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ حَدَّثَنِي أَبُو زُمَيْلٍ - هُوَ سِمَاكٌ الْحَنَفِيُّ - حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ قَالَ حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ قَالَ لَمَّا كَانَ يَوْمُ بَدْرٍ نَظَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْمُشْرِكِينَ وَهُمْ أَلْفٌ وَأَصْحَابُهُ ثَلاَثُمِائَةٍ وَتِسْعَةَ عَشَرَ رَجُلاً فَاسْتَقْبَلَ نَبِيُّ اللَّهِ صلى الله عليه وسلم الْقِبْلَةَ ثُمَّ مَدَّ يَدَيْهِ فَجَعَلَ يَهْتِفُ بِرَبِّهِ ‏\"‏ اللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي اللَّهُمَّ آتِ مَا وَعَدْتَنِي اللَّهُمَّ إِنْ تَهْلِكْ هَذِهِ الْعِصَابَةُ مِنْ أَهْلِ الإِسْلاَمِ لاَ تُعْبَدْ فِي الأَرْضِ ‏\"‏ ‏.‏ فَمَازَالَ يَهْتِفُ بِرَبِّهِ مَادًّا يَدَيْهِ مُسْتَقْبِلَ الْقِبْلَةِ حَتَّى سَقَطَ رِدَاؤُهُ عَنْ مَنْكِبَيْهِ فَأَتَاهُ أَبُو بَكْرٍ فَأَخَذَ رِدَاءَهُ فَأَلْقَاهُ عَلَى مَنْكِبَيْهِ ثُمَّ الْتَزَمَهُ مِنْ وَرَائِهِ ‏.‏ وَقَالَ يَا نَبِيَّ اللَّهِ كَذَاكَ مُنَاشَدَتُكَ رَبَّكَ فَإِنَّهُ سَيُنْجِزُ لَكَ مَا وَعَدَكَ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏ {‏ إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلاَئِكَةِ مُرْدِفِينَ‏} ‏ فَأَمَدَّهُ اللَّهُ بِالْمَلاَئِكَةِ ‏.‏ قَالَ أَبُو زُمَيْلٍ فَحَدَّثَنِي ابْنُ عَبَّاسٍ قَالَ بَيْنَمَا رَجُلٌ مِنَ الْمُسْلِمِينَ يَوْمَئِذٍ يَشْتَدُّ فِي أَثَرِ رَجُلٍ مِنَ الْمُشْرِكِينَ أَمَامَهُ إِذْ سَمِعَ ضَرْبَةً بِالسَّوْطِ فَوْقَهُ وَصَوْتَ الْفَارِسِ يَقُولُ أَقْدِمْ حَيْزُومُ ‏.‏ فَنَظَرَ إِلَى الْمُشْرِكِ أَمَامَهُ فَخَرَّ مُسْتَلْقِيًا فَنَظَرَ إِلَيْهِ فَإِذَا هُوَ قَدْ خُطِمَ أَنْفُهُ وَشُقَّ وَجْهُهُ كَضَرْبَةِ السَّوْطِ فَاخْضَرَّ ذَلِكَ أَجْمَعُ ‏.‏ فَجَاءَ الأَنْصَارِيُّ فَحَدَّثَ بِذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ صَدَقْتَ ذَلِكَ مِنْ مَدَدِ السَّمَاءِ الثَّالِثَةِ ‏\"‏ ‏.‏ فَقَتَلُوا يَوْمَئِذٍ سَبْعِينَ وَأَسَرُوا سَبْعِينَ ‏.‏ قَالَ أَبُو زُمَيْلٍ قَالَ ابْنُ عَبَّاسٍ فَلَمَّا أَسَرُوا الأُسَارَى قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَبِي بَكْرٍ وَعُمَرَ ‏\"‏ مَا تَرَوْنَ فِي هَؤُلاَءِ الأُسَارَى ‏\"‏ ‏.‏ فَقَالَ أَبُو بَكْرٍ يَا نَبِيَّ اللَّهِ هُمْ بَنُو الْعَمِّ وَالْعَشِيرَةِ أَرَى أَنْ تَأْخُذَ مِنْهُمْ فِدْيَةً فَتَكُونُ لَنَا قُوَّةً عَلَى الْكُفَّارِ فَعَسَى اللَّهُ أَنْ يَهْدِيَهُمْ لِلإِسْلاَمِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا تَرَى يَا ابْنَ الْخَطَّابِ ‏\"‏ ‏.‏ قُلْتُ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ مَا أَرَى الَّذِي رَأَى أَبُو بَكْرٍ وَلَكِنِّي أَرَى أَنْ تُمَكِّنَّا فَنَضْرِبَ أَعْنَاقَهُمْ فَتُمَكِّنَ عَلِيًّا مِنْ عَقِيلٍ فَيَضْرِبَ عُنُقَهُ وَتُمَكِّنِّي مِنْ فُلاَنٍ - نَسِيبًا لِعُمَرَ - فَأَضْرِبَ عُنُقَهُ فَإِنَّ هَؤُلاَءِ أَئِمَّةُ الْكُفْرِ وَصَنَادِيدُهَا فَهَوِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا قَالَ أَبُو بَكْرٍ وَلَمْ يَهْوَ مَا قُلْتُ فَلَمَّا كَانَ مِنَ الْغَدِ جِئْتُ فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ قَاعِدَيْنِ يَبْكِيَانِ قُلْتُ يَا رَسُولَ اللَّهِ أَخْبِرْنِي مِنْ أَىِّ شَىْءٍ تَبْكِي أَنْتَ وَصَاحِبُكَ فَإِنْ وَجَدْتُ بُكَاءً بَكَيْتُ وَإِنْ لَمْ أَجِدْ بُكَاءً تَبَاكَيْتُ لِبُكَائِكُمَا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَبْكِي لِلَّذِي عَرَضَ عَلَىَّ أَصْحَابُكَ مِنْ أَخْذِهِمُ الْفِدَاءَ لَقَدْ عُرِضَ عَلَىَّ عَذَابُهُمْ أَدْنَى مِنْ هَذِهِ الشَّجَرَةِ ‏\"‏ ‏.‏ شَجَرَةٍ قَرِيبَةٍ مِنْ نَبِيِّ اللَّهِ صلى الله عليه وسلم ‏.‏ وَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏ {‏ مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَى حَتَّى يُثْخِنَ فِي الأَرْضِ‏} ‏ إِلَى قَوْلِهِ ‏ {‏ فَكُلُوا مِمَّا غَنِمْتُمْ حَلاَلاً طَيِّبًا‏} ‏ فَأَحَلَّ اللَّهُ الْغَنِيمَةَ لَهُمْ ‏.‏",
+            "translation": "It has been narrated on the authority of `Umar b. al-Khattab who said: When it was the day on which the Battle of Badr was fought, the Messenger of Allah (ﷺ) cast a glance at the infidels, and they were one thousand while his own Companions were three hundred and nineteen. The Prophet (ﷺ) turned (his face) towards the Qibla. Then he stretched his hands and began his supplication to his Lord: \"O Allah, accomplish for me what Thou hast promised to me. O Allah, bring about what Thou hast promised to me. O Allah, if this small band of Muslims is destroyed. Thou will not be worshipped on this earth.\" He continued his supplication to his Lord, stretching his hands, facing the Qibla, until his mantle slipped down from his shoulders. So Abu Bakr came to him, picked up his mantle and put it on his shoulders. Then he embraced him from behind and said: Prophet of Allah, this prayer of yours to your Lord will suffice you, and He will fulfill for you what He has promised you. So Allah, the Glorious and Exalted, revealed (the Qur'anic verse): \"When ye appealed to your Lord for help, He responded to your call (saying): I will help you with one thousand angels coming in succession.\" So Allah helped him with angels. Abu Zumail said that the hadith was narrated to him by Ibn `Abbas who said: While on that day a Muslim was chasing a disbeliever who was going ahead of him, he heard over him the swishing of the whip and the voice of the rider saying: Go ahead, Haizum! He glanced at the polytheist who had (now) fallen down on his back. When he looked at him (carefully he found that) there was a scar on his nose and his face was torn as if it had been lashed with a whip, and had turned green with its poison. An Ansari came to the Messenger of Allah (ﷺ) and related this (event) to him. He said: You have told the truth. This was the help from the third heaven. The Muslims that day (i.e. the day of the Battle of Badr) killed seventy persons and captured seventy. The Messenger of Allah (ﷺ) said to Abu Bakr and `Umar (Allah be pleased with them): What is your opinion about these captives? Abu Bakr said: They are our kith and kin. I think you should release them after getting from them a ransom. This will be a source of strength to us against the infidels. It is quite possible that Allah may guide them to Islam. Then the Messenger of Allah (ﷺ) said: What is your opinion, Ibn Khattab? He said: Messenger of Allah, I do not hold the same opinion as Abu Bakr. I am of the opinion that you should hand them over to us so that we may cut off their heads. Hand over `Aqil to `Ali that he may cut off his head, and hand over such and such relative to me that I may cut off his head. They are leaders of the disbelievers and veterans among them. The Messenger of Allah (ﷺ) approved the opinion of Abu Bakr and did not approve what I said. The next day when I came to the Messenger of Allah (ﷺ), I found that both he and Abu Bakr were sitting shedding tears. I said: Messenger of Allah, why are you and your Companion shedding tears? Tell me the reason. For I will weep, or I will at least pretend to weep in sympathy with you. The Messenger of Allah (ﷺ) said: I weep for what has happened to your companions for taking ransom (from the prisoners). I was shown the torture to which they were subjected. It was brought to me as close as this tree. (He pointed to a tree close to him.) Then God revealed the verse: \"It is not befitting for a prophet that he should take prisoners until the force of the disbelievers has been crushed...\" to the end of the verse: \"so eat ye the spoils of war, (it is) lawful and pure. So Allah made booty lawful for them.\" [Muslim: 1763]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 797,
+          "title": "Dua for Allah’s Help (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+          "audio": "/audio/dua/797.mp3",
+          "transliteration": "Iz tastagheethoona Rabbakum fastajaaba lakum annee mumiddukum bi-alfim-minal-malaaa'ikati murdifeen.",
+          "translation": "[Remember] when you asked help of your Lord, and He answered you, \"Indeed, I will reinforce you with a thousand from the angels, following one another.\" (Sura Anfal 8:9)\n\nHe (Rasulullah ﷺ) continued his supplication to his Lord, stretching his hands, facing the Qibla, until his mantle slipped down from his shoulders. So Abu Bakr (RA) came to him, picked up his mantle and put it on his shoulders. Then he embraced him from behind and said: O Prophet of Allah (ﷺ), this prayer of yours to your Lord will suffice you, and He will fulfill for you what He has promised you. So Allah, the Glorious and Exalted, revealed (the Qur'anic verse): (The ayaat is mentioned above) So Allah helped him with angels.",
+          "reference": "Muslim: 1763",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، حَدَّثَنِي سِمَاكٌ، الْحَنَفِيُّ قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ، قَالَ لَمَّا كَانَ يَوْمُ بَدْرٍ ح وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا عُمَرُ بْنُ يُونُسَ الْحَنَفِيُّ حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ حَدَّثَنِي أَبُو زُمَيْلٍ - هُوَ سِمَاكٌ الْحَنَفِيُّ - حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ قَالَ حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ قَالَ لَمَّا كَانَ يَوْمُ بَدْرٍ نَظَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْمُشْرِكِينَ وَهُمْ أَلْفٌ وَأَصْحَابُهُ ثَلاَثُمِائَةٍ وَتِسْعَةَ عَشَرَ رَجُلاً فَاسْتَقْبَلَ نَبِيُّ اللَّهِ صلى الله عليه وسلم الْقِبْلَةَ ثُمَّ مَدَّ يَدَيْهِ فَجَعَلَ يَهْتِفُ بِرَبِّهِ ‏\"‏ اللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي اللَّهُمَّ آتِ مَا وَعَدْتَنِي اللَّهُمَّ إِنْ تَهْلِكْ هَذِهِ الْعِصَابَةُ مِنْ أَهْلِ الإِسْلاَمِ لاَ تُعْبَدْ فِي الأَرْضِ ‏\"‏ ‏.‏ فَمَازَالَ يَهْتِفُ بِرَبِّهِ مَادًّا يَدَيْهِ مُسْتَقْبِلَ الْقِبْلَةِ حَتَّى سَقَطَ رِدَاؤُهُ عَنْ مَنْكِبَيْهِ فَأَتَاهُ أَبُو بَكْرٍ فَأَخَذَ رِدَاءَهُ فَأَلْقَاهُ عَلَى مَنْكِبَيْهِ ثُمَّ الْتَزَمَهُ مِنْ وَرَائِهِ ‏.‏ وَقَالَ يَا نَبِيَّ اللَّهِ كَذَاكَ مُنَاشَدَتُكَ رَبَّكَ فَإِنَّهُ سَيُنْجِزُ لَكَ مَا وَعَدَكَ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏ {‏ إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلاَئِكَةِ مُرْدِفِينَ‏} ‏ فَأَمَدَّهُ اللَّهُ بِالْمَلاَئِكَةِ ‏.‏ قَالَ أَبُو زُمَيْلٍ فَحَدَّثَنِي ابْنُ عَبَّاسٍ قَالَ بَيْنَمَا رَجُلٌ مِنَ الْمُسْلِمِينَ يَوْمَئِذٍ يَشْتَدُّ فِي أَثَرِ رَجُلٍ مِنَ الْمُشْرِكِينَ أَمَامَهُ إِذْ سَمِعَ ضَرْبَةً بِالسَّوْطِ فَوْقَهُ وَصَوْتَ الْفَارِسِ يَقُولُ أَقْدِمْ حَيْزُومُ ‏.‏ فَنَظَرَ إِلَى الْمُشْرِكِ أَمَامَهُ فَخَرَّ مُسْتَلْقِيًا فَنَظَرَ إِلَيْهِ فَإِذَا هُوَ قَدْ خُطِمَ أَنْفُهُ وَشُقَّ وَجْهُهُ كَضَرْبَةِ السَّوْطِ فَاخْضَرَّ ذَلِكَ أَجْمَعُ ‏.‏ فَجَاءَ الأَنْصَارِيُّ فَحَدَّثَ بِذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ صَدَقْتَ ذَلِكَ مِنْ مَدَدِ السَّمَاءِ الثَّالِثَةِ ‏\"‏ ‏.‏ فَقَتَلُوا يَوْمَئِذٍ سَبْعِينَ وَأَسَرُوا سَبْعِينَ ‏.‏ قَالَ أَبُو زُمَيْلٍ قَالَ ابْنُ عَبَّاسٍ فَلَمَّا أَسَرُوا الأُسَارَى قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَبِي بَكْرٍ وَعُمَرَ ‏\"‏ مَا تَرَوْنَ فِي هَؤُلاَءِ الأُسَارَى ‏\"‏ ‏.‏ فَقَالَ أَبُو بَكْرٍ يَا نَبِيَّ اللَّهِ هُمْ بَنُو الْعَمِّ وَالْعَشِيرَةِ أَرَى أَنْ تَأْخُذَ مِنْهُمْ فِدْيَةً فَتَكُونُ لَنَا قُوَّةً عَلَى الْكُفَّارِ فَعَسَى اللَّهُ أَنْ يَهْدِيَهُمْ لِلإِسْلاَمِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا تَرَى يَا ابْنَ الْخَطَّابِ ‏\"‏ ‏.‏ قُلْتُ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ مَا أَرَى الَّذِي رَأَى أَبُو بَكْرٍ وَلَكِنِّي أَرَى أَنْ تُمَكِّنَّا فَنَضْرِبَ أَعْنَاقَهُمْ فَتُمَكِّنَ عَلِيًّا مِنْ عَقِيلٍ فَيَضْرِبَ عُنُقَهُ وَتُمَكِّنِّي مِنْ فُلاَنٍ - نَسِيبًا لِعُمَرَ - فَأَضْرِبَ عُنُقَهُ فَإِنَّ هَؤُلاَءِ أَئِمَّةُ الْكُفْرِ وَصَنَادِيدُهَا فَهَوِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا قَالَ أَبُو بَكْرٍ وَلَمْ يَهْوَ مَا قُلْتُ فَلَمَّا كَانَ مِنَ الْغَدِ جِئْتُ فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ قَاعِدَيْنِ يَبْكِيَانِ قُلْتُ يَا رَسُولَ اللَّهِ أَخْبِرْنِي مِنْ أَىِّ شَىْءٍ تَبْكِي أَنْتَ وَصَاحِبُكَ فَإِنْ وَجَدْتُ بُكَاءً بَكَيْتُ وَإِنْ لَمْ أَجِدْ بُكَاءً تَبَاكَيْتُ لِبُكَائِكُمَا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَبْكِي لِلَّذِي عَرَضَ عَلَىَّ أَصْحَابُكَ مِنْ أَخْذِهِمُ الْفِدَاءَ لَقَدْ عُرِضَ عَلَىَّ عَذَابُهُمْ أَدْنَى مِنْ هَذِهِ الشَّجَرَةِ ‏\"‏ ‏.‏ شَجَرَةٍ قَرِيبَةٍ مِنْ نَبِيِّ اللَّهِ صلى الله عليه وسلم ‏.‏ وَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏ {‏ مَا كَانَ لِنَبِيٍّ أَنْ يَكُونَ لَهُ أَسْرَى حَتَّى يُثْخِنَ فِي الأَرْضِ‏} ‏ إِلَى قَوْلِهِ ‏ {‏ فَكُلُوا مِمَّا غَنِمْتُمْ حَلاَلاً طَيِّبًا‏} ‏ فَأَحَلَّ اللَّهُ الْغَنِيمَةَ لَهُمْ ‏.‏",
+            "translation": "It has been narrated on the authority of `Umar b. al-Khattab who said: When it was the day on which the Battle of Badr was fought, the Messenger of Allah (ﷺ) cast a glance at the infidels, and they were one thousand while his own Companions were three hundred and nineteen. The Prophet (ﷺ) turned (his face) towards the Qibla. Then he stretched his hands and began his supplication to his Lord: \"O Allah, accomplish for me what Thou hast promised to me. O Allah, bring about what Thou hast promised to me. O Allah, if this small band of Muslims is destroyed. Thou will not be worshipped on this earth.\" He continued his supplication to his Lord, stretching his hands, facing the Qibla, until his mantle slipped down from his shoulders. So Abu Bakr came to him, picked up his mantle and put it on his shoulders. Then he embraced him from behind and said: Prophet of Allah, this prayer of yours to your Lord will suffice you, and He will fulfill for you what He has promised you. So Allah, the Glorious and Exalted, revealed (the Qur'anic verse): \"When ye appealed to your Lord for help, He responded to your call (saying): I will help you with one thousand angels coming in succession.\" So Allah helped him with angels. Abu Zumail said that the hadith was narrated to him by Ibn `Abbas who said: While on that day a Muslim was chasing a disbeliever who was going ahead of him, he heard over him the swishing of the whip and the voice of the rider saying: Go ahead, Haizum! He glanced at the polytheist who had (now) fallen down on his back. When he looked at him (carefully he found that) there was a scar on his nose and his face was torn as if it had been lashed with a whip, and had turned green with its poison. An Ansari came to the Messenger of Allah (ﷺ) and related this (event) to him. He said: You have told the truth. This was the help from the third heaven. The Muslims that day (i.e. the day of the Battle of Badr) killed seventy persons and captured seventy. The Messenger of Allah (ﷺ) said to Abu Bakr and `Umar (Allah be pleased with them): What is your opinion about these captives? Abu Bakr said: They are our kith and kin. I think you should release them after getting from them a ransom. This will be a source of strength to us against the infidels. It is quite possible that Allah may guide them to Islam. Then the Messenger of Allah (ﷺ) said: What is your opinion, Ibn Khattab? He said: Messenger of Allah, I do not hold the same opinion as Abu Bakr. I am of the opinion that you should hand them over to us so that we may cut off their heads. Hand over `Aqil to `Ali that he may cut off his head, and hand over such and such relative to me that I may cut off his head. They are leaders of the disbelievers and veterans among them. The Messenger of Allah (ﷺ) approved the opinion of Abu Bakr and did not approve what I said. The next day when I came to the Messenger of Allah (ﷺ), I found that both he and Abu Bakr were sitting shedding tears. I said: Messenger of Allah, why are you and your Companion shedding tears? Tell me the reason. For I will weep, or I will at least pretend to weep in sympathy with you. The Messenger of Allah (ﷺ) said: I weep for what has happened to your companions for taking ransom (from the prisoners). I was shown the torture to which they were subjected. It was brought to me as close as this tree. (He pointed to a tree close to him.) Then God revealed the verse: \"It is not befitting for a prophet that he should take prisoners until the force of the disbelievers has been crushed...\" to the end of the verse: \"so eat ye the spoils of war, (it is) lawful and pure. So Allah made booty lawful for them.\" [Muslim: 1763]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 798,
+          "title": "Hadith on Angel's Help at Badr",
+          "category_tags": [],
+          "introduction": "Narrated to him by Ibn `Abbas (RA) who said: While on that day a Muslim was chasing a disbeliever who was going ahead of him, he heard over him the swishing of the whip and the voice of the rider saying: Go ahead, Haizum! [1] He glanced at the polytheist who had (now) fallen down on his back. When he looked at him (carefully he found that) there was a scar on his nose and his face was torn as if it had been lashed with a whip, and had turned green with its poison. An Ansari came to the Messenger of Allah (ﷺ) and related this (event) to him. He said: You have told the truth. This was the help from the third heaven. The Muslims that day (i.e. the day of the Battle of Badr) killed seventy persons and captured seventy. [2]",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "[1] Name of the horse carrying the angel (translator) [2] Muslim: 1763",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 799,
+          "title": "Dua for Relief from Fear (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَاءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ اللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا ﴿٩﴾ إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا ﴿١٠﴾ هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالًا شَدِيدًا ﴿١١﴾",
+          "audio": "/audio/dua/799.mp3",
+          "transliteration": "Am hasibtum an tadkhulul-Jannata wa lammaa ya'tikum-mathalul-lazeena khalaw min qablikum massathumul-ba'saaa'u wad-darraaa'u wa zulziloo hattaa yaqoolar-Rasoolu wallazeena aamanoo ma'ahoo mataa nasrullaah; alaaa inna nasrallaahi qareeb.",
+          "translation": "(9) O you who have believed, remember the favor of Allah upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. And ever is Allah, of what you do, Seeing. (10) [Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats and you assumed about Allah [various] assumptions. (11) There the believers were tested and shaken with a severe shaking.",
+          "reference": "[1] Surah Al-Ahzab 33: 9-11 [2] Jadul Ma'ad: 3/274",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 800,
+          "title": "Prophet’s Dua in Battle of Ahzab",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ مُنْزِلَ الْكِتَابِ سَرِيعَ الْحِسَابِ اِهْزِمِ الْأَحْزَابَ اَللَّهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُمْ",
+          "audio": "/audio/dua/800.mp3",
+          "transliteration": "Allaahumma munzilal-kitaabi, saree'al-hisaabi, ihzimil-'ahzaaba, Allaahummah zimhum wa zalzilhum.",
+          "translation": "O Allah, Revealer of the Book, swift in (taking) account, put the tribes to rout. O Lord, defeat them and shake them.\n\nIn the battle of Ahzaab, those who fought with The Messenger of Allah (ﷺ), they were five kinds: Polytheists of Makkah, Polytheists of various tribes of Arab, Jews who came from outside the madina, Banu Quraiza and the hypocrites. There were ten thousands disbelievers in the front of trench and with the Prophet (ﷺ), there were three thousands Muslims. The disbelievers surrounded Prophet (ﷺ) for 1 month. There was no fighting between them, but there was an incident where a fighting took place Ali ibn Abi Taalib (RA) with Amar ibn Udd Amiri. Ali (RA) killed him. This was the fourth year after Hijrah. In that battle The Messenger of Allah (ﷺ) invoked Allah against them - (The dua is mentioned above)",
+          "reference": "Muslim: 1742",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى، بْنُ عُقْبَةَ عَنْ أَبِي النَّضْرِ، عَنْ كِتَابِ، رَجُلٍ مِنْ أَسْلَمَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم يُقَالُ لَهُ عَبْدُ اللَّهِ بْنُ أَبِي أَوْفَى فَكَتَبَ إِلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ حِينَ سَارَ إِلَى الْحَرُورِيَّةِ يُخْبِرُهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ فِي بَعْضِ أَيَّامِهِ الَّتِي لَقِيَ فِيهَا الْعَدُوَّ يَنْتَظِرُ حَتَّى إِذَا مَالَتِ الشَّمْسُ قَامَ فِيهِمْ فَقَالَ ‏\"‏ يَا أَيُّهَا النَّاسُ لاَ تَتَمَنَّوْا لِقَاءَ الْعَدُوِّ وَاسْأَلُوا اللَّهَ الْعَافِيَةَ فَإِذَا لَقِيتُمُوهُمْ فَاصْبِرُوا وَاعْلَمُوا أَنَّ الْجَنَّةَ تَحْتَ ظِلاَلِ السُّيُوفِ ‏\"‏ ‏.‏ ثُمَّ قَامَ النَّبِيُّ صلى الله عليه وسلم وَقَالَ ‏\"‏ اللَّهُمَّ مُنْزِلَ الْكِتَابِ وَمُجْرِيَ السَّحَابِ وَهَازِمَ الأَحْزَابِ اهْزِمْهُمْ وَانْصُرْنَا عَلَيْهِمْ ‏\"‏ ‏.‏",
+            "translation": "It is narrated by Abu Nadr that he learnt from a letter sent by a man from the Aslam tribe, who was a Companion of the Prophet (ﷺ) and whose name was 'Abdullah b. Abu Aufa, to 'Umar b. 'Ubaidullah when the latter marched upon Haruriyya (Khawarij) informing him that the Messenger of Allah (ﷺ) in one of those days when lie was confronting the enemy waited until the sun had declined. Then he stood up (to address the people) and said: O ye men, do not wish for an encounter with the enemy. Pray to Allah to grant you security; (but) when you (have to) encounter them exercise patience, and you should know that Paradise is under the shadows of the swords. Then the Messenger of Allah (ﷺ) stood up (again) and said: O Allah. Revealer of the Book, Disperser of the clouds, Defeater of the hordes, put our enemy to rout and help us against them. [Muslim: 1742]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 801,
+          "title": "Powerful Dua in Battle of Hunain",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "شَاهَتِ الْوُجُوْهُ",
+          "audio": "/audio/dua/801.mp3",
+          "transliteration": "Shaahatil wujooh",
+          "translation": "May these faces be deformed!\n\nThis hadith has been narrated on the authority of Salama ibnul akwa (RA) who said: We fought by the side of the Messenger of Allah (ﷺ) at Hunain. When we encountered the enemy, the Messenger of Allah (ﷺ) got down from his mule. picked up a handful of dust from the ground, threw it into their (enemy) faces and said: (the dua is mentioned above) There was no one among the enemy whose eyes were not filled with the dust from this handful. So, they turned back fleeing. and Allah the Exalted and Glorious defeated them, and the Messenger of Allah (ﷺ) distributed their booty among the Muslims.",
+          "reference": "Muslim: 1777",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ الْحَنَفِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي إِيَاسُ بْنُ سَلَمَةَ، حَدَّثَنِي أَبِي قَالَ، غَزَوْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حُنَيْنًا فَلَمَّا وَاجَهْنَا الْعَدُوَّ تَقَدَّمْتُ فَأَعْلُو ثَنِيَّةً فَاسْتَقْبَلَنِي رَجُلٌ مِنَ الْعَدُوِّ فَأَرْمِيهِ بِسَهْمٍ فَتَوَارَى عَنِّي فَمَا دَرَيْتُ مَا صَنَعَ وَنَظَرْتُ إِلَى الْقَوْمِ فَإِذَا هُمْ قَدْ طَلَعُوا مِنْ ثَنِيَّةٍ أُخْرَى فَالْتَقَوْا هُمْ وَصَحَابَةُ النَّبِيِّ صلى الله عليه وسلم فَوَلَّى صَحَابَةُ النَّبِيِّ صلى الله عليه وسلم وَأَرْجِعُ مُنْهَزِمًا وَعَلَىَّ بُرْدَتَانِ مُتَّزِرًا بِإِحْدَاهُمَا مُرْتَدِيًا بِالأُخْرَى فَاسْتَطْلَقَ إِزَارِي فَجَمَعْتُهُمَا جَمِيعًا وَمَرَرْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مُنْهَزِمًا وَهُوَ عَلَى بَغْلَتِهِ الشَّهْبَاءِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَقَدْ رَأَى ابْنُ الأَكْوَعِ فَزَعًا ‏\"‏ ‏.‏ فَلَمَّا غَشُوا رَسُولَ اللَّهِ صلى الله عليه وسلم نَزَلَ عَنِ الْبَغْلَةِ ثُمَّ قَبَضَ قَبْضَةً مِنْ تُرَابٍ مِنَ الأَرْضِ ثُمَّ اسْتَقْبَلَ بِهِ وُجُوهَهُمْ فَقَالَ ‏\"‏ شَاهَتِ الْوُجُوهُ ‏\"‏ ‏.‏ فَمَا خَلَقَ اللَّهُ مِنْهُمْ إِنْسَانًا إِلاَّ مَلأَ عَيْنَيْهِ تُرَابًا بِتِلْكَ الْقَبْضَةِ فَوَلَّوْا مُدْبِرِينَ فَهَزَمَهُمُ اللَّهُ عَزَّ وَجَلَّ وَقَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم غَنَائِمَهُمْ بَيْنَ الْمُسْلِمِينَ ‏.‏",
+            "translation": "This tradition has been narrated on the authority of Salama who said: We fought by the side of the Messenger of Allah (ﷺ) at Hunain. When we encountered the enemy, I advanced and ascended a hillock. A man from the enemy side turned towards me and I shot him with an arrow. He (ducked and) hid himself from me. I could not understand what he did, but (all of a sudden) I saw that a group of people appeared from the other hillock. They and the Companions of the Prophet (ﷺ) met in combat, but the Companions of the Prophet turned back and I too turned back defeated. I had two mantles, one of which I was wrapping round the waist (covering the lower part of my body) and the other I was putting around my shoulders. My waist-wrapper got loose and I held the two mantles together. (In this downcast condition) I passed by the Messenger of Allah (ﷺ) who was riding on his white mule. He said: The son of Akwa' finds himself to be utterly perplexed. Wher. the Companions gathered round him from all sides. the Messenger of Allah (ﷺ) got down from his mule. picked up a handful of dust from the ground, threw it into their (enemy) faces and said: May these faces be deformed 1 There was no one among the enemy whose eyes were not filled with the dust from this handful. So they turned back fleeing. and Allah the Exalted and Glorious defeated them, and the Messenger of Allah (ﷺ) distributed their booty among the Muslims. [Muslim: 1777]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

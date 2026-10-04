@@ -1,0 +1,1570 @@
+{
+  "category": {
+    "name": "Sleep",
+    "url": "sleep",
+    "icon": "sleep.svg",
+    "meta": "2 Subcategories"
+  },
+  "total_subcategories": 2,
+  "total_duas": 31,
+  "subcategories": [
+    {
+      "id": 14,
+      "title": "Before sleep",
+      "category": "sleep",
+      "dua-ids": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "duas": [
+        {
+          "dua_id": 115,
+          "title": "Dua Before Sleep (Tasbih)",
+          "category_tags": [],
+          "introduction": "Subhanallah 33 times",
+          "arabic": "سُبْحَانَ اللَّهِ",
+          "audio": "/audio/dua/115.mp3",
+          "transliteration": "SubhaanAllah",
+          "translation": "How Perfect Allah is.\n\nAlhamdu lillaah 33 times",
+          "reference": "Al-Bukhari, Fathul Bari 7/71 no. 3705, Muslim 4/2091 no. 2726",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Tasbeeh Before Sleeping",
+            "description": "Tasbeeh before going to bed fills the heart with peace, brings Barakah, and helps muslims end their day with the remembrance of Allah’s greatness and mercy.",
+            "points": [
+              "Subhanallah before sleep brings calm and keeps mind safe from bad dreams.",
+              "Tasbih before sleeping fills the night with Barakah and Allah’s mercy for muslims.",
+              "Saying tasbih fatima at night gives strength and rest to tired body and heart.",
+              "Zikir before sleep helps Iman grow and keeps shaytan away from the bed.",
+              "Tasbeeh before sleeping makes Amal easy and brings peace in the night hours."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Tasbeeh Before Sleeping",
+            "description": "Reciting tasbeeh before sleeping fills your heart with peace and Barakah, letting you end your day with the remembrance of Allah and the blessings of zikir, just as the Prophet taught for restful nights.",
+            "points": [
+              "After finishing your night salah, remember to do tasbeeh before sleeping for Barakah.",
+              "When you lay down in bed, start your zikir with subhanallah walhamdulillah wala ilaha illallah wallahu akbar.",
+              "If you feel restless at night, repeat tasbih fatima as your sleeping dua for calmness.",
+              "Before closing your eyes, use the tasbih prayer and subhanallah meaning for a peaceful heart.",
+              "When you want to follow sunnah, make dua before sleep with subhanallahi wa bihamdihi for Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Tasbeeh Before Sleeping",
+            "description": "Saying tasbeeh before sleeping fills your night with Barakah and peace. This simple zikr, SubhanAllah, is easy for every Muslim and brings calmness to the heart before going to bed.",
+            "steps": [
+              "After finishing your night salah, quietly say subhanallah thirty-three times on your fingers.",
+              "When you lay down, repeat tasbeeh before sleeping to remember Allah’s greatness and mercy.",
+              "If you feel tired or worried, softly recite subhan allah for peace and rest in your heart.",
+              "Teach your kids to say this tasbih before sleep so they grow up with strong Iman.",
+              "Before closing your eyes, end your day with this zikir allah for a blessed and safe night."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 116,
+          "title": "Dua Before Sleep (Ayatul Kursi)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَنْ ذَا الَّذِى يَشْفَعُ عِنْدَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+          "audio": "/audio/dua/116.mp3",
+          "transliteration": "Allahu laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoom, laa ta'khudhuhu sinatun wa laa nawm, lahu maa fis-samaawaati wa maa fil-'ardh, man dhal-ladhee yashfa'u 'indahu 'illaa bi'idh nih, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem",
+          "translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. (Sura Baqarah 2:255)\n\nWhoever reads Ayatul Kursi when he lies down to sleep will have a guardian from Allah remain with him and Satan will not be able to come near him until he rises in the morning.",
+          "reference": "Al-Bukhari, Fathul Bari 4/487, no. 2311",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Sleep (Ayatul Kursi)",
+            "description": "Let your heart rest easy before going to bed by saying Ayatul Kursi, a strong verse from Surah Baqarah that brings Allah’s care, safety, and peace to every Muslim’s night.",
+            "points": [
+              "Allah’s hifazat covers the one who says ayatul kursi before going to bed.",
+              "Shayateen stay far from the home where ayat al kursi is read at night.",
+              "This throne verse from al baqarah brings Barakah and calm to the sleeping dua.",
+              "Allahu la ilaha illa huwal hayyul qayyum keeps iman strong in the night hours.",
+              "Ayatul kursi for protection helps muslims sleep with peace and trust in Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Ayatul Kursi",
+            "description": "Reciting ayatul kursi before sleep brings Allah’s protection and peace, making your night safe and your heart calm, as taught in surah baqarah for every Muslim who wants Barakah and safety.",
+            "points": [
+              "After finishing your night salah, read ayatul kursi for protection before going to bed.",
+              "When you feel scared at night, recite ayat al kursi as your sleeping dua for calmness.",
+              "Before closing your eyes, use ayatul kursi arabic for a peaceful sleep and Barakah.",
+              "If you wake up in the night, repeat ayatul kursi transliteration for Allah’s help.",
+              "When you want to follow sunnah, make dua for the night with ayatul kursi for Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Sleep (Ayatul Kursi)",
+            "description": "Reciting ayatul kursi before going to bed brings peace and Allah’s protection through the night. This powerful throne verse from surah baqarah is a well-known sleeping dua for every Muslim’s safety.",
+            "steps": [
+              "Make wudu if possible, then sit or lay on your bed and recite ayatul kursi arabic.",
+              "Say allahu la ilaha illa huwal hayyul qayyum with full heart and clear mind before sleep.",
+              "After reading ayatul kursi transliteration or ayatul kursi english translation, blow softly over yourself.",
+              "Ask Allah for protection by reading this quranic dua as a prayer before sleeping every night.",
+              "End with a short zikr allah or any masnoon dua for the night to get more Barakah and calm heart."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 117,
+          "title": "Dua Before Going to Sleep (Surah al Baqarah Last Two Ayat)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+          "audio": "",
+          "transliteration": "(285) Aamanar-Rasoolu bimaa 'unzila ilayhi mir-Rabbihi wal mu'minoon, kullun 'aamana billaahi wa malaa'ikatihi wa Kutubihi wa Rusulih, laa nufarriqu bayna 'ahadim-mir-Rusulih, wa qaaloo sami'naa wa 'ata'naa ghufraanaka Rabbanaa wa 'ilaykal-maseer. (286) Laa yukallifullaahu nafsan 'illaa wus'ahaa, lahaa maa kasabat wa 'alayhaa mak-tasabat, Rabbanaa laa tu'aakhidhnaa 'in naseenaa 'aw 'akhta'naa, Rabbanaa wa laa ta'hmil 'alaynaa 'isran kamaa hamaltahu 'alal-ladheena min qablinaa, Rabbanaa wa laa tu'hammilnaa maa laa taaqata lanaa bihi, wa'fu 'annaa, waghfir lanaa war'hamnaa, 'Anta Mawlaanaa fansurnaa 'alal-qawmil-kaafireen",
+          "translation": "(285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination. (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people. (Sura Baqarah 2: 285-286)\n\nWhoever recites the last two Aayahs of Soorah al-Baqarah at night, those two Aayahs shall be sufficient for him.",
+          "reference": "Al-Bukhari, Fathul Bari 9/94, Muslim 1/554, no. 807",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا مَنْصُورٌ، عَنْ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ، بْنِ يَزِيدَ قَالَ لَقِيتُ أَبَا مَسْعُودٍ عِنْدَ الْبَيْتِ فَقُلْتُ حَدِيثٌ بَلَغَنِي عَنْكَ فِي الآيَتَيْنِ فِي سُورَةِ الْبَقَرَةِ ‏.‏ فَقَالَ نَعَمْ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الآيَتَانِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ مَنْ قَرَأَهُمَا فِي لَيْلَةٍ كَفَتَاهُ ‏\"‏ ‏.‏ '",
+            "translation": "Abd al-Rahman b. Yazid reported: I met Abu Mas'ud near the House (Ka'ba) and said to him: A hadith has been conveyed to me on your authority about the two (concluding verses of Surah al-Baqara. He said: Yes. The Messenger of Allah (ﷺ) (in fact) said: Anyone who recites the two verses at the end of Surah al-Baqara at night, they would suffice for him. Sahih Muslim 807a [Al-Bukhari, Fathul Bari 9/94, Muslim 1/554, no. 807]"
+          },
+          "benefits": {
+            "title": "Benefits of Last 2 Ayat of Surah al Baqarah Before Sleep",
+            "description": "Let your heart find peace before going to bed by saying the last two ayat of Surah al Baqarah, a strong night dua that brings Allah’s mercy, help, and forgiveness to every muslim.",
+            "points": [
+              "Allah’s Rahmah covers the one who reads last two verses of surah baqarah at night.",
+              "Amanar rasul brings maghfirah and removes burden from the heart before sleep.",
+              "These ayat from al baqarah protect the home and keep shayateen away till morning.",
+              "Rabbana la tuakhizna in this dua before sleep brings Allah’s help in hard times.",
+              "Last 2 ayat of surah al baqarah make amal easy and keep iman strong for muslims."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Last 2 Ayat of Surah Al Baqarah",
+            "description": "Reciting the last 2 ayat of surah al baqarah before sleep brings Allah’s mercy, forgiveness, and Barakah, making your night safe and your heart full of Iman, as taught by the Prophet for every Muslim.",
+            "points": [
+              "After your night salah, read the last two verses of surah baqarah for protection.",
+              "When you lay down in bed, recite amanar rasul as your sleeping dua for Barakah.",
+              "If you feel weak or worried, use the last 2 ayat of surah al baqarah for Allah’s help.",
+              "Before closing your eyes, make dua with surah baqarah last 2 ayat for forgiveness.",
+              "When you want to follow sunnah, say amanar rasulu bima unzila for a peaceful night."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Going to Sleep (Surah al Baqarah Last Two Ayat)",
+            "description": "Reading the last 2 ayat of surah al baqarah before going to bed brings Allah’s mercy and keeps you safe all night. These verses, amanar rasul and rabbana, are a strong sleeping dua for every Muslim.",
+            "steps": [
+              "Clean your hands and face, then sit on your bed and recite amanar rasulu bima unzila.",
+              "Say the last two verses of surah baqarah with full Iman and trust in Allah’s promise.",
+              "After reading surah baqarah last 2 ayat, blow gently over your body for protection.",
+              "Ask for forgiveness and Barakah by reciting rabbana la tuakhizna as a night dua before sleep.",
+              "Finish with a short zikr allah or any masnoon dua for the night to keep your heart calm and safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 118,
+          "title": "Dua Before Going to Bed (Surah Kafirun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ ﴿١﴾ لَا أَعْبُدُ مَا تَعْبُدُونَ ﴿٢﴾ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ﴿٣﴾ وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ ﴿٤﴾ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ﴿٥﴾ لَكُمْ دِينُكُمْ وَلِيَ دِينِ ﴿٦﴾",
+          "audio": "/audio/dua/118.mp3",
+          "transliteration": "Bismillaahir Rahmaanir Raheem (1) Qul yaa-ayyuhal kaafiroon (2) Laaa a'budu maa t'abudoon (3) Wa laa antum 'aabidoona maaa a'bud (4) Wa laaa ana 'abidum maa 'abattum (5) Wa laa antum 'aabidoona maa a'bud (6) Lakum deenukum wa liya deen",
+          "translation": "(1) Say, \"O disbelievers, (2) I do not worship what you worship. (3) Nor are you worshippers of what I worship. (4) Nor will I be a worshipper of what you worship. (5) Nor will you be worshippers of what I worship. (6) For you is your religion, and for me is my religion.\" (Sura kafirun 109: 1-6)\n\nNawfal Al-Ashzai (RA) said, the Messenger of Allah (ﷺ) told me, you will sleep after reciting Surah Kafirun, this will liberate you from shirk.",
+          "reference": "Sahih (Albani). Tirmidhi: 3403",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، قَالَ أَخْبَرَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنْ رَجُلٍ، عَنْ فَرْوَةَ بْنِ نَوْفَلٍ، رضى الله عنه أَنَّهُ أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ عَلِّمْنِي شَيْئًا أَقُولُهُ إِذَا أَوَيْتُ إِلَى فِرَاشِي قَالَ ‏\"‏ اقْرَأْْ ‏:‏ ‏",
+            "translation": "(‏ قلْ يَا أَيُّهَا الْكَافِرُونَ ‏) ‏ فَإِنَّهَا بَرَاءَةٌ مِنَ الشِّرْكِ ‏\"‏ ‏.‏ قَالَ شُعْبَةُ أَحْيَانًا يَقُولُ مَرَّةً وَأَحْيَانًا لاَ يَقُولُهَا ‏.‏ حَدَّثَنَا مُوسَى بْنُ حِزَامٍ، أَخْبَرَنَا يَحْيَى بْنُ آدَمَ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ فَرْوَةَ بْنِ نَوْفَلٍ، عَنْ أَبِيهِ، أَنَّهُ أَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ نَحْوَهُ بِمَعْنَاهُ وَهَذَا أَصَحُّ ‏.‏ قَالَ أَبُو عِيسَى وَرَوَى زُهَيْرٌ هَذَا الْحَدِيثَ عَنْ أَبِي إِسْحَاقَ عَنْ فَرْوَةَ بْنِ نَوْفَلٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ وَهَذَا أَشْبَهُ وَأَصَحُّ مِنْ حَدِيثِ شُعْبَةَ ‏.‏ وَقَدِ اضْطَرَبَ أَصْحَابُ أَبِي إِسْحَاقَ فِي هَذَا الْحَدِيثِ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ مِنْ غَيْرِ هَذَا الْوَجْهِ قَدْ رَوَاهُ عَبْدُ الرَّحْمَنِ بْنُ نَوْفَلٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم وَعَبْدُ الرَّحْمَنِ هُوَ أَخُو فَرْوَةَ بْنِ نَوْفَلٍ ‏.‏ Farwah bin Nawfal (ra) narrated that: He came to the Prophet (ﷺ) and said: “O Messenger of Allah, teach me something that I may say when I go to my bed.” So he said: “Recite: Say: ‘O you disbelievers’ for verily it is a disavowal of Shirk.” Shu`bah said: “Sometimes he would say: ‘One time’ and sometime he would not say it.” (Another chain) from Farwah bin Nawfal, from his father: \"That he came to the Prophet (ﷺ)\" then he mentioned similar in meaning. And this is more correct. [Abu `Eisa said:] And Zubair reported this hadith from Ishaq, from Farwah bin Nawfal, from his father from the Prophet (ﷺ), with similar wording. This is more appropriate and more correct than the narration of Shu`bah. The companions of Abu Ishaq were confused in the narration of this hadith. This hadith has been reported through routes other than this. `Abdur-Rahman is the brother of Farwah bin Nawfal. [Sahih (Albani). Tirmidhi: 3403]"
+          },
+          "benefits": {
+            "title": "Benefits of Surah Kafirun Before Going to Bed",
+            "description": "Let your heart rest easy before going to bed by saying surah kafirun, a strong night dua that keeps your iman safe and brings Allah’s help and peace to every muslim.",
+            "points": [
+              "Surah kafirun keeps a muslim’s iman pure from shirk before sleep.",
+              "Qul ya ayyuhal kafirun brings peace and safety to the heart at night.",
+              "Lakum dinukum waliyadin in this dua before sleep protects from hidden harm.",
+              "Al kafirun helps muslims stay firm on true deen while resting at night.",
+              "Reciting surah kafirun before bed brings Barakah and Allah’s help in the home."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah Kafirun",
+            "description": "Reciting surah kafirun before going to bed keeps your Iman strong and your heart safe, making your night full of Barakah and helping you sleep with the peace of tawheed, as the Prophet did every night.",
+            "points": [
+              "After your night salah, read surah kafirun as a dua before sleep for Barakah.",
+              "When you lay down in bed, recite qul ya ayyuhal kafirun for a peaceful heart.",
+              "If you feel weak in Iman, use surah kafirun english translation for strength.",
+              "Before closing your eyes, make dua with lakum dinukum waliyadin for protection.",
+              "When you want to follow sunnah, say surah kafirun transliteration for a restful night."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Going to Bed (Surah Kafirun)",
+            "description": "Reciting surah kafirun before going to bed is a strong sunnah that brings peace and keeps your Iman safe from shirk. This sleeping dua helps you end your day with pure tawheed and trust in Allah.",
+            "steps": [
+              "Start by saying bismillah, then calmly read surah kafirun arabic or surah kafirun transliteration.",
+              "Recite qul ya ayyuhal kafirun with full belief in lakum dinukum waliyadin meaning.",
+              "After reading surah kafirun english translation, ask Allah to keep your heart firm on Islam.",
+              "Blow softly over yourself after finishing this dua before sleep for Allah’s protection.",
+              "End your night with a short zikr allah or any masnoon dua to get Barakah and restful sleep."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 119,
+          "title": "Dua Before Sleeping at Night (Surah Ikhlas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+          "audio": "/audio/dua/119.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem (1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+          "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas 112: 1-4)\n\nThe Prophet (ﷺ) said to his companions: Can't you recite one-third of the Qur'an at night? The matter seemed difficult to them. They said: O Messenger of Allah (ﷺ), who among us can do that? Then he said: \"Qul Huallahu Ahad\" Surah is one third of the Qur'an.",
+          "reference": "Sahih Muslim: 811",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالَ زُهَيْرٌ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي الدَّرْدَاءِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ أَيَعْجِزُ أَحَدُكُمْ أَنْ يَقْرَأَ فِي لَيْلَةٍ ثُلُثَ الْقُرْآنِ ‏\" قَالُوا : وَكَيْفَ يَقْرَأْ ثُلُثَ الْقُرْآنِ ؟ قَالَ : \" قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ \" ‏.‏",
+            "translation": "Abu Darda' reported Allah's Apostle (ﷺ) as saying: Is any one of you incapable of reciting a third of the Qur'an in a night? They (the Companions) asked: How could one recite a third of the Qur'an (in a night)? Upon this he (the Holy Prophet) said: \"'Say: He is Allah, One' (Qur'an. cxii) is equivalent to a third of the Qur'an.\" [Sahih Muslim: 811]"
+          },
+          "benefits": {
+            "title": "Benefits of Surah Ikhlas Before Sleeping at Night",
+            "description": "Let your heart feel safe before going to bed by saying surah ikhlas, a short but strong night dua that brings Allah’s love, Barakah, and peace to every muslim’s sleep.",
+            "points": [
+              "Qul huwallahu ahad keeps the heart close to Allah before sleep every night.",
+              "Allahu samad in surah ikhlas brings Barakah and safety to the sleeping dua.",
+              "Lam yalid walam yulad helps muslims remember Allah’s oneness and true deen.",
+              "Surah ikhlas before bed protects from harm and keeps iman strong till morning.",
+              "Reciting surah ikhlas at night brings Allah’s mercy and peace in the home."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah Ikhlas",
+            "description": "Reciting surah ikhlas before sleeping fills your night with Barakah and keeps your Iman strong, letting you rest with the peace of tawheed and Allah’s love, just like the Prophet did every night.",
+            "points": [
+              "After your night salah, read surah ikhlas as a dua before sleep for Barakah.",
+              "When you lay down in bed, recite qul huwallahu ahad for a calm and peaceful heart.",
+              "If you feel scared at night, use surah ikhlas arabic as your sleeping dua for safety.",
+              "Before closing your eyes, make dua with surah ikhlas transliteration for protection.",
+              "When you want to follow sunnah, say surah ikhlas english translation for a restful night."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Sleeping at Night (Surah Ikhlas)",
+            "description": "Reciting surah ikhlas before sleeping brings Barakah and keeps your Iman strong through the night. This sleeping dua is easy, short, and full of blessings for every Muslim who wants Allah’s love and care.",
+            "steps": [
+              "Begin with bismillah, then read surah ikhlas arabic or surah ikhlas transliteration calmly.",
+              "Recite qul huwallahu ahad and allahu samad with full heart, thinking of Allah’s Oneness.",
+              "After reading surah ikhlas english translation, ask Allah for mercy and peaceful sleep.",
+              "Blow gently over your body after finishing this dua before sleep for Allah’s protection.",
+              "End your night with a small zikr allah or any masnoon dua to get more Barakah and restful sleep."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 120,
+          "title": "3 Qul for Protection (Surah Ikhlas, Surah Falaq, Surah Nas)",
+          "category_tags": [],
+          "introduction": "Sura Ikhlas three times:",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+          "audio": "/audio/dua/120.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem (1) Qul HuwAllahu 'Ahad. (2) Allahus-Samad. (3) Lam yalid wa lam yoolad. (4) Wa lam yakun lahu kufuwan 'ahad",
+          "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\" (Sura Ikhlas 112: 1-4)\n\nSura Falaq three times:",
+          "reference": "Bukhari: 5017",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of 3 Qul for Protection",
+            "description": "Let your heart feel safe by saying the 3 qul for protection before going to bed, a strong set of surahs that keep Allah’s care, Barakah, and peace close to every muslim’s life.",
+            "points": [
+              "The three quls protect from evil eye, black magic, and hidden harm at night.",
+              "Surah ikhlas, surah falaq, and surah nas keep shayateen away from the home.",
+              "3 qul for protection brings Allah’s mercy and safety to muslims before sleep.",
+              "Qul huwallahu ahad in these surahs keeps iman strong and heart full of trust.",
+              "Reciting 3 qul before bed brings Barakah and peace to the whole family."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite 3 Qul for Protection",
+            "description": "Reciting the 3 qul for protection brings Allah’s help against harm, evil eye, and black magic, and gives peace to the heart, using surah ikhlas, surah falaq, and surah nas for daily safety.",
+            "points": [
+              "After every fard salah, read the 3 qul for protection to keep yourself safe from harm.",
+              "Before going to bed, recite surah ikhlas, surah falaq, and surah nas for evil eye protection.",
+              "When feeling scared or facing ruqyah for black magic, use the three quls for Allah’s help.",
+              "While walks on road or leaving home, recite the 3 qul in english for daily safety and Barakah.",
+              "If your child is afraid at night, softly read the 3 qul rumi as a dua for sleep and calmness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform 3 Qul for Protection",
+            "description": "Reciting the 3 qul for protection before going to bed keeps you safe from evil, black magic, and the evil eye. These surahs—surah ikhlas, surah falaq, and surah nas—are a strong shield for every Muslim.",
+            "steps": [
+              "Start with bismillah, then read surah ikhlas, surah falaq, and surah nas in order.",
+              "Recite each surah three times, thinking of Allah’s power to protect from all harm.",
+              "After finishing the three quls, blow gently over your body for full protection at night.",
+              "Ask Allah to save you from evil eye, black magic, and all bad things with this dua for protection.",
+              "End with a small zikr allah or any masnoon dua to get Barakah and peaceful sleep."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 121,
+          "title": "Surah to be Recited Before Going to Sleep (Hadith)",
+          "category_tags": [],
+          "introduction": "Jabir (RA) said, Rasulullah (ﷺ) would not sleep without reciting Surah Sajdah and Surah Mulk. [1] Ayesha (RA) said, \"The Messenger of Allah (ﷺ), would not sleep without reciting Surah Bani Isra'il and Surah Zumar.\" In another hadith, Ayesha (RA) said that the Prophet (ﷺ) used to recite Surah Sajdah and Surah Zumar every night. [2]",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "[1] Sahih (Albani). Tirmidhi: 3404 [2] Sahih (Albani). Tirmidhi: 2920",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 122,
+          "title": "Dua for Sleeping",
+          "category_tags": [],
+          "introduction": "Narrated by Hudhaifa (RA): When the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say:",
+          "arabic": "اَللَّهُمَّ بِاسْمِكَ أَمُوْتُ وَأَحْيَا",
+          "audio": "",
+          "transliteration": "Allaahumma bismika amutu wa a'h-yaa",
+          "translation": "O Allah, in Your Name I die and I live.",
+          "reference": "Bukhari: 6314",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ، عَنْ رِبْعِيٍّ، عَنْ حُذَيْفَةَ ـ رضى الله عنه قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَخَذَ مَضْجَعَهُ مِنَ اللَّيْلِ وَضَعَ يَدَهُ تَحْتَ خَدِّهِ ثُمَّ يَقُولُ ‏\"‏ اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا ‏\"‏‏.‏ وَإِذَا اسْتَيْقَظَ قَالَ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ ‏\"‏‏.‏",
+            "translation": "Narrated Hudhaifa: When the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say, \"Allahumma bismika amutu wa ahya,\" and when he got up, he would say, \"Al-Hamdu lil-lahi al-ladhi ahyana ba'da ma amatana, wa ilaihi an-nushur.\" [Bukhari: 6314]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Sleeping",
+            "description": "Let your heart rest easy by saying this dua for sleeping, trusting Allah to keep you safe and wake you up with His Barakah and mercy every night and morning.",
+            "points": [
+              "Allahumma bismika amutu wa ahya brings peace to the heart before going to bed.",
+              "Sone ki dua helps a Muslim sleep with full trust in Allah’s care and Rahmah.",
+              "Saying this sleeping dua in English keeps bad dreams and shaytan away at night.",
+              "Prayer before sleep in Islam gives Barakah in sleep and helps wake up for Fajr Salah.",
+              "Dua before sleeping reminds a Muslim of Allah’s power over life and death every night."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Sleeping",
+            "description": "This dua for sleeping, allahumma bismika amutu wa ahya, helps you trust Allah before bed, bringing peace and Barakah to your night and making your sleep a time of Iman and safety.",
+            "points": [
+              "Before going to bed, recite the dua for sleeping to remember Allah’s name.",
+              "When feeling restless at night, use allahumma bismika amutu wa ahya for calm sleep.",
+              "After finishing your night zikr Allah, softly say this sleeping dua in English for Barakah.",
+              "If you wake up in the night, repeat the dua before sleeping to find peace again.",
+              "When teaching kids sone ki dua, help them say bismika allahumma amutu wa ahya before sleep."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua for Sleeping",
+            "description": "This dua for sleeping is a simple masnoon dua that brings peace and Barakah before you rest. Saying allahumma bismika amutu wa ahya helps you remember Allah’s mercy and keeps your heart calm at night.",
+            "steps": [
+              "Start by making wudu if possible and sit on your bed with clean hands for this sleeping dua.",
+              "Recite allahumma bismika amutu wa ahya softly as you lay down to sleep at night.",
+              "Let your heart feel the meaning of this dua before sleeping and trust Allah’s care.",
+              "After saying this dua before bed, close your eyes and remember Allah’s blessings on you.",
+              "If you wake up in the night, repeat this dua to keep your Iman strong and sleep with peace."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 123,
+          "title": "Before Sleep Dua",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+          "audio": "",
+          "transliteration": "Bismika Allaahumma 'amootu wa 'ahyaa",
+          "translation": "In Your name O Allah, I live and die.\n\nHudhayfah (RA) said, \"If the Messenger of Allah (ﷺ) intended to sleep, he would recite this dhikr.”",
+          "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6324, Muslim 4/2083 no. 2711",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى، عَنِ الْبَرَاءِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَخَذَ مَضْجَعَهُ قَالَ ‏\"‏ اللَّهُمَّ بِاسْمِكَ أَحْيَا وَبِاسْمِكَ أَمُوتُ ‏\"‏ ‏.‏ وَإِذَا اسْتَيْقَظَ قَالَ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ ‏\"‏ ‏.‏",
+            "translation": "Al-Bara' reported that whenever Allah's Messenger (ﷺ) went to bed, he said: \" O Allah, it is with Thine Name that I live and it is with Thine Name that I die.\" And when he got up he used to say: \" Praise is due to Allah, Who gave us life after our death (sleep) and unto Thee is resurrection.\" Sahih Muslim 2711 [Al-Bukhari, Fathul Bari 11/113 no. 6324, Muslim 4/2083 no. 2711]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Sleep",
+            "description": "Let your mind and body rest by saying this dua for sleep, trusting Allah to give you a peaceful night and wake you up with His mercy and Barakah every morning.",
+            "points": [
+              "Bismika allahumma amutu wa ahya keeps a Muslim safe from harm during the night.",
+              "Dua before sleeping helps the heart remember Allah’s power before going to bed.",
+              "Sleep dua in Islam brings calmness and makes sleep easy for those who say it.",
+              "Prayer before sleeping in Islam gives Barakah in rest and helps wake up for Fajr Salah.",
+              "Night dua reminds a Muslim that life and death are always in Allah’s hands."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Sleep",
+            "description": "This dua for sleep, bismika allahumma amutu wa ahya, brings peace and Barakah to your night, helping you trust Allah and rest your heart before sleeping, making your night full of Iman and safety.",
+            "points": [
+              "Before lying down at night, recite the dua for sleep to remember Allah’s name.",
+              "When feeling tired after a long day, softly say bismika allahumma amutu wa ahya for rest.",
+              "After your night zikr Allah, use this sleeping dua in Arabic to ask for good sleep.",
+              "If you wake up from a bad dream, repeat the dua before sleeping for calmness.",
+              "When teaching children prayer before sleeping, help them say this dua for sleep easily."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua for Sleep",
+            "description": "This dua for sleep is a peaceful masnoon dua that helps you end your day with zikr Allah. Saying bismika allahumma amutu wa ahya brings calmness and makes your night full of Barakah and safety.",
+            "steps": [
+              "Make sure your bed is clean and sit for a moment to remember this dua before sleeping.",
+              "As you lay down, quietly recite bismika allahumma amutu wa ahya with full Iman.",
+              "Let your heart feel close to Allah while saying this sleeping dua and trust His mercy.",
+              "After finishing the dua for sleep, close your eyes and think of Allah’s blessings on you.",
+              "If you wake up at night, softly repeat this dua to keep your heart calm and sleep easy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 124,
+          "title": "Dua for Going to Sleep",
+          "category_tags": [],
+          "introduction": "Narrated Abdullah ibn Umar (RA): When the Messenger of Allah (ﷺ) went to his bed, he would say:",
+          "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِى كَفَانِى وَآوَانِى وَأَطْعَمَنِى وَسَقَانِى وَالَّذِى مَنَّ عَلَىَّ فَأَفْضَلَ وَالَّذِى أَعْطَانِى فَأَجْزَلَ اَلْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ، اَللَّهُمَّ رَبَّ كُلِّ شَىْءٍ وَمَلِيْكَهُ وَإِلَهَ كُلِّ شَىْءٍ أَعُوْذُ بِكَ مِنَ النَّارِ",
+          "audio": "",
+          "transliteration": "Alhamdu lillaahil-ladhi kafaani wa aa'wani wa at'amani wa saqaani wal-ladhi manna alayya fa-afdala wal-ladhi a'taani fa-ajzala alhamdu-lillaahi alaa kulli hal, Allaahumma rabba kulli shayin wa malikahu wa ilaaha kulli shayin A‛oodhu bika minan naar",
+          "translation": "Praise be to Allah Who has given me sufficiency, has guarded me, given me food and drink, been most gracious to me, and given to me most lavishly. Praise be to Allah in every circumstance. O Allah! Lord and King of everything, God of everything, I seek refuge in Thee from Hell.",
+          "reference": "Sahih (Albani). Abu Dawud: 5058",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ حَدَّثَنِي أَبِي، حَدَّثَنَا حُسَيْنٌ، عَنِ ابْنِ بُرَيْدَةَ، عَنِ ابْنِ عُمَرَ، أَنَّهُ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ إِذَا أَخَذَ مَضْجَعَهُ ‏ \"‏ الْحَمْدُ لِلَّهِ الَّذِي كَفَانِي وَآوَانِي وَأَطْعَمَنِي وَسَقَانِي وَالَّذِي مَنَّ عَلَىَّ فَأَفْضَلَ وَالَّذِي أَعْطَانِي فَأَجْزَلَ الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ اللَّهُمَّ رَبَّ كُلِّ شَىْءٍ وَمَلِيكَهُ وَإِلَهَ كُلِّ شَىْءٍ أَعُوذُ بِكَ مِنَ النَّارِ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Abdullah ibn Umar: When the Messenger of Allah (ﷺ) went to his bed, he would say: Praise be to Allah Who has given me sufficiency, has guarded me, given me food and drink, been most gracious to me, and given to me most lavishly. Praise be to Allah in every circumstance. O Allah! Lord and King of everything, God of everything, I seek refuge in Thee from Hell. [Sahih (Albani). Abu Dawud: 5058]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Going to Sleep",
+            "description": "Show thanks to Allah with this dua for going to sleep, remembering His gifts and asking for His protection and mercy before you rest at night.",
+            "points": [
+              "Alhamdulillah ala kulli hal fills the heart with shukr for every blessing from Allah.",
+              "Dua for going to sleep helps a Muslim remember Allah’s care and Rizq before bed.",
+              "Saying this prayer for gratitude keeps the mind calm and free from worry at night.",
+              "Asking Allah for protection in this night dua saves from Jahannam and brings peace.",
+              "Praise be to Allah in this dua brings Barakah and keeps Iman strong in every state."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Going to Sleep",
+            "description": "This dua for going to sleep, alhamdulillah ala kulli hal, fills your heart with thanks to Allah for His gifts, food, and safety, and asks for protection from Jahannam before you rest at night.",
+            "points": [
+              "Before going to bed, recite the dua for going to sleep to thank Allah for everything.",
+              "After finishing your night meal, use alhamdulillah ala kulli hal as a prayer for gratitude.",
+              "When feeling worried or scared, softly say this dua for protection in Islam before sleeping.",
+              "After a hard day, remember Allah’s gifts by reading this night dua for thanking Allah.",
+              "If you want to teach kids about shukr, help them say this dua for the night before sleep."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua for Going to Sleep",
+            "description": "This dua for going to sleep is a beautiful way to thank Allah for His gifts and ask for His safety. Saying alhamdulillah ala kulli hal fills your heart with shukr and keeps you safe through the night.",
+            "steps": [
+              "Wash your hands and face before bed, then sit quietly to remember this dua for going to sleep.",
+              "Recite alhamdulillah ala kulli hal with a thankful heart for all that Allah has given you.",
+              "Think about Allah’s kindness and say this prayer for gratitude before closing your eyes.",
+              "Ask Allah for protection from Jahannam as you finish this night dua and rest your head.",
+              "If you wake up at night, whisper this dua for thanking Allah and feel His care around you."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 125,
+          "title": "Dua to Go to Sleep",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
+          "audio": "",
+          "transliteration": "Allaahumma 'innaka khalaqta nafsee wa 'Anta tawaffaahaa, laka mamaatuhaa wa mahyaahaa, 'in 'ahyaytahaa fa’hfadhhaa, wa 'in 'amattahaa faghfir lahaa. Allaahumma 'innee 'as'alukal-'aafiyah",
+          "translation": "O Allah, verily You have created my soul and You shall take it's life, to You belong it's life and death. If You keep my soul alive then protect it, and if You take it's life then forgive it. O Allah, I ask You to grant me good health.",
+          "reference": "Muslim: 2712",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْعَمِّيُّ، وَأَبُو بَكْرِ بْنُ نَافِعٍ قَالاَ حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ خَالِدٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الْحَارِثِ، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ أَمَرَ رَجُلاً إِذَا أَخَذَ مَضْجَعَهُ قَالَ ‏ \"‏ اللَّهُمَّ خَلَقْتَ نَفْسِي وَأَنْتَ تَوَفَّاهَا لَكَ مَمَاتُهَا وَمَحْيَاهَا إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ ‏\" ‏ ‏.‏ فَقَالَ لَهُ رَجُلٌ أَسَمِعْتَ هَذَا مِنْ عُمَرَ فَقَالَ مِنْ خَيْرٍ مِنْ عُمَرَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ ابْنُ نَافِعٍ فِي رِوَايَتِهِ عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ ‏.‏ وَلَمْ يَذْكُرْ سَمِعْتُ ‏.‏",
+            "translation": "Abdullah b. 'Umar commanded a person that as he went to bed, he should say: \" O Allah, Thou created my being and it is for Thee to take it to its ultimate goal. And its death and life is due to Thee, and if Thou givest it life, safeguard it; and if Thou bringst death, grant it pardon. O Allah, I beg of Thee safety.\" A person said to him: Did you hear it from Umar? Thereupon he said: (I have heard from one) who is better than Umar, viz. from Allah's Messenger (ﷺ). Ibn Nafi, reported this on the authority of Abdullah b. Harith but he did not make mention of this\" that he heard it himself\". [Muslim: 2712]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua to Go to Sleep",
+            "description": "Trust Allah with your soul by making this dua to go to sleep, asking for His protection, forgiveness, and good health before you rest for the night.",
+            "points": [
+              "Allahumma inni as aluka in this dua to go to sleep brings safety for the soul.",
+              "Dua for protection at night keeps a Muslim safe from harm and evil till morning.",
+              "Asking Allah for forgiveness in this sleeping dua wipes away sins before sleep.",
+              "Prayer before sleeping helps a Muslim remember Allah’s power over life and death.",
+              "Dua for good health in this night dua brings Barakah and keeps the body strong."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua to Go to Sleep",
+            "description": "This dua to go to sleep, allahumma inni as aluka al afiyah, asks Allah for protection, forgiveness, and good health, making your night safe and your heart full of Iman before you rest.",
+            "points": [
+              "Before going to bed, recite the dua to go to sleep for Allah’s protection and care.",
+              "After your night zikr Allah, softly say this dua for forgiveness and safety before sleep.",
+              "When feeling weak or unwell, use allahumma inni as aluka as a night dua for good health.",
+              "If you wake up scared in the night, repeat this dua for sleeping to find calm and Barakah.",
+              "When teaching kids prayer before sleeping, help them say this dua for the night with trust."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua to Go to Sleep",
+            "description": "This dua to go to sleep is a strong masnoon dua that asks Allah for safety, forgiveness, and good health. Saying allahumma inni as aluka before bed brings peace and keeps your Iman safe through the night.",
+            "steps": [
+              "Make your bed neat and sit for a moment to remember this dua before sleeping.",
+              "Recite allahumma inni as aluka with a soft voice and trust Allah with your soul’s care.",
+              "Think about Allah’s power over life and death while saying this night dua for protection.",
+              "Ask for forgiveness and good health as you finish this dua for sleeping and close your eyes.",
+              "If you wake up in the night, quietly repeat this dua for protection and feel Allah’s mercy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 126,
+          "title": "Dua to Read Before Sleeping",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اِقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+          "audio": "",
+          "transliteration": "Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+          "translation": "O Allah You are the First and nothing has come before you, and You are the Last, and nothing may come after You. You are the Most High, nothing is above You and You are the Most Near and nothing is nearer than You. Remove our debts from us and enrich us against poverty.",
+          "reference": "Muslim: 2713",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، قَالَ كَانَ أَبُو صَالِحٍ يَأْمُرُنَا إِذَا أَرَادَ أَحَدُنَا أَنْ يَنَامَ أَنْ يَضْطَجِعَ عَلَى شِقِّهِ الأَيْمَنِ ثُمَّ يَقُولُ ‏ \"‏ اللَّهُمَّ رَبَّ السَّمَوَاتِ وَرَبَّ الأَرْضِ وَرَبَّ الْعَرْشِ الْعَظِيمِ رَبَّنَا وَرَبَّ كُلِّ شَىْءٍ فَالِقَ الْحَبِّ وَالنَّوَى وَمُنْزِلَ التَّوْرَاةِ وَالإِنْجِيلِ وَالْفُرْقَانِ أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَىْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ اللَّهُمَّ أَنْتَ الأَوَّلُ فَلَيْسَ قَبْلَكَ شَىْءٌ وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَىْءٌ وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَىْءٌ وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَىْءٌ اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ ‏\" ‏ ‏.‏ وَكَانَ يَرْوِي ذَلِكَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+            "translation": "Suhail reported that Abu Salih used to command us (in these words): When any one of you intends to go to sleep, he should lie on the bed on his right side and then say:\" O Allah. the Lord of the Heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord, and the Lord of evervthina, the Splitter of the grain of corn and the datestone (or fruit kernal), the Revealer of Torah and Injil (Bible) and Criterion (the Holy Qur'an), I seek refuge in Thee from the evil of every- thing Thou art to sieze by the forelock (Thou hast perfect control over it). O Allah, Thou art the First, there is naught before Thee, and Thou art the Last and there is naught after Thee, and Thou art Evident and there is nothing above Thee, and Thou art Innermost and there is nothing beyond Thee. Remove the burden of debt from us and relieve us from want.\" Abu Salih used to narrate it from Abu Huraira who narrated it from Allah's Apostle (ﷺ). [Muslim: 2713]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Sleeping",
+            "description": "Feel close to Allah by saying this dua before sleeping, trusting Him to remove your worries, debts, and give you Barakah and peace before you rest at night.",
+            "points": [
+              "Allahumma in this dua before sleeping reminds a Muslim of Allah’s greatness.",
+              "Dua for debt in this night dua helps clear worries about money and loans.",
+              "Asking Allah for wealth and rizq brings Barakah and keeps the heart free from need.",
+              "Sleeping dua makes a Muslim remember Allah is always near and never far away.",
+              "Prayer before going to sleep gives peace and hope for a better day ahead."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Sleeping",
+            "description": "This dua before sleeping is a strong night dua for every Muslim, asking Allah to clear debts, give Barakah in wealth, and protect the heart before bed with His closeness and mercy.",
+            "points": [
+              "At the time before going to bed, recite the dua before sleeping for Allah’s help.",
+              "After finishing your night zikr Allah, use this sleeping dua to ask for Barakah in rizq.",
+              "When feeling worried about debt, make this dua for debt and wealth before sleep.",
+              "If you want peace in your heart, read the night dua as your last prayer before sleeping.",
+              "On nights when money is tight, trust Allahumma with this dua for money and rizq before sleep."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua Before Sleeping",
+            "description": "This dua before sleeping is a strong masnoon dua that reminds you of Allah’s greatness and helps you ask for freedom from debt and poverty. Saying allahumma before bed brings Barakah and peace to your night.",
+            "steps": [
+              "Sit on your bed and take a moment to clear your mind before reading this night dua.",
+              "Recite allahumma with full belief, thinking of Allah as the First and the Last in your heart.",
+              "Ask Allah to remove your debts and make you free from need as you say this dua before sleeping.",
+              "Remember Allah’s nearness and power while you finish this dua for wealth and protection.",
+              "If you wake up at night, quietly repeat this dua for rizq and feel Allah’s help around you."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 127,
+          "title": "Dua to Say Before Sleeping",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَرَبَّ الْأَرْضِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ، وَالْفُرْقَانِ، أَعُوْذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ، اَللَّهُمَّ أَنْتَ الْأَوَّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ",
+          "audio": "",
+          "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa Rabbal ard, wa Rabbal-'Arshil-'Adheem, Rabbanaa wa Rabba kulli shay 'in, faaliqal-habbi wannawaa, wa munzilat-Tawraati wal-'Injeeli, wal-Furqaan, 'a'oodhu bika min sharri kulli shay 'in 'Anta 'aakhidhun binaasiyatihi. Allaahumma 'Antal-'Awwalu falaysa qablaka shay'un, wa 'Antal-'Aakhiru falaysa ba'daka shay'un, wa 'Antadh-Dhaahiru falaysa fawqaka shay'un, wa 'Antal-Baatinu falaysa doonaka shay'un, iqdhi 'annad-dayna wa 'aghninaa minal-faqr",
+          "translation": "O Allah, Lord of the seven heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Towraat, the Injeel and the Furqaan, I take refuge in You from the evil of all things You shall seize by the forelock. O Allah, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are ath-Dhaahir so there is nothing above You and You are al-Baatin so there is nothing closer than You. Settle our debt for us and spare us from poverty.\n\nAbu Huraira (RA) reported that Allah's Messenger (ﷺ) used to command us that as we go to our bed, we should utter the words (as mentioned above). In another narration, he said that when Fatima (RA) asked him for a khadima, he then taught the dua.",
+          "reference": "Muslim: 2713, Sahih (Albani). Tirmidhi: 3481",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، قَالَ كَانَ أَبُو صَالِحٍ يَأْمُرُنَا إِذَا أَرَادَ أَحَدُنَا أَنْ يَنَامَ أَنْ يَضْطَجِعَ عَلَى شِقِّهِ الأَيْمَنِ ثُمَّ يَقُولُ ‏ \"‏ اللَّهُمَّ رَبَّ السَّمَوَاتِ وَرَبَّ الأَرْضِ وَرَبَّ الْعَرْشِ الْعَظِيمِ رَبَّنَا وَرَبَّ كُلِّ شَىْءٍ فَالِقَ الْحَبِّ وَالنَّوَى وَمُنْزِلَ التَّوْرَاةِ وَالإِنْجِيلِ وَالْفُرْقَانِ أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَىْءٍ أَنْتَ آخِذٌ بِنَاصِيَتِهِ اللَّهُمَّ أَنْتَ الأَوَّلُ فَلَيْسَ قَبْلَكَ شَىْءٌ وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَىْءٌ وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَىْءٌ وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَىْءٌ اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ ‏\" ‏ ‏.‏ وَكَانَ يَرْوِي ذَلِكَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+            "translation": "Suhail reported that Abu Salih used to command us (in these words): When any one of you intends to go to sleep, he should lie on the bed on his right side and then say:\" O Allah. the Lord of the Heavens and the Lord of the Earth and Lord of the Magnificent Throne, our Lord, and the Lord of evervthina, the Splitter of the grain of corn and the datestone (or fruit kernal), the Revealer of Torah and Injil (Bible) and Criterion (the Holy Qur'an), I seek refuge in Thee from the evil of every- thing Thou art to sieze by the forelock (Thou hast perfect control over it). O Allah, Thou art the First, there is naught before Thee, and Thou art the Last and there is naught after Thee, and Thou art Evident and there is nothing above Thee, and Thou art Innermost and there is nothing beyond Thee. Remove the burden of debt from us and relieve us from want.\" Abu Salih used to narrate it from Abu Huraira who narrated it from Allah's Apostle (ﷺ). [Muslim: 2713, Sahih (Albani). Tirmidhi: 3481]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua to Say Before Sleeping",
+            "description": "Let your heart rest easy by making this dua to say before sleeping, asking Allah for safety, help with debt, and peace in your night, trusting His power and mercy before going to bed.",
+            "points": [
+              "Allahumma in this dua before sleeping brings Barakah and calm to the heart.",
+              "Rabbana answers this sleeping dua by keeping evil and harm far from a Muslim.",
+              "Dua for debt in this prayer before sleeping helps with qarz and daily rizq.",
+              "Al Furqan and Injeel are remembered in this dua before bed, growing Iman.",
+              "Masnoon dua for the night gives peace and safety for sleep and next morning."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua To Say Before Sleeping",
+            "description": "This dua to say before sleeping is a strong night dua for every Muslim, asking Allah for protection from evil, Barakah in wealth, and help with debt, while remembering His power as Rabbana and the Revealer of Al Furqan.",
+            "points": [
+              "Before going to bed, read this dua to say before sleeping for Allah’s protection.",
+              "After your night zikr Allah, use this sleeping dua for safety from every evil thing.",
+              "When you feel scared or worried, trust this dua for protection from evil before sleep.",
+              "If you have debt or need Barakah, make this dua for debt and wealth before sleeping.",
+              "On nights when you want peace, recite the night dua for calmness and restful sleep."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua to Say Before Sleeping",
+            "description": "This dua to say before sleeping is a strong way to ask Allah for safety, help with debt, and peace before going to bed. It is a masnoon dua that brings Barakah and keeps you safe from evil every night.",
+            "steps": [
+              "Make wudu if you can, then sit on your bed and get your heart ready for zikr Allah.",
+              "Recite the dua before sleeping in Arabic, thinking about the meaning of allahumma and rabbana.",
+              "Ask Allah to protect you from evil and help you with debt as you say this sleeping dua.",
+              "After reading the dua for protection from evil, blow softly over yourself for peaceful sleep.",
+              "Try to say this dua before sleep every night to get Barakah and help from Allah with your needs."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 128,
+          "title": "Dua of Sleeping",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said: “When one of you becomes frightened during sleep, then let him say:",
+          "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ (التَّامَّاتِ) مِنْ غَضَبِهِ وَعِقَابِهِ وَ(مِنْ) شَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
+          "audio": "",
+          "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min ghadhabihi wa 'iqaabihi, wa (min) sharri 'ibaadihi, wa min hamazaatish-shayaateeni wa 'an yahduroon",
+          "translation": "I seek refuge in the Perfect Words of Allah from His anger and His punishment, from the evil of His slaves and from the taunts of devils and from their presence.",
+          "reference": "Hasan (Albani). Tirmidhi: 3528",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا فَزِعَ أَحَدُكُمْ فِي النَّوْمِ فَلْيَقُلْ أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونِ ‏.‏ فَإِنَّهَا لَنْ تَضُرَّهُ ‏\" ‏ ‏.‏ قَالَ وَكَانَ عَبْدُ اللَّهِ بْنُ عَمْرٍو يُلَقِّنُهَا مَنْ بَلَغَ مِنْ وَلَدِهِ وَمَنْ لَمْ يَبْلُغْ مِنْهُمْ كَتَبَهَا فِي صَكٍّ ثُمَّ عَلَّقَهَا فِي عُنُقِهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ `",
+            "translation": "Amr bin Shu`aib narrated from his father, from his grandfather, that the Messenger of Allah (ﷺ) said: “When one of you becomes frightened during sleep, then let him say: ‘I seek refuge in Allah’s Perfect Words from His anger, His punishment, and the evil of His creatures, from the whisperings of the Shayatin, and that they should come (A`ūdhu bikalimātillāhit-tāmmati min ghaḍabihī wa `iqābihī wa sharri `ibādih, wa min hamazātish-shayāṭīni wa an yaḥḍurūn).’ For verily, they shall not harm him.” He said: “So `Abdullah bin `Amr used to teach it to those of his children who attained maturity, and those of them who did not, he would write it on a sheet and then hang it around his neck.” [Hasan (Albani). Tirmidhi: 3528]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Sleeping",
+            "description": "This dua of sleeping helps a Muslim find peace and safety at night, asking Allah to protect from harm, shayateen, and His anger before going to bed with a calm heart.",
+            "points": [
+              "Audhubillah in this dua for protection keeps Allah’s anger and azaab away.",
+              "Masnoon dua of sleeping guards from shayateen and their evil tricks at night.",
+              "Protection dua before sleeping saves from harm by people and hidden danger.",
+              "Zikr Allah with this night dua brings peace and safety for the whole sleep.",
+              "Islamic dua for sleep helps Muslims rest easy and wake up with strong Iman."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua of Sleeping",
+            "description": "This dua of sleeping is a strong protection dua for every Muslim, asking Allah to keep you safe from His anger, evil of people, and shayateen, so you can rest with peace and Barakah at night.",
+            "points": [
+              "Before going to sleep, recite the dua of sleeping for Allah’s full protection.",
+              "After your last prayer before sleeping, use this dua for sleep to guard your heart.",
+              "When feeling scared at night, trust this protection dua to keep shayateen away.",
+              "If you want peace from bad dreams, make this night dua for the night before bed.",
+              "On nights with worry, say audhubillah and this dua for protection from all harm."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua of Sleeping",
+            "description": "This dua of sleeping is a simple way to ask Allah for safety from harm, evil, and the tricks of shayateen before going to bed. It is a masnoon dua that brings peace and helps you sleep with a calm heart every night.",
+            "steps": [
+              "Wash your hands and face, then sit on your bed ready to say this dua for sleep.",
+              "Recite the dua of sleeping in Arabic, thinking about the words audhubillah and protection.",
+              "Ask Allah to keep you safe from His anger, punishment, and the evil of His slaves.",
+              "After saying this protection dua, blow gently over yourself for a peaceful night.",
+              "Try to make this night dua a habit before going to bed to get Barakah and calm sleep."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 129,
+          "title": "Dua of Sleep",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+          "audio": "",
+          "transliteration": "Bismika Rabbee wada'tu janbee, wa bika 'arfa'uhu, fa'in 'amsakta nafsee far’hamhaa, wa 'in 'arsaltahaa fa’hfadh haa, bimaa ta’hfadhu bihi 'ibaadakas-saaliheen",
+          "translation": "In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.\n\nNarrated by Abu Huraira (RA): The Prophet (ﷺ) said, When anyone of you go to bed, he should shake out his bed with the inside of his waist sheet, for he does not know what has come on to it after him, and then he should say: (The dua is mentioned above)",
+          "reference": "Al-Bukhari 11/126 no. 6320, Muslim 4/2084 no.2714",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ الْمَقْبُرِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِذَا أَوَى أَحَدُكُمْ إِلَى فِرَاشِهِ فَلْيَنْفُضْ فِرَاشَهُ بِدَاخِلَةِ إِزَارِهِ، فَإِنَّهُ لاَ يَدْرِي مَا خَلَفَهُ عَلَيْهِ، ثُمَّ يَقُولُ بِاسْمِكَ رَبِّ وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، إِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ ‏\"‏‏.‏ تَابَعَهُ أَبُو ضَمْرَةَ وَإِسْمَاعِيلُ بْنُ زَكَرِيَّاءَ عَنْ عُبَيْدِ اللَّهِ‏.‏ وَقَالَ يَحْيَى وَبِشْرٌ عَنْ عُبَيْدِ اللَّهِ عَنْ سَعِيدٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَرَوَاهُ مَالِكٌ وَابْنُ عَجْلاَنَ عَنْ سَعِيدٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+            "translation": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"When anyone of you go to bed, he should shake out his bed with the inside of his waist sheet, for he does not know what has come on to it after him, and then he should say: 'Bismika Rabbi Wada`tu Janbi wa bika arfa'uhu, In amsakta nafsi farhamha wa in arsaltaha fahfazha bima tahfazu bihi ibadakas-salihin.\" Sahih al-Bukhari 6320 [Al-Bukhari 11/126 no. 6320, Muslim 4/2084 no.2714]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Sleep",
+            "description": "This dua of sleep lets a Muslim trust Allah with their soul before going to bed, asking for His mercy and care, just like He gives to His good servants every night.",
+            "points": [
+              "Bismika rabbi in this sleeping dua brings peace and safety to the heart.",
+              "Dua before sleeping helps Allah’s mercy reach the soul if death comes at night.",
+              "Sone ki dua asks Allah to protect the soul like He guards His pious servants.",
+              "Masnoon dua for sleep gives a Muslim calm rest and a safe return in the morning.",
+              "Zikr Allah with this dua before sleep grows Iman and keeps shayateen away."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua of Sleep",
+            "description": "This dua of sleep is a gentle sleeping dua for every Muslim, asking Allah for mercy and protection before bed, trusting Him with your soul and waking up with Barakah like His righteous servants.",
+            "points": [
+              "Before going to bed, recite the dua of sleep bismika rabbi for Allah’s mercy.",
+              "After your last zikr Allah at night, use this sleeping dua for peaceful rest.",
+              "When feeling tired or weak, trust this dua before sleeping for good sleep and aman.",
+              "If you wake up in the night, remember bismika allahumma amutu wa ahya for Barakah.",
+              "On nights you want Allah’s care, make this dua before sleep for protection like the pious."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua of Sleep",
+            "description": "This dua of sleep is a peaceful way to trust Allah with your soul before going to bed, asking for His mercy and safety just like He gives to His good servants. It is a masnoon dua that brings calm and Barakah every night.",
+            "steps": [
+              "Lay down on your right side and softly say bismika rabbi before closing your eyes.",
+              "Recite the dua of sleep in Arabic, thinking about Allah’s mercy and His care for you.",
+              "Ask Allah to protect your soul and give you a safe night like His righteous servants.",
+              "After saying this sleeping dua, try to sleep with a clean heart and full trust in Allah.",
+              "Make this dua before sleeping a habit every night to get Barakah and peaceful rest."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 130,
+          "title": "Dua Before Going to Bed",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) would place his right hand under his cheek when about to sleep and supplicate:",
+          "arabic": "اَللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+          "audio": "",
+          "transliteration": "Allaahumma qinee 'adhaabaka yawma tab'athu 'ibaadak",
+          "translation": "O Allah, protect me from Your punishment on the day Your servants are resurrected.",
+          "reference": "Sahih (Albani). At-Tirmizi: 3398",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ بْنِ الْيَمَانِ، رضى الله عنهما أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ أَنْ يَنَامَ وَضَعَ يَدَهُ تَحْتَ رَأْسِهِ ثُمَّ قَالَ ‏ \"‏ اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَجْمَعُ عِبَادَكَ أَوْ تَبْعَثُ عِبَادَكَ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "translation": "Hudhaifah bin Al-Yaman (ra) narrated that: When the Prophet (ﷺ) would sleep, he would put his hand under his head then say: “O Allah, safeguard me from Your Punishment the Day You gather [Your slaves] (Allāhumma qinī `adhābaka yawma tajma`u [`ibādak])” or “you resurrect your slaves (tab`athu `ibādak).” Jami` at-Tirmidhi 3398 [Sahih (Albani). At-Tirmizi: 3398]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Going to Bed",
+            "description": "This dua before going to bed helps a Muslim ask Allah for safety from His punishment on the Day of Qiyamah, bringing peace and hope before sleep every night.",
+            "points": [
+              "Allahumma in this dua before sleep asks Allah to save from azaab in akhirah.",
+              "Sleeping dua brings hope for forgiveness and mercy on the day of resurrection.",
+              "Sone ki dua in English helps Muslims remember the Day of Judgement before bed.",
+              "Masnoon dua for the night keeps Iman strong and heart safe from fear of punishment.",
+              "Zikr Allah with this dua before sleeping brings calm and trust in Allah’s promise."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Going to Bed",
+            "description": "This dua before going to bed is a simple night dua for every Muslim, asking Allahumma for safety from His punishment on the Day of Qiyamah, bringing peace and Barakah before sleep.",
+            "points": [
+              "Before lying down at night, recite the dua before going to bed for Allah’s safety.",
+              "After your last prayer before sleeping, use this sleeping dua for protection from azaab.",
+              "When you feel scared of the hereafter, trust this dua before sleep for peace in heart.",
+              "If you want Allah’s mercy, make this dua for sleeping before bed for a safe night.",
+              "On nights you remember the Day of Judgment, say this night dua for forgiveness and aman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua Before Going to Bed",
+            "description": "This dua before going to bed is a short and strong way to ask Allah for safety from His punishment on the Day of Judgment. It is a masnoon dua that every Muslim should say for peace and Barakah before sleep.",
+            "steps": [
+              "Sit on your bed and get your heart ready for zikr Allah before you lay down to sleep.",
+              "Recite the dua before going to bed in Arabic, thinking about the word allahumma deeply.",
+              "Ask Allah to save you from His punishment on the day He will raise all His servants.",
+              "After saying this sleeping dua, close your eyes and trust Allah for a safe and calm night.",
+              "Try to make this dua for sleeping a daily habit to get Barakah and Allah’s mercy every night."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 131,
+          "title": "Dua to Sleep",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِيْ فَاغْفِرْ لِي ذَنْبِيْ",
+          "audio": "",
+          "transliteration": "Bismika Rabbi Wada`tu janbi, faghfir lee janbi",
+          "translation": "O my Lord, I have slept in your name. You forgive my sins.\n\nAbdullah Ibn Amr (RA) said that the Prophet (ﷺ) used to say the above dua when he was lying in bed to sleep.",
+          "reference": "Hasan (Shuaib al-Arnait). Musnad Ahmad: 6620",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua to Sleep",
+            "description": "This dua to sleep lets a Muslim ask Allah for forgiveness and peace before going to bed, trusting His mercy and kindness every night with a simple heart.",
+            "points": [
+              "Bismika Rabbi in this sleeping dua brings Allah’s mercy close to the heart.",
+              "My Lord, forgive me Allah in this dua helps wipe away daily sins before sleep.",
+              "Astaghfirullah in this dua for sleep grows Iman and hope for Allah’s maghfirah.",
+              "Masnoon dua before sleeping gives a Muslim calm rest and a clean heart at night.",
+              "Zikr Allah with this night dua keeps the soul safe and brings Barakah to sleep."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua to Sleep",
+            "description": "This dua to sleep is a simple way to ask Allah for forgiveness and Barakah before you rest, bringing peace to your heart and reminding you to trust your Lord with every night’s sleep.",
+            "points": [
+              "Before going to bed, use the dua to sleep and say Bismika Rabbi for forgiveness in Islam.",
+              "When feeling tired at night, remember to recite this sleeping dua and ask my Lord to forgive me Allah.",
+              "After finishing your night zikr Allah, whisper the dua before sleeping for Allah forgive me.",
+              "If you wake up in the middle of the night, quietly say Astaghfirullah al azeem and repeat the dua for sleep.",
+              "When teaching kids about Islamic prayers, help them learn this dua for the night and say Bismillah ir rahman ir rahim."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua to Sleep",
+            "description": "This dua to sleep is a simple way to ask Allah for forgiveness and peace before you rest. It is a masnoon dua that brings Barakah and helps you sleep with a clean heart every night.",
+            "steps": [
+              "Lay down on your bed and softly say Bismika Rabbi with full trust in your Lord.",
+              "Recite the dua to sleep in Arabic, thinking about forgiveness and saying Astaghfirullah.",
+              "Ask Allah to forgive your sins and give you a peaceful night as you close your eyes.",
+              "After saying this night dua, try to sleep with a heart full of hope in Allah’s mercy.",
+              "Make this prayer before sleeping a daily habit to get Barakah and Allah’s forgiveness."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 132,
+          "title": "Sleeping Dua",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ",
+          "audio": "",
+          "transliteration": "Alhamdu lillaahil-ladhee 'at'amanaa wa saqaanaa, wa kafaanaa, wa 'aawaanaa, fakam mimman laa kaafiya lahu wa laa mu'wiya",
+          "translation": "All praise is for Allah, Who fed us and gave us drink, and Who is sufficient for us and has sheltered us, for how many have none to suffice them or shelter them.\n\nAnas (RA) said, Rasulullah (ﷺ) used to say this dua when he was lying in bed.",
+          "reference": "Muslim 4/2085 no. 2715",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَوَى إِلَى فِرَاشِهِ قَالَ ‏ \"‏ الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا فَكَمْ مِمَّنْ لاَ كَافِيَ لَهُ وَلاَ مُئْوِيَ ‏\"‏ ‏.‏",
+            "translation": "Anas reported Allah's Messenger (ﷺ) as saying: When you go to bed, say: \" Praise is due to Allah Who fed us, provided us drink, sufficed us and provided us with shelter, for many a people there is none to suffice and none to provide shelter.\" Sahih Muslim 2715 [Muslim 4/2085 no. 2715]"
+          },
+          "benefits": {
+            "title": "Benefits of Sleeping Dua",
+            "description": "This sleeping dua reminds us to thank Allah for food, water, shelter, and His care, filling our hearts with Alhamdulillah before sleep and teaching us to trust Allah’s mercy every night.",
+            "points": [
+              "All praise is for Allah, Who fed us and gave us drink, and Who is sufficient for us and has sheltered us, for how many have none to suffice them or shelter them.",
+              "Saying Alhamdulillah for everything brings night barakah and peace to the heart.",
+              "This masnoon dua helps Muslims remember Allah’s blessings before sleeping.",
+              "Reciting the sleeping dua teaches gratitude and trust in Allah’s care every night.",
+              "It is a way to thank Allah for food, drink, and shelter, which many people do not have."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Sleeping Dua",
+            "description": "This sleeping dua is best recited before going to bed to thank Allah for His blessings and mercy.",
+            "points": [
+              "Before going to bed, remember to recite the sleeping dua and say Alhamdulillah for everything.",
+              "After your last meal at night, whisper this dua for sleep and thank Allahu Akbar for His blessings.",
+              "When feeling safe in your home, use the night dua and praise be to Allah for shelter and care.",
+              "If you wake up in the night, quietly say Alhamdulillah rabbil alamin and repeat the prayer before sleeping.",
+              "While teaching children about Islamic prayers, help them learn this dua before sleeping and say Syukur Alhamdulillah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Sleeping Dua",
+            "description": "This sleeping dua is a beautiful way to thank Allah for His care and blessings before going to bed. Reciting it helps you remember Allah’s mercy and feel safe as you rest for the night.",
+            "steps": [
+              "Make wudu if possible, then sit on your bed and say the sleeping dua with Iman.",
+              "Recite All praise is due to Allah and thank Him for food, drink, and shelter.",
+              "Say Alhamdulillah for everything you have, and trust Allah will protect you at night.",
+              "Repeat this dua before sleeping to keep your heart full of shukr and get Barakah.",
+              "After finishing the prayer before sleeping, close your eyes and sleep with peace."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 133,
+          "title": "Duas Before Sleeping",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ رَبَّ كُلِّ شَيْءٍ وَمَلِيْكَهُ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ وَمِنْ شَرِّ الشَّيْطَانِ وَ شِرْكِهِ وَأَنْ أَقْتَرِفَ عَلَى نَفْسِيْ سُوءًا، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+          "audio": "",
+          "transliteration": "Allaahumma 'Aalimal-ghaybi wash-shahaadati faatiras-samaawaati wal'ardh, Rabba kulli shay 'in wa maleekahu, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'a'oodhu bika min sharri nafsee, wa min sharrish-shaytaani wa shirkihi, wa 'an 'aqtarifa 'alaa nafsee soo 'an, 'aw 'ajurrahu 'ilaa Muslim",
+          "translation": "O Allah, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.\n\nThe Prophet (ﷺ) taught this dua to be recited in the morning, evening and after bed.",
+          "reference": "Sahih (Albani). Tirmidhi: 3392",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ يَعْلَى بْنِ عَطَاءٍ، قَالَ سَمِعْتُ عَمْرَو بْنَ عَاصِمٍ الثَّقَفِيَّ، يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه قَالَ قَالَ أَبُو بَكْرٍ يَا رَسُولَ اللَّهِ مُرْنِي بِشَيْءٍ أَقُولُهُ إِذَا أَصْبَحْتُ وَإِذَا أَمْسَيْتُ قَالَ ‏ \"‏ قُلِ اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالأَرْضِ رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ قَالَ قُلْهُ إِذَا أَصْبَحْتَ وَإِذَا أَمْسَيْتَ وَإِذَا أَخَذْتَ مَضْجَعَكَ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "translation": "Abu Hurairah, may Allah be pleased with him, said: “Abu Bakr said: ‘O Messenger of Allah, command me with something that I may say when I reach morning and evening.’ He said: ‘Say: “O Allah Knower of the Unseen and the Seen, Originator of the heavens and the earth, Lord of everything and its Possessor, I bear witness that there is none worthy of worship except You, I seek refuge from You from the evil of my soul and from the evil of Shaitan and his Shirk (Allāhumma `ālimal-ghaibi wash-shahādati fāṭiras-samāwāti wal-arḍ, rabba kulli shai’in wa malīkahu, ash-hadu an lā ilāha illā anta, a`ūdhu bika min sharri nafsī wa min sharrish-shaiṭāni washirkihi).’” He said: ‘Say it when you reach morning, and evening, and when you go to bed.’” [Sahih (Albani). Tirmidhi: 3392]"
+          },
+          "benefits": {
+            "title": "Benefits of Duas Before Sleeping",
+            "description": "These duas before sleeping help protect your Iman and heart from harm, reminding you to trust Allah, seek His help, and keep away from shaytan’s tricks every night before you rest.",
+            "points": [
+              "O Allah, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things.",
+              "La ilaha illa anta brings safety and peace before sleeping.",
+              "Seeking refuge in Allah protects from the evil of the soul and shaytan.",
+              "Reciting this dua helps avoid harm to oneself and other Muslims.",
+              "This masnoon dua brings night barakah and keeps the heart clean."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Duas Before Sleeping",
+            "description": "These duas before sleeping are best recited before going to bed to seek Allah’s protection and peace.",
+            "points": [
+              "Before going to bed, recite the duas before sleeping and say La ilaha illa anta for safety.",
+              "After your last prayer at night, whisper this dua before sleeping and ask O Allah for protection.",
+              "When feeling scared or worried, use the night dua and call Ya Allah to keep shaytan away.",
+              "If you wake up from a bad dream, quietly say Allahuma and repeat the dua for sleep for peace.",
+              "While teaching kids about Islamic prayers, help them learn this dua for the night and say Subhanallah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Duas Before Sleeping",
+            "description": "Reciting duas before sleeping brings peace to your heart and keeps you safe from harm. These Islamic duas help you remember Allah’s power and mercy as you end your day and rest at night.",
+            "steps": [
+              "Sit on your bed, think of Allah’s greatness, and start with Bismillah before the dua.",
+              "Say O Allah, La ilaha illa anta, and ask for safety from your own mistakes and shaytan.",
+              "Recite this dua before sleeping to protect yourself and other Muslims from harm.",
+              "After reading the night dua, trust Allahu Akbar will keep you safe till morning.",
+              "End with Alhamdulillah and close your eyes, feeling peace from this Muslim prayer."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 134,
+          "title": "Duas Before Sleep",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ مَا ذَرَأَ فِي الْأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+          "audio": "",
+          "transliteration": "A‛oodhu bikalima-tillahit taamma-tillati la-yujawizuhunna barrun wala-fa-jirun, min sharri ma- khalaqa wa bara-aa wa dhara-aa, wa min sharri ma yanzilu minas sama-yi wa min Sharhri Ma Ya’ruju fi-haa, Wa Min sharri maa dhara-a fil ardhi,Wa Min sharri Ma Ya'khruju Minhha-, Wa Min sharri Fitanillali Wan Naha-ri, Wa Min sharri Kulli Ta-Riqin Illa- Tariqan Yatruqu Bikhairin Ya-Rahmaan",
+          "translation": "I seek refuge in the perfect words of Allah, which no virtuous person or sinner can overcome, from the evil of what He has created, created and spread, from the evil of that which descends from heaven, from the evil of that which ascends to heaven. From the evil of whatever is scattered in the earth, from the evil of whatever comes out of the earth, from the evil of the fitnah of night and day, and from the evil of all strangers, except the one who comes with goodness, O Most Merciful.\n\nAbdur Rahman Ibn Khanbash (RA) said, \"One night the devil jinn came forward to attack the Prophet (ﷺ) in the desert with fire. Then Jibriel (As) came and taught him this dua. As soon as the dua is recited, the fire of the devils is extinguished and they flee.”",
+          "reference": "Sahih (Arnaut). Ahmed: 15499",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Duas Before Sleep",
+            "description": "These duas before sleep help you ask Allah the most merciful for safety from harm, fitnah, and all evil, filling your heart with peace and trust in Ar Rahman every night before you rest.",
+            "points": [
+              "I seek refuge in the perfect words of Allah, which no virtuous person or sinner can overcome.",
+              "This dua protects from the evil of what Allah has created and from the fitnah of night and day.",
+              "Reciting this dua brings peace and safety from harm and evil.",
+              "Ya Rahman brings barakah and keeps the heart safe every night.",
+              "This masnoon dua is a strong shield for every Muslim before sleep."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Duas Before Sleep",
+            "description": "These duas before sleep are best recited before going to bed to seek Allah’s protection from harm and fitnah.",
+            "points": [
+              "Before going to bed, recite the duas before sleep and say I seek refuge in Allah for protection.",
+              "After your last zikr allah at night, whisper this dua before sleeping and call Ya Rahman Ya Rahim.",
+              "When feeling scared of the night, use the night dua and remember Allah the most merciful for safety.",
+              "If you hear strange sounds at night, quietly say Audhubillah and repeat the prayer before going to sleep.",
+              "While teaching children about Islamic prayers, help them learn this dua for the night and mention Surah Ar Rahman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Duas Before Sleep",
+            "description": "Reciting duas before sleep is a way to ask Allah the most merciful for safety from harm and evil. This night dua helps you feel safe and brings peace to your heart before you rest.",
+            "steps": [
+              "Sit or lay on your bed, then start with Bismillahir rahmanir rahim and focus on Allah.",
+              "Say I seek refuge in Allah using this dua before sleeping to keep away all evil things.",
+              "Recite the full duas before sleep, asking Ar Rahman to protect you from fitnah of night and day.",
+              "After finishing, trust that Allahu Akbar will keep you safe from harm till morning comes.",
+              "End with Subhanallah and close your eyes, feeling peace from this Muslim prayer."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 135,
+          "title": "Duas Before Bed",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ وَضَعْتُ جَنْبِى اَللَّهُمَّ اغْفِرْ لِي ذَنْبِيْ وَأَخْسِئْ شَيْطَانِيْ وَفُكَّ رِهَانِيْ وَاجْعَلْنِيْ فِي النَّدِىِّ الْأَعْلَى",
+          "audio": "",
+          "transliteration": "Bismillaahi wada‘tu janbi, Allahum-maghfir li dhanbi wa akhsi’ shaytaani wa fukka rihaani waj‘alni fi’n-nadiyyi al-a‘laa",
+          "translation": "In the name of Allah, I have laid down my side for Allah. O Allah! forgive my sin, drive away my devil, free me from my responsibility, and place me in the highest assembly.\n\nAbul Azhar Anmari (RA) said that the Prophet (ﷺ) used to say these words when he was lying in bed at night.",
+          "reference": "Sahih (Albani). Sunan Abu Dawud: 5054",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ، حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ ثَوْرٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ أَبِي الأَزْهَرِ الأَنْمَارِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَخَذَ مَضْجَعَهُ مِنَ اللَّيْلِ قَالَ ‏ \"‏ بِسْمِ اللَّهِ وَضَعْتُ جَنْبِي اللَّهُمَّ اغْفِرْ لِي ذَنْبِي وَأَخْسِئْ شَيْطَانِي وَفُكَّ رِهَانِي وَاجْعَلْنِي فِي النَّدِيِّ الأَعْلَى ‏\" ‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ أَبُو هَمَّامٍ الأَهْوَازِيُّ عَنْ ثَوْرٍ قَالَ أَبُو زُهَيْرٍ الأَنْمَارِيُّ ‏.‏",
+            "translation": "Narrated AbulAzhar al-Anmari: When the Messenger of Allah (ﷺ) went to his bed at night, he would say: in the name of Allah, I have laid down my side for Allah. O Allah! forgive me my sin, drive away my devil, free me from my responsibility, and place me in the highest assembly. Abu Dawud said: Abu Hammam al-Ahwazi transmitted it from Thawr. He mentioned Abu Zuhair al-Anmari (instead of Abu al-Azhar). [Sahih (Albani). Sunan Abu Dawud: 5054]"
+          },
+          "benefits": {
+            "title": "Benefits of Duas Before Bed",
+            "description": "These duas before bed help you ask Allah for forgiveness, Barakah, and safety from shaytan, making your heart calm and your Iman strong before you sleep every night.",
+            "points": [
+              "Bismillah and Allahumma bring peace and forgiveness before sleep.",
+              "This dua asks Allah to forgive sins and keep shaytan away from your night.",
+              "Reciting the dua before bed frees you from burden and brings hope.",
+              "Night dua brings barakah and helps you sleep with a clean heart.",
+              "This masnoon dua is a Sunnah and brings Iman closer to Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Duas Before Bed",
+            "description": "These duas before bed are best recited before laying down to sleep, asking Allah for forgiveness and protection.",
+            "points": [
+              "Before laying down, recite the duas before bed and say bismillah for a peaceful sleep.",
+              "After your last Muslim prayer before sleep, whisper this sleeping dua and ask Allahumma for forgiveness.",
+              "When feeling heavy with worries, use the dua before sleeping and pray Allah frees you from burden.",
+              "If you wake up in the night, quietly say dua for sleeping and ask Allah to protect you from shaytan.",
+              "While teaching kids about Islamic prayers, help them learn this dua before bed and say dua for the night."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Duas Before Bed",
+            "description": "Saying duas before bed helps you sleep with a clean heart and trust in Allah’s mercy. This Muslim prayer before sleep brings forgiveness, safety, and hope for a good night.",
+            "steps": [
+              "Lie down on your bed, say Bismillah, and get ready to read the duas before bed.",
+              "Ask Allahumma to forgive your sins and keep shaytan away from your sleep tonight.",
+              "Recite the dua before sleeping, asking Allah to free you from any burden or worry.",
+              "Pray to be placed in the highest assembly, hoping for Allah’s mercy and Barakah.",
+              "End your night dua with peace in your heart, trusting Allah will protect you till morning."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 136,
+          "title": "Dua Before Bed",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said, \"If you want to go to your bed, then perform ablution, lie on your right side and then supplicate:",
+          "arabic": "اَللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِيْ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+          "audio": "",
+          "transliteration": "Allaahumma 'aslamtu nafsee 'ilayka, wa fawwadhtu 'amree 'ilayka, wa wajjahtu wajhee 'ilayka, wa 'alja'tu dhahree 'ilayka, raghbatan wa rahbatan 'ilayka, laa maalja' wa laa manjaa minka 'illaa 'ilayka, 'aamantu bikitaabikal-ladhee 'anzalta wa bi-nabiyyikal-ladhee 'arsalta",
+          "translation": "O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You. Verily there is no refuge nor safe haven from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.\n\nThe Prophet (ﷺ) said to the person to whom he taught this Dua: If you die that night, you die on Fitrat, the religion of Islam.",
+          "reference": "Al-Bukhari, Fathul Bari 11/113 no. 6313, Muslim 4/2081 no. 2710",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لِعُثْمَانَ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ، عُثْمَانُ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، حَدَّثَنِي الْبَرَاءُ بْنُ عَازِبٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أَخَذْتَ مَضْجَعَكَ فَتَوَضَّأْ وُضُوءَكَ لِلصَّلاَةِ ثُمَّ اضْطَجِعْ عَلَى شِقِّكَ الأَيْمَنِ ثُمَّ قُلِ اللَّهُمَّ إِنِّي أَسْلَمْتُ وَجْهِي إِلَيْكَ وَفَوَّضْتُ أَمْرِي إِلَيْكَ وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ رَغْبَةً وَرَهْبَةً إِلَيْكَ لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ وَاجْعَلْهُنَّ مِنْ آخِرِ كَلاَمِكَ فَإِنْ مُتَّ مِنْ لَيْلَتِكَ مُتَّ وَأَنْتَ عَلَى الْفِطْرَةِ ‏\"‏ ‏.‏ قَالَ فَرَدَّدْتُهُنَّ لأَسْتَذْكِرَهُنَّ فَقُلْتُ آمَنْتُ بِرَسُولِكَ الَّذِي أَرْسَلْتَ قَالَ ‏\"‏ قُلْ آمَنْتُ بِنَبِيِّكَ الَّذِي أَرْسَلْتَ ‏\"‏ ‏.‏",
+            "translation": "Al-Bara' b. 'Azib reported that Allah's, Messenger (may peace be upon said: When you go to bed, perform ablution as is done for prayer; then lie down pn the right side and recite: \" O Allah, I turn my face towards Thee and entrust my affair to Thee. I retreat unto Thee for protection with hope in Thee and fear of Thee. There is no resort and no deliverer (from hardship) but Thou only. I affirm my faith in Thine books which Thou revealed and in Thine Apostles whom Thou sent.\" Make this as the last word of yours (when you go to sleep) and in case you die during that night, you would die upon Fitra (upon Islam). And as I repeated these words in order to commit them to memory, I said: \" I affirm my faith in Thy Messenger (Rasul) whom Thou sent.\" He said: Say: \" I affirm my faith in the Apostle (Nabi) whom Thou sent.\" Sahih Muslim 2710a [Al-Bukhari, Fathul Bari 11/113 no. 6313, Muslim 4/2081 no. 2710]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Bed",
+            "description": "This dua before bed is a strong shield for your heart and mind, helping you trust Allah, find peace, and ask for protection as you rest, following the Sunnah and building Iman every night.",
+            "points": [
+              "Allahumma aslamtu nafsi ilaika teaches full trust in Allah before sleep.",
+              "This dua helps you submit your soul and worries to Allah at night.",
+              "Reciting the dua before bed brings peace, protection, and Barakah.",
+              "It is a masnoon dua that builds Iman and hope for Allah’s mercy.",
+              "This night time dua reminds Muslims that only Allah can save and protect."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Bed",
+            "description": "This dua before bed is best recited before going to sleep to seek Allah’s protection and peace.",
+            "points": [
+              "Before going to bed, recite the dua before bed to seek Allah’s protection and peace.",
+              "After finishing your night time dua, use this dua before sleeping in Arabic for Barakah.",
+              "When feeling scared at night, read the dua for protection from dajjal and jahannam.",
+              "If you have worries about debt, make dua for debt and karz se nijat ki dua before sleep.",
+              "After your last salah, remember to say this Islamic dua for the night for a calm heart."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua Before Bed",
+            "description": "This dua before bed helps you give your worries to Allah and sleep with Iman and peace. It is a strong Muslim prayer that brings comfort and trust in Allah’s care every night.",
+            "steps": [
+              "Lie down, face the qiblah if you can, and start your dua before bed with Allahumma.",
+              "Say the dua before sleeping in Arabic, giving your soul and worries to Allah.",
+              "Recite with hope and fear, believing there is no safe place except with Allah’s help.",
+              "Mention your Iman in the Book and the Prophet, making your heart strong before sleep.",
+              "End your night time dua feeling safe, knowing Allah’s mercy will protect you till morning."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 137,
+          "title": "Going Around with the Intention of Pray Qiyam (Hadith)",
+          "category_tags": [],
+          "introduction": "One has to get up at night and go to sleep with a strong desire to perform tahajjud; It has been said in various hadiths that the reward of tahajjud will be obtained even if one does not wake up at night. It was narrated from Abu Ad-Darda' (RA) who attributed it to the Prophet (ﷺ): \"Whoever goes to his bed intending to get up and pray qiyam at night, then sleep overwhelms him until morning, will have recorded that which he intended for and his sleep will be a charity given to him by his Lord.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Hasan (Albani). Nasai: 1787",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "After waking up",
+      "category": "sleep",
+      "dua-ids": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "duas": [
+        {
+          "dua_id": 138,
+          "title": "Dua When Turning Over During the Night",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ",
+          "audio": "",
+          "transliteration": "Laa 'ilaaha 'illAllahul-Waahidul-Qahhaar, Rabbus-samaawaati wal'ardh, wa maa baynahumal-'Azeezul-Ghaffaar",
+          "translation": "There is none worthy of worship but Allah, the One, the Victorious, Lord of the heavens and the earth and all that is between them, the All-Mighty, the All-Forgiving.\n\nAaishah (RA) narrated that the Messenger of Allah (ﷺ) used to say at night if he turned during sleep: (the dua is mentioned above)",
+          "reference": "Sahih by Hakim. Imam Dhahabi 1/540; Nasai, Amalul Yaomi Wallayla No. 202, Ibnus sunni No. 757. Also see, Sahih Jame 4:213",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua When Turning Over During the Night",
+            "description": "This dua when turning over during the night helps you remember Allah’s greatness, brings Barakah to your sleep, and keeps your heart close to Iman even in the quietest hours.",
+            "points": [
+              "There is none worthy of worship but Allah, the One, the Victorious, Lord of the heavens and the earth and all that is between them, the All-Mighty, the All-Forgiving.",
+              "Reciting this dua brings Barakah and Iman even while turning in bed.",
+              "This masnoon dua helps keep the heart close to Allah at night.",
+              "It is a simple zikr Allah that brings peace and comfort during the night.",
+              "Saying this dua reminds Muslims of Allah’s power and mercy every moment."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua When Turning Over During the Night",
+            "description": "This dua is best recited whenever you turn over or wake up during the night to remember Allah and seek His Barakah.",
+            "points": [
+              "When you turn over in bed at night, recite this dua for good sleep and protection.",
+              "If you wake up suddenly, remember to say this sleeping dua in English for peace.",
+              "While feeling restless at night, use the dua for the night to calm your heart and mind.",
+              "After a bad dream, read this dua for protection and zikr Allah before sleeping again.",
+              "During any night time wake up, make this Islamic dua to keep your Iman strong."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua When Turning Over During the Night",
+            "description": "This dua of the night is a simple way to remember Allah when you wake up or turn over in bed. It brings Barakah and helps keep your Iman strong even in the quiet hours, making your heart feel close to Allah.",
+            "steps": [
+              "When you wake up or turn over in bed at night, softly recite this dua of the night.",
+              "If you feel scared or alone, say this dua for comfort and ask Allah for His mercy.",
+              "After saying the dua, try to remember Allah’s power and His forgiveness in your heart.",
+              "If you forget the words, use the transliteration to help you say the dua with Iman.",
+              "Before going back to sleep, trust Allah with your worries and hope for His Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 139,
+          "title": "Dua for Waking Up",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِي",
+          "audio": "",
+          "transliteration": "Laa 'illaaha 'illAllahu wa’hdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'alaa kulli shay'in Qadeer Subhaanallahi, walhamdu lillaahi, wa laa 'ilaaha 'illAllahu, wAllahu 'akbar, wa laa ‘hawla wa laa Quwwata 'illaa billaahil-'Aliyyil-'Adheem, Rabbighfir lee",
+          "translation": "None has the right to be worshipped except Allah, alone, without any partner, to Him belong sovereignty and praise and He is over all things wholly capable. How perfect Allah is, and all praise is for Allah, and none has the right to be worshipped except Allah, Allah is the greatest and there is no power nor might except with Allah, The Most High, The Supreme, O my Lord forgive me.\n\n‘Ubadah bin al-Samit (RA) reported the Messenger of Allah (ﷺ) as saying, “If anyone is alarmed while asleep and he says when awakes and he prays, his prayer will be answered. If he gets up, performs ablution, and prays, his prayer will be accepted.”",
+          "reference": "Sahih (Albani). Abu Dawud: 5060",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ، قَالَ قَالَ الأَوْزَاعِيُّ حَدَّثَنِي عُمَيْرُ بْنُ هَانِئٍ، قَالَ حَدَّثَنِي جُنَادَةُ بْنُ أَبِي أُمَيَّةَ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ تَعَارَّ مِنَ اللَّيْلِ فَقَالَ حِينَ يَسْتَيْقِظُ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ ثُمَّ دَعَا رَبِّ اغْفِرْ لِي ‏\"‏ ‏.‏ قَالَ الْوَلِيدُ أَوْ قَالَ ‏\"‏ دَعَا اسْتُجِيبَ لَهُ فَإِنْ قَامَ فَتَوَضَّأَ ثُمَّ صَلَّى قُبِلَتْ صَلاَتُهُ ‏\"‏ ‏.‏ ‘",
+            "translation": "Ubadah b. al-Samit reported the Messenger of Allah (May peace be upon him) as saying; If anyone is alarmed while asleep and he says when awakes : there is no god but Allah alone Who has no partner, to whom dominion belongs, to whom praise is due, and who has power over everything (omnipotent). Glory be to Allah, and praise be to Allah, and there is no god but Allah, and then he prays: O my Lord, forgive me. Abu Dawud said : Al-Walid’s version has; and he prays, his prayer will be answered. If he gets up, performs ablution, and prays, his prayer will be accepted. [Sahih (Albani). Abu Dawud: 5060]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Waking Up",
+            "description": "This dua for waking up fills your morning with Barakah, brings you closer to Allah, and helps you start your day with Iman, forgiveness, and the zikr of Allah on your tongue.",
+            "points": [
+              "Reciting this dua brings Barakah and forgiveness at the start of the day.",
+              "Saying Alhamdulillah, Allahu Akbar, and Subhanallah fills the heart with Iman.",
+              "This masnoon dua helps Muslims remember Allah’s power and mercy every morning.",
+              "It is a simple way to ask Allah for help and forgiveness after waking up.",
+              "Morning azkar with this dua brings strength and hope for the day ahead."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Waking Up",
+            "description": "This dua for waking up is best recited as soon as you open your eyes in the morning to thank Allah and start your day with zikr.",
+            "points": [
+              "Right after opening your eyes, recite the dua for waking up to thank Allah for life.",
+              "When you sit up in bed, use this waking up dua for forgiveness and a fresh start.",
+              "Before leaving your room, remember to say subhanallah walhamdulillah wala ilaha illallah wallahu akbar.",
+              "After fajr salah, make this morning dua to fill your heart with zikr of Allah and Barakah.",
+              "If you feel weak in the morning, repeat la hawla wala quwwata illa billah for strength and help."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua for Waking Up",
+            "description": "This dua for waking up is a beautiful way to start your day with the zikr of Allah. It brings Barakah, fills your heart with Iman, and reminds you of Allah’s power and mercy every morning.",
+            "steps": [
+              "As soon as your eyes open, quietly recite the dua for waking up before leaving your bed.",
+              "Let your tongue say Alhamdulillah, Allahu Akbar, Subhanallah, and la hawla wala quwwata illa billah.",
+              "While sitting up, remember the meaning of Alhamdulillah and Allahu Akbar in your heart.",
+              "Ask Allah for forgiveness by saying Astaghfirullah and make this your daily dhikr after waking up.",
+              "Before starting your day, reflect on the words of this morning dua and hope for Allah’s Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 140,
+          "title": "Dua on Waking Up",
+          "category_tags": [],
+          "introduction": "Waking up and performing ablution and reciting the last ten verses of Surah Ali-Imran:",
+          "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ ﴿١٩٠﴾ الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ ﴿١٩١﴾ رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ ﴿١٩٢﴾ رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ ﴿١٩٣﴾ رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ ﴿١٩٤﴾ فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّن بَعْضٍ ۖ فَالَّذِينَ هَاجَرُوا وَأُخْرِجُوا مِن دِيَارِهِمْ وَأُوذُوا فِي سَبِيلِي وَقَاتَلُوا وَقُتِلُوا لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ثَوَابًا مِّنْ عِندِ اللَّهِ ۗ وَاللَّهُ عِندَهُ حُسْنُ الثَّوَابِ ﴿١٩٥﴾ لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُوا فِي الْبِلَادِ ﴿١٩٦﴾ مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ ۚ وَبِئْسَ الْمِهَادُ ﴿١٩٧﴾ لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ اللَّهِ ۗ وَمَا عِندَ اللَّهِ خَيْرٌ لِّلْأَبْرَارِ ﴿١٩٨﴾ وَإِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَاشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا ۗ أُولَٰئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ ﴿١٩٩﴾ يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ ﴿٢٠٠﴾",
+          "audio": "",
+          "transliteration": "Inna fee khalqis-samaawaati wal-ardi wakhtilaafil-layli wan-nahaari la-aayaatil-li-ulil-albaab. Allazeena yazkuroonallaaha qiyaaman wa qu'oodan wa 'alaa junoobihim wa yatafakkaroona fee khalqis-samaawaati wal-ardi Rabbanaa maa khalaqta haazaa baatilan Subhaanaka faqinaa 'azaaban-Naar. Rabbanaa innaka man tudkhilin-Naara faqad akhzaitahoo wa maa lizzaalimeena min ansaar. Rabbanaa innanaa sami'naa munaadiyan yunaadee lil-eemaani an aaminoo bi-Rabbikum fa-aamannaa; Rabbanaa faghfir lanaa zunoobanaa wa kaffir 'annaa sayyi-aatinaa wa tawaffanaa ma'al-abraar. Rabbanaa wa aatinaa maa wa'adtanaa 'alaa rusulika wa laa tukhzinaa Yawmal-Qiyaamah; innaka laa tukhliful-mee'aad. Fastajaaba lahum Rabbuhum annee laaa udee'u 'amala 'aamilim-minkum min zakarin aw unthaa; ba'dukum min ba'd; fallazeena haajaroo wa ukhrijoo min diyaarihim wa oozoo fee sabeelee wa qaataloo wa qutiloo la-ukaffiranna 'anhum sayyi-aatihim wa la-udkhilannahum jannaatin tajree min tahtihal-anhaar; thawaaban min 'indillaah; wallaahu 'indahoo husnuth-thawaab. Laa yaghurrannaka taqallubul-lazeena kafaroo fil-bilaad. Mataa'un qaleelun thumma ma'waahum Jahannamu wa bi'sal-mihaad. Laakinil-lazeena-ttaqaw Rabbahum lahum jannaatun tajree min tahtihal-anhaaru khaalideena feehaa nuzulan min 'indillaah; wa maa 'indallaahi khairul-lil-abraar. Wa inna min Ahlil-Kitaabi laman yu'minu billaahi wa maaa unzila ilaikum wa maaa unzila ilaihim khaashi'eena lillaahi laa yashtaroona bi-aayaatillaahi thamanan qaleelaa; ulaaa'ika lahum ajruhum 'inda Rabbihim; innallaaha saree'ul-hisaab. Yaaa ayyuhal-lazeena aamanus-biroo wa saabiroo wa raabitoo wattaqullaaha la'allakum tuflihoon.",
+          "translation": "(190) Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding. (191) Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire. (192) Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers. (193) Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous. (194) Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\" (195) And their Lord responded to them, \"Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allah, and Allah has with Him the best reward.\" (196) Be not deceived by the [uninhibited] movement of the disbelievers throughout the land. (197) [It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place. (198) But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allah . And that which is with Allah is best for the righteous. (199) And indeed, among the People of the Scripture are those who believe in Allah and what was revealed to you and what was revealed to them, [being] humbly submissive to Allah . They do not exchange the verses of Allah for a small price. Those will have their reward with their Lord. Indeed, Allah is swift in account. (200) O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful. (Sura Al-Imran 3: 190-200)\n\nThen the Prophet (ﷺ) stood up and prayed two rak'ats; In that prayer he prolongs Qiyam, Rukoo and Sujood. After ending the prayer he fell asleep ....",
+          "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/237 no.4569; Muslim 1/530 no. 256",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ الرُّومِيِّ، حَدَّثَنَا النَّضْرُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عِكْرِمَةُ، - وَهُوَ ابْنُ عَمَّارٍ - حَدَّثَنَا يَحْيَى، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَزَالُونَ يَسْأَلُونَكَ يَا أَبَا هُرَيْرَةَ حَتَّى يَقُولُوا هَذَا اللَّهُ فَمَنْ خَلَقَ اللَّهَ ‏\"‏ قَالَ فَبَيْنَا أَنَا فِي الْمَسْجِدِ إِذْ جَاءَنِي نَاسٌ مِنَ الأَعْرَابِ فَقَالُوا يَا أَبَا هُرَيْرَةَ هَذَا اللَّهُ فَمَنْ خَلَقَ اللَّهَ قَالَ فَأَخَذَ حَصًى بِكَفِّهِ فَرَمَاهُمْ ثُمَّ قَالَ قُومُوا قُومُوا صَدَقَ خَلِيلِي ‏.‏",
+            "translation": "Abu Huraira reported: The Messenger of Allah (ﷺ) said to me: they (the people) till constantly ask you, Abu Huraira, (about different things pertaining to religion) the they would say: Well, there is Allah, but after all who created Allah? He (Abu Huraira) narrated: Once we were in the mosque that some of the Bedouins came there and said: Well, there is Allah, but who created Allah? He (the narrator) said: I took hold of the pebbles in my fist and flung at them and remarked: Stand up, stand up (go away) my friend (the Holy Prophet) told the truth. Sahih Muslim 135c [Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/237 no.4569; Muslim 1/530 no. 256]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua on Waking Up",
+            "description": "This dua on waking up from Surah Al Imran fills your morning with Iman, helps you remember Allah’s signs, and brings Barakah and forgiveness as you start your day with the last 10 verses of Surah Al Imran.",
+            "points": [
+              "Reciting the last 10 verses of Surah Al Imran brings Barakah and Iman in the morning.",
+              "This dua helps you remember Allah’s signs and mercy at the start of the day.",
+              "It is a masnoon dua that asks for forgiveness, Jannah, and Allah’s promise.",
+              "Reading these ayat after waking up fills the heart with hope and faith.",
+              "This dua helps Muslims start the day with zikr Allah and trust in His reward."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua On Waking Up",
+            "description": "This dua on waking up is best recited after opening your eyes at dawn to remember Allah’s signs and ask for forgiveness and Barakah.",
+            "points": [
+              "After opening your eyes at dawn, recite the dua on waking up from Surah Al Imran.",
+              "When you sit up before fajr, use the last 10 verses of Surah Al Imran for Barakah.",
+              "Before starting your morning namaz, read these rabbana dua for forgiveness and Iman.",
+              "If you want to remember Allah’s signs, recite Surah Al Imran 190-200 after waking up.",
+              "When feeling weak in faith, make this dua after waking up to renew your Iman and hope."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua on Waking Up",
+            "description": "Reciting the last 10 verses of Surah Al Imran as your dua on waking up fills your morning with Barakah and brings your heart close to Allah. These ayat remind you of Allah’s power and His mercy every day.",
+            "steps": [
+              "After your eyes open, start your day by reading the last 10 verses of Surah Al Imran.",
+              "While sitting up, think about the meaning of these ayat and say Alhamdulillah for another day.",
+              "If you feel sleepy, quietly recite the rabbana dua from these verses to wake up your Iman.",
+              "Before leaving your bed, ask Allah for forgiveness and hope for His Barakah in your Amal.",
+              "Try to make this dua on waking up a daily habit to keep your heart strong with zikr Allah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 141,
+          "title": "Dua After Waking Up",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُوْرُ",
+          "audio": "/audio/dua/141.mp3",
+          "transliteration": "Alhamdu lillaahil-ladhee 'ahyaanaa ba'da maa 'amaatanaa wa'ilayhin-nushoor",
+          "translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+          "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/113 no. 6314; Muslim 4/2083 no. 2711",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ، عَنْ رِبْعِيٍّ، عَنْ حُذَيْفَةَ ـ رضى الله عنه قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَخَذَ مَضْجَعَهُ مِنَ اللَّيْلِ وَضَعَ يَدَهُ تَحْتَ خَدِّهِ ثُمَّ يَقُولُ ‏\"‏ اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا ‏\"‏‏.‏ وَإِذَا اسْتَيْقَظَ قَالَ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ ‏\"‏‏.‏",
+            "translation": "Narrated Hudhaifa: When the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say, \"Allahumma bismika amutu wa ahya,\" and when he got up, he would say, \"Al-Hamdu lil-lahi al-ladhi ahyana ba'da ma amatana, wa ilaihi an-nushur.\" Sahih al-Bukhari 6314 [Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/113 no. 6314; Muslim 4/2083 no. 2711]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua After Waking Up",
+            "description": "This dua after waking up fills your heart with Alhamdulillah, brings Barakah to your morning, and reminds you of Allah’s mercy as you start a new day with Iman and hope for a good day ahead.",
+            "points": [
+              "Reciting this dua brings Barakah and gratitude at the start of the day.",
+              "Saying Alhamdulillah reminds Muslims that waking up is a gift from Allah.",
+              "This masnoon dua connects us to the idea of resurrection and Allah’s mercy.",
+              "It is a simple way to thank Allah for life and a new day every morning.",
+              "Morning azkar with this dua helps start the day with Iman and shukr."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Waking Up",
+            "description": "This dua after waking up is best recited as soon as you open your eyes in the morning to thank Allah for life and a new day.",
+            "points": [
+              "As soon as you open your eyes, recite the dua after waking up for a blessed start.",
+              "When you sit up in bed, use this morning dua to thank Allah for giving you life again.",
+              "Before leaving your room, remember this waking up dua for a good day and strong Iman.",
+              "After fajr prayer, make this daily dua to fill your morning with zikr Allah and Barakah.",
+              "If you feel sleepy or tired, repeat this dua in the morning for energy and a happy heart."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua After Waking Up",
+            "description": "This dua after waking up is a simple way to thank Allah for giving you life each morning. It brings Barakah to your day and helps you start with Iman and hope for Allah’s mercy and forgiveness.",
+            "steps": [
+              "When you open your eyes, quietly say the dua after waking up before leaving your bed.",
+              "While sitting up, let your heart feel the meaning of Alhamdulillah and thank Allah for a new day.",
+              "If you feel sleepy, softly repeat this morning dua to wake up your mind and remember Allah.",
+              "Before standing, ask Allah for a good day and make this daily prayer part of your morning azkar.",
+              "Try to say this dua every morning to keep your heart close to Allah and your Amal full of Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 142,
+          "title": "Dua For Waking Up For Fajr",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: when one of you wakes up, he should say:",
+          "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي عَافَانِيْ فِي جَسَدِيْ، وَرَدَّ عَلَيَّ رُوحِيْ، وَأَذِنَ لِي بِذِكْرِهِ",
+          "audio": "/audio/dua/142.mp3",
+          "transliteration": "Alhamdu lillaahil-ladhee 'aafaanee fee jasadee, wa radda 'alayya roo’hee, wa 'adhina lee bidhikrih",
+          "translation": "Praise is to Allah Who gave strength to my body and returned my soul to me and permitted me to remember Him.",
+          "reference": "At-Tirmithi 5/473. See Al-Albani's Sahih Tirmiihi 3/144",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "الحمدُ للهِ الذي عافاني في جَسَدي وَرَدّ عَليّ روحي وَأَذِنَ لي بِذِكْرِه",
+            "translation": "Al-ḥamdu lillāhil-ladhī `āfānī fī jasadī, wa radda `alayya rūḥī, wa 'adhina lī bidhikrihi. Praise is to Allah Who gave strength to my body and returned my soul to me and permitted me to remember Him. Reference: At-Tirmidhi 5/473. See Al-Albani's Sahih Tirmidhi 3/144. Hisn al-Muslim 3 [At-Tirmithi 5/473. See Al-Albani's Sahih Tirmiihi 3/144]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua For Waking Up For Fajr",
+            "description": "This dua for waking up for fajr fills your heart with shukr to Allah for giving you life, health, and the chance to remember Him at fajr time, bringing Barakah and strength to your day from the very start.",
+            "points": [
+              "Reciting this dua brings Barakah and health at the start of fajr.",
+              "Saying Alhamdulillah for strength and life helps start the day with Iman.",
+              "This masnoon dua reminds Muslims to thank Allah for the chance to remember Him.",
+              "It is a way to ask Allah for strength, forgiveness, and a good day ahead.",
+              "Morning azkar with this dua brings hope and Barakah for the whole day."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Waking Up For Fajr",
+            "description": "This dua for waking up for fajr is best recited as soon as you wake up for fajr to thank Allah for health, life, and the chance to remember Him.",
+            "points": [
+              "Right after your eyes open for fajr, recite the dua for waking up for fajr to thank Allah.",
+              "Before making wudu for fajr namaz, remember this fajr dua for health and strength.",
+              "When you sit up in bed at fajr time, say Alhamdulillah with this dua for waking up.",
+              "After hearing the adhan for fajar prayer, use this dua for strength and Barakah in your day.",
+              "If you feel weak or tired at morning wake up, recite this dua for waking up for fajr for energy."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to Perform Dua For Waking Up For Fajr",
+            "description": "This dua for waking up for Fajr is a way to thank Allah for health, Iman, and the chance to remember Him at fajr time. It brings Barakah to your morning and helps you start your day with strong Amal and hope.",
+            "steps": [
+              "As soon as you wake up for fajr, quietly recite the dua for waking up for fajr in your bed.",
+              "While sitting up, thank Allah by saying Alhamdulillah for giving you strength in your body.",
+              "Before going to make wudu, remember Allah returned your soul and gave you another chance.",
+              "After fajr namaz, repeat this dua for health and ask Allah to keep your Iman strong all day.",
+              "Try to make this dua a habit at fajr time to fill your morning with Barakah and good Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 143,
+          "title": "Remembering Allah After Waking Up",
+          "category_tags": [],
+          "introduction": "Narrated Abu Huraira (RA): Allah's Messenger (ﷺ) said, \"Satan puts three knots at the back of the head of any of you if he is asleep. On every knot he reads and exhales the following words, 'The night is long, so stay asleep.' When one wakes up and remembers Allah, one knot is undone; and when one performs ablution, the second knot is undone, and when one prays the third knot is undone and one gets up energetic with a good heart in the morning; otherwise one gets up lazy and with a mischievous heart.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 1142",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 144,
+          "title": "Dua for Bad Dreams",
+          "category_tags": [],
+          "introduction": "If you have a bad dream in your sleep, you should spit three times on the left side, then say three times -",
+          "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+          "audio": "/audio/dua/144.mp3",
+          "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+          "translation": "I seek refuge in Allah from Satan the outcast.\n\nOne need to change sides in their sleep. It is forbidden to tell this dream in front of anyone. Even if you have good dreams, you don't have to tell anyone. But it can be said in front of a close friend or in front of wise people. Narrated Abu Qatadah (RA): The Prophet (ﷺ) said: A good dream is from Allah. And bad dreams are from the devil. So whoever has a good dream, let him reveal it to the one he loves. And if anyone has a bad dream, let him seek refuge in Allah from its harm and from the evil of Satan, and spit three times to the left. Don't reveal the dream to anyone. Then it will not be able to harm him. [1] Jarir (RA) said, Rasulullah (ﷺ) said, when one of you has a dream that he dislikes, he should spit three times to his left. And he seeks refuge in Allah from Satan three times and changes sides. [2] Abu Hurairah (RA) said: The Messenger of Allah (ﷺ) said: If a person has a bad dream, he should get up and pray two rak'ahs. [3]",
+          "reference": "[1] Bukhari: 7044 [2] Muslim: 6041 [3] Sahih (Albani). Tirmidhi: 2280",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ رَبِّهِ بْنِ سَعِيدٍ، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، يَقُولُ لَقَدْ كُنْتُ أَرَى الرُّؤْيَا فَتُمْرِضُنِي حَتَّى سَمِعْتُ أَبَا قَتَادَةَ يَقُولُ وَأَنَا كُنْتُ لأَرَى الرُّؤْيَا تُمْرِضُنِي، حَتَّى سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الرُّؤْيَا الْحَسَنَةُ مِنَ اللَّهِ، فَإِذَا رَأَى أَحَدُكُمْ مَا يُحِبُّ فَلاَ يُحَدِّثْ بِهِ إِلاَّ مَنْ يُحِبُّ، وَإِذَا رَأَى مَا يَكْرَهُ فَلْيَتَعَوَّذْ بِاللَّهِ مِنْ شَرِّهَا، وَمِنْ شَرِّ الشَّيْطَانِ وَلْيَتْفِلْ ثَلاَثًا وَلاَ يُحَدِّثْ بِهَا أَحَدًا فَإِنَّهَا لَنْ تَضُرَّهُ ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Salama: I used to see a dream which would make me sick till I heard Abu Qatada saying, \"I too, used to see a dream which would make me sick till I heard the Prophet (ﷺ) saying, \"A good dream is from Allah, so if anyone of you saw a dream which he liked, he should not tell it to anybody except to the one whom he loves, and if he saw a dream which he disliked, then he should seek refuge with Allah from its evil and from the evil of Satan, and spit three times (on his left) and should not tell it to anybody, for it will not harm him. \" [[1] Bukhari: 7044 [2] Muslim: 6041 [3] Sahih (Albani). Tirmidhi: 2280]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Bad Dreams",
+            "description": "Dua for Bad Dreams helps you seek Allah’s protection from shaitan, brings calm and safety to your heart after a nightmare, and reminds you to trust Allah’s mercy in every moment of fear.",
+            "points": [
+              "Reciting this dua after a bad dream brings Allah’s protection from shaitan.",
+              "It helps remove fear and anxiety from the heart after nightmares.",
+              "This dua is a masnoon prayer from hadith, trusted by all Muslims.",
+              "Saying auzubillah minashaitan nirajeem brings peace and Barakah at night.",
+              "It teaches children and adults to turn to Allah for safety from evil and fear."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Bad Dreams",
+            "description": "This dua for bad dreams helps you seek Allah’s protection from shaitan, bringing calm and safety to your heart after a nightmare and reminding you to trust Allah’s mercy in every moment of fear.",
+            "points": [
+              "After waking up from a nightmare, recite the dua for bad dreams for Allah’s protection.",
+              "When feeling scared at night, use this dua for protection from shaitan and fear.",
+              "If you remember a bad dream before going back to sleep, say auzubillah for peace.",
+              "Before sharing your dream with anyone, quietly recite this dua for bad dreams for safety.",
+              "When your child wakes up afraid, teach them this dua for nightmares to calm their heart."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Bad Dreams",
+            "description": "When you wake up from a bad dream, this dua for bad dreams helps you find peace and safety by asking Allah to protect you from Shaytan. Every Muslim should know this simple protection dua and use it before going to bed or after a nightmare.",
+            "steps": [
+              "After a nightmare, quietly recite auzubillah minashaitan nirajeem to seek Allah’s help.",
+              "Turn your head to the left side and softly spit three times as taught in hadith.",
+              "Try not to share your bad dream with anyone and trust Allah’s protection from shaitan.",
+              "Recite ayat kursi or 4 qul after this dua for protection from shaitan and fear.",
+              "Before going to bed, read manzil dua or masnoon duain to keep away nightmares and get Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 145,
+          "title": "Dua Related to Dreams (Hadith)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said - \"A good dream is from Allah, and a bad dream is from Satan. So if anyone of you sees (in a dream) something he dislikes, when he gets up he should blow thrice (on his left side) and seek refuge with Allah from its evil for then it will not harm him.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 5747",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

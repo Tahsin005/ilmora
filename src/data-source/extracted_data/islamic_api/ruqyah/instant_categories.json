@@ -1,0 +1,1289 @@
+{
+  "status": "success",
+  "message": "Instant categories fetched successfully",
+  "data": [
+    {
+      "title": "Brief Ruqya",
+      "subcategories": [
+        {
+          "subcategory": "From Quran",
+          "subcategory-slug": "from-quran",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Al-Fatiha 1:1-7"
+            },
+            {
+              "id": "2",
+              "title": "Al-Baqarah 2:1-5"
+            },
+            {
+              "id": "3",
+              "title": "Al-Baqarah 2:255"
+            },
+            {
+              "id": "4",
+              "title": "Al-Baqarah 2:284-286"
+            },
+            {
+              "id": "5",
+              "title": "Yusuf 12:64"
+            },
+            {
+              "id": "6",
+              "title": "Al-Kafirun 109:1-6"
+            },
+            {
+              "id": "7",
+              "title": "Al-Ikhlas 112:1-4"
+            },
+            {
+              "id": "8",
+              "title": "Al-Falaq 113:1-5"
+            },
+            {
+              "id": "9",
+              "title": "An-Nas 114:1-6"
+            }
+          ]
+        },
+        {
+          "subcategory": "From Sunnah",
+          "subcategory-slug": "from-sunnah",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Abu Dawud : 775"
+            },
+            {
+              "id": "2",
+              "title": "Al-Bukhari : 3371"
+            },
+            {
+              "id": "3",
+              "title": "Muslim : 2708"
+            },
+            {
+              "id": "4",
+              "title": "Abu Dawud : 5088"
+            },
+            {
+              "id": "5",
+              "title": "Muslim : 2186"
+            },
+            {
+              "id": "6",
+              "title": "Muslim : 222"
+            },
+            {
+              "id": "7",
+              "title": "Abu Dawud : 3106"
+            },
+            {
+              "id": "8",
+              "title": "Al-Bukhari : 5675"
+            },
+            {
+              "id": "9",
+              "title": "Musnad Ahmad : 3/447"
+            },
+            {
+              "id": "10",
+              "title": "Tirmidhi: 3521"
+            },
+            {
+              "id": "11",
+              "title": "Sahih Bukhari: 6345"
+            },
+            {
+              "id": "12",
+              "title": "Abu Dawud: 3892"
+            },
+            {
+              "id": "13",
+              "title": "Bukhari : 3370"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A Medium Ruqya",
+      "subcategories": [
+        {
+          "subcategory": "From Quran",
+          "subcategory-slug": "from-quran",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Al-Fatiha 1:1-7"
+            },
+            {
+              "id": "2",
+              "title": "Al-Baqarah 2:1-7"
+            },
+            {
+              "id": "3",
+              "title": "Al-Baqarah 2:117"
+            },
+            {
+              "id": "4",
+              "title": "Al-Baqarah 2:137"
+            },
+            {
+              "id": "5",
+              "title": "Al-Baqarah 2:163-164"
+            },
+            {
+              "id": "6",
+              "title": "Al-Baqarah 2:254-257"
+            },
+            {
+              "id": "7",
+              "title": "Al-Baqarah 2:284-286"
+            },
+            {
+              "id": "8",
+              "title": "Ali 'Imran 3:1-6"
+            },
+            {
+              "id": "9",
+              "title": "Ali 'Imran 3:18"
+            },
+            {
+              "id": "10",
+              "title": "Ali 'Imran 3:26-27"
+            },
+            {
+              "id": "11",
+              "title": "Ali 'Imran 3:85"
+            },
+            {
+              "id": "12",
+              "title": "Al-A'raf 7:54-56"
+            },
+            {
+              "id": "13",
+              "title": "Al-Anbiya 21:87"
+            },
+            {
+              "id": "14",
+              "title": "Al-Isra 17:110-111"
+            },
+            {
+              "id": "15",
+              "title": "Al-Baqarah 2:109"
+            },
+            {
+              "id": "16",
+              "title": "An-Nisa 4:54"
+            },
+            {
+              "id": "17",
+              "title": "Yunus 10:107"
+            },
+            {
+              "id": "18",
+              "title": "Yusuf 12:67"
+            },
+            {
+              "id": "19",
+              "title": "Al-Kahf 18:39"
+            },
+            {
+              "id": "20",
+              "title": "Al-Mulk 67:1-4"
+            },
+            {
+              "id": "21",
+              "title": "Al-Qalam 68:51-52"
+            },
+            {
+              "id": "22",
+              "title": "Al-Baqarah 2:102-103"
+            },
+            {
+              "id": "23",
+              "title": "Al-A'raf 7:117-122"
+            },
+            {
+              "id": "24",
+              "title": "Yunus 10:77"
+            },
+            {
+              "id": "25",
+              "title": "Yunus 10:81-82"
+            },
+            {
+              "id": "26",
+              "title": "Ta-Ha 20:69"
+            },
+            {
+              "id": "27",
+              "title": "Al-Mu'minun 23:115-118"
+            },
+            {
+              "id": "28",
+              "title": "Al-Ahqaaf 46:31"
+            },
+            {
+              "id": "29",
+              "title": "Ar-Rahman 55:33-36"
+            },
+            {
+              "id": "30",
+              "title": "Al-Hashr 59:21-24"
+            },
+            {
+              "id": "31",
+              "title": "Al-An'am 6:17"
+            },
+            {
+              "id": "32",
+              "title": "As-Saaffaat 37:1-11"
+            },
+            {
+              "id": "33",
+              "title": "Al-An'am 6:13"
+            },
+            {
+              "id": "34",
+              "title": "At-Tawbah 9:129"
+            },
+            {
+              "id": "35",
+              "title": "Az-Zumar 39:38"
+            },
+            {
+              "id": "36",
+              "title": "At-Talaq 65:7"
+            },
+            {
+              "id": "37",
+              "title": "Yunus 10:62-63"
+            },
+            {
+              "id": "38",
+              "title": "Yusuf 12:86"
+            },
+            {
+              "id": "39",
+              "title": "Ar-Ra'd 13:28"
+            },
+            {
+              "id": "40",
+              "title": "Ibrahim 14:27"
+            },
+            {
+              "id": "41",
+              "title": "Fatir 35:34"
+            },
+            {
+              "id": "42",
+              "title": "Al-Inshirah 94: 1-8"
+            },
+            {
+              "id": "43",
+              "title": "Fussilat 41:44"
+            },
+            {
+              "id": "44",
+              "title": "Yunus 10:57"
+            },
+            {
+              "id": "45",
+              "title": "Al-Isra 17:82"
+            },
+            {
+              "id": "46",
+              "title": "Ash-Shu'ara 26:80"
+            },
+            {
+              "id": "47",
+              "title": "At-Tawbah 9:14-15"
+            },
+            {
+              "id": "48",
+              "title": "Al-Isra 17:81"
+            },
+            {
+              "id": "49",
+              "title": "Al-Mu'minun 23:107"
+            },
+            {
+              "id": "50",
+              "title": "Al-Baqarah 2:72"
+            },
+            {
+              "id": "51",
+              "title": "Al-Furqan 25:23"
+            },
+            {
+              "id": "52",
+              "title": "At-Talaq 65:2-3"
+            },
+            {
+              "id": "53",
+              "title": "Al-A'la 87:4"
+            },
+            {
+              "id": "54",
+              "title": "Az-Zalzalah 99:1-8"
+            },
+            {
+              "id": "55",
+              "title": "Yusuf 12:64"
+            },
+            {
+              "id": "56",
+              "title": "Al-Hijr 15:17"
+            },
+            {
+              "id": "57",
+              "title": "Ghafir 40:44-45"
+            },
+            {
+              "id": "58",
+              "title": "Al-Infitar 82:10-12"
+            },
+            {
+              "id": "59",
+              "title": "At-Taariq 86:4"
+            },
+            {
+              "id": "60",
+              "title": "Al-Kafirun 109:1-6"
+            },
+            {
+              "id": "61",
+              "title": "Al-Ikhlas 112:1-4"
+            },
+            {
+              "id": "62",
+              "title": "Al-Falaq 113:1-5"
+            },
+            {
+              "id": "63",
+              "title": "An-Nas 114:1-6"
+            }
+          ]
+        },
+        {
+          "subcategory": "From Sunnah",
+          "subcategory-slug": "from-sunnah",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Abu Dawud : 775"
+            },
+            {
+              "id": "2",
+              "title": "Al-Bukhari : 3371"
+            },
+            {
+              "id": "3",
+              "title": "Muslim : 2708"
+            },
+            {
+              "id": "4",
+              "title": "Al Jami : 74"
+            },
+            {
+              "id": "5",
+              "title": "Abu Dawud : 5088"
+            },
+            {
+              "id": "6",
+              "title": "Abu Dawud : 3893"
+            },
+            {
+              "id": "7",
+              "title": "Muslim : 222"
+            },
+            {
+              "id": "8",
+              "title": "Muslim : 2186"
+            },
+            {
+              "id": "9",
+              "title": "Bukhari : 5745"
+            },
+            {
+              "id": "10",
+              "title": "Musnad Ahmad : 3/158"
+            },
+            {
+              "id": "11",
+              "title": "Musnad Ahmad : 5/350"
+            },
+            {
+              "id": "12",
+              "title": "Al-Bukhari : 5675"
+            },
+            {
+              "id": "13",
+              "title": "Abu Dawud : 5090"
+            },
+            {
+              "id": "14",
+              "title": "Musnad Ahmad : 3/447"
+            },
+            {
+              "id": "15",
+              "title": "Abu Dawud : 3106"
+            },
+            {
+              "id": "16",
+              "title": "Tirmidhi : 3547"
+            },
+            {
+              "id": "17",
+              "title": "Abu Dawud : 3892"
+            },
+            {
+              "id": "18",
+              "title": "Bukhari : 3370"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A Long Ruqya",
+      "subcategories": [
+        {
+          "subcategory": "From Quran",
+          "subcategory-slug": "from-quran",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Al-Fatiha 1:1-7"
+            },
+            {
+              "id": "2",
+              "title": "Al-Baqarah 2:1-7"
+            },
+            {
+              "id": "3",
+              "title": "Al-Baqarah 2:117"
+            },
+            {
+              "id": "4",
+              "title": "Al-Baqarah 2:137-138"
+            },
+            {
+              "id": "5",
+              "title": "Al-Baqarah 2:163-164"
+            },
+            {
+              "id": "6",
+              "title": "Al-Baqarah 2:254-257"
+            },
+            {
+              "id": "7",
+              "title": "Al-Baqarah 2:284-286"
+            },
+            {
+              "id": "8",
+              "title": "Ali 'Imran 3:1-10"
+            },
+            {
+              "id": "9",
+              "title": "Ali 'Imran 3:18-20"
+            },
+            {
+              "id": "10",
+              "title": "Ali 'Imran 3:85"
+            },
+            {
+              "id": "11",
+              "title": "Al-A'raf 7:54-56"
+            },
+            {
+              "id": "12",
+              "title": "Al-Isra 17:110-111"
+            },
+            {
+              "id": "13",
+              "title": "Ar-Rum 30:17-27"
+            },
+            {
+              "id": "14",
+              "title": "Ghafir 40:1-3"
+            },
+            {
+              "id": "15",
+              "title": "Ghafir 40:65"
+            },
+            {
+              "id": "16",
+              "title": "Fussilat 41:36"
+            },
+            {
+              "id": "17",
+              "title": "Al-Jathiyah 45:36-37"
+            },
+            {
+              "id": "18",
+              "title": "Al-Hadid 57:1-6"
+            },
+            {
+              "id": "19",
+              "title": "Al-Baqarah 2:20"
+            },
+            {
+              "id": "20",
+              "title": "Al-Baqarah 2:105"
+            },
+            {
+              "id": "21",
+              "title": "Al-Baqarah 2:109"
+            },
+            {
+              "id": "22",
+              "title": "Al-Baqarah 2:247"
+            },
+            {
+              "id": "23",
+              "title": "An-Nisa 4:32"
+            },
+            {
+              "id": "24",
+              "title": "An-Nisa 4:54"
+            },
+            {
+              "id": "25",
+              "title": "An-Nisa 4:73"
+            },
+            {
+              "id": "26",
+              "title": "Al-A'raf 7:197"
+            },
+            {
+              "id": "27",
+              "title": "At-Tawbah 9:59"
+            },
+            {
+              "id": "28",
+              "title": "At-Tawbah 9:74"
+            },
+            {
+              "id": "29",
+              "title": "Yunus 10:107"
+            },
+            {
+              "id": "30",
+              "title": "Yusuf 12:67"
+            },
+            {
+              "id": "31",
+              "title": "Al-Hijr 15:14-18"
+            },
+            {
+              "id": "32",
+              "title": "Al-Kahf 18:39"
+            },
+            {
+              "id": "33",
+              "title": "An-Nur 24:43-44"
+            },
+            {
+              "id": "34",
+              "title": "Az-Zumar 39:36"
+            },
+            {
+              "id": "35",
+              "title": "Al-Mulk 67:1-4"
+            },
+            {
+              "id": "36",
+              "title": "Al-Qalam 68:51-52"
+            },
+            {
+              "id": "37",
+              "title": "An-Nazi'at 79:38-40"
+            },
+            {
+              "id": "38",
+              "title": "Al-Qiyamah 75:7-12"
+            },
+            {
+              "id": "39",
+              "title": "Al-Baqarah 2:102-103"
+            },
+            {
+              "id": "40",
+              "title": "Al-A'raf 7:104-122"
+            },
+            {
+              "id": "41",
+              "title": "Yunus 10:77"
+            },
+            {
+              "id": "42",
+              "title": "Yunus 10:79-82"
+            },
+            {
+              "id": "43",
+              "title": "Ta-Ha 20:65-69"
+            },
+            {
+              "id": "44",
+              "title": "Ash-Shu'ara 26:43-48"
+            },
+            {
+              "id": "45",
+              "title": "Al-Qamar 54:1-2"
+            },
+            {
+              "id": "46",
+              "title": "Ghafir 40:44-46"
+            },
+            {
+              "id": "47",
+              "title": "Al-Baqarah 2:97-98"
+            },
+            {
+              "id": "48",
+              "title": "Ali 'Imran 3:26-32"
+            },
+            {
+              "id": "49",
+              "title": "Al-An'am 6:130"
+            },
+            {
+              "id": "50",
+              "title": "Al-A'raf 7:89"
+            },
+            {
+              "id": "51",
+              "title": "Al-Anfal 8:25"
+            },
+            {
+              "id": "52",
+              "title": "An-Nahl 16:1-3"
+            },
+            {
+              "id": "53",
+              "title": "Al-Isra 17:45-52"
+            },
+            {
+              "id": "54",
+              "title": "An-Naml 27:73-75"
+            },
+            {
+              "id": "55",
+              "title": "Al-Ahzab 33:70-71"
+            },
+            {
+              "id": "56",
+              "title": "Ya-Sin 36:78-83"
+            },
+            {
+              "id": "57",
+              "title": "Az-Zumar 39:38-40"
+            },
+            {
+              "id": "58",
+              "title": "Al-Ahqaaf 46:29-32"
+            },
+            {
+              "id": "59",
+              "title": "Ar-Rahman 55:26-36"
+            },
+            {
+              "id": "60",
+              "title": "Al-Hashr 59:21-24"
+            },
+            {
+              "id": "61",
+              "title": "Al-A'la 87"
+            },
+            {
+              "id": "62",
+              "title": "Al-Baqarah 2:165-167"
+            },
+            {
+              "id": "63",
+              "title": "Ali 'Imran 3:151"
+            },
+            {
+              "id": "64",
+              "title": "Al-An'am 6:43-45"
+            },
+            {
+              "id": "65",
+              "title": "Al-Anfal 8:12-14"
+            },
+            {
+              "id": "66",
+              "title": "Ibrahim 14:42-43"
+            },
+            {
+              "id": "67",
+              "title": "Al-Ahzab 33:25-27"
+            },
+            {
+              "id": "68",
+              "title": "Saba 34:51-54"
+            },
+            {
+              "id": "69",
+              "title": "Ya-Sin 36:1-12"
+            },
+            {
+              "id": "70",
+              "title": "An-Nazi'at 79:6-14"
+            },
+            {
+              "id": "71",
+              "title": "An-Nazi'at 79:46"
+            },
+            {
+              "id": "72",
+              "title": "An-Nisa 4:56"
+            },
+            {
+              "id": "73",
+              "title": "An-Nisa 4:167-168"
+            },
+            {
+              "id": "74",
+              "title": "Al-Ma'idah 5:33-37"
+            },
+            {
+              "id": "75",
+              "title": "Al-Kahf 18:29"
+            },
+            {
+              "id": "76",
+              "title": "Al-Kahf 18:100-106"
+            },
+            {
+              "id": "77",
+              "title": "Al-Haj 22:19-22"
+            },
+            {
+              "id": "78",
+              "title": "Al-Mu'minun 23:79-118"
+            },
+            {
+              "id": "79",
+              "title": "As-Sajdah 32:18-20"
+            },
+            {
+              "id": "80",
+              "title": "As-Saaffaat 37:1-11"
+            },
+            {
+              "id": "81",
+              "title": "Az-Zukhruf 43:74-80"
+            },
+            {
+              "id": "82",
+              "title": "Ad-Dukhan 44:1-16"
+            },
+            {
+              "id": "83",
+              "title": "Ad-Dukhan 44:43-50"
+            },
+            {
+              "id": "84",
+              "title": "Al-Jathiyah 45:7-10"
+            },
+            {
+              "id": "85",
+              "title": "Qaf 50:23-30"
+            },
+            {
+              "id": "86",
+              "title": "Al-Qamar 54:43-53"
+            },
+            {
+              "id": "87",
+              "title": "Al-Mulk 67:5-11"
+            },
+            {
+              "id": "88",
+              "title": "An-Nisa 4:78"
+            },
+            {
+              "id": "89",
+              "title": "Al-An'am 6:60"
+            },
+            {
+              "id": "90",
+              "title": "Al-Anfal 8:50-51"
+            },
+            {
+              "id": "91",
+              "title": "As-Sajdah 32:11"
+            },
+            {
+              "id": "92",
+              "title": "Al-Baqarah 2:148"
+            },
+            {
+              "id": "93",
+              "title": "An-Nisa 4:87"
+            },
+            {
+              "id": "94",
+              "title": "Al-Kahf 18:99"
+            },
+            {
+              "id": "95",
+              "title": "Maryam 19:68-72"
+            },
+            {
+              "id": "96",
+              "title": "An-Naml 27:30-31"
+            },
+            {
+              "id": "97",
+              "title": "Luqman 31:16"
+            },
+            {
+              "id": "98",
+              "title": "Ya-Sin 36:31-32"
+            },
+            {
+              "id": "99",
+              "title": "As-Saaffaat 37:20-26"
+            },
+            {
+              "id": "100",
+              "title": "As-Saaffaat 37:158"
+            },
+            {
+              "id": "101",
+              "title": "Fussilat 41:21"
+            },
+            {
+              "id": "102",
+              "title": "Adh-Dhariyat 51:23"
+            },
+            {
+              "id": "103",
+              "title": "Al-Mursalat 77:35-36"
+            },
+            {
+              "id": "104",
+              "title": "Al-A'raf 7:139"
+            },
+            {
+              "id": "105",
+              "title": "Al-Anfal 8:7-8"
+            },
+            {
+              "id": "106",
+              "title": "Al-Isra 17:81"
+            },
+            {
+              "id": "107",
+              "title": "Al-Anbiya 21:18"
+            },
+            {
+              "id": "108",
+              "title": "Al-Furqan 25:23"
+            },
+            {
+              "id": "109",
+              "title": "Saba 34:48-49"
+            },
+            {
+              "id": "110",
+              "title": "Ash-Shu'ara 42:24"
+            },
+            {
+              "id": "111",
+              "title": "Az-Zalzalah 99:1-8"
+            },
+            {
+              "id": "112",
+              "title": "Al-Baqarah 2:38"
+            },
+            {
+              "id": "113",
+              "title": "Al-Baqarah 2:72"
+            },
+            {
+              "id": "114",
+              "title": "Al-Hijr 15:34-35"
+            },
+            {
+              "id": "115",
+              "title": "Al-Qasas 28:20"
+            },
+            {
+              "id": "116",
+              "title": "At-Talaq 65:2-3"
+            },
+            {
+              "id": "117",
+              "title": "Al-Qasas 28:21"
+            },
+            {
+              "id": "118",
+              "title": "Al-Baqarah 2:26"
+            },
+            {
+              "id": "119",
+              "title": "Al-Baqarah 2:248"
+            },
+            {
+              "id": "120",
+              "title": "Al-Baqarah 2:250"
+            },
+            {
+              "id": "121",
+              "title": "Ali 'Imran 3:126"
+            },
+            {
+              "id": "122",
+              "title": "Ali 'Imran 3:126"
+            },
+            {
+              "id": "123",
+              "title": "Al-An'am 6:13"
+            },
+            {
+              "id": "124",
+              "title": "Al-Anfal 8:10-11"
+            },
+            {
+              "id": "125",
+              "title": "Hud 11:120"
+            },
+            {
+              "id": "126",
+              "title": "Ar-Ra'd 13:28"
+            },
+            {
+              "id": "127",
+              "title": "Ibrahim 14:24"
+            },
+            {
+              "id": "128",
+              "title": "Ibrahim 14:27"
+            },
+            {
+              "id": "129",
+              "title": "An-Nahl 16:102"
+            },
+            {
+              "id": "130",
+              "title": "Al-Furqan 25:32"
+            },
+            {
+              "id": "131",
+              "title": "Muhammad 47:7"
+            },
+            {
+              "id": "132",
+              "title": "Fussilat 41:44-46"
+            },
+            {
+              "id": "133",
+              "title": "Al-An'am 6:17-18"
+            },
+            {
+              "id": "134",
+              "title": "At-Tawbah 9:14-15"
+            },
+            {
+              "id": "135",
+              "title": "Yunus 10:57"
+            },
+            {
+              "id": "136",
+              "title": "An-Nahl 16:68-69"
+            },
+            {
+              "id": "137",
+              "title": "Al-Isra 17:82"
+            },
+            {
+              "id": "138",
+              "title": "Ash-Shu'ara 26:80"
+            },
+            {
+              "id": "139",
+              "title": "An-Naml 27:62"
+            },
+            {
+              "id": "140",
+              "title": "Fatir 35:2"
+            },
+            {
+              "id": "141",
+              "title": "Ali 'Imran 3:139"
+            },
+            {
+              "id": "142",
+              "title": "Ali 'Imran 3:154"
+            },
+            {
+              "id": "143",
+              "title": "Al-An'am 6:125"
+            },
+            {
+              "id": "144",
+              "title": "Yunus 10:62-63"
+            },
+            {
+              "id": "145",
+              "title": "Yunus 10:103"
+            },
+            {
+              "id": "146",
+              "title": "Yusuf 12:86"
+            },
+            {
+              "id": "147",
+              "title": "Ta-Ha 20:25-28"
+            },
+            {
+              "id": "148",
+              "title": "Al-Anbiya 21:76"
+            },
+            {
+              "id": "149",
+              "title": "Al-Anbiya 21:83-84"
+            },
+            {
+              "id": "150",
+              "title": "Al-Anbiya 21:87-88"
+            },
+            {
+              "id": "151",
+              "title": "Al-Furqan 25:58"
+            },
+            {
+              "id": "152",
+              "title": "Fatir 35:34"
+            },
+            {
+              "id": "153",
+              "title": "As-Saaffaat 37:114-115"
+            },
+            {
+              "id": "154",
+              "title": "Az-Zumar 39:22-23"
+            },
+            {
+              "id": "155",
+              "title": "Az-Zumar 39:61"
+            },
+            {
+              "id": "156",
+              "title": "Al-Ahqaaf 46:13"
+            },
+            {
+              "id": "157",
+              "title": "At-Talaq 65:7"
+            },
+            {
+              "id": "158",
+              "title": "Al-Inshirah 94:1-8"
+            },
+            {
+              "id": "159",
+              "title": "An-Nasr 110:1-3"
+            },
+            {
+              "id": "160",
+              "title": "Al-An'am 6:61"
+            },
+            {
+              "id": "161",
+              "title": "Al-An'am 6:64"
+            },
+            {
+              "id": "162",
+              "title": "At-Tawbah 9:128-129"
+            },
+            {
+              "id": "163",
+              "title": "Yusuf 12:64"
+            },
+            {
+              "id": "164",
+              "title": "Al-Hijr 15:9"
+            },
+            {
+              "id": "165",
+              "title": "Al-'Ankabut 29:30"
+            },
+            {
+              "id": "166",
+              "title": "Al-Infitar 82:10-12"
+            },
+            {
+              "id": "167",
+              "title": "At-Tariq 86:4"
+            },
+            {
+              "id": "168",
+              "title": "Al-Kafirun 109:1-6"
+            },
+            {
+              "id": "169",
+              "title": "Al-Ikhlas 112:1-4"
+            },
+            {
+              "id": "170",
+              "title": "Al-Falaq 113:1-5"
+            },
+            {
+              "id": "171",
+              "title": "An-Nas 114:1-6"
+            }
+          ]
+        },
+        {
+          "subcategory": "From Sunnah",
+          "subcategory-slug": "from-sunnah",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Abu Dawud : 466"
+            },
+            {
+              "id": "2",
+              "title": "Abu Dawud : 775"
+            },
+            {
+              "id": "3",
+              "title": "Al-Bukhari : 3371"
+            },
+            {
+              "id": "4",
+              "title": "Muslim : 2708"
+            },
+            {
+              "id": "5",
+              "title": "Al Jami : 74"
+            },
+            {
+              "id": "6",
+              "title": "Abu Dawud : 5052"
+            },
+            {
+              "id": "7",
+              "title": "Abu Dawud : 5088"
+            },
+            {
+              "id": "8",
+              "title": "Abu Dawud : 3893"
+            },
+            {
+              "id": "9",
+              "title": "Muslim : 222"
+            },
+            {
+              "id": "10",
+              "title": "Muslim : 2186"
+            },
+            {
+              "id": "11",
+              "title": "Muslim : 2185"
+            },
+            {
+              "id": "12",
+              "title": "Bukhari : 5745"
+            },
+            {
+              "id": "13",
+              "title": "Musnad Ahmad : 3/158"
+            },
+            {
+              "id": "14",
+              "title": "Musnad Ahmad : 5/350"
+            },
+            {
+              "id": "15",
+              "title": "Al-Bukhari : 5675"
+            },
+            {
+              "id": "16",
+              "title": "Abu Dawud : 5090"
+            },
+            {
+              "id": "17",
+              "title": "Musnad Ahmad :.4/353"
+            },
+            {
+              "id": "18",
+              "title": "Tirmidhi : 3547"
+            },
+            {
+              "id": "19",
+              "title": "Abu Dawud : 3107"
+            },
+            {
+              "id": "20",
+              "title": "Musnad Ahmad : 3/447"
+            },
+            {
+              "id": "21",
+              "title": "Abu Dawud : 5074"
+            },
+            {
+              "id": "22",
+              "title": "Muslim : 486"
+            },
+            {
+              "id": "23",
+              "title": "Musnad Ahmad : 1/391"
+            },
+            {
+              "id": "24",
+              "title": "Abu Dawud : 5090"
+            },
+            {
+              "id": "25",
+              "title": "Bukhari : 6345"
+            },
+            {
+              "id": "26",
+              "title": "Tirmidhi : 3524"
+            },
+            {
+              "id": "27",
+              "title": "Abu Dawud : 1525"
+            },
+            {
+              "id": "28",
+              "title": "Abu Dawud : 5081"
+            },
+            {
+              "id": "29",
+              "title": "Abu Dawud : 3106"
+            },
+            {
+              "id": "30",
+              "title": "Abu Dawud : 3892"
+            },
+            {
+              "id": "31",
+              "title": "Bukhari : 5656"
+            },
+            {
+              "id": "32",
+              "title": "Muslim : 2722"
+            },
+            {
+              "id": "33",
+              "title": "Tirmidhi : 3521"
+            },
+            {
+              "id": "34",
+              "title": "Bukhari : 3370"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

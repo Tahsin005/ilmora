@@ -1,0 +1,245 @@
+{
+  "category": {
+    "name": "Gathering",
+    "url": "gathering",
+    "icon": "gathering.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 5,
+  "subcategories": [
+    {
+      "id": 92,
+      "title": "Dua for a person in meeting",
+      "category": "gathering",
+      "dua-ids": [
+        492,
+        493,
+        494,
+        495,
+        496
+      ],
+      "duas": [
+        {
+          "dua_id": 492,
+          "title": "Remembering Allah in Meetings",
+          "category_tags": [],
+          "introduction": "Narrated Abu Hurayrah (RA): The Prophet (ﷺ) said: If anyone sits at a place where he does not remember Allah, deprivation will descend on him from Allah; and if he lies at a place where he does not remember Allah, deprivation will descend on him from Allah.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Dawud: 4856",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 493,
+          "title": "Meetings Without Dhikr",
+          "category_tags": [],
+          "introduction": "Narrated Abu Hurayrah (RA): The Prophet (ﷺ) said: People who get up from a sitting or meeting in which they did not remember Allah will be just as if they had got up from an dunkey corpse, and it will be a cause of grief to them.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Dawud: 4855",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 494,
+          "title": "Dua After Gathering",
+          "category_tags": [],
+          "introduction": "Narrated Abdullah bin Umar (RA): We used to count and see that the Messenger of Allah (ﷺ) used to say a hundred times after the meeting:",
+          "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَىَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+          "audio": "/audio/dua/494.mp3",
+          "transliteration": "Rabbighfir lee watub 'alayya 'innaka 'Antat-Tawwaabur-rahim",
+          "translation": "My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving.",
+          "reference": "Sahih. Abu Dawud: 1516",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ مَالِكِ بْنِ مِغْوَلٍ، عَنْ مُحَمَّدِ بْنِ سُوقَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ إِنْ كُنَّا لَنَعُدُّ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْمَجْلِسِ الْوَاحِدِ مِائَةَ مَرَّةٍ ‏ \"‏ رَبِّ اغْفِرْ لِي وَتُبْ عَلَىَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Abdullah ibn Umar: We counted that the Messenger of Allah (ﷺ) would say a hundred times during a meeting: \"My Lord, forgive me and pardon me; Thou art the Pardoning and forgiving One\". [Sahih (Albani). Abu Dawud: 1516]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Allah’s Forgiveness and Kindness (Surah Muminun)",
+            "description": "This dua after gathering is a way to ask Allah for forgiveness and Barakah, making your time with others full of mercy, Amal, and keeping your heart clean after every meeting or talk.",
+            "points": [
+              "This dua after gathering brings Allah’s forgiveness and mercy to your heart.",
+              "Reciting this dua after meetings or talks brings Barakah and peace in your Amal.",
+              "It is a masnoon dua from Surah Muminun that asks Allah to forgive and have mercy.",
+              "Saying this dua after gatherings helps keep your Iman strong and your heart clean.",
+              "This prayer for forgiveness is easy to say and brings blessings to every group."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Gathering",
+            "description": "This dua after gathering is a way to ask Allah for forgiveness and Barakah, making your time with others full of mercy, Amal, and keeping your heart clean after every meeting or talk.",
+            "points": [
+              "When a family meeting ends, use the dua after gathering to seek Allah’s forgiveness.",
+              "After finishing a study circle, recite the dua at the end of a gathering for Barakah.",
+              "At the close of a friendly talk, make this dua for repentance and mercy from Allah.",
+              "When leaving a group after salah, ask Allah with this dua for clean hearts and Amal.",
+              "After any gathering, say the dua for forgiveness to keep your Iman strong and pure."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Gathering",
+            "description": "This dua after gathering is a simple way to ask Allah for forgiveness and mercy after meeting with others. It helps clean your heart from any mistakes made in talks and brings Barakah to your time spent together.",
+            "steps": [
+              "Start by sitting quietly for a moment and remember Allah before saying the dua after gathering.",
+              "After any group talk or meeting, softly recite this dua at the end of a gathering to seek forgiveness.",
+              "If you feel you said something wrong, use this islamic dua to ask Allah to forgive your words.",
+              "When you finish witr prayer, you can also read this dua for witr prayer to ask for Allah’s mercy.",
+              "Teach your family to say this masnoon dua after every gathering so everyone gets the reward."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 495,
+          "title": "Dua After Meeting (Kaffaratul Majlis)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ",
+          "audio": "/audio/dua/495.mp3",
+          "transliteration": "Subhaanaka Allaahumma wa bihamdika, 'ash-hadu 'an laa 'ilaaha 'illaa 'Anta, 'astaghfiruka wa 'atoobu 'ilayka",
+          "translation": "Glory is to You, O Allah, and praise is to You. I bear witness that there is none worthy of worship but You. I seek Your forgiveness and repent to You.\n\nIt is narrated in different authentic chains by the Companions like Abdullah Ibn Amr Ibn Al-As (RA), Abu Barzah Aslami (RA), Abu Hurairah (RA) that the Prophet (ﷺ) used to say these words before leaving the meeting at the end of the meeting. He said, \"If anyone says these words while getting up from a meeting, it will be an expiation for the meeting. Because of this, Allah Almighty will forgive the unlawful speech and sins of that meeting.",
+          "reference": "Sahih. Tirmidhi: 3433",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو عُبَيْدَةَ بْنُ أَبِي السَّفَرِ الْكُوفِيُّ، - وَاسْمُهُ أَحْمَدُ بْنُ عَبْدِ اللَّهِ الْهَمْدَانِيُّ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ جَلَسَ فِي مَجْلِسٍ فَكَثُرَ فِيهِ لَغَطُهُ فَقَالَ قَبْلَ أَنْ يَقُومَ مِنْ مَجْلِسِهِ ذَلِكَ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ ‏.‏ إِلاَّ غُفِرَ لَهُ مَا كَانَ فِي مَجْلِسِهِ ذَلِكَ ‏\" ‏ ‏.‏ وَفِي الْبَابِ عَنْ أَبِي بَرْزَةَ وَعَائِشَةَ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ مِنْ هَذَا الْوَجْهِ لاَ نَعْرِفُهُ مِنْ حَدِيثِ سُهَيْلٍ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏",
+            "translation": "Abu Hurairah narrated that: The Messenger of Allah (ﷺ) said: “Whoever sits in a sitting and engages in much empty, meaningless speech and then says before getting from that sitting of his: ‘Glory is to You, O Allah, and praise, I bear witness that there is none worthy of worship except You, I seek You forgiveness, and I repent to You, (Subḥānaka Allāhumma wa biḥamdika, ashhadu an lā ilāha illā anta, astaghfiruka wa atūbu ilaik)’ whatever occurred in that sitting would be forgiven to him.” [Sahih (Albani). Tirmidhi: 3433]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Forgiveness for Siblings (Surah Al-Araf)",
+            "description": "This dua after meeting, known as kaffaratul majlis, helps you ask Allah for forgiveness, Barakah, and to keep your Amal clean after any talk, gathering, or meeting with others.",
+            "points": [
+              "This dua after meeting brings Allah’s forgiveness and mercy to your heart and your brother.",
+              "Reciting this dua after gatherings brings Barakah and peace in your Amal.",
+              "It is a masnoon dua from Surah Al-Araf that asks Allah to forgive you and your brother.",
+              "Saying this dua after meetings helps keep your Iman strong and your heart clean.",
+              "This prayer for forgiveness is easy to say and brings blessings to every group."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Meeting",
+            "description": "This dua after meeting, known as kaffaratul majlis, helps you ask Allah for forgiveness, Barakah, and to keep your Amal clean after any talk, gathering, or meeting with others.",
+            "points": [
+              "When a meeting ends, recite the dua after meeting to seek Allah’s forgiveness and Barakah.",
+              "After a family talk or friendly chat, use subhanaka allahumma wa bihamdika for clean hearts.",
+              "At the end of a study group, make this dua after salam to thank Allah and ask for mercy.",
+              "When leaving a gathering, say the dua after meeting for forgiveness and strong Iman.",
+              "After witr prayer, recite this short dua to keep your Amal pure and close to Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua After Meeting",
+            "description": "This dua after meeting, known as Kaffaratul Majlis, helps clean any wrong words or mistakes made in talks. It is a short islamic dua that brings Barakah and keeps your heart close to Allah after every gathering.",
+            "steps": [
+              "Sit for a moment after the meeting ends and recite subhanaka allahumma wa bihamdika with full heart.",
+              "When you finish talking with friends or family, say this dua after salam to ask Allah for forgiveness.",
+              "If you feel you said something not good, use this short dua to clean your Amal and seek Allah’s mercy.",
+              "After witr prayer or any namaz, you can read this masnoon dua to keep your zikr allah strong.",
+              "Teach kids and family to say this muslim prayer after every meeting so everyone gets reward and peace."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 496,
+          "title": "Dua for Ending Majlis",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا وَبَيْنَ مَعَاصِيْكَ وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهِ جَنَّتَكَ وَمِنَ الْيَقِيْنِ مَا تُهَوِّنُ بِهِ عَلَيْنَا مُصِيْبَاتِ الدُّنْيَا وَمَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا وَقُوَّتِنَا مَا أَحْيَيْتَنَا وَاجْعَلْهُ الْوَارِثَ مِنَّا وَاجْعَلْ ثَأْرَنَا عَلَى مَنْ ظَلَمَنَا وَانْصُرْنَا عَلَى مَنْ عَادَانَا وَلَا تَجْعَلْ مُصِيْبَتَنَا فِي دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَا يَرْحَمُنَا",
+          "audio": "/audio/dua/496.mp3",
+          "transliteration": "Allaahum-maq-sim la-naa min khash-yatika maa ya'hoolu baynanaa wa bayna ma‛aa-seeka, wa min taa‘a-tika maa tuballi-ghunaa bihi jan-nataka, wa mi-nal-yaqee-ni maa tu-hauwinu bihi ‛alaynaa musib-atid-dunyaa, wa matt'iena bi asmaa‛i-naa, wa absaa-rinaa, wa qoo-wati-naa maa a'h-yay-tanaa, waj‛al-hul-waaritha min-naa, waj‛al tha’ra-naa ‛alaa man zala-manaa, wan-sur-naa ‛alaa man ‛aa-daa-naa, wa laa taj‛al mu-seeba-ta-naa fee dee-ni-naa, wa laa taj‛a-lid-dunyaa akbara ham-minaa, wa laa mab-lagha ‛il-minaa, wa laa tusal-lit ‛alay-naa man laa yar-'hamunaa",
+          "translation": "O Allah, give us such fear that will serve as a barrier between us and acts of disobedience; and give us such obedience that will take us to Your Paradise; and such certainty as will make easy for us to bear in the calamities of this world. O Allah! let us enjoy our hearing, our sight and our strength as long as You keep us alive and keep our senses healthy and sound until the day We die, and make our revenge restricted to those who oppressed us, and support us against those who are hostile to us, and give us not trial in our religion; and let not worldly affairs be our principal concern, or the ultimate limit of our knowledge, and let not those dominate us who do not show mercy to us.\n\nAbdullah bin Umar (RA) said, The Prophet (ﷺ) used to say this dua before leaving the Majlis and seldom left the Majlis without praying for his companions. This hadith is Hasan. [Tirmidhi (49-Kitabud Dawaat, 80-Baab) 5/ 492-493] In another narration, Tabi'i Nafi said, “Abdullah ibn Umar (RA) would not have stood from a meeting without saying these words for the people sitting in the meeting. [Nasai, As-Sunanul Kubra 6/106; Ibn al-Athir, Jamiul Usul 4/279] It is to be noted that the Prophet (ﷺ), the Companions of his Majlis, Abdullah Ibn Umar (RA) or the people of his Majlis did not raise their hands in supplication. We have seen that the Companions were very interested and diligent in narrating the Sunnah of the Prophet (ﷺ). They have described if raising hands during supplication is permissible in this particular case. That is why it is proved that the sunnah is not to be raised. Besides, we have seen that raising the hand during dua is a manners of dua. The Prophet (ﷺ) sometimes supplicated alone and sometimes with the Companions. In the light of this hadith, it is understood that at the end of the meeting, the speaker will say the words of the supplication and the people present will say Amin. If everyone sometimes raises their hands and supplicates, there is no chance of it being considered illegal or bidat. However, depending on the hadith of general virtue, it is bid'ah to consider it necessary to raise one's hand in the case of such duas or to consider it unlawful not to raise one's hand. Since the matter is open, in the light of hadith, the matter must be kept open.",
+          "reference": "Hasan. Tirmidhi: 3502",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ، أَنَّ ابْنَ عُمَرَ، قَالَ قَلَّمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُومُ مِنْ مَجْلِسٍ حَتَّى يَدْعُوَ بِهَؤُلاَءِ الْكَلِمَاتِ لأَصْحَابِهِ ‏ \"‏ اللَّهُمَّ اقْسِمْ لَنَا مِنْ خَشْيَتِكَ مَا يَحُولُ بَيْنَنَا وَبَيْنَ مَعَاصِيكَ وَمِنْ طَاعَتِكَ مَا تُبَلِّغُنَا بِهِ جَنَّتَكَ وَمِنَ الْيَقِينِ مَا تُهَوِّنُ بِهِ عَلَيْنَا مُصِيبَاتِ الدُّنْيَا وَمَتِّعْنَا بِأَسْمَاعِنَا وَأَبْصَارِنَا وَقُوَّتِنَا مَا أَحْيَيْتَنَا وَاجْعَلْهُ الْوَارِثَ مِنَّا وَاجْعَلْ ثَأْرَنَا عَلَى مَنْ ظَلَمَنَا وَانْصُرْنَا عَلَى مَنْ عَادَانَا وَلاَ تَجْعَلْ مُصِيبَتَنَا فِي دِينِنَا وَلاَ تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلاَ مَبْلَغَ عِلْمِنَا وَلاَ تُسَلِّطْ عَلَيْنَا مَنْ لاَ يَرْحَمُنَا ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ رَوَى بَعْضُهُمْ هَذَا الْحَدِيثَ عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ ‏.‏",
+            "translation": "Ibn `Umar said: “Rarely would the Messenger of Allah (ﷺ) stand from a sitting until he supplicated with these words for his Companions: ‘O Allah, apportion for us, fear of You, that shall come between us and disobedience of You, and of obedience to You, which shall cause us to obtain Your Paradise, and of certainty, which shall make the afflictions of the world easy for us, and enjoyment of our hearing, and our seeing, and our strength as long as You keep us alive, and make it the inheritor of us. And let our vengeance be upon those who have wronged us, and aid us against those who show enmity towards us, and do not make our affliction in our religion, and do not make this world our greatest concern, nor the limit of our knowledge, and do not give power over us to those who will not have mercy on us. (Allāhumma-qsim lanā min khashyatika mā yaḥūlu, bainanā wa baina ma`āṣīka wa min ṭā`atika mā tuballighuna bihī jannatak, wa minal-yaqīni mā tuhawwinu bihī `alainā muṣībatid-dunyā, wa matti`na bi-asmā`inā wa abṣārina wa quwwatina mā aḥyaytanā, waj`alhul-wāritha minnā, waj`al tha’ranā `alā man ẓalamanā, wanṣurna `alā man `ādānā, wa lā taj`al muṣībatanā fī dīninā, wa lā taj`alid-dunyā akbara hamminā wa lā mablagha `ilminā, wa lā tusalliṭ `alainā man lā yarḥamunā).’” [Hasan (Albani). Tirmidhi: 3502]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Obedience and Forgiveness (Surah Baqara)",
+            "description": "This dua for ending majlis asks Allah for Barakah, strong Iman, and to keep your Amal safe from harm, making every gathering end with mercy, protection, and hope for Jannah.",
+            "points": [
+              "This dua for ending majlis brings Allah’s forgiveness and mercy to your heart.",
+              "Reciting this dua after gatherings brings Barakah and peace in your Amal.",
+              "It is a masnoon dua from Surah Baqara that asks Allah to forgive and protect you.",
+              "Saying this dua after meetings helps keep your Iman strong and your heart clean.",
+              "This prayer for forgiveness is easy to say and brings blessings to every group."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Ending Majlis",
+            "description": "This dua for ending majlis asks Allah for Barakah, strong Iman, and to keep your Amal safe from harm, making every gathering end with mercy, protection, and hope for Jannah.",
+            "points": [
+              "When a big family gathering ends, use the dua for ending majlis to ask Allah for Barakah.",
+              "After a study group or Islamic talk, recite this dua at the end of a gathering for Iman.",
+              "At the close of a masjid event, make this dua for protection from fitnah and strong Amal.",
+              "When finishing witr ki dua or after surah kafirun, say this dua for a safe heart and Jannah.",
+              "After any meeting with friends, use the dua for ending majlis to keep your deen safe and pure."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Ending Majlis",
+            "description": "This dua for ending majlis is a long and deep islamic dua that asks Allah for protection, strong Iman, and Barakah after any gathering. It helps keep your heart clean and your Amal safe from mistakes made in talks.",
+            "steps": [
+              "After a gathering, pause and recite this dua for ending majlis with full hope in Allah’s mercy.",
+              "When you finish a group talk, say this dua at the end of a gathering to ask for strong Iman and Barakah.",
+              "If you feel weak or worried, use this masnoon dua to ask Allah for help in your deen and dunya.",
+              "Before witr ki dua or after surah kafirun, you can read this dua for witr namaz to keep your Amal pure.",
+              "Teach your family and friends to say this muslim prayer so everyone gets reward and Allah’s help."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

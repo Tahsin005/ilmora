@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:31",
+      "Sunrise": "06:50",
+      "Dhuhr": "12:44",
+      "Asr": "16:07",
+      "Sunset": "18:37",
+      "Maghrib": "18:37",
+      "Isha": "19:52",
+      "Imsak": "05:21",
+      "Midnight": "00:44",
+      "Firstthird": "22:41",
+      "Lastthird": "02:46"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 136.14,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 1287.22,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "06:50",
+        "end": "07:05"
+      },
+      "noon": {
+        "start": "12:34",
+        "end": "12:44"
+      },
+      "sunset": {
+        "start": "18:22",
+        "end": "18:37"
+      }
+    },
+    "timezone": {
+      "name": "Africa/Cairo",
+      "utc_offset": "+03:00",
+      "abbreviation": "EEST"
+    }
+  },
+  "city_info": {
+    "name": "Cairo",
+    "country": "Egypt",
+    "slug": "cairo",
+    "lat": 30.0444,
+    "lon": 31.2357
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "status": "success",
+  "message": "Topic categories fetched successfully",
+  "data": [
+    {
+      "title": "Introduction to Ruqyah",
+      "subcategories": [
+        {
+          "subcategory": "Introduction to Ruqyah",
+          "subcategory-slug": "introduction-to-ruqyah",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Ruqyah Shariah in Islam - Quranic Healing for Evil Eye & Magic"
+            },
+            {
+              "id": "2",
+              "title": "What Makes Ruqyah Valid? 3 Essential Ruqyah Requirements in Islam"
+            },
+            {
+              "id": "3",
+              "title": "How to Do Ruqyah Treatment Effectively With proper Conviction"
+            },
+            {
+              "id": "4",
+              "title": "Important Steps Before Starting Ruqyah Treatment"
+            },
+            {
+              "id": "5",
+              "title": "During Ruqyah - Ruqiyah Shariah"
+            },
+            {
+              "id": "6",
+              "title": "Why Blow with Your Saliva? - Ruqiyah Shariah"
+            },
+            {
+              "id": "7",
+              "title": "Blowing in Water - Ruqiyah Shariah"
+            },
+            {
+              "id": "8",
+              "title": "FAQ's About Ruqya - Ruqiyah Shariah"
+            },
+            {
+              "id": "9",
+              "title": "Prerequisites of writing Ruqyah and drinking it’s water - Ruqiyah Shariah"
+            },
+            {
+              "id": "10",
+              "title": "The correct way to perform Ruqyah for a small child - Ruqiyah Shariah"
+            },
+            {
+              "id": "11",
+              "title": "Are physical medicines better, or Ruqyah and spiritual medicine? - Ruqiyah Shariah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Protect Yourself From Jinn",
+      "subcategories": [
+        {
+          "subcategory": "Protect Yourself From Jinn",
+          "subcategory-slug": "protect-yourself-from-jinn",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Existence - Ruqiyah Shariah"
+            },
+            {
+              "id": "2",
+              "title": "Jinn's fear of humans - Ruqiyah Shariah"
+            },
+            {
+              "id": "3",
+              "title": "Jinn envy humans - Ruqiyah Shariah"
+            },
+            {
+              "id": "4",
+              "title": "When do demons spread out? - Ruqiyah Shariah"
+            },
+            {
+              "id": "5",
+              "title": "It is prohibited to sacrifice animals for Jinn - Ruqiyah Shariah"
+            },
+            {
+              "id": "6",
+              "title": "It is haram to seek refuge with Jinn - Ruqiyah Shariah"
+            },
+            {
+              "id": "7",
+              "title": "Do Jinn inhabit people's houses? - Ruqiyah Shariah"
+            },
+            {
+              "id": "8",
+              "title": "How to chase Jinn away from a house? - Ruqiyah Shariah"
+            },
+            {
+              "id": "9",
+              "title": "Jinn are less dignified than mankind - Ruqiyah Shariah"
+            },
+            {
+              "id": "10",
+              "title": "Reasons of Jinn's possession of humans - Ruqiyah Shariah"
+            },
+            {
+              "id": "11",
+              "title": "How does a Jinn enter the body of a human, and where does he/she settle? - Ruqiyah Shariah"
+            },
+            {
+              "id": "12",
+              "title": "Symptoms of the Jinn's possession of humans - Ruqiyah Shariah"
+            },
+            {
+              "id": "13",
+              "title": "Characteristics of a healer (exorcist) - Ruqiyah Shariah"
+            },
+            {
+              "id": "14",
+              "title": "The method of healing - Ruqiyah Shariah"
+            },
+            {
+              "id": "15",
+              "title": "How to Conduct a Ruqyah with a Muslim Jinn? - Ruqiyah Shariah"
+            },
+            {
+              "id": "16",
+              "title": "How to Conduct Ruqyah with a non-Muslim Jinn? - Ruqiyah Shariah"
+            },
+            {
+              "id": "17",
+              "title": "Some notes for the exorcist - Ruqiyah Shariah"
+            },
+            {
+              "id": "18",
+              "title": "If the patient does not have a seizure - Ruqiyah Shariah"
+            },
+            {
+              "id": "19",
+              "title": "What should be recited over the jinn if he breaks his promise and comes back - Ruqiyah Shariah"
+            },
+            {
+              "id": "20",
+              "title": "Treating a case of love between a jinn and a human - Ruqiyah Shariah"
+            },
+            {
+              "id": "21",
+              "title": "Some Practical Examples - Ruqiyah Shariah"
+            },
+            {
+              "id": "22",
+              "title": "Guidance for the protection from Sar' (Possesion) - Ruqiyah Shariah"
+            },
+            {
+              "id": "23",
+              "title": "Waswasah in Salat - Ruqiyah Shariah"
+            },
+            {
+              "id": "24",
+              "title": "Satan's Musical instruments - Ruqiyah Shariah"
+            },
+            {
+              "id": "25",
+              "title": "Satan's approach to one's meal - Ruqiyah Shariah"
+            },
+            {
+              "id": "26",
+              "title": "The levels of temptation - Ruqiyah Shariah"
+            },
+            {
+              "id": "27",
+              "title": "As well as adhering to the Ruqyah program, what else should the patient do? - Ruqiyah Shariah"
+            },
+            {
+              "id": "28",
+              "title": "Ten ways of avoiding the harm of the Jinn and protecting oneself against the devils - Ruqiyah Shariah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Black Magic (Sihr)",
+      "subcategories": [
+        {
+          "subcategory": "Black Magic (Sihr)",
+          "subcategory-slug": "black-magic-sihr",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Do Jinn Exist? Islamic Evidence for Jinn Existence From Quran Hadith"
+            },
+            {
+              "id": "2",
+              "title": "Black Magic in Quran - Islamic Evidence on Sihr with Quranic Ayah"
+            },
+            {
+              "id": "3",
+              "title": "Sihr of Separation - How Black Magic Separate Husband and Wife"
+            },
+            {
+              "id": "4",
+              "title": "How Sihr of Separation Affects Marriage and Family relationships"
+            },
+            {
+              "id": "5",
+              "title": "How to Remove Sihr and Black Magic Using Islamic Ruqyah"
+            },
+            {
+              "id": "6",
+              "title": "Sihr Al-Mahabba Symptoms Causes and Ruqyah Treatment"
+            },
+            {
+              "id": "7",
+              "title": "Islamic Lawful Sihr to Make Your Husband Love You More"
+            },
+            {
+              "id": "8",
+              "title": "Powerful Ruqyah Duas Against Black Magic Sihr with English Translation"
+            },
+            {
+              "id": "9",
+              "title": "Sihr At-Takhyil: How Sorcerers Create Illusions Through Sihr and Black Magic"
+            },
+            {
+              "id": "10",
+              "title": "Sihr Al-Junun - Symptoms, Causes, and Healing for Ruqyah Treatment"
+            },
+            {
+              "id": "11",
+              "title": "Sihr Al-Khumul (Lethargy) Symptoms and Islamic Ruqyah Treatment"
+            },
+            {
+              "id": "12",
+              "title": "Sihr Al-Hawatif Symptoms and Islamic Ruqyah Treatment"
+            },
+            {
+              "id": "13",
+              "title": "Signs of Sihr Al-Maradh and How Ruqyah Heals Black Magic"
+            },
+            {
+              "id": "14",
+              "title": "Sihr An-Nazif Ruqyah Treatment for Unusual Bleeding in Women"
+            },
+            {
+              "id": "15",
+              "title": "Sihr An-Nazif With Ruqyah Treatment for Bleeding"
+            },
+            {
+              "id": "16",
+              "title": "Sihr of Impeding Marriage: Symptoms and Ruqyah Treatment against black magic"
+            },
+            {
+              "id": "17",
+              "title": "Learn the Important Facts About Sihr - Key Signs and Ruqyah Treatment"
+            },
+            {
+              "id": "18",
+              "title": "Sihr Ar-Rabt (Penile Erection Problems During Sexual Intercourse) - Ruqiyah Shariah"
+            },
+            {
+              "id": "19",
+              "title": "Ar-Rabt in Women (sexual frigidity) - Ruqiyah Shariah"
+            },
+            {
+              "id": "20",
+              "title": "Treatment of Rabt in Men - Ruqiyah Shariah"
+            },
+            {
+              "id": "21",
+              "title": "Difference between Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness) - Ruqiyah Shariah"
+            },
+            {
+              "id": "22",
+              "title": "Treatment of Ar-rabt, Al-'ajz al-jinsi (impotence) and Adh-dhu'f al-jinsi (sexual weakness) - Ruqiyah Shariah"
+            },
+            {
+              "id": "23",
+              "title": "Difference between Natural Sterility and Sterility caused by Sihr - Ruqiyah Shariah"
+            },
+            {
+              "id": "24",
+              "title": "Sterility in Women - Ruqiyah Shariah"
+            },
+            {
+              "id": "25",
+              "title": "Treatment of Premature Ejaculation - Ruqiyah Shariah"
+            },
+            {
+              "id": "26",
+              "title": "Protective Measures against Sihr in General - Ruqiyah Shariah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Evil Eye & Envy",
+      "subcategories": [
+        {
+          "subcategory": "Evil Eye & Envy",
+          "subcategory-slug": "evil-eye-and-envy",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "The Reality of Evil Eye According To Islamic Scholars"
+            },
+            {
+              "id": "2",
+              "title": "Learn 4 Types of Evil Eye in Islam - Ayn, Hasad, Nafs & Nathara"
+            },
+            {
+              "id": "3",
+              "title": "How Evil Eye Works in Islam From Humans Jinn and Animals"
+            },
+            {
+              "id": "4",
+              "title": "Powerful Quran Ayahs That Shield Against Evil Eye with Translation"
+            },
+            {
+              "id": "5",
+              "title": "Differences Between The Evil Eye And Envy & How the Evil Eye Works"
+            },
+            {
+              "id": "6",
+              "title": "Quranic Verses on Envy and Evil Eye Protection with English Translation"
+            },
+            {
+              "id": "7",
+              "title": "Why Hasad Destroys Faith: Prophetic Warnings on Envy"
+            },
+            {
+              "id": "8",
+              "title": "Authentic Hadith About Evil Eye and Its Powerful Effects"
+            },
+            {
+              "id": "9",
+              "title": "Powerful Effects of Evil Eye on Health, Wealth and Every Part of Life"
+            },
+            {
+              "id": "10",
+              "title": "How to Identify Evil Eye - 29 Key Signs and Symptoms of Evil Eye"
+            },
+            {
+              "id": "11",
+              "title": "Al Quran Ruqyah for Evil Eye Treatment With Authentic Hadith Methods"
+            },
+            {
+              "id": "12",
+              "title": "Removal of evil eye Treatment According to Quran and Tafsir"
+            },
+            {
+              "id": "13",
+              "title": "Authentic Prophetic Hadith Evidence About Evil Eye Al-Ayn Effects"
+            },
+            {
+              "id": "14",
+              "title": "What Islamic Scholars Say About the Reality of Evil Eye"
+            },
+            {
+              "id": "15",
+              "title": "Islamic Teachings on Evil Eye and Jealousy Differences"
+            },
+            {
+              "id": "16",
+              "title": "Evil Eye Effect of Jinn on Humans through Quran Ruqyah Treatment"
+            },
+            {
+              "id": "17",
+              "title": "Removal of Evil Eye With These 5 Authentic Islamic Duas"
+            },
+            {
+              "id": "18",
+              "title": "True Stories of Healing Evil Eye Through Islamic Ruqyah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "About Raqi",
+      "subcategories": [
+        {
+          "subcategory": "About Raqi",
+          "subcategory-slug": "about-raqi",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Raqi in Islam: Qualities Every True Raqi Must Have According to Islam"
+            },
+            {
+              "id": "2",
+              "title": "Signs of Raqi: How to Identifying a True Raqi for Ruqyah Treatment"
+            },
+            {
+              "id": "3",
+              "title": "Ruqyah Healer Minimum Requirements for Evil Eye Treatment"
+            },
+            {
+              "id": "4",
+              "title": "Ruqyah Risks and Jinn Revenge Attacks on Raqi Every Healer Must Know"
+            },
+            {
+              "id": "5",
+              "title": "The Non-Risk - Ruqiyah Shariah"
+            },
+            {
+              "id": "6",
+              "title": "The Commitment - Ruqiyah Shariah"
+            },
+            {
+              "id": "7",
+              "title": "The Main Intention For Becoming A Raqi - Ruqiyah Shariah"
+            },
+            {
+              "id": "8",
+              "title": "The Benefits Of Not Taking Money - Ruqiyah Shariah"
+            },
+            {
+              "id": "9",
+              "title": "Being Patient And Keeping Calm With Patients - Ruqiyah Shariah"
+            },
+            {
+              "id": "10",
+              "title": "Your Studies Of The Science Of Ruqya - Ruqiyah Shariah"
+            },
+            {
+              "id": "11",
+              "title": "Your Protection Adhkar - Ruqiyah Shariah"
+            },
+            {
+              "id": "12",
+              "title": "Acts Of Worship & Things To Avoid For A Raqi - Ruqiyah Shariah"
+            },
+            {
+              "id": "13",
+              "title": "Things To Be Stopped Or Avoided - Ruqiyah Shariah"
+            },
+            {
+              "id": "14",
+              "title": "Gaining Practical Ruqyah Experience - Ruqiyah Shariah"
+            },
+            {
+              "id": "15",
+              "title": "Extreme Possessing Jinn Cases - Ruqiyah Shariah"
+            },
+            {
+              "id": "16",
+              "title": "Conclusion - Ruqiyah Shariah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ruqyah Materials",
+      "subcategories": [
+        {
+          "subcategory": "Ruqyah Materials",
+          "subcategory-slug": "ruqyah-materials",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Sidr Leaves Benefits in Ruqyah for Healing Magic and Sihr"
+            },
+            {
+              "id": "2",
+              "title": "Senna Leaves for Witchcraft Treatment From Authentic Hadith"
+            },
+            {
+              "id": "3",
+              "title": "Ruqyah Treatment with Olive Oil - Blessed Tree Benefits"
+            },
+            {
+              "id": "4",
+              "title": "7 Ajwa Dates of Madina for Protection Against Black Magic"
+            },
+            {
+              "id": "5",
+              "title": "Prophetic Hadith on Black Seed – Islamic Cure for Every Disease"
+            },
+            {
+              "id": "6",
+              "title": "Honey for Ruqyah - Islamic Healing with Benefits"
+            },
+            {
+              "id": "7",
+              "title": "Qust al Hindi Uses for Ruqyah Treatment and Body Wellness"
+            },
+            {
+              "id": "8",
+              "title": "Self Ruqyah Water Preparation for Jinn and Black Magic"
+            },
+            {
+              "id": "9",
+              "title": "Islamic Hijamah Cupping therapy for Health and Ruqyah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7-day detoxification program",
+      "subcategories": [
+        {
+          "subcategory": "7-day detoxification program",
+          "subcategory-slug": "7-day-detoxification-program",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "7-Day Self Ruqyah Healing Program for Jinn Magic and Evil Eye"
+            },
+            {
+              "id": "2",
+              "title": "Important Steps Before Starting Your 7-Day Ruqyah Detox"
+            },
+            {
+              "id": "3",
+              "title": "Must-Have Items for Starting Your 7-Day Ruqyah Detox Program"
+            },
+            {
+              "id": "4",
+              "title": "Surahs for Self Ruqyah and 7-Day Healing Detox Program"
+            },
+            {
+              "id": "5",
+              "title": "On the first three days - Ruqiyah Shariah"
+            },
+            {
+              "id": "6",
+              "title": "On the fourth to seventh day - Ruqiyah Shariah"
+            },
+            {
+              "id": "7",
+              "title": "What to expect - Ruqiyah Shariah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Ruqyah bath against Sihr",
+      "subcategories": [
+        {
+          "subcategory": "The Ruqyah bath against Sihr",
+          "subcategory-slug": "the-ruqyah-bath-against-sihr",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Islamic Ruqyah Bath - Best Treatment for Sihr and Black Magic"
+            },
+            {
+              "id": "2",
+              "title": "Essential Ruqyah Bath Ingredients to Remove Sihr & Black Magic"
+            },
+            {
+              "id": "3",
+              "title": "Ruqyah Bath Recitation for Sihr and Black Magic Treatments"
+            },
+            {
+              "id": "4",
+              "title": "Importance of Ruqyah Bath and Hijamah for Sihr Treatment"
+            },
+            {
+              "id": "5",
+              "title": "11-Day Ruqyah Water Treatment for Sihr and Jinn Removal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Full Ruqyah program",
+      "subcategories": [
+        {
+          "subcategory": "Full Ruqyah program",
+          "subcategory-slug": "full-ruqyah-program",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "How to Perform Full Ruqyah Shariah Self Treatment for Healing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Waswasah - whisperings",
+      "subcategories": [
+        {
+          "subcategory": "Waswasah - whisperings",
+          "subcategory-slug": "waswasah-whisperings",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Islamic Ruqyah treatment for Waswasa and Evil Whispers"
+            },
+            {
+              "id": "2",
+              "title": "Waswasa Thoughts Come From Shaitan - Islamic Ruqyah"
+            },
+            {
+              "id": "3",
+              "title": "Why Evil Thoughts Are Signs of true Faith in Sahih Muslim Hadith"
+            },
+            {
+              "id": "4",
+              "title": "Ruqyah Dua for Waswasa and Evil Thoughts with English Translation"
+            },
+            {
+              "id": "5",
+              "title": "Ruqyah for Waswasa - How to Stop waswasa and evil whispers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other Diseases",
+      "subcategories": [
+        {
+          "subcategory": "Other Diseases",
+          "subcategory-slug": "other-diseases",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Duas for Protection from Pornography and Zina Addiction"
+            },
+            {
+              "id": "2",
+              "title": "Protect Yourself From Jinn Attacks While Sleeping With Ruqyah Treatment"
+            },
+            {
+              "id": "3",
+              "title": "Islamic Ruqyah and Prophetic Herbs for Psoriasis and Eczema"
+            },
+            {
+              "id": "4",
+              "title": "Natural Ruqyah Treatment for Magic and Stomach Problems"
+            },
+            {
+              "id": "5",
+              "title": "Powerful Dua for Infertility and Childlessness Problems in Islam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treatment for general problems",
+      "subcategories": [
+        {
+          "subcategory": "Treatment for general problems",
+          "subcategory-slug": "treatment-for-general-problems",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Ruqyah Dua for Body Pain Relief with Translation & Transliteration"
+            },
+            {
+              "id": "2",
+              "title": "Ruqyah Treatment for Children - Every Parent Needs to Know"
+            },
+            {
+              "id": "3",
+              "title": "Ruqyah Treatment for Non-Muslims Against Jinn and Evil Afflictions"
+            },
+            {
+              "id": "4",
+              "title": "Patience in Ruqyah Treatment and Why It Takes Time to Heal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Types of Hijamah / Bloodletting",
+      "subcategories": [
+        {
+          "subcategory": "Types of Hijamah / Bloodletting",
+          "subcategory-slug": "types-of-hijamah-bloodletting",
+          "ruqyah": [
+            {
+              "id": "1",
+              "title": "Sunnah Hijama Treatment - How Islamic Cupping Works Today"
+            },
+            {
+              "id": "2",
+              "title": "Benefits of Hijama Cupping Therapy According to Sunnah"
+            },
+            {
+              "id": "3",
+              "title": "Hadith About Hijama – Why Cupping Is Best Medicine in Islam"
+            },
+            {
+              "id": "4",
+              "title": "Hijamah in Strength - Cupping Therapy for Healthy People"
+            },
+            {
+              "id": "5",
+              "title": "How Hijamah Treats Illness Through Sunnah Cupping Therapy"
+            },
+            {
+              "id": "6",
+              "title": "Phlebotomy vs Hijamah - Ruqiyah Shariah"
+            },
+            {
+              "id": "7",
+              "title": "Guidelines for performing Hijamah - Ruqiyah Shariah"
+            },
+            {
+              "id": "8",
+              "title": "General contraindications and precautions - Ruqiyah Shariah"
+            },
+            {
+              "id": "9",
+              "title": "Constitutions or body types - Ruqiyah Shariah"
+            },
+            {
+              "id": "10",
+              "title": "8 patterns of illness - Ruqiyah Shariah"
+            },
+            {
+              "id": "11",
+              "title": "The condition of the person having Hijamah - Ruqiyah Shariah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

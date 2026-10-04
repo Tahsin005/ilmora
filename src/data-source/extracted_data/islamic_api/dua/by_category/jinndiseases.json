@@ -1,0 +1,1598 @@
+{
+  "category": {
+    "name": "Jinn/Diseases",
+    "url": "jinndiseases",
+    "icon": "jinn_diseases.svg",
+    "meta": "2 Subcategories"
+  },
+  "total_subcategories": 2,
+  "total_duas": 35,
+  "subcategories": [
+    {
+      "id": 104,
+      "title": "What to do in the treatment of Jinn, black magics and diseases",
+      "category": "jinndiseases",
+      "dua-ids": [
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578
+      ],
+      "duas": [
+        {
+          "dua_id": 559,
+          "title": "Dua for Protection from Jinn",
+          "category_tags": [],
+          "introduction": "He will recite these verses and suras with Tartil after doing ablution. Scholers say that reciting these verses and suras repeatedly for several months or listening to them through cassettes gives good results.",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+          "audio": "/audio/dua/559.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. Alhamdu lillaahi Rabbil-'aalameen. Ar-Rahmaanir-Raheem. Maaliki Yawmid-Deen. Iyyaaka na'budu wa iyyaaka nasta'een. Ihdinas-Siraatal-mustaqeem. Siraatal-lazeena an'amta 'alaihim ghairil-maghdoobi 'alaihim wa lad-daallleen.",
+          "translation": "(1) In the name of Allah, the Entirely Merciful, the Especially Merciful. (2) [All] praise is [due] to Allah, Lord of the worlds - (3) The Entirely Merciful, the Especially Merciful, (4) Sovereign of the Day of Recompense. (5) It is You we worship and You we ask for help. (6) Guide us to the straight path - (7) The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+          "reference": "Surah Fatiha 1",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah for Jinn Protection",
+            "description": "Surah Fatiha is a strong surah for jinn protection, bringing Allah’s mercy and help, guiding muslims to safety, and keeping hearts close to Him in every part of life.",
+            "points": [
+              "Al Fatiha keeps jinn and shaitan away when muslims read it with Iman.",
+              "Bismillahir rahmanir rahim in this surah for jinn protection brings Allah’s care.",
+              "Alhamdulillah rabbil alamin grows Barakah and Amal in every muslim home.",
+              "Ihdinas siratal mustaqim helps muslims stay on the right path and away from harm.",
+              "Ruqyah for healing with surah fatiha gives peace and safety from hidden evil."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah For Jinn Protection",
+            "description": "This surah for jinn protection, Surah Fatiha, is a strong masnun dua for safety, Barakah, and guidance, asking Allah for help and hifazat from harm, jinn, and all hidden dangers in daily life.",
+            "points": [
+              "After every salah, recite surah fatiha for jinn protection and to seek Allah’s help.",
+              "When entering a new place or empty room, use surah for jinn protection for safety.",
+              "Before sleeping at night, read al fatiha as a dua for protection from jinn and bad dreams.",
+              "If feeling scared or uneasy, recite alhamdulillah rabbil alamin for calm and Barakah.",
+              "While doing ruqyah for healing, start with surah fatiha for strong protection and shifa."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Surah for Jinn Protection",
+            "description": "Reciting Surah Fatiha is a strong way to ask Allah for safety from jinn and harm. This surah for jinn protection brings Barakah and keeps your Iman safe, so every Muslim should use it in daily Amal.",
+            "steps": [
+              "Start by saying bismillahir rahmanir rahim with full heart before reading surah fatiha.",
+              "After Fard salah, recite surah fatiha as a dua for protection from jinn and evil.",
+              "When feeling scared at night, read alhamdulillah rabbil alamin for peace and safety.",
+              "If you visit a new place, recite surat al fatihah to keep away jinn and get Allah’s help.",
+              "For ruqyah for healing, use surah fatiha benefits by reading it over water and drink it."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 560,
+          "title": "Dua for Guidance for the Righteous (Surah Al-Baqarah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "الم ﴿١﴾ ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ﴿٢﴾ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ ﴿٣﴾ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ ﴿٤﴾ أُولَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿٥﴾",
+          "audio": "/audio/dua/560.mp3",
+          "transliteration": "Alif-Laam-Meem. Zaalikal-Kitaabu laa raiba feeh; hudal-lil-muttaqeen. Allazeena yu'minoona bil-ghaibi wa yuqeemoonas-Salaata wa mimmaa razaqnaahum yunfiqoon. Wallazeena yu'minoona bimaaa unzila ilaika wa maaa unzila min qablika wa bil-Aakhirati hum yooqinoon. Ulaaa'ika 'alaa hudam-mir-Rabbihim wa ulaaa'ika humul-muflihoon.",
+          "translation": "(1) Alif, Lam, Meem. (2) This is the Book about which there is no doubt, a guidance for those conscious of Allah - (3) Who believe in the unseen, establish prayer, and spend out of what We have provided for them, (4) And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]. (5) Those are upon [right] guidance from their Lord, and it is those who are the successful.`",
+          "reference": "Surah Baqarah 2: 1-5",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Guidance from Surah Baqarah",
+            "description": "Surah Baqarah brings strong guidance for the righteous, helping muslims keep Iman, Salah, and Amal strong, and showing the way to success in this life and the next.",
+            "points": [
+              "Alif laam meem in surah baqarah gives clear hidayah to those with taqwa.",
+              "Belief in the unseen and Salah from this dua for guidance grows Iman daily.",
+              "Spending rizq for Allah’s sake brings Barakah and unity in muslim families.",
+              "Faith in all prophets and akhirah from surah al baqarah keeps hearts firm.",
+              "Al baqarah helps muslims stay on the path of success and Allah’s mercy."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Guidance",
+            "description": "This dua for guidance from Surah Baqarah brings Barakah and helps the heart stay on the right path, giving Iman and Amal to those who want to follow Allah’s book and live as a true Muslim every day.",
+            "points": [
+              "In the early morning, recite surah baqarah verses for guidance and strong Iman.",
+              "Before starting any big work, use this dua for guidance to ask Allah for right Amal.",
+              "After finishing salah, read these ayat for Barakah and to keep your heart on the straight path.",
+              "When feeling lost or weak in faith, recite al baqarah for help and guidance from Allah.",
+              "While teaching kids about Islam, share this dua for guidance to grow their Iman and Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Guidance",
+            "description": "These ayahs from surah baqarah are a strong dua for guidance and help you stay on the right path. Reciting them brings Barakah, keeps your Iman strong, and helps you follow the way of the righteous.",
+            "steps": [
+              "Begin by reading alif laam meem with full focus before starting surah baqarah.",
+              "After every namaz, recite these verses as a dua for guidance and ask for Allah’s help.",
+              "When feeling lost, read surah baqarah benefits to find the right way and get peace.",
+              "If you want to grow your Iman, recite surat ul bakra and think about the meaning deeply.",
+              "For more Barakah in your Amal, use this dua in islam by reading it in your daily zikr allah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 561,
+          "title": "Dua for Protection from Magic and Evil (Surah Al-Baqarah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَـٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ ﴿١٠٢﴾",
+          "audio": "/audio/dua/561.mp3",
+          "transliteration": "Wattaba'oo maa tatlush-Shayaateenu 'alaa mulki Sulaimaan; wa maa kafara Sulaimaanu wa laakinnash-Shayaateena kafaroo yu'allimoonan-naasas-sihra wa maaa unzila 'alal-malakaini bi-Baabila Haaroota wa Maaroot; wa maa yu'allimaani min ahadin hattaa yaqoolaaa innamaa nahnu fitnatun falaa takfur. Fayata'allamoona minhumaa maa yufarriqoona bihee bainal-mar'i wa zawjih; wa maa hum bi-daaarreena bihee min ahadin illaa bi-iznillaah; wa yata'allamoona maa yadurruhum wa laa yanfa'uhum; wa laqad 'alimoo lamanishtaraahu maa lahoo fil-Aakhirati min khalaaq; wa labi'sa maa sharaw biheee anfusahum; law kaanoo ya'lamoon.",
+          "translation": "(102) And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, \"We are a trial, so do not disbelieve [by practicing magic].\" And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah . And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.",
+          "reference": "Surah Baqarah 2: 102",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Magic and Evil (Surah Baqarah)",
+            "description": "This ayah from Surah Baqarah gives muslims a strong shield against black magic, evil, and harm, reminding hearts that only Allah’s will can bring safety and peace in every home.",
+            "points": [
+              "Surah baqarah ayat 102 keeps black magic and jadu ka ilaj away by Allah’s will.",
+              "Harut and Marut story warns muslims to stay away from magic and evil acts.",
+              "Nabi Sulaiman’s name in this dua for protection brings Barakah and safety.",
+              "Reciting this dua for protection from jinn and harm keeps families safe at home.",
+              "Belief in Allah’s power from surah al baqarah grows Iman and Amal in muslims."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Protection",
+            "description": "This dua for protection from Surah Baqarah ayat 102 is a strong masnun dua for safety from black magic, evil, and harm, asking Allah for hifazat and Barakah when you feel scared or want to keep your home safe.",
+            "points": [
+              "After fajr salah, recite surah baqarah ayat 102 as a dua for protection from evil.",
+              "When you feel scared of black magic, use this dua for protection from harm and jinn.",
+              "Before entering your house, read this ayat for Barakah and to keep away black magic in islam.",
+              "If someone complains about jadu ka ilaj, recite harut and marut ayat for their safety.",
+              "While doing ruqyah for black magic, start with this dua for protection from evil and shaitan."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Magic and Evil",
+            "description": "This dua for protection from surah baqarah ayat 102 is a strong shield against black magic in islam and evil. Reciting it brings Barakah, keeps your Amal safe, and helps you stay away from harm and jinn.",
+            "steps": [
+              "Begin by reading surah baqarah ayat 102 with full yaqeen in Allah’s power and mercy.",
+              "After every Fard salah, recite this dua for protection from evil and black magic in islam.",
+              "When you feel scared of jinn or magic, read harut and marut ayah for jinn protection.",
+              "If you think someone did jadu ka ilaj, use this dua for black magic protection daily.",
+              "For more safety, recite surah for jinn protection and ask Allah to keep your family safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 562,
+          "title": "The Oneness of Allah in Islam (Surah Al-Baqarah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ ۖ لَّا إِلَـٰهَ إِلَّا هُوَ الرَّحْمَـٰنُ الرَّحِيمُ ﴿١٦٣﴾ إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنفَعُ النَّاسَ وَمَا أَنزَلَ اللَّـهُ مِنَ السَّمَاءِ مِن مَّاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ ﴿١٦٤﴾",
+          "audio": "/audio/dua/562.mp3",
+          "transliteration": "Wa ilaahukum ilaahun Waahid; laaa ilaaha illaa Huwar-Rahmaanur-Raheem. Inna fee khalqis-samaawaati wal-ardi wakhtilaafil-layli wan-nahaari wal-fulkil-latee tajree fil-bahri bimaa yanfa'un-naasa wa maaa anzalallaahu minas-samaaa'i mim-maaa'in fa-ahyaa bihil-arda ba'da mawtihaa wa baththa feehaa min kulli daaabbatin wa tasreefir-riyaahi was-sahaabil-musakhkhari bainas-samaaa'i wal-ardi la-aayaatil-liqawmil-ya'qiloon.",
+          "translation": "(163) And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful. (164) Indeed, in the creation of the heavens and earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allah has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and the earth are signs for a people who use reason.",
+          "reference": "Surah Baqarah 2: 163-164",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah Baqarah on Oneness of Allah",
+            "description": "These ayat from Surah Baqarah remind muslims about the oneness of Allah, showing His mercy, power, and signs in every part of life, and helping hearts stay strong in Iman and Amal.",
+            "points": [
+              "Surah baqarah teaches islamic monotheism and keeps Iman pure in every muslim.",
+              "Ar rahman ar rahim in these ayat shows Allah’s mercy and care for all creation.",
+              "Signs of Allah in the sky, earth, and rain help muslims see His power every day.",
+              "Belief in Allah the creator from surah al baqarah grows Amal and Barakah at home.",
+              "These ayat help muslims remember Allah’s oneness and stay away from shirk."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite The Oneness of Allah in Islam (Surah Al-Baqarah)",
+            "description": "Reciting these ayat from surah baqarah reminds us of Allah the creator, His mercy, and the signs of Allah in the world, making our Iman strong and hearts full of Barakah and hope.",
+            "points": [
+              "After finishing salah, repeat this surah baqarah ayah to remember monotheism in islam.",
+              "When feeling scared at night, read surah for protection from jinn and seek mercy of allah.",
+              "While looking at the sky or nature, reflect on signs of allah by reciting surah al baqarah.",
+              "At times of hardship, use this dua for protection from jinn and trust ar rahman ar rahim.",
+              "Before going to bed, recite surat ul bakra ayah for Barakah and to keep away shayateen."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Surah Baqarah for Oneness of Allah",
+            "description": "These ayahs from surah baqarah show the signs of Allah and teach us about monotheism in islam. Reciting them helps you remember Allah the creator and brings Barakah and mercy of Allah in your daily Amal.",
+            "steps": [
+              "Start by reading ar rahman ar rahim with full yaqeen in the oneness of Allah.",
+              "After every namaz, recite these verses to remember the mercy of Allah and His signs.",
+              "When you see the sky or rain, think about allah the creator and read these ayahs softly.",
+              "If you feel weak in Iman, use surah al baqarah to make your heart strong in islamic monotheism.",
+              "For more Barakah, recite surah for protection from jinn and ask Allah to keep your family safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 563,
+          "title": "Recite Ayat al-Kursi Dua for Protection",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اللّٰهُ لَآ إِلٰهَ إِلَّا هُوَ الْحَىُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى السَّمٰوٰتِ وَمَا فِى الْأَرْضِ ۗ مَن ذَا الَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمٰوٰتِ وَالْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+          "audio": "/audio/dua/563.mp3",
+          "transliteration": "Allaahu laaa ilaaha illaa Huwal-Hayyul-Qayyoom; laa ta'khuzuhoo sinatun wa laa nawm; lahoo maa fis-samaawaati wa maa fil-ard; man zal-lazee yashfa'u 'indahooo illaa bi-iznih; ya'lamu maa baina aydeehim wa maa khalfahum wa laa yuheetoona bishai'im-min 'ilmihee illaa bimaa shaaa'; wasi'a Kursiyyuhus-samaawaati wal-arda wa laa ya'ooduhoo hifzuhumaa; wa Huwal-'Aliyyul-'Azeem.",
+          "translation": "(255) Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+          "reference": "Surah Baqarah 2: 255",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Ayatul Kursi for Protection",
+            "description": "Ayatul Kursi is a strong shield for muslims, keeping hearts safe from harm, evil, and fear, and bringing Allah’s care and Barakah in every part of daily life and Amal.",
+            "points": [
+              "Ayatul kursi gives powerful protection from evil eye and shaitan by Allah’s will.",
+              "This throne verse keeps muslims safe at home and while walks on road.",
+              "Reciting ayatul kursi after Salah brings Barakah and peace in every muslim house.",
+              "Ayatul kursi benefits include safety from harm and strong Iman in the heart.",
+              "Surah baqarah ayatul kursi helps muslims remember Allah’s greatness every day."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Ayat al-Kursi Dua for Protection",
+            "description": "Reciting ayatul kursi brings safety, Barakah, and Allah’s help, making it a strong dua for protection from evil eye, shayateen, and harm, while filling the heart with Iman and peace.",
+            "points": [
+              "After every fard salah, recite ayatul kursi for protection and ayatul kursi benefits.",
+              "Before going to bed, read ayatul kursi dua for safety from shayateen and evil eye.",
+              "When leaving the house, use ayatul kursi for protection from harm and danger outside.",
+              "If feeling scared at night, repeat ayat al kursi for peace and Allah’s mercy in your home.",
+              "While teaching kids, help them learn ayatul kursi in english for Barakah and strong Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Ayatul Kursi for Protection",
+            "description": "Ayatul kursi is a strong dua for protection and safety from harm and evil. Reciting this verse from surah baqarah brings Barakah, keeps your Iman safe, and gives you Allah’s help in every part of life.",
+            "steps": [
+              "Start by reading ayatul kursi with full yaqeen after every Fard namaz for safety.",
+              "Before going to bed, recite ayatul kursi for protection from evil eye and jinn.",
+              "When leaving home, read ayatul kursi dua to keep your family safe from harm.",
+              "If you feel scared or weak, use ayatul kursi benefits by reciting it for peace and strength.",
+              "For more Barakah in your Amal, include ayatul kursi in your daily zikr allah and duas."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 564,
+          "title": "Quranic Dua for Strength & Forgiveness (Surah Baqarah)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لِّلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّـهُ ۖ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّـهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٨٤﴾ آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّـهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّـهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+          "audio": "",
+          "transliteration": "Lillaahi maa fis-samaawaati wa maa fil-ard; wa in tubdoo maa feee anfusikum aw tukhfoohu yuhaasibkum bihil-laah; fayaghfiru liman yashaaa'u wa yu'azzibu man yashaaa'; wallaahu 'alaa kulli shai'in Qadeer. Aamanar-Rasoolu bimaaa unzila ilaihi mir-Rabbihee wal-mu'minoon; kullun aamana billaahi wa malaaa'ikatihee wa Kutubihee wa Rusulihee laa nufarriqu baina ahadim-mir-Rusulih; wa qaaloo sami'naa wa ata'naa ghufraanaka Rabbanaa wa ilaikal-maseer. Laa yukallifullaahu nafsan illaa wus'ahaa; lahaa maa kasabat wa 'alaihaa maktasabat; Rabbanaa laa tu'aakhiznaaa in naseenaaa aw akhta'naa; Rabbanaa wa laa tahmil 'alainaa isran kamaa hamaltahoo 'alal-lazeena min qablinaa; Rabbanaa wa laa tuhammilnaa maa laa taaqata lanaa bih; wa'fu 'annaa waghfir lanaa warhamnaa; Anta Mawlaanaa fansurnaa 'alal-qawmil-kaafireen.",
+          "translation": "(284) To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent. (285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\" (286) Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+          "reference": "Surah Baqarah 2: 284-286",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Quranic Dua for Strength & Forgiveness (Surah Baqarah)",
+            "description": "These last ayat of Surah Baqarah give muslims hope, strength, and Allah’s forgiveness, helping hearts stay strong in Iman and Amal, and making every day full of Barakah and mercy.",
+            "points": [
+              "Amanar rasul and rabbana in surah baqarah bring Allah’s forgiveness to muslims.",
+              "Dua for strength in these ayat helps muslims face hard times with strong Iman.",
+              "Allah’s promise in la yukallifullah gives peace and removes fear from the heart.",
+              "Asking for mercy and forgiveness dua brings Barakah and unity in muslim families.",
+              "Last 2 verses of surah baqarah protect muslims from burden and guide to Amal."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Quranic Dua for Strength & Forgiveness (Surah Baqarah)",
+            "description": "These last 2 verses of surah baqarah are a strong dua for forgiveness and strength, bringing Barakah, mercy, and help from Allah, and making the heart full of Iman and hope in every Amal.",
+            "points": [
+              "After isha salah, recite last 2 verses of surah baqarah for forgiveness and Barakah.",
+              "When feeling weak or tired, use this dua for strength and ask Allah for help in hardship.",
+              "Before going to bed, read amanar rasul for protection and mercy from Allah the protector.",
+              "At times of regret, repeat this dua for forgiveness to seek Allah’s mercy and clean your heart.",
+              "When facing big tests, recite la yukallifullah for patience and trust in Allah’s power."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Quranic Dua for Strength & Forgiveness",
+            "description": "This powerful dua for forgiveness from Surah Baqarah is recited for strength and mercy from Allah. The last 2 verses of surah baqarah, known as amanar rasul, are a special quranic dua every Muslim should read daily.",
+            "steps": [
+              "Start by sitting in a clean place after salah and recite the last 2 verses of surah baqarah.",
+              "When you feel weak or need help, read this dua for strength and ask Allah for Barakah.",
+              "At night before going to bed, recite amanar rasul for forgiveness and protection.",
+              "If you make a mistake, use this dua for forgiveness and say rabana with full hope in Allah.",
+              "During hard times, repeat la yukallifullah from surah al baqarah to find peace and calm your heart."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 565,
+          "title": "Dua for seeking Knowledge & Faith",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "شَهِدَ اللَّـهُ أَنَّهُ لَا إِلَـٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَـٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ ﴿١٨﴾ إِنَّ الدِّينَ عِندَ اللَّـهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِآيَاتِ اللَّـهِ فَإِنَّ اللَّـهَ سَرِيعُ الْحِسَابِ ﴿١٩﴾",
+          "audio": "/audio/dua/565.mp3",
+          "transliteration": "Shahidallaahu annahoo laaa ilaaha illaa Huwa wal-malaaa'ikatu wa ulul-'ilmi qaaa'imam-bilqist; laaa ilaaha illaa Huwal-'Azeezul-Hakeem. Innad-deena 'indallaahil-Islaam; wa makhtalafal-lazeena ootul-Kitaaba illaa mim-ba'di maa jaaa'ahumul-'ilmu baghyam-bainahum; wa man yakfur bi-aayaatillaahi fa-innallaaha saree'ul-hisaab.",
+          "translation": "(18) Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise. (19) Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account.",
+          "reference": "Surah Ali-Imran 3: 18-19",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Increasing Knowledge and Faith",
+            "description": "This dua from Surah Al-Imran helps muslims grow in knowledge and Iman, reminding hearts that true wisdom and justice come from Allah, and keeping Amal strong in every part of life.",
+            "points": [
+              "Dua for increasing knowledge brings Barakah and true ilm in a muslim’s heart.",
+              "Witness of Allah and angels in surah al imran grows Iman and unity in families.",
+              "Al aziz and wise names in this dua for knowledge help muslims stay on right path.",
+              "Knowledge in islam from this ayah keeps Amal pure and away from jealousy.",
+              "Increase knowledge dua makes learning easy and brings peace in daily Amal."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Seeking Knowledge & Faith",
+            "description": "This dua for increasing knowledge from surah al imran helps you ask Allah for more ilm, strong Iman, and Barakah in your learning, while remembering al aziz and the wisdom in knowledge in islam.",
+            "points": [
+              "Before starting any study, recite dua for knowledge to ask Allah for increase in ilm.",
+              "When entering a classroom, use this dua for increasing knowledge and Barakah in learning.",
+              "After finishing salah, repeat this dua for learning to keep your heart open for new ilm.",
+              "At times of confusion, read increase knowledge dua to seek guidance and clear your mind.",
+              "While teaching others, recite dua for increase in knowledge for wisdom and strong Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for seeking Knowledge & Faith",
+            "description": "This dua for increasing knowledge from surah al imran is a strong quranic dua for Muslims who want more Iman and wisdom. It reminds us that true knowledge and faith come from Allah, the Al Aziz, and helps us stay on the right path.",
+            "steps": [
+              "After every namaz, recite this dua for knowledge to ask Allah for more ilm and Iman.",
+              "When starting your study or learning, read this increase knowledge dua for Barakah.",
+              "In the morning, say this dua for learning to begin your day with Allah’s help.",
+              "If you feel lost in your studies, use this dua for increasing knowledge to guide your heart.",
+              "During zikr allah, repeat this dua for increase in knowledge to keep your mind and soul strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 566,
+          "title": "Dua for Protection from Black Magic (Surah Al-Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنَّ رَبَّكُمُ اللَّـهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يُغْشِي اللَّيْلَ النَّهَارَ يَطْلُبُهُ حَثِيثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ ۗ أَلَا لَهُ الْخَلْقُ وَالْأَمْرُ ۗ تَبَارَكَ اللَّـهُ رَبُّ الْعَالَمِينَ ﴿٥٤﴾ ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ ﴿٥٥﴾ وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّـهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ ﴿٥٦﴾",
+          "audio": "/audio/dua/566.mp3",
+          "transliteration": "Inna Rabbakumullaahul-lazee khalaqas-samaawaati wal-arda fee sittati ayyaamin thummastawaa 'alal-'Arshi yughshil-laylan-nahaara yatlubuhoo hatheethan wash-shamsa wal-qamara wan-nujooma musakhkharaatim-bi-amrih; alaa lahul-khalqu wal-amr; tabaarakallaahu Rabbul-'aalameen. Ud'oo Rabbakum tadarru'an wa khufyah; innahoo laa yuhibbul-mu'tadeen. Wa laa tufsidoo fil-ardi ba'da islaahihaa wad'oohu khawfan wa tama'aa; inna rahmatallaahi qareebum-minal-muhsineen.",
+          "translation": "(54) Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds. (55) Call upon your Lord in humility and privately; indeed, He does not like transgressors. (56) And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.",
+          "reference": "Surah A'raf 7: 54-56",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Black Magic (Surah Al-Araf)",
+            "description": "These ayat from Surah Al-Araf remind muslims of Allah’s power and mercy, giving strong protection from black magic and harm, and keeping hearts close to Him with Barakah and hope.",
+            "points": [
+              "Allah the creator in surah al araf keeps muslims safe from black magic and harm.",
+              "Tabarakallah in these ayat brings Barakah and peace in every muslim home.",
+              "Calling Allah with fear and hope helps muslims get His mercy and protection.",
+              "Dua for protection from black magic grows Iman and Amal in daily life.",
+              "Staying away from fasad after islah brings Allah’s mercy close to the heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Protection from Black Magic (Surah Al-Araf)",
+            "description": "This dua from surah al araf is a strong shield for protection from black magic, reminding us of Allah’s power, His mercy, and the Barakah He gives to those who call on Him with Iman and hope.",
+            "points": [
+              "After fajr salah, recite this dua for protection from black magic and evil around you.",
+              "When feeling scared of sihr, use surah al araf ayah to seek Allah’s mercy and safety.",
+              "Before going to sleep, read this dua for protection to keep harm and jinn away at night.",
+              "At times of fear or doubt, repeat this dua for protection from black magic for peace in heart.",
+              "While making zikr allah, include this dua for Barakah and to keep your home safe from harm."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Black Magic",
+            "description": "This dua for protection from black magic in surah al araf reminds us to trust Allah, the only one who can keep us safe from harm. These ayat teach us to call on Allah with hope and fear, and to stay away from bad things.",
+            "steps": [
+              "Sit in a quiet spot and recite these verses from surah al araf with full trust in Allah.",
+              "When you feel scared of black magic, read this dua for protection and ask for Allah’s mercy.",
+              "Before going to bed, say this quranic dua for safety from harm and evil things.",
+              "If you see signs of trouble, use this dua for protection from black magic to keep your home safe.",
+              "After every salah, repeat this muslim prayer to get Allah’s Barakah and keep your Iman strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 567,
+          "title": "Dua for Protection from Jinn (Surah Al-Araf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ ﴿١١٧﴾ فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ ﴿١١٨﴾ فَغُلِبُوا هُنَالِكَ وَانقَلَبُوا صَاغِرِينَ ﴿١١٩﴾ وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ ﴿١٢٠﴾ قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ ﴿١٢١﴾ رَبِّ مُوسَىٰ وَهَارُونَ ﴿١٢٢﴾",
+          "audio": "/audio/dua/567.mp3",
+          "transliteration": "Wa awhainaaa ilaa Moosaaa an alqi 'asaaka fa-izaa hiya talqafu maa ya'fikoon. Fawqa'al-haqqu wa batala maa kaanoo ya'maloon. Faghuliboo hunaalika wanqalaboo saaghireen. Wa ulqiyas-saharatu saajideen. Qaaloo aamannaa bi-Rabbil-'aalameen. Rabbi Moosaa wa Haaroon.",
+          "translation": "(117) And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying. (118) So the truth was established, and abolished was what they were doing. (119) And Pharaoh and his people were overcome right there and became debased. (120) And the magicians fell down in prostration [to Allah ]. (121) They said, \"We have believed in the Lord of the worlds, (122) The Lord of Moses and Aaron.\"",
+          "reference": "Surah A'raf 7: 117-122",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Jinn",
+            "description": "This dua from Surah Al-Araf helps keep a Muslim safe from jinn and evil, showing Allah’s power and truth, and brings peace and strong Iman to the heart of anyone who trusts in Rabbul Alamin.",
+            "points": [
+              "Allah’s help from surah al araf keeps a muslim safe from jinn and evil.",
+              "This dua for protection from jinn makes falsehood weak and truth strong.",
+              "Nabi Harun and Musa’s story in al a raf surah shows Allah’s power over harm.",
+              "Jinn protection dua brings peace and keeps the heart close to Rabbul Alamin.",
+              "Manzil dua and this quranic dua help muslims trust Allah in every mushkil time."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Protection from Jinn",
+            "description": "Reciting this dua for protection from jinn from Surah Al-Araf helps shield you from harm, brings Barakah, and reminds you of Allah’s power, just like Nabi Musa and Nabi Harun trusted Rabbul Alamin.",
+            "points": [
+              "After maghrib salah, read this dua for protection from jinn to keep your home safe.",
+              "When feeling scared at night, use surah for protection from jinn for calm and peace.",
+              "Before entering a new place, recite the dua for jinn protection from surat al araf for safety.",
+              "If you sense any strange things, repeat this jinn protection dua as taught in manzil dua.",
+              "While teaching kids about Islamic dua, share this dua for protection from jinn for their Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Jinn",
+            "description": "This dua for protection from jinn in surah al araf shows how Allah’s power can break all evil. These ayat remind us to trust Rabbul Alamin and use this quranic dua for safety from jinn and hidden harm.",
+            "steps": [
+              "After every namaz, recite these verses from surat al araf for jinn protection and peace.",
+              "When you feel afraid at night, read this dua for protection from jinn to calm your heart.",
+              "If you sense something strange at home, use this jinn protection dua to keep your family safe.",
+              "Before going outside, say this dua for protection and ask Allah to guard you from harm.",
+              "During zikr allah, repeat this dua for jinn protection to make your Iman and Amal strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 568,
+          "title": "Dua for Protection Against Magic (Surah Yunus)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَلَمَّا أَلْقَوْا قَالَ مُوسَىٰ مَا جِئْتُم بِهِ السِّحْرُ ۖ إِنَّ اللَّـهَ سَيُبْطِلُهُ ۖ إِنَّ اللَّـهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ ﴿٨١﴾ وَيُحِقُّ اللَّـهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ ﴿٨٢﴾",
+          "audio": "/audio/dua/568.mp3",
+          "transliteration": "Falammaaa alqaw qaala Moosaa maa ji'tum bihis-sihr; innallaaha sayubtiluh; innallaaha laa yuslihu 'amalal-mufsideen. Wa yuhiqqullaahul-haqqa bikalimaatihee wa law karihal-mujrimoon.",
+          "translation": "(81) And when they had thrown, Moses said, \"What you have brought is [only] magic. Indeed, Allah will expose its worthlessness. Indeed, Allah does not amend the work of corrupters. (82) And Allah will establish the truth by His words, even if the criminals dislike it.\"",
+          "reference": "Surah Yunus 10: 81-82",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Black Magic",
+            "description": "This dua from Surah Yunus gives hope to Muslims facing sihr, showing Allah’s power to break black magic and keep the heart safe, while making truth shine even when others try to harm.",
+            "points": [
+              "Allah’s words in surah yunus break the power of black magic and sihr.",
+              "This dua for protection from black magic keeps a muslim’s Iman strong and safe.",
+              "Surat yunus shows how Allah removes harm and falsehood from the life of believers.",
+              "Dua to remove black magic helps muslims trust Allah when facing any sihr or evil.",
+              "Quranic dua for protection brings peace and keeps amal clean from bad things."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Protection from Black Magic",
+            "description": "This dua for protection from black magic from Surah Yunus is a strong shield for Muslims, asking Allah to break sihr and keep your Amal safe, just like Nabi Musa trusted Allah’s words over magic.",
+            "points": [
+              "After fajr salah, recite this dua for protection from black magic for a safe start.",
+              "When you feel signs of sihr, use surah yunus dua to remove black magic from your life.",
+              "Before sleeping, read this protection dua from surat yunus for Allah’s Barakah and safety.",
+              "If you visit a place known for black majic, repeat this dua to protect from black magic.",
+              "While teaching family about Islamic dua, share this dua for protection from black magic for Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection Against Magic",
+            "description": "This dua for protection from black magic in surah yunus is a strong quranic dua to keep you safe from sihr and evil. These ayat show that only Allah can remove black magic and make the truth clear.",
+            "steps": [
+              "Sit in a clean place and recite these verses from surah yunus with full yaqeen in Allah.",
+              "When you feel scared of black magic, read this dua for protection and ask for safety.",
+              "If you think someone did sihr, use this dua to remove black magic and trust Allah’s power.",
+              "Before going to sleep, say this protection dua to keep away harm and get Barakah.",
+              "After salah, repeat this dua for protection from black magic to keep your Iman and Amal safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 569,
+          "title": "Dua for Protection from Black Magic and Evil",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَأَلْقِ مَا فِي يَمِينِكَ تَلْقَفْ مَا صَنَعُوا ۖ إِنَّمَا صَنَعُوا كَيْدُ سَاحِرٍ ۖ وَلَا يُفْلِحُ السَّاحِرُ حَيْثُ أَتَىٰ ﴿٦٩﴾",
+          "audio": "/audio/dua/569.mp3",
+          "transliteration": "Wa alqi maa fee yameenika talqaf maa sana'oo; innamaa sana'oo kaidu saahir; wa laa yuflihus-saahiru haithu ataa.",
+          "translation": "(69) And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"",
+          "reference": "Surah Ta Ha 20:69",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Evil",
+            "description": "This dua from Surah Taha helps Muslims stay safe from black magic and evil tricks, showing that Allah’s power always wins and no magician or sihr can harm a true believer who trusts in Him.",
+            "points": [
+              "Allah’s help in surah taha makes every trick of sihr and evil weak and useless.",
+              "Dua for protection from evil keeps a muslim’s heart safe from harm and bad plans.",
+              "Surat taha shows that magicians and black magic never win against Allah’s will.",
+              "Ruqyah for black magic with this dua brings peace and keeps amal clean and strong.",
+              "Dua for removing black magic helps muslims trust Allah in every hard and scary time."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Protection from Evil",
+            "description": "This dua for protection from evil from Surah Taha helps keep you safe from black magic and sihr, reminding you that Allah’s power is above all tricks and brings Barakah to your Amal and Iman.",
+            "points": [
+              "After maghrib salah, recite this dua for protection from evil for peace in your home.",
+              "When you feel any harm from sihr, use surah taha dua for black magic to seek Allah’s help.",
+              "Before entering unknown places, read this dua for protection from jinn and evil for safety.",
+              "If you hear about black magic, repeat this protection dua from surat taha for strong Iman.",
+              "While teaching kids about Islamic dua, share this dua for protection from evil for their Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Black Magic and Evil",
+            "description": "This dua from Surah Ta Ha is a strong shield for Muslims who want Allah’s help against black magic, sihr, and evil. Reciting this quranic dua brings peace and keeps you safe from harm, so every believer should use it in their daily life.",
+            "steps": [
+              "Start by making fresh wudu and sit in a clean place before reciting this dua for protection from evil.",
+              "When you feel scared of sihr or black magic, read this dua for black magic with full trust in Allah.",
+              "If you think someone is affected by jinn, softly recite this ruqyah for black magic over them.",
+              "Before going to bed, say this protection dua from surah taha to keep away evil and get Allah’s mercy.",
+              "After every namaz, repeat this dua for removing black magic to keep your home and family safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 570,
+          "title": "Dua for Forgiveness from Surah Muminun",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ ﴿١١٥﴾ فَتَعَالَى اللَّـهُ الْمَلِكُ الْحَقُّ ۖ لَا إِلَـٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ ﴿١١٦﴾ وَمَن يَدْعُ مَعَ اللَّـهِ إِلَـٰهًا آخَرَ لَا بُرْهَانَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُ عِندَ رَبِّهِ ۚ إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ ﴿١١٧﴾ وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ ﴿١١٨﴾",
+          "audio": "/audio/dua/570.mp3",
+          "transliteration": "Afahasibtum annamaa khalaqnaakum 'abathan wa annakum ilainaa laa turja'oon. Fata'aalallaahul-Malikul-Haqqu laaa ilaaha illaa Huwa Rabbul-'Arshil-Kareem. Wa man yad'u ma'allaahi ilaahan aakhara laa burhaana lahoo bihee fa-innamaa hisaabuhoo 'inda Rabbih; innahoo laa yuflihul-kaafiroon. Wa qul Rabbigh-fir warham wa Anta khairur-raahimeen.",
+          "translation": "(115) Then did you think that We created you uselessly and that to Us you would not be returned?\" (116) So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne. (117) And whoever invokes besides Allah another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed. (118) And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
+          "reference": "Surah Muminun 23: 115-118",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Forgiveness",
+            "description": "This dua from Surah Muminun reminds Muslims to ask Allah for maghfirat and mercy, keeping the heart soft and Iman strong, while showing that only Allah can forgive and give real peace in life.",
+            "points": [
+              "Allah’s mercy in surah al muminun brings maghfirat and wipes away old sins.",
+              "Dua for forgiveness helps a muslim’s heart stay soft and close to Rabbul Arsh.",
+              "Istighfar dua makes tauba easy and keeps amal clean from bad things every day.",
+              "Praying for forgiveness with this dua gives hope and peace in every hard time.",
+              "Maghfirat ki dua from surah mu minun shows Allah is the best in giving rahmah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Forgiveness",
+            "description": "This dua for forgiveness from Surah Al Muminun is a strong way to ask Allah for maghfirat, Barakah, and mercy, helping your Iman grow and making your Amal clean in front of Rabbul Arsh.",
+            "points": [
+              "After every salah, recite this dua for forgiveness to seek Allah’s maghfirat and mercy.",
+              "When feeling regret for sins, use istighfar dua from surah al muminun for tauba.",
+              "Before going to bed, read this forgiveness dua for a clean heart and peaceful sleep.",
+              "If you remember past mistakes, repeat maghfirat ki dua for Barakah in your Amal.",
+              "While teaching kids about Islamic dua, share this dua for forgiveness to build their Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Forgiveness from Surah Muminun",
+            "description": "This dua for forgiveness from Surah Al Muminun is a strong way to ask Allah for maghfirat and mercy. It reminds every Muslim to turn to Allah with a soft heart and seek His kindness and Barakah in daily life.",
+            "steps": [
+              "Make your niyyah clear for tauba and start with Bismillah before reciting this dua for forgiveness.",
+              "After every salah, read this istighfar dua from surah al muminun to ask Allah for maghfirat.",
+              "When you feel regret for any sin, say this maghfirat ki dua with a humble heart and true Iman.",
+              "In the last part of night, pray this dua forgiveness to get Allah’s mercy and Barakah in your Amal.",
+              "While sitting alone, softly repeat astaghfirullah and this forgiveness dua to keep your heart clean."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 571,
+          "title": "Powerful Dua for Safety from Jinn (Surah As-Saffat)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَالصَّافَّاتِ صَفًّا ﴿١﴾ فَالزَّاجِرَاتِ زَجْرًا ﴿٢﴾ فَالتَّالِيَاتِ ذِكْرًا ﴿٣﴾ إِنَّ إِلَـٰهَكُمْ لَوَاحِدٌ ﴿٤﴾ رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ ﴿٥﴾ إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ ﴿٦﴾ وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ ﴿٧﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿٨﴾ دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿٩﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿١٠﴾",
+          "audio": "/audio/dua/571.mp3",
+          "transliteration": "Wus-saaaaffafati saffaa. Faz-zaajiraati zajraa. Fat-taaliyaati zikraa. Inna Ilaahakum la-Waahid. Rabbus-samaawaati wal-ardi wa maa bainahumaa wa Rabbul-macaariq. Innaa zaiyannas-samaaa'ad-dunyaa bizeenatinil-kawaakib. Wa hifzam-min kulli shaitaanim-maarhid. Laa yassamma'oona ilal-mala'il-a'laa wa yuqzafoona min kulli jaanib. Duhooran wa lahum 'azaabun waasib. Illaa man khatifal-khatfata fa-atba'ahoo shihaabun thaaqib.",
+          "translation": "(1) By those [angels] lined up in rows (2) And those who drive [the clouds] (3) And those who recite the message, (4) Indeed, your God is One, (5) Lord of the heavens and the earth and that between them and Lord of the sunrises. (6) Indeed, We have adorned the nearest heaven with an adornment of stars (7) And as protection against every rebellious devil (8) [So] they may not listen to the exalted assembly [of angels] and are pelted from every side, (9) Repelled; and for them is a constant punishment, (10) Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
+          "reference": "Surah As-Saffat 37: 1-10",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah for Protection from Jinn",
+            "description": "This surah as saffat keeps a Muslim safe from jinn and evil, showing Allah’s power to protect with His angels and stars, and brings peace to the heart of anyone who trusts in His words.",
+            "points": [
+              "Allah’s help in surah as saffat keeps jinn and shayateen away from a muslim.",
+              "Dua for protection from jinn brings safety and peace in every part of daily life.",
+              "Surah for jinn protection shows Allah uses stars and angels to guard believers.",
+              "Jinn protection dua helps a muslim’s Iman stay strong and heart free from fear.",
+              "Surah for protection from jinn makes evil plans weak and keeps amal safe always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah for Protection from Jinn",
+            "description": "This surah for protection from jinn from Surah As-Saffat is a strong shield, asking Allah to keep you safe from evil, bring Barakah, and protect your Iman and Amal from harm by jinn and shayateen.",
+            "points": [
+              "After fajr salah, recite surah as saffat for protection from jinn all day.",
+              "When entering a dark or empty place, use this dua for jinn protection for safety.",
+              "Before sleeping, read surah for protection from jinn to keep evil away at night.",
+              "If you feel scared or sense evil, repeat this jinn protection dua for calm and peace.",
+              "While teaching family about Islamic prayer for protection, share surah as safat for Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Surah for Protection from Jinn",
+            "description": "Reciting these verses from Surah As-Saffat is a strong way for Muslims to ask Allah for safety from jinn and evil. This surah for protection from jinn brings peace and keeps your home safe when read with Iman and trust.",
+            "steps": [
+              "Make wudu and sit in a quiet place before starting this surah for protection from jinn.",
+              "When you feel scared or sense something strange, read this dua for jinn protection with full yaqeen.",
+              "If your child is afraid at night, softly recite this surah as saffat for safety and calmness.",
+              "Before going to bed, say this dua for protection from evil to keep away jinn and get Allah’s help.",
+              "After every namaz, repeat this surah for jinn protection to keep your house and family safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 572,
+          "title": "Dua for Guidance and Forgiveness (Surah Ahqaf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَإِذْ صَرَفْنَا إِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنصِتُوا ۖ فَلَمَّا قُضِيَ وَلَّوْا إِلَىٰ قَوْمِهِم مُّنذِرِينَ ﴿٢٩﴾ قَالُوا يَا قَوْمَنَا إِنَّا سَمِعْنَا كِتَابًا أُنزِلَ مِن بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِي إِلَى الْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ ﴿٣٠﴾ يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّـهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ ﴿٣١﴾ وَمَن لَّا يُجِبْ دَاعِيَ اللَّـهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأَرْضِ وَلَيْسَ لَهُ مِن دُونِهِ أَوْلِيَاءُ ۚ أُولَـٰئِكَ فِي ضَلَالٍ مُّبِينٍ ﴿٣٢﴾",
+          "audio": "/audio/dua/572.mp3",
+          "transliteration": "Wa iz sarafnaaa ilaika nafaram-minal-jinni yastami'oonal-Qur-aana falammaa hadaroohu qaalooo ansitoo falammaa qudiya wallaw ilaa qawmihim-munzireen. Qaaloo yaa qawmanaaa innaa sami'naa Kitaaban unzila mim-ba'di Moosaa musaddiqal-limaa baina yadaihi yahdeee ilal-haqqi wa ilaa Tareeqim-Mustaqeem. Yaa qawmanaaa ajeeboo daa'iyallaahi wa aaminoo bihee yaghfir lakum-min zunoobikum wa yujirkum-min 'azaabin aleem. Wa mal-laa yujib daa'iyallaahi falaisa bimu'jizin fil-ardi wa laisa lahoo min dooniheee awliyaaa'; ulaaa'ika fee dalaalim-mubeen.",
+          "translation": "(29) And [mention, O Muhammad], when We directed to you a few of the jinn, listening to the Qur'an. And when they attended it, they said, \"Listen quietly.\" And when it was concluded, they went back to their people as warners. (30) They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path. (31) O our people, respond to the Messenger of Allah and believe in him; Allah will forgive for you your sins and protect you from a painful punishment. (32) But he who does not respond to the Caller of Allah will not cause failure [to Him] upon earth, and he will not have besides Him any protectors. Those are in manifest error.\"",
+          "reference": "Surah Ahqaf 46: 29-32",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Forgiveness and Guidance",
+            "description": "This dua from Surah Ahqaf helps Muslims find the right path and get Allah’s forgiveness, showing that believing in Allah and His Messenger brings safety from sins and keeps the heart full of hope.",
+            "points": [
+              "Allah’s words in surah al ahqaf guide a muslim to the straight path every day.",
+              "Dua for forgiveness brings Allah’s mercy and keeps old sins away from the heart.",
+              "Believing in the Messenger of Allah makes forgiveness and safety easy for muslims.",
+              "Prayer forgiveness of sins helps a muslim stay safe from painful azaab and fear.",
+              "Dua for guidance and forgiveness keeps Iman strong and brings hope in hard times."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Forgiveness (Surah Ahqaf)",
+            "description": "This dua for forgiveness from Surah Ahqaf is a strong call to believe in Allah, follow the Messenger of Allah, and seek istighfar, bringing Barakah and hope for those praying for forgiveness and guidance.",
+            "points": [
+              "After reading surah al ahqaf, pray for forgiveness using this dua for guidance.",
+              "When feeling regret for sins, turn to Allah with this dua for forgiveness and istighfar.",
+              "During salah, especially in sujood, ask for mercy with this prayer forgiveness of sins.",
+              "At times of doubt in Iman, recite the forgiveness dua to renew faith and believe in Allah.",
+              "When teaching children about duas from quran, share this dua for forgiveness and Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Guidance and Forgiveness from Surah Ahqaf",
+            "description": "This dua for forgiveness and guidance from Surah Al Ahqaf helps Muslims ask Allah for mercy and to stay on the right path. It teaches us to answer Allah’s call and trust Him for forgiveness and Barakah.",
+            "steps": [
+              "Begin by making wudu and sit with a clean heart before reciting this dua for forgiveness.",
+              "When you feel lost or need help, read this dua for guidance from surah ahqaf with full Iman.",
+              "If you want Allah to forgive your sins, say this prayer forgiveness of sins after every salah.",
+              "In times of worry, softly recite this dua for guidance and believe in Allah’s mercy and help.",
+              "While alone at night, repeat this forgiveness dua to keep your heart close to Allah and safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 573,
+          "title": "Dua for Protection from Evil (Surah Rahman)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ ﴿٣٣﴾ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ ﴿٣٤﴾ يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ ﴿٣٥﴾ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ ﴿٣٦﴾",
+          "audio": "/audio/dua/573.mp3",
+          "transliteration": "Yaa ma'sharal-jinni wal-insi inistata'tum an tanfuzoo min aqtaaris-samaawaati wal-ardi fanfuzoo; laa tanfuzoona illaa bisultaan. Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan. Yursalu 'alaikumaa shuwaazum-min naarin wa nuhaasun falaa tantasiraan. Fabi-ayyi aalaaa'i Rabbikumaa tukazzibaan.",
+          "translation": "(33) O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah ]. (34) So which of the favors of your Lord would you deny? (35) There will be sent upon you a flame of fire and smoke, and you will not defend yourselves. (36) So which of the favors of your Lord would you deny?",
+          "reference": "Surah Rahman 55: 33-36",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah for Protection from Jinn",
+            "description": "This surah rahman reminds Muslims of Allah’s power and blessings, keeping jinn and evil away, and brings peace and safety to the heart with every recitation of fabi ayyi ala i rabbikuma tukazziban.",
+            "points": [
+              "Allah’s words in surah rahman keep jinn and evil far from a muslim’s life.",
+              "Surah for protection from jinn brings safety and peace in every home and heart.",
+              "Fabi ayyi ala i rabbikuma tukazziban reminds muslims of Allah’s big niyamat.",
+              "Dua for protection from evil helps a muslim trust Allah in every hard moment.",
+              "Surah rahman benefits include hifazat and barakah for those who recite with Iman."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah For Protection From Jinn",
+            "description": "This surah for protection from jinn, taken from Surah Rahman, is a strong shield for Muslims, reminding us of Allah’s power and His favors, and is best used when seeking safety from evil and harm.",
+            "points": [
+              "Before leaving home, recite surah rahman for protection from jinn and evil.",
+              "When feeling scared at night, use this dua for protection from evil and safety.",
+              "During illness or weakness, read surah ar rahman to ask Allah for hifazat and Barakah.",
+              "After maghrib salah, recite fabi ayyi ala i rabbikuma tukazziban for safety from harm.",
+              "When entering a new place, pray this surah for jinn protection and Allah’s mercy."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Surah for Protection from Jinn (Surah Rahman)",
+            "description": "Reading these ayahs from Surah Rahman is a strong way to ask Allah for safety from jinn and evil. This surah for protection from jinn brings peace and keeps your home safe when you read it with yaqeen and hope in Allah’s help.",
+            "steps": [
+              "Start by making wudu and sit in a clean spot before reciting surah rahman for protection.",
+              "When you feel scared or sense evil, read fabi ayyi ala i rabbikuma tukazziban with full Iman.",
+              "If your child is afraid at night, softly recite this surah for protection from jinn for their safety.",
+              "Before going to bed, say this dua for protection from evil to keep away jinn and get Allah’s mercy.",
+              "After every namaz, repeat surah rahman benefits to keep your house and family safe from harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 574,
+          "title": "Dua for Strength and Relief with Allah’s Names",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "لَوْ أَنزَلْنَا هَـٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّـهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ ﴿٢١﴾ هُوَ اللَّـهُ الَّذِي لَا إِلَـٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَـٰنُ الرَّحِيمُ ﴿٢٢﴾ هُوَ اللَّـهُ الَّذِي لَا إِلَـٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّـهِ عَمَّا يُشْرِكُونَ ﴿٢٣﴾ هُوَ اللَّـهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٢٤﴾",
+          "audio": "/audio/dua/574.mp3",
+          "transliteration": "Law anzalnaa haazal-Qur-aana 'alaa jabalil-lara-aitahoo khaashi'am-mutasaddi'am-min khashyatillaah; wa tilkal-amthaalu nadribuhaa linnaasi la'allahum yatafakkaroon. Huwallaahul-lazee laaa ilaaha illaa Huwa 'Aalimul-ghaibi wash-shahaadah; Huwar-Rahmaanur-Raheem. Huwallaahul-lazee laaa ilaaha illaa Huwal-Malikul-Quddoosus-Salaamul-Mu'minul-Muhaiminul-'Azeezul-Jabbaarul-Mutakabbir; Subhaanallaahi 'ammaa yushrikoon. Huwallaahul-Khaaliqul-Baari'ul-Musawwiru lahul-Asmaaa'ul-Husnaa; yusabbihu lahoo maa fis-samaawaati wal-ard; wa Huwal-'Azeezul-Hakeem.",
+          "translation": "(21) If We had sent down this Qur'an upon a mountain, you would have seen it humbled and coming apart from fear of Allah . And these examples We present to the people that perhaps they will give thought. (22) He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful. (23) He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him. (24) He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise.",
+          "reference": "Surah Hashr 59: 21-24",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Strength and Relief with Allah’s Names",
+            "description": "This dua from surah hashr last 3 ayats brings strength and peace by praising Allah’s asmaul husna, helping Muslims find relief in hard times and keeping the heart full of hope and trust in every moment.",
+            "points": [
+              "Allah’s names in surah hashr give a muslim strength and peace of mind.",
+              "Dua for strength with asmaul husna helps in every hard and stressful time.",
+              "Praising Allah with 99 names brings barakah and keeps the heart soft and calm.",
+              "Last 3 verses of surah hashr make morning azkar and evening dua full of blessings.",
+              "Dua for difficult times with these ayats helps muslims trust Allah’s power always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Strength (Surah Hashr)",
+            "description": "This dua for strength from Surah Hashr, with the beautiful names of Allah, brings peace and Barakah, helping Muslims find relief and Iman in hard times, and is loved for morning and evening azkar.",
+            "points": [
+              "In the early morning, recite surah hashr last 3 ayats for strength and Barakah.",
+              "When feeling weak or sad, use this dua for strength and peace of mind in your heart.",
+              "After salah, praise Allah with asmaul husna for relief from stress and anxiety.",
+              "During tough days, repeat the names of Allah from surah al hashr for calm and Iman.",
+              "Before going to bed, read the last 3 verses of surah hashr as a dua for difficult times."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Strength and Relief with Allah’s Names",
+            "description": "Reciting the last 3 ayats of Surah Hashr is a strong way to ask Allah for strength and peace. These verses remind us of Allah’s power and His beautiful names, bringing calm and Barakah to our hearts.",
+            "steps": [
+              "Start by making fresh wudu and sit in a clean place before reading this dua for strength.",
+              "Recite the last 3 verses of surah hashr with full focus on the asmaul husna and Allah names.",
+              "After reading, raise your hands and ask Allah for relief and peace of mind in your own words.",
+              "Try to read this dua for strength and relief every morning azkar and evening dua for more Barakah.",
+              "When facing hard times, repeat these ayats as a dua for difficult times and trust Allah’s help."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 575,
+          "title": "Dua for Protection from Jinn (Surah Jinn)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِّنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا ﴿١﴾ يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَن نُّشْرِكَ بِرَبِّنَا أَحَدًا ﴿٢﴾ وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا ﴿٣﴾ وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّـهِ شَطَطًا ﴿٤﴾ وَأَنَّا ظَنَنَّا أَن لَّن تَقُولَ الْإِنسُ وَالْجِنُّ عَلَى اللَّـهِ كَذِبًا ﴿٥﴾ وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا ﴿٦﴾ وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ اللَّـهُ أَحَدًا ﴿٧﴾ وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا ﴿٨﴾ وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَّصَدًا ﴿٩﴾",
+          "audio": "/audio/dua/575.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. Qul oohiya ilaiya annahustama'a nafarum-minal-jinni faqaalooo innaa sami'naa Qur-aanan 'ajabaa. Yahdeee ilar-rushdi fa-aamannaa bihee wa lan nushrika bi-Rabbinaaa ahadaa. Wa annahoo ta'aalaa jaddu Rabbinaa mattakhaza saahibatan wa laa waladaa. Wa annahoo kaana yaqoolu safeehunaa 'alallaahi shatataa. Wa annaa zanannaaa al-lan taqoolal-insu wal-jinnu 'alallaahi kazibaa. Wa annahoo kaana rijaalum-minal-insi ya'oozoona birijaalim-minal-jinni fazaadoohum rahaqaa. Wa annahum zannoo kamaa zanantum al-lan yab'athallaahu ahadaa. Wa annaa lamasnas-samaaa'a fawajadnaahaa muli'at harasan shadeedan wa shuhubaa. Wa annaa kunnaa naq'udu minhaa maqaa'ida lis-sam'i faman yastami'il-aana yajid lahoo shihaabar-rasadaa.",
+          "translation": "(1) Say, [O Muhammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. (2) It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (3) And [it teaches] that exalted is the nobleness of our Lord; He has not taken a wife or a son (4) And that our foolish one has been saying about Allah an excessive transgression. (5) And we had thought that mankind and the jinn would never speak about Allah a lie. (6) And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden. (7) And they had thought, as you thought, that Allah would never send anyone [as a messenger]. (8) And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames. (9) And we used to sit therein in positions for hearing, but whoever listens now will find a burning flame lying in wait for him.",
+          "reference": "Surah Jinn 72: 1-9",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Jinn",
+            "description": "This surah jinn keeps a Muslim safe from jinn and evil, showing Allah’s power to protect and guide, and brings peace to the heart for anyone who trusts in His words and stays away from shirk.",
+            "points": [
+              "Allah’s words in surah jinn keep jinn and evil far from a muslim’s home.",
+              "Dua for protection from jinn helps a muslim trust Allah in every scary moment.",
+              "Surah for protection from jinn shows that only Allah can give real safety always.",
+              "Jinn protection dua brings peace and keeps Iman strong in the heart every day.",
+              "Surah jinn benefits include hifazat and barakah for those who recite with yaqeen."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Protection From Jinn (Surah Jinn)",
+            "description": "This dua for protection from jinn, found in Surah Jinn, is a strong shield for Muslims, bringing safety and Barakah, and is best for those seeking Allah’s help against evil and harm from jinn.",
+            "points": [
+              "Before entering a dark or empty place, recite surah jinn for protection from jinn.",
+              "When hearing signs of jinn in house, use this dua for protection from evil and fear.",
+              "After maghrib salah, read surah al jinn to keep your home safe from jinn and harm.",
+              "During ruqyah or when feeling uneasy, recite this jinn protection dua for Allah’s help.",
+              "If you want to teach kids about safety, share surah jinn benefits and this protection dua."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Jinn",
+            "description": "Reciting the first 9 ayats of Surah Jinn is a strong way to ask Allah for safety from jinn and evil. These verses remind us of Allah’s power and keep our homes and hearts safe from harm.",
+            "steps": [
+              "Make fresh wudu and sit in a quiet place before reading this dua for protection from jinn.",
+              "Read the first 9 ayats of surah jinn with full belief in Allah’s help and mercy.",
+              "After finishing, blow gently over yourself or your kids for jinn protection dua.",
+              "Try to recite this surah jinn every night before going to bed for more safety.",
+              "If you feel scared or see signs of jinn in house, repeat this dua for protection from evil and trust Allah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 576,
+          "title": "Benefits of Reciting Surah Ikhlas",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ هُوَ اللَّـهُ أَحَدٌ ﴿١﴾ اللَّـهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+          "audio": "/audio/dua/576.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. Qul Huwallaahu Ahad. Allaahus-Samad. Lam yalid wa lam yoolad. Wa lam yakul-lahoo kufuwan ahad.",
+          "translation": "(1) Say, \"He is Allah, [who is] One, (2) Allah, the Eternal Refuge. (3) He neither begets nor is born, (4) Nor is there to Him any equivalent.\"",
+          "reference": "Surah Ikhlas 112",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah Ikhlas",
+            "description": "This surah ikhlas teaches Muslims about Allah’s oneness and brings big rewards, making the heart strong in tawhid and giving protection and barakah in every part of life for those who recite it with Iman.",
+            "points": [
+              "Surah ikhlas rewards a muslim like reading one third of the whole Quran.",
+              "Qul huwallahu ahad keeps the heart strong in tawhid and away from shirk.",
+              "Surah for protection brings safety and peace to the home and family always.",
+              "Allahus samad in surah al ikhlas reminds muslims that Allah is enough for all.",
+              "Reciting surah ikhlas brings barakah and fazilat in daily amal and namaz."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah Ikhlas",
+            "description": "Surah Ikhlas is a short surah with big rewards, showing the meaning of tawhid and Allah is One, and brings Barakah, protection, and peace to Muslims who recite it with Iman and love for Allah.",
+            "points": [
+              "In every salah, recite surah ikhlas after al-Fatiha for extra Barakah and reward.",
+              "Before going to bed, read qul huwallahu ahad three times for protection at night.",
+              "When feeling scared or alone, use surah ikhlas for peace and Allah’s help in your heart.",
+              "After finishing wudu, recite surah al ikhlas to get more blessings in your Amal.",
+              "During morning and evening azkar, repeat surah ikhlas for safety and strong Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Surah Ikhlas for Blessings",
+            "description": "Reciting Surah Ikhlas brings many rewards and reminds us Allah is One and has no equal. This short surah is easy to read and gives Barakah, protection, and strong Iman to every Muslim who recites it daily.",
+            "steps": [
+              "Begin by saying bismillah and read surah ikhlas with full belief in tawhid and Allah is one.",
+              "Recite surah ikhlas three times after every fard salah to get the benefits of surah ikhlas.",
+              "When feeling scared or weak, read qul huwallahu ahad for protection and peace in your heart.",
+              "Use surah ikhlas in your morning azkar and evening dua for more Barakah and Allah’s mercy.",
+              "Before going to bed, recite surah ikhlas with the other 3 qul for strong protection from harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 577,
+          "title": "Dua for Protection from Evil Eyes (Surah Al-Falaq)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ أَعُوْذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+          "audio": "/audio/dua/577.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. Qul a'oozu bi-Rabbil-falaq. Min sharri maa khalaq. Wa min sharri ghaasiqin izaa waqab. Wa min sharrin-naffaathaati fil-'uqad. Wa min sharri haasidin izaa hasad.",
+          "translation": "(1) Say, \"I seek refuge in the Lord of daybreak (2) From the evil of that which He created (3) And from the evil of darkness when it settles (4) And from the evil of the blowers in knots (5) And from the evil of an envier when he envies.\"",
+          "reference": "Surah Falaq 113",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Evil Eyes (Surah Al-Falaq)",
+            "description": "This dua for protection from evil eye, known as Surah Falaq, helps keep a Muslim safe from harm, envy, and all hidden dangers by seeking Allah’s help and mercy in every part of life.",
+            "points": [
+              "Allah gives strong hifazat to the one who uses this dua for protection from evil eye.",
+              "Surah falaq in english brings peace and keeps nazar away from family and home.",
+              "Sura falaq shields a muslim from hasad and all kinds of hidden evil in daily life.",
+              "This islamic prayer for protection helps keep Amal and Iman safe from harm.",
+              "Surah falaq transliteration makes it easy for kids to use this nazar ki dua every day."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Protection from Evil Eyes (Surah Al-Falaq)",
+            "description": "Reciting Surah Falaq is a strong shield for every Muslim, asking Allah for hifazat from nazar and all hidden harms, bringing Barakah and peace to your day and night with this powerful dua for protection from evil eye.",
+            "points": [
+              "After every fard salah, read surah falaq for evil eye protection and daily hifazat.",
+              "Before going outside, recite this dua for protection from evil eye to keep away nazar.",
+              "When feeling someone’s jealousy, use surah al falaq as a nazar ki dua for safety.",
+              "At night before going to bed, read surah falaq in english or arabic for family’s protection.",
+              "For children’s safety, mothers softly recite surah falaq transliteration over them for Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Evil Eyes",
+            "description": "Surah Al-Falaq is a strong dua for protection from evil eye and all kinds of harm. Reciting this surah brings Allah’s help, keeps away nazar, and gives peace to your heart and home every day.",
+            "steps": [
+              "Start by saying bismillah and read surah falaq with full trust in Allah’s power to protect.",
+              "Recite surah al falaq three times in your morning azkar and evening dua for evil eye protection.",
+              "Blow gently over yourself or your kids after reading this nazar dua for more hifazat.",
+              "When you feel someone’s jealousy or see signs of nazar, repeat this dua for protection from evil eye.",
+              "Before going to bed, read surah falaq with the other char qul for strong safety from all harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 578,
+          "title": "Dua for Protection from Evil Whisper (Surah Nas)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ قُلْ أَعُوْذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَـٰهِ النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+          "audio": "/audio/dua/578.mp3",
+          "transliteration": "Bismillaahir-Rahmaanir-Raheem. Qul a'oozu bi-Rabbin-naas. Malikin-naas. Ilaahin-naas. Min sharril-waswaasil-khannaas. Allazee yuwaswisu fee sudoorin-naas. Minal-jinnati wannaas.",
+          "translation": "(1) Say, \"I seek refuge in the Lord of mankind, (2) The Sovereign of mankind. (3) The God of mankind, (4) From the evil of the retreating whisperer - (5) Who whispers [evil] into the breasts of mankind - (6) From among the jinn and mankind.\"",
+          "reference": "Surah Nas 114",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Evil (Surah Nas)",
+            "description": "Surah Nas, a dua for protection from evil, helps Muslims keep their hearts safe from waswas and shaitan by asking Allah to guard their Iman and Amal every day and night.",
+            "points": [
+              "Allah keeps the heart clean from waswas when a muslim uses surah nas in english.",
+              "Surah nas gives strong hifazat from shaitan and jinn for those who read this dua.",
+              "Sura nas helps a muslim stay safe from evil thoughts and bad whispers in daily life.",
+              "This islamic prayer for protection makes Amal and Salah strong against shaitan.",
+              "Surah nas transliteration helps kids and elders use this dua for protection from evil."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Protection from Evil Whisper (Surah Nas)",
+            "description": "Surah Nas is a strong Islamic dua for protection from evil, guarding your heart from waswas and shaitan, and bringing peace to your mind with Allah’s help through this masnoon dua for every Muslim.",
+            "points": [
+              "After each fard salah, recite surah nas for protection from evil and waswas.",
+              "When feeling shaitan’s whispers, use this dua for protection from evil thoughts.",
+              "Before going to bed, read surah nas in english or arabic for night hifazat.",
+              "While entering a new place, softly recite surah al nas for safety from jinn and mankind.",
+              "For children’s calmness, mothers can recite surah nas transliteration over them for Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Evil Whisper",
+            "description": "Surah Nas is a strong dua for protection from evil and waswas of shaitan. Reciting this surah helps keep your heart safe, brings peace, and protects you from bad thoughts and harm from jinn or people.",
+            "steps": [
+              "Begin by saying bismillah and read surah nas with full trust in Allah’s hifazat.",
+              "Recite surah al nas three times in your morning azkar and evening dua for strong protection.",
+              "After reading, blow softly over yourself or your family for more safety from evil whisper.",
+              "When you feel waswas or bad thoughts, repeat this dua for protection from evil and shaitan.",
+              "Before going to bed, read surah nas with the other 3 qul for full protection from harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "What to do after the possession is confirmed",
+      "category": "jinndiseases",
+      "dua-ids": [
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593
+      ],
+      "duas": [
+        {
+          "dua_id": 579,
+          "title": "Dua for Protection from Misguidance (Surah Nisa)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّـهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا ﴿١٦٧﴾ إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّـهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا ﴿١٦٨﴾ إِلَّا طَرِيقَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّـهِ يَسِيرًا ﴿١٦٩﴾ يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمُ الرَّسُولُ بِالْحَقِّ مِن رَّبِّكُمْ فَآمِنُوا خَيْرًا لَّكُمْ ۚ وَإِن تَكْفُرُوا فَإِنَّ لِلَّـهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّـهُ عَلِيمًا حَكِيمًا ﴿١٧٠﴾ يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّـهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّـهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَآمِنُوا بِاللَّـهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انتَهُوا خَيْرًا لَّكُمْ ۚ إِنَّمَا اللَّـهُ إِلَـٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَن يَكُونَ لَهُ وَلَدٌ ۘ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّـهِ وَكِيلًا ﴿١٧١﴾ لَّن يَسْتَنكِفَ الْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّـهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ ۚ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا ﴿١٧٢﴾ فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِ ۖ وَأَمَّا الَّذِينَ اسْتَنكَفُوا وَاسْتَكْبَرُوا فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّـهِ وَلِيًّا وَلَا نَصِيرًا ﴿١٧٣﴾",
+          "audio": "/audio/dua/579.mp3",
+          "transliteration": "Innal-lazeena kafaroo wa saddoo 'an sabeelillaahi qad dalloo dalaalam-ba'eedaa. Innal-lazeena kafaroo wa zalamoo lam yakunillaahu liyaghfira lahum wa laa liyahdiyahum tareeqaa. Illaa tareeqa Jahannama khaalideena feehaaa abadaa; wa kaana zaalika 'alallaahi yaseeraa. Yaaa ayyuhan-naasu qad jaaa'akur-Rasoolu bil-haqqi mir-Rabbikum fa-aaminoo khairal-lakum; wa in takfuroo fa-inna lillaahi maa fis-samaawaati wal-ard; wa kaanallaahu 'Aleeman Hakeemaa. Yaaa Ahlal-Kitaabi laa taghloo fee deenikum wa laa taqooloo 'alallaahi illal-haqq; innamal-Maseehu 'Eesab-nu Maryama Rasoolullaahi wa Kalimatuhoo alqaahaaa ilaa Maryama wa Roohum-minh; fa-aaminoo billaahi wa Rusulihee wa laa taqooloo thalaathah; intahoo khairal-lakum; innamallaahu Ilaahun Waahid; Subhaanahoo an yakoona lahoo walad; lahoo maa fis-samaawaati wa maa fil-ard; wa kafaa billaahi Wakeelaa. Lan yastankifal-Maseehu an yakoona 'abdal-lillaahi wa lal-malaaa'ikatul-muqarraboon; wa man yastankif 'an 'ibaadatihee wa yastakbir fasayahshuruhum ilaihi jamee'aa. Fa-ammal-lazeena aamanoo wa 'amilus-saalihaati fayuwaffeehim ujoorahum wa yazeeduhum-min fadlih; wa ammal-lazeena-stankafoo wastakbaroo fayu'azzibuhum 'azaaban aleeman wa laa yajidoona lahum-min doonillaahi waliyyan wa laa naseeraa.",
+          "translation": "(167) Indeed, those who disbelieve and avert [people] from the way of Allah have certainly gone far astray. (168) Indeed, those who disbelieve and commit wrong [or injustice] - never will Allah forgive them, nor will He guide them to a path. (169) Except the path of Hell; they will abide therein forever. And that, for Allah, is [always] easy. (170) O Mankind, the Messenger has come to you with the truth from your Lord, so believe; it is better for you. But if you disbelieve - then indeed, to Allah belongs whatever is in the heavens and earth. And ever is Allah Knowing and Wise. (171) O People of the Scripture, do not commit excess in your religion or say about Allah except the truth. The Messiah, Jesus, the son of Mary, was but a messenger of Allah and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allah and His messengers. And do not say, \"Three\"; desist - it is better for you. Indeed, Allah is but one God. Exalted is He above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allah as Disposer of affairs. (172) Never would the Messiah disdain to be a servant of Allah, nor would the angels near [to Him]. And whoever disdains His worship and is arrogant - He will gather them to Himself all together. (173) And as for those who believed and did righteous deeds, He will give them in full their rewards and grant them extra from His bounty. But as for those who disdained and were arrogant, He will punish them with a painful punishment, and they will not find for themselves besides Allah any protector or helper.",
+          "reference": "Surah Nisa: 4: 167-173",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Protection from Misguidance (Surah Nisa)",
+            "description": "This dua for protection from Surah Nisa helps Muslims stay on the right path, keep Iman strong, and avoid misguidance by trusting Allah and following the truth sent by Rasoolullah.",
+            "points": [
+              "Allah keeps the heart safe from misguidance when a Muslim uses this dua for protection.",
+              "Surah Nisa gives clear warning about Jahannam and helps Muslims avoid wrong ways.",
+              "This dua for guidance reminds people to follow one God and trust the messenger of God.",
+              "Surat An Nisa helps a Muslim ask for forgiveness and stay away from zulm and kufr.",
+              "Tafsir Surah An Nisa teaches people of the book to speak only truth about Jesus in Islam."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Protection from Misguidance (Surah Nisa)",
+            "description": "This dua for protection from Surah Nisa helps keep your Iman strong, asking Allah for guidance, Barakah, and forgiveness, and reminding every Muslim to stay on the right path and avoid misguidance.",
+            "points": [
+              "After finishing your salah, recite this dua for protection to ask Allah for guidance.",
+              "When feeling doubts in Iman, use Surah Nisa as a dua for protection from misguidance.",
+              "Before making big life choices, read this dua for guidance and Barakah in your Amal.",
+              "During times of fitnah, turn to Surah An Nisa for protection from Jahannam and misguidance.",
+              "When teaching children about one God, recite this dua for protection and strong Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Protection from Misguidance",
+            "description": "This dua for protection from Surah Nisa reminds us to ask Allah to keep us safe from wrong ways and to help us follow the right path. It teaches us about one God, the truth of Jesus in Islam, and the message of Rasoolullah.",
+            "steps": [
+              "Start by making wudu and sit in a clean place, then recite these verses from Surah Nisa with full focus.",
+              "After salah, read this dua for protection and ask Allah to keep you away from Jahannam.",
+              "When you feel lost or need guidance, recite this Quranic dua and think about its meaning.",
+              "Teach your family this dua for guidance and talk about the message of one God and messenger of God.",
+              "During your zikr Allah, add this masnoon dua to your daily routine for more Barakah and forgiveness."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 580,
+          "title": "Dua for Protection from Stubborn Jinn",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّـهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَن يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَافٍ أَوْ يُنفَوْا مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ ﴿٣٣﴾ إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُوا عَلَيْهِمْ ۖ فَاعْلَمُوا أَنَّ اللَّـهَ غَفُورٌ رَّحِيمٌ ﴿٣٤﴾",
+          "audio": "/audio/dua/580.mp3",
+          "transliteration": "Innamaa jazaaa'ul-lazeena yuhaariboonallaaha wa Rasoolahoo wa yas'awna fil-ardi fasaadan an yuqattalooo aw yusallabooo aw tuqatta'a aideehim wa arjuluhum-min khilaafin aw yunfaw minal-ard; zaalika lahum khizyun fid-dunyaa wa lahum fil-Aakhirati 'azaabun 'azeem. Illal-lazeena taaboo min qabli an taqdiroo 'alaihim fa'lamooo annallaaha Ghafoorur-Raheem.",
+          "translation": "(33) Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment, (34) Except for those who return [repenting] before you apprehend them. And know that Allah is Forgiving and Merciful.",
+          "reference": "Surah Al-Ma'ida 5: 33-34",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 581,
+          "title": "Dua for Safety from Evil Jinn (Sura Anfal)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا ۚ سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ ﴿١٢﴾",
+          "audio": "/audio/dua/581.mp3",
+          "transliteration": "Iz yoohee Rabbuka ilal-malaaa'ikati annee ma'akum fathabbitul-lazeena aamanoo; sa-ulqee fee quloobil-lazeena kafarur-ru'ba fadriboo fawqal-a'naaqi wadriboo minhum kulla banaan.",
+          "translation": "(12) [Remember] when your Lord inspired to the angels, \"I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip.\"",
+          "reference": "Sura Anfal 8:12",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 582,
+          "title": "Surah for Stubborn Jinn Protection (Sura Al-Hijr)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ ﴿١٦﴾ وَحَفِظْنَاهَا مِن كُلِّ شَيْطَانٍ رَّجِيمٍ ﴿١٧﴾ إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُّبِينٌ ﴿١٨﴾",
+          "audio": "/audio/dua/582.mp3",
+          "transliteration": "Wa laqad ja'alnaa fis-samaaa'i buroojan wa zaiyannaahaa lin-naazireen. Wa hafiznaahaa min kulli shaitaanir-rajeem. Illaa manis-taraqas-sam'a fa-atba'ahoo shihaabum-mubeen.",
+          "translation": "(16) And We have placed within the heaven great stars and have beautified it for the observers. (17) And We have protected it from every devil expelled [from the mercy of Allah ] (18) Except one who steals a hearing and is pursued by a clear burning flame.",
+          "reference": "Sura Al-Hijr 15: 16-18",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 583,
+          "title": "Quranic Dua to Remove Stubborn Jinn (Surah Isra)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "قُلِ ادْعُوا اللَّـهَ أَوِ ادْعُوا الرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا ﴿١١٠﴾ وَقُلِ الْحَمْدُ لِلَّـهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا ﴿١١١﴾",
+          "audio": "/audio/dua/583.mp3",
+          "transliteration": "Qulid'ullaaha awid'ur-Rahmaana ayyam-maa tad'oo falahul-Asmaaa'ul-Husnaa; wa laa tajhar bi-Salaatika wa laa tukhaafit bihaa wabtaghi baina zaalika sabeelaa. Wa qulil-Hamdu lillaahil-lazee lam yattakhiz waladan wa lam yakul-lahoo shareekun fil-mulki wa lam yakul-lahoo waliyyum-minaz-zulli wa kabbirhu takbeeraa.",
+          "translation": "(110) Say, \"Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way. (111) And say, \"Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\"",
+          "reference": "Surah Isra 17: 110-111",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 584,
+          "title": "Protection Dua from Stubborn Jinn (Surah Ambiya)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَخْسَرِينَ ﴿٧٠﴾",
+          "audio": "/audio/dua/584.mp3",
+          "transliteration": "Wa araadoo bihee kaidan faja'alnaahumul-akhsareen.",
+          "translation": "(70) And they intended for him harm, but We made them the greatest losers.",
+          "reference": "Surah Ambiya 21:70",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 585,
+          "title": "Dua for Jinn Protection from Hellfire Punishment",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا فِي رَبِّهِمْ ۖ فَالَّذِينَ كَفَرُوا قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ الْحَمِيمُ ﴿١٩﴾ يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ ﴿٢٠﴾ وَلَهُم مَّقَامِعُ مِنْ حَدِيدٍ ﴿٢١﴾ كُلَّمَا أَرَادُوا أَن يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا وَذُوقُوا عَذَابَ الْحَرِيقِ ﴿٢٢﴾",
+          "audio": "/audio/dua/585.mp3",
+          "transliteration": "Haazaani khasmaanikh-tasamoo fee Rabbihim fallazeena kafaroo qutti'at lahum thiyaabum-min naarin yusabbu min fawqi ru'oosihimul-hameem. Yusharu bihee maa fee butoonihim wal-julood. Wa lahum maqaami'u min hadeed. Kullamaaa araadooo an yakhrujoo minhaa min ghammin u'eedoo feehaa wa zooqoo 'azaabal-hareeq.",
+          "translation": "(19) These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water (20) By which is melted that within their bellies and [their] skins. (21) And for [striking] them are maces of iron. (22) Every time they want to get out of Hellfire from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\"",
+          "reference": "Surah Hajj 22: 19-22",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 586,
+          "title": "Surah for Jinn Protection (Sura Noor)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّـهَ عِندَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّـهُ سَرِيعُ الْحِسَابِ ﴿٣٩﴾",
+          "audio": "/audio/dua/586.mp3",
+          "transliteration": "Wallazeena kafarooo a'maaluhum kasaraabim-biqee'atin yahsabuhu-zam'aanu maaa'an hattaaa izaa jaaa'ahoo lam yajidhu shai'an wa wajadallaaha 'indahoo fawaffaahu hisaabah; wallaahu saree'ul-hisaab.",
+          "translation": "(39) But those who disbelieved - their deeds are like a mirage in a lowland which a thirsty one thinks is water until, when he comes to it, he finds it is nothing but finds Allah before Him, and He will pay him in full his due; and Allah is swift in account.",
+          "reference": "Sura Noor 24:39",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 587,
+          "title": "Dua for Good Deeds to Be Accepted by Allah",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا ﴿٢٣﴾",
+          "audio": "/audio/dua/587.mp3",
+          "transliteration": "Wa qadimnaaa ilaa maa 'amiloo min 'amalin faja'alnaahu habaaa'am-manthooraa.",
+          "translation": "(23) And We will regard what they have done of deeds and make them as dust dispersed.",
+          "reference": "Surah Furqan 25:23",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 588,
+          "title": "Protection Dua from Enemy (Surah As-Saffat)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ ﴿٩٨﴾",
+          "audio": "/audio/dua/588.mp3",
+          "transliteration": "Fa-araadoo bihee kaidan faja'alnaahumul-asfaleen.",
+          "translation": "(98) And they intended for him a plan, but We made them the most debased.",
+          "reference": "Surah As-Saffat 37:98",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 589,
+          "title": "Dua to Trust upon Allah's Plan (Surah Ghafir)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۚ فَإِذَا جَاءَ أَمْرُ اللَّـهِ قُضِيَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ ﴿٧٨﴾",
+          "audio": "/audio/dua/589.mp3",
+          "transliteration": "Wa laqad arsalnaa rusulam-min qablika minhum-man qasasnaa 'alaika wa minhum-mal-lam naqsus 'alaik; wa maa kaana li-Rasoolin an ya'tiya bi-aayatin illaa bi-iznillaah; fa-izaa jaaa'a amrullaahi qudiya bil-haqqi wa khasira hunaalikal-mubtiloon.",
+          "translation": "(78) And We have already sent messengers before you. Among them are those [whose stories] We have related to you, and among them are those [whose stories] We have not related to you. And it was not for any messenger to bring a sign [or verse] except by permission of Allah . So when the command of Allah comes, it will be concluded in truth, and the falsifiers will thereupon lose [all].",
+          "reference": "Surah Ghafir 40:78",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 590,
+          "title": "Dua for Quran Guidance and Healing (Surah Fussilat)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَّقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ أَأَعْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ ﴿٤٤﴾",
+          "audio": "/audio/dua/590.mp3",
+          "transliteration": "Wa law ja'alnaahu Qur-aanan a'jamiyyal-laqaaloo lawlaa fussilat aayaatuhoo 'a-a'jamiyyun wa 'Arabiyy; qul huwa lillazeena aamanoo hudan wa shifaaa'; wallazeena laa yu'minoona feee aazaanihim waqrun wa huwa 'alaihim 'amaa; ulaaa'ika yunaadawna mim-makaanim-ba'eed.",
+          "translation": "(44) And if We had made it a non-Arabic Qur'an, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.",
+          "reference": "Surah Fussilat 41:44",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 591,
+          "title": "Dua for Safety from Hellfire and Sins (Sura Dukhan)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنَّ شَجَرَتَ الزَّقُّومِ ﴿٤٣﴾ طَعَامُ الْأَثِيمِ ﴿٤٤﴾ كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ ﴿٤٥﴾ كَغَلْيِ الْحَمِيمِ ﴿٤٦﴾ خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ ﴿٤٧﴾ ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ ﴿٤٨﴾ ذُقْ إِنَّكَ أَنتَ الْعَزِيزُ الْكَرِيمُ ﴿٤٩﴾ إِنَّ هَـٰذَا مَا كُنتُم بِهِ تَمْتَرُونَ ﴿٥٠﴾",
+          "audio": "/audio/dua/591.mp3",
+          "transliteration": "Inna shajarataz-zaqqoom. Ta'aamul-atheem. Kalmuhli yaghlee fil-butoon. Kaghalyil-hameem. Khuzoohu fa'tiloohu ilaa sawaaa'il-jaheem. Thumma subboo fawqa ra'sihee min 'azaabil-hameem. Zuq innaka antal-'Azeezul-Kareem. Inna haazaa maa kuntum bihee tamtaroon.",
+          "translation": "(43) Indeed, the tree of zaqqum (44) Is food for the sinful. (45) Like murky oil, it boils within bellies (46) Like the boiling of scalding water. (47) [It will be commanded], \"Seize him and drag him into the midst of the Hellfire, (48) Then pour over his head from the torment of scalding water.\" (49) [It will be said], \"Taste! Indeed, you are the honored, the noble! (50) Indeed, this is what you used to dispute.\"",
+          "reference": "Sura Dukhan 44: 43-50",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 592,
+          "title": "Dua for Guidance Against Sin and Arrogance (Surah Al-Jathiya)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ﴿٧﴾ يَسْمَعُ آيَاتِ اللَّـهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ ﴿٨﴾",
+          "audio": "/audio/dua/592.mp3",
+          "transliteration": "Wailul-likulli affaakin atheem. Yasma'u aayaatillaahi tutlaa 'alaihi thumma yusirru mustakbiran ka-al-lam yasma'haa fabashshirhu bi-'azaabin aleem.",
+          "translation": "(7) Woe to every sinful liar (8) Who hears the verses of Allah recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment.",
+          "reference": "Surah Jathiya 45: 7-8",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 593,
+          "title": "Dua for Family Protection and Forgiveness (Surah Tagabun)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَإِن تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَإِنَّ اللَّـهَ غَفُورٌ رَّحِيمٌ ﴿١٤﴾ إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّـهُ عِندَهُ أَجْرٌ عَظِيمٌ ﴿١٥﴾ فَاتَّقُوا اللَّـهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا وَأَنفِقُوا خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَـٰئِكَ هُمُ الْمُفْلِحُونَ ﴿١٦﴾",
+          "audio": "/audio/dua/593.mp3",
+          "transliteration": "Yaaa ayyuhal-lazeena aamanooo inna min azwaajikum wa awlaadikum 'aduwwal-lakum fahzaroohum; wa in ta'foo wa tasfahoo wa taghfiroo fa-innallaaha Ghafoorur-Raheem. Innamaaa amwaalukum wa awlaadukum fitnah; wallaahu 'indahooo ajrun 'azeem. Fattaqullaaha mastata'tum wasma'oo wa atee'oo wa anfiqoo khairal-li-anfusikum; wa man yooqa shuhha nafsihee fa-ulaaa'ika humul-muflihoon.",
+          "translation": "(14) O you who have believed, indeed, among your wives and your children are enemies to you, so beware of them. But if you pardon and overlook and forgive - then indeed, Allah is Forgiving and Merciful. (15) Your wealth and your children are but a trial, and Allah has with Him a great reward. (16) So fear Allah as much as you are able and listen and obey and spend [in the way of Allah ]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful.",
+          "reference": "Surah Tagabun 64: 14-16",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

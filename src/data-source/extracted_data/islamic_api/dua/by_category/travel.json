@@ -1,0 +1,973 @@
+{
+  "category": {
+    "name": "Travel",
+    "url": "travel",
+    "icon": "travel.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 19,
+  "subcategories": [
+    {
+      "id": 60,
+      "title": "Duas for Musafir",
+      "category": "travel",
+      "dua-ids": [
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        879
+      ],
+      "duas": [
+        {
+          "dua_id": 318,
+          "title": "Powerful Dua for Travel (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Rasulullah (ﷺ) used to say Bismillah while boarding the ride, he said the rest after setting down:",
+          "arabic": "اَلْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اَللّهُ أَكْبَرُ، (لَا إِلٰهَ إِلَّا أَنْتَ) سُبْحَانَكَ، إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
+          "audio": "/audio/dua/318.mp3",
+          "transliteration": "Alhamdu lillaah. Subhaanal-ladhee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Alhamdu lillaah, alhamdu lillaah, alhamdu lillaah, Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar, (laa ilahaa 'illaa 'Anta) subhaanaka 'innee dhalamtu nafsee faghfir lee, fa'innahu laa yaghfirudh-dhunooba 'illaa 'Anta",
+          "translation": "Praise is to Allah. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. Praise is to Allah. Praise is to Allah. Praise is to Allah. Allah is the Most Great. Allah is the Most Great. Allah is the Most Great. Glory is to You. O Allah, I have wronged my own soul. Forgive me, for surely none forgives sins but You.",
+          "reference": "Sahih (Albani). Tirmidhi: 3446",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَلِيِّ بْنِ رَبِيعَةَ، قَالَ شَهِدْتُ عَلِيًّا أُتِيَ بِدَابَّةٍ لِيَرْكَبَهَا فَلَمَّا وَضَعَ رِجْلَهُ فِي الرِّكَابِ قَالَ بِسْمِ اللَّهِ ثَلاَثًا فَلَمَّا اسْتَوَى عَلَى ظَهْرِهَا قَالَ الْحَمْدُ لِلَّهِ ثُمَّ قَالَ ‏:‏ ‏",
+            "translation": "(‏ سبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‏) ‏ ثُمَّ قَالَ الْحَمْدُ لِلَّهِ ثَلاَثًا وَاللَّهُ أَكْبَرُ ثَلاَثًا سُبْحَانَكَ إِنِّي قَدْ ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ ‏.‏ ثُمَّ ضَحِكَ ‏.‏ فَقُلْتُ مِنْ أَىِّ شَيْءٍ ضَحِكْتَ يَا أَمِيرَ الْمُؤْمِنِينَ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم صَنَعَ كَمَا صَنَعْتُ ثُمَّ ضَحِكَ فَقُلْتُ مِنْ أَىِّ شَيْءٍ ضَحِكْتَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ إِنَّ رَبَّكَ لَيَعْجَبُ مِنْ عَبْدِهِ إِذَا قَالَ رَبِّ اغْفِرْ لِي ذُنُوبِي إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ غَيْرُكَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ رضى الله عنهما ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ Ali bin Rabi’ah said: “I witnessed Ali having an animal brought to him to ride. When he placed his foot in the stirrup he said: ‘In the Name of Allah,’ (Bismillāh) [three times]. So then, once he had ascended upon its back, he said: ‘All praise is due to Allah.’ (Al-ḥamdulillāh) then he said: Glory is to Him Who has subjected this to us, and we were not able to do it. And, surely, to our Lord are we returning (Subḥān alladhī sakh-khara lanā hādhā wa mā kunnā lahū muqrinīn. Wa innā ilā rabbinā lamunqalibūn). Then he said: ‘All praise is due to Allah (Al-ḥamdulillāh)’ – three times – and ‘Allah is the Greatest (Allāhu Akbar)’ – three times – ‘Glory is to You, indeed I have wronged myself, so forgive me, for indeed none forgives sins except You (Subḥānaka innī qad ẓalamtu nafsī faghfirlī fa-innahū lā yaghfirudh-dhunūba illā ant).’ Then he laughed. So I said: ‘O Commander of the Believer! What caused you to laugh?’ He said: ‘I saw the Messenger of Allah do as I did, then he (ﷺ) laughed, so I said, ‘What cause you to laugh?’ He said: ‘Indeed, your Lord is very pleased with His worshipper when he says: “O my Lord, forgive me my sins, indeed, no one other than You forgives sins.” [Sahih (Albani). Tirmidhi: 3446]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Travel",
+            "description": "This dua for travel brings Allah’s help and safety to every journey, making the road easy and filling the heart with thanks and hope for forgiveness from the start to the end of the trip.",
+            "points": [
+              "Allah keeps the traveler safe with this dua for travel and brings Barakah on the road.",
+              "Safar ki dua helps a Muslim remember Allah and keeps the journey full of Amal.",
+              "Subhanallazi sakhara lana makes the heart humble and thankful for every blessing.",
+              "Dua for safe journey protects from harm and gives peace to the family at home.",
+              "La ilaha illa anta subhanaka in this travel prayer brings hope for Allah’s forgiveness."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Travel",
+            "description": "This dua for travel is a strong masnoon dua for safety, Barakah, and forgiveness, recited by Muslims before and during journeys to ask Allah for help, protection, and a safe return to their families.",
+            "points": [
+              "Before starting your journey, recite the dua for travel to ask Allah for a safe trip.",
+              "When you sit in your car or board a bus, use the safar ki dua for Barakah and protection.",
+              "While driving on the road, quietly say the traveling dua for safety and forgiveness.",
+              "After reaching your stop, make the dua for journey to thank Allah for safe arrival.",
+              "If you feel scared during travel, softly recite the dua for safe journey for peace and Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Travel",
+            "description": "This dua for travel is a strong masnun dua that keeps you safe and brings Barakah on every journey. It reminds us to thank Allah for the ride and ask for forgiveness before starting any safar.",
+            "steps": [
+              "Before starting your journey, recite the dua for travel with full Iman and trust in Allah.",
+              "When you sit in your car or bus, softly say subhanallazi sakhara lana for safety.",
+              "As the vehicle moves, repeat this safar ki dua to ask for a safe and easy journey.",
+              "If you feel scared on the road, quietly say la ilaha illa anta subhanaka for peace.",
+              "After reaching your place, thank Allah with this travel prayer and ask for more Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 319,
+          "title": "Dua for Journey & Protection (Travel dua)",
+          "category_tags": [],
+          "introduction": "Abdullah bin Umar (RA) said that the Prophet (ﷺ) used to recite this dua at the beginning of his journey:",
+          "arabic": "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ اَللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى، اَللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي الْأَهْلِ، اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ",
+          "audio": "/audio/dua/319.mp3",
+          "transliteration": "Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar. Subhaanal-lathee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Allaahumma 'innaa nas'aluka fee safarinaa haadhal-birra wattaqwaa, waminal-'amali maa tardhaa, Allaahumma hawwin 'alaynaa safaranaa haadhaa watwi 'annaa bu'dahu, Allaahumma 'Antas-saahibu fis-safari, walkhaleefatu fil-'ahli, Allaahumma 'innee 'A'oodhu bika min wa'thaa'is-safari, wa ka-'aabatil-mandhari, wa soo'il-munqalabi fil-maali wal 'ahli",
+          "translation": "Allah is the Most Great (3 times). Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. O Allah, we ask You on this our journey for goodness and piety, and for works that are pleasing to You. O Allah, lighten this journey for us and make its distance easy for us. O Allah, You are our Companion on the road and the One in Whose care we leave our family. O Allah, I seek refuge in You from this journey's hardships, and from the wicked sights in store and from finding our family and property in misfortune upon returning.\n\nAnd when the Prophet (ﷺ) returned from his journey, he would recite it and add to it:",
+          "reference": "Muslim: 1342",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Journey & Protection",
+            "description": "This dua e safar brings Allah’s help and care to every journey, making the road easy, the heart calm, and the family safe while a Muslim travels with hope and trust in Allah.",
+            "points": [
+              "Safar ki dua keeps the traveler safe from harm and brings Barakah on the road.",
+              "Dua for travel asks Allah to make the journey easy and full of Amal and taqwa.",
+              "Travel dua gives peace by leaving family in Allah’s care and protection.",
+              "Journey dua helps a Muslim avoid hardship and bad things on the way and at home.",
+              "Prayer for a safe journey brings hope for goodness and keeps Iman strong."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Journey & Protection (Travel dua)",
+            "description": "This dua e safar is a strong prayer for travel, asking Allah for Barakah, safety, and ease on every journey, keeping your family and Amal safe while you travel with Iman and hope in your heart.",
+            "points": [
+              "Before starting any trip, recite the dua e safar to ask Allah for a safe journey.",
+              "When boarding a car, bus, or plane, use the safar ki dua for protection and Barakah.",
+              "As you leave your home, make the dua for travel to keep your family and things safe.",
+              "While on the road, remember the travel dua to seek ease and help from Allah in your journey.",
+              "After reaching your place, thank Allah with the journey dua for safe return and good Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Journey & Protection",
+            "description": "This dua e safar is a strong travel dua that asks Allah for safety, Barakah, and ease on every journey. It is a masnoon dua that keeps your family and wealth safe while you travel and brings peace to your heart.",
+            "steps": [
+              "Before leaving home, recite this safar ki dua with full trust in Allah’s care and help.",
+              "As you start your journey, say this dua for travel to ask for a safe and easy road ahead.",
+              "When you feel worried about your family, remember this journey dua for their protection.",
+              "If the road feels long or hard, quietly repeat this prayer for a safe journey for comfort.",
+              "After reaching your place, thank Allah with this masnun dua for keeping you and your Amal safe."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 320,
+          "title": "Prophetic Farewell Dua for a traveller",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَسْتَوْدِعُكَ اللَّهَ الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ",
+          "audio": "/audio/dua/320.mp3",
+          "transliteration": "Astawdi'ukAllahal-ladhee laa tadhee'u wadaa'i'uhu",
+          "translation": "I leave you in the care of Allah, as nothing is lost that is in His care.\n\nThe Messenger of Allah (ﷺ) gave me a send-off and said: (The dua is mentioned above). So, musaafir should say this dua to the farewell giver.But Musaafir and farewell giver both can supplicate this dua for each other.",
+          "reference": "Sahih (Albani). Ibn Majah: 2825",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنِ الْحَسَنِ بْنِ ثَوْبَانَ، عَنْ مُوسَى بْنِ وَرْدَانَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ وَدَّعَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ أَسْتَوْدِعُكَ اللَّهَ الَّذِي لاَ تَضِيعُ وَدَائِعُهُ ‏\" ‏ ‏.‏",
+            "translation": "It was narrated that Abu Hurairah said: “The Messenger of Allah (ﷺ) gave me a send-off and said: ‘I command you to Allah’s keeping, Whose trust is never lost.’” [Sahih (Albani). Ibn Majah: 2825]"
+          },
+          "benefits": {
+            "title": "Benefits of Prophetic Farewell Dua for a Traveller",
+            "description": "This dua for a traveller puts the one leaving in Allah’s care, giving peace to the heart and trust that nothing is lost when left with Allah, as taught by the Prophet.",
+            "points": [
+              "Fi amanillah keeps the traveller safe by leaving them in Allah’s strong care.",
+              "Prayer for a traveller brings calm to family and friends with hope in Allah’s promise.",
+              "Safar ki dua helps a Muslim trust that all things are safe with Allah’s hifazat.",
+              "Traveller dua gives Barakah to the journey and keeps Iman strong on the road.",
+              "Dua for travel reminds Muslims that Allah never lets anything go to waste."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Prophetic Farewell Dua for a Traveller",
+            "description": "This dua for a traveller is a simple but strong prayer, asking Allah to keep your loved one safe, with Barakah and Iman, while they travel and you trust them to Allah’s care.",
+            "points": [
+              "When saying goodbye to someone before their journey, use the dua for a traveller.",
+              "As a loved one leaves home for travel, recite the prayer for a traveller for their safety.",
+              "Before a friend starts a long trip, make the fi amanillah dua to trust them to Allah.",
+              "At the time of farewell, say the traveller dua to ask Allah to protect their Amal and Iman.",
+              "When you feel worried for someone on the road, remember the safar ki dua for their safe return."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Prophetic Farewell Dua for a traveller",
+            "description": "This dua for a traveller is a simple yet strong prayer for a traveller’s safety and Barakah. It is a masnoon dua that shows love and trust in Allah when someone you care about is going on a journey.",
+            "steps": [
+              "When saying goodbye, recite this dua for a traveller with a soft and caring heart.",
+              "As your loved one leaves, quietly say fi amanillah to place them in Allah’s care.",
+              "If you feel worried, repeat this traveller dua to remember Allah protects all things.",
+              "While waving or hugging, softly say this prayer for a traveller for their safe return.",
+              "After they leave, keep making this dua safar in your zikr Allah for their safety and Iman."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 321,
+          "title": "Powerful Dua of Journey for Safe Travel",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَسْتَوْدِعُ اللَّهَ دِيْنَكَ وَأَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
+          "audio": "/audio/dua/321.mp3",
+          "transliteration": "Astawdi'ullaaha deenaka, wa 'amaanataka, wa khawaateema 'amalika",
+          "translation": "I leave your religion in the care of Allah, as well as your safety, and the last of your deeds.\n\nAbdullah ibn Umar (RA) said, The Messenger of Allah (ﷺ) said: when he bid farewell, he grab his hand and did musafaha and said the above mentioned dua.In another narration, Abdullah Ibn Yazid Khatmi (RA) said, The Messenger of Allah (ﷺ) bid farewell by saying these words. But in this case, he used plural (kum) instead of singular (ka): “Astad’iullaha diinaakum wa amaanatakum wa khawatima a’maalikum” I leave your religion in the care of Allah, as well as your safety, and the last of your deeds.",
+          "reference": "Sahih (Albani). Tirmidhi: 3443",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ، حَدَّثَنَا سَعِيدُ بْنُ خُثَيْمٍ، عَنْ حَنْظَلَةَ، عَنْ سَالِمٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَقُولُ لِلرَّجُلِ إِذَا أَرَادَ سَفَرًا ادْنُ مِنِّي أُوَدِّعْكَ كَمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُوَدِّعُنَا ‏.‏ فَيَقُولُ ‏ \"‏ أَسْتَوْدِعُ اللَّهَ دِينَكَ وَأَمَانَتَكَ وَخَوَاتِيمَ عَمَلِكَ ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ سَالِمِ بْنِ عَبْدِ اللَّهِ ‏.‏",
+            "translation": "Salim narrated that : when he intended to undertake a journey, Ibn `Umar used to say to a person to “Come close to me so that I may bid you farewell as the Messenger of Allah (ﷺ) used to bid us farewell.” Then he would say: “I entrust to Allah your religion, and your trusts, and the last of your deeds (Astawdi`ullāha dīnaka wa amānataka wa khawātīma `amalik).” [Sahih (Albani). Tirmidhi: 3443]"
+          },
+          "benefits": {
+            "title": "Benefits of Powerful Dua of Journey for Safe Travel",
+            "description": "This dua for safe travel keeps a Muslim’s deen, trust, and good deeds safe in Allah’s care, making every journey full of hope, safety, and strong Iman from start to end.",
+            "points": [
+              "Dua for safe travel puts your deen and Amanah in Allah’s hifazat during journey.",
+              "Travel dua helps keep the last Amal safe and brings Barakah to all actions.",
+              "Prayer for safe travel gives peace that nothing is lost when left with Allah.",
+              "Dua for journey protects a Muslim’s Iman and keeps the heart strong on the road.",
+              "Safe journey prayer brings hope that Allah will guard every step and every deed."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Powerful Dua of Journey for Safe Travel",
+            "description": "This dua for safe travel is a strong Islamic travel prayer, asking Allah to protect your Iman, Amanah, and Amal while you travel, so your journey brings Barakah and you return with your faith safe.",
+            "points": [
+              "Before someone starts their journey, recite the dua for safe travel for their deen.",
+              "When a loved one is leaving for travel, use the prayer for safe travel to keep their Amanah.",
+              "At the time of farewell, make the dua for journey to ask Allah to protect their last Amal.",
+              "While seeing off a friend or family, say the safe travel prayer for their Iman and safety.",
+              "If you worry about someone’s journey, remember the dua for travelling for their safe return."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of Journey for Safe Travel",
+            "description": "Before starting any journey, this dua for safe travel is a trusted way to ask Allah for protection, Barakah, and safety. Every Muslim should know this Islamic travel prayer to keep their journey safe and their Iman strong.",
+            "steps": [
+              "Make niyyah in your heart for safe travel and softly recite this dua for journey.",
+              "Ask Allah to protect your deen and Amanah by saying this travel dua before leaving home.",
+              "When you see your loved ones off, use this prayer for travelers to wish them a safe journey.",
+              "While sitting in your car or bus, quietly say this safe travel prayer for Allah’s care.",
+              "After reaching your place, thank Allah and repeat this dua for safe travel for more Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 322,
+          "title": "Prophetic Dua for Safe Travel & Blessings",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "زَوَّدَكَ اللَّهُ التَّقْوَى وَغَفَرَ لَكَ ذَنْبَكَ وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+          "audio": "/audio/dua/322.mp3",
+          "transliteration": "Zawwadakal-laahut-taqwaa, wa ghafara thanbaka, wa yassara lakal-khayra haythu maa kunta",
+          "translation": "May Allah give you piety as your provision, forgive your sins, and make goodness easy for you wherever you are.\n\nAnas ibn Malik (RA) said, \"A man came to the Messenger of Allah (ﷺ) and said, 'I have decided to travel. Give me a Travel allowance.' Then he said these words and prayed for him.",
+          "reference": "Hasan. Tirmidhi: 3444",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي زِيَادٍ، حَدَّثَنَا سَيَّارٌ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي أُرِيدُ سَفَرًا فَزَوِّدْنِي ‏.‏ قَالَ ‏\"‏ زَوَّدَكَ اللَّهُ التَّقْوَى ‏\"‏ ‏.‏ قَالَ زِدْنِي ‏.‏ قَالَ ‏\"‏ وَغَفَرَ ذَنْبَكَ ‏\"‏ ‏.‏ قَالَ زِدْنِي بِأَبِي أَنْتَ وَأُمِّي ‏.‏ قَالَ ‏\"‏ وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+            "translation": "Anas said: “A man came to the Messenger of Allah (ﷺ) and said: ‘I intend to undertake a journey, so give me provision. He said: ‘May Allah grant you Taqwa as your provision (Zawwadak Allāhut-taqwā).’ He said: ‘Give me more.’ He said: ‘And may He forgive your sin (Wa ghafara dhanbak).’ He said: ‘Give me more, may my father be ransomed for you, and my mother.’ He said: ‘And may He make goodness easy for you wherever you are (Wa yassara lakal-khaira ḥaithu mā kunt).’” [Hasan (Albani). Tirmidhi: 3444]"
+          },
+          "benefits": {
+            "title": "Benefits of Prophetic Dua for Safe Travel & Blessings",
+            "description": "This travellers dua brings taqwa, forgiveness, and easy goodness to every journey, making the road safe and filling the heart with hope and Barakah wherever a Muslim goes.",
+            "points": [
+              "Travellers dua asks Allah to fill the journey with taqwa and keep Iman strong.",
+              "Dua for travel brings hope for forgiveness and wipes away old sins on the road.",
+              "Prayer for safe travel makes every step easy and brings khayr wherever you are.",
+              "Travel dua helps a Muslim find Barakah and goodness in every place and time.",
+              "Safar ki dua keeps the heart soft and Amal pure while moving from place to place."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Prophetic Dua for Safe Travel & Blessings",
+            "description": "This travellers dua is a kind prayer for travel, asking Allah to give Barakah, forgive sins, and make every step easy, so your journey and Iman stay strong wherever you go.",
+            "points": [
+              "Before a loved one leaves, recite the travellers dua to ask Allah for taqwa and Barakah.",
+              "When someone is about to travel, use the dua for journey to pray for their sins to be forgiven.",
+              "At the start of any trip, make the prayer for safe travel for ease and goodness on the road.",
+              "While saying goodbye, say the travel dua to ask Allah to help them wherever they are.",
+              "If you want blessings for a friend’s journey, remember the dua for safety and khayr always."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Travellers Dua for Safe Travel & Blessings",
+            "description": "This travellers dua is a beautiful Islamic travel prayer that asks Allah for taqwa, forgiveness, and ease in every step of your journey. It is a masnoon dua every Muslim should use before any travel.",
+            "steps": [
+              "Start by making your heart clean with Iman and recite this dua for travel before leaving.",
+              "When you meet someone going on a journey, say this dua for a traveller for their safety.",
+              "While packing your things, remember this prayer for safe travel and ask for Barakah.",
+              "After sitting in your seat, quietly read this safe journey prayer for Allah’s help and ease.",
+              "Once you reach your stop, thank Allah and repeat this dua journey for more blessings."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 323,
+          "title": "Powerful Dua for Protection (Travellers dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+          "audio": "/audio/dua/323.mp3",
+          "transliteration": "A'oodhu bikalimaatil-laahit-taammaati min sharri maa khalaq",
+          "translation": "I seek refuge in the Perfect Words of Allah from the evil of what He has created.\n\nWe have seen that the Prophet (ﷺ) said: If a person goes to a place or stops somewhere on a journey and says this dua, then nothing can harm him while he is there.",
+          "reference": "Muslim: 2708",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، وَاللَّفْظُ، لَهُ أَخْبَرَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنِ الْحَارِثِ بْنِ يَعْقُوبَ، أَنَّ يَعْقُوبَ بْنَ عَبْدِ اللَّهِ، حَدَّثَهُ أَنَّهُ، سَمِعَ بُسْرَ بْنَ سَعِيدٍ، يَقُولُ سَمِعْتُ سَعْدَ بْنَ أَبِي وَقَّاصٍ، يَقُولُ سَمِعْتُ خَوْلَةَ بِنْتَ حَكِيمٍ السُّلَمِيَّةَ، تَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ نَزَلَ مَنْزِلاً ثُمَّ قَالَ أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ ‏.‏ لَمْ يَضُرُّهُ شَىْءٌ حَتَّى يَرْتَحِلَ مِنْ مَنْزِلِهِ ذَلِكَ ‏\" ‏ ‏.‏",
+            "translation": "Khaula bint Hakim Sulamiyya reported: I heard Allah's Messenger (ﷺ) as saying: When anyone lands at a place, and then says:\" I seek refuge in the Perfect Word of Allah from the evil of what He has created,\" nothing would harm him until he marches from that stopping place. [Muslim: 2708]"
+          },
+          "benefits": {
+            "title": "Benefits of Powerful Dua for Protection (Travellers dua)",
+            "description": "This powerful dua for protection keeps a Muslim safe from harm and evil, making every journey and every day full of Allah’s care, mercy, and strong hifazat.",
+            "points": [
+              "Dua for protection from evil keeps shaytan and jinn away with Allah’s words.",
+              "Protection dua brings peace to the heart and safety to the home and road.",
+              "Powerful dua for protection helps a Muslim stay safe from nazar and evil eye.",
+              "Hifazat ki dua gives Barakah and keeps Amal safe from harm in every journey.",
+              "Travel dua makes Allah’s mercy and safety cover the believer in all places."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Powerful Dua for Protection (Travellers dua)",
+            "description": "This powerful dua for protection is a strong shield, asking Allah to keep you safe from every harm, evil, and danger, bringing Barakah and peace to your journey, home, and Iman.",
+            "points": [
+              "Before leaving your house, recite the powerful dua for protection for safety on the road.",
+              "When feeling scared of evil or harm, use the dua for protection from evil for Allah’s help.",
+              "At night before going to bed, make the protection dua to keep your family safe from shaytan.",
+              "While traveling or driving, say the travel dua for protection from jinn and every danger.",
+              "If you sense bad things around, remember the hifazat ki dua for Allah’s shield and Barakah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Powerful Dua for Protection (Travellers Dua)",
+            "description": "This powerful dua for protection is a trusted masnoon dua for every Muslim, asking Allah to keep you safe from harm and evil during travel or at home. It is a simple Islamic prayer for protection that brings peace and Barakah.",
+            "steps": [
+              "Begin with pure niyyah and softly recite this dua for protection before your journey.",
+              "When you feel scared or see danger, use this protection dua to seek Allah’s help.",
+              "While entering a new place or hotel, quietly say this dua for safety from evil things.",
+              "After reading surah for protection like surah falaq or surah nas, repeat this dua for more hifazat.",
+              "If you travel with family, read this powerful dua for protection for everyone’s safety and Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 324,
+          "title": "Islamic Dua for Safety in New City (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ رَّبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الْأَرَضِيْنَ السَّبْعِ ومَا أَقْلَلْنَ، ورَبَّ الشَّيَاطِيْنِ ومَا أَضْلَلْنَ، ورَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، (وَخَيْرَ مَا فِيهَا) وَنَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا وشَرِّ مَا فِيهَا",
+          "audio": "/audio/dua/324.mp3",
+          "transliteration": "Allaahumma Rabbas-samaawaatis-sab'i wa maa 'adhlalna, wa Rabbal-'aradheenas-sab'i wa maa 'aqlalna, wa Rabbash-shayaateeni wa maa 'adhlalna, wa Rabbar-riyaahi wa maa tharayna. 'As'aluka khayra haathihil-qaryati wa khayra 'ahlihaa, (wa khayra maa feehaa), wa na‛oodhu bika min sharrihaa, wa sharri 'ahlihaa, wa sharri maa feehaa",
+          "translation": "O Allah, Lord of the seven heavens and all they overshadow, Lord of the seven worlds and all they uphold, Lord of the devils and all they lead astray, Lord of the winds and all they scatter. I ask You for the goodness of this town and for the goodness of its people, and for the goodness it contains. I seek refuge in You from its evil, from the evil of its people and from the evil it contains.\n\nSuhaib (RA) said that the Prophet (ﷺ) used to say these words whenever he saw a town before entering it.",
+          "reference": "Hasan Ligairihi (Albani). Sahih Ibn Khuzaimah: 2565",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Islamic Dua for Safety in New City",
+            "description": "This Islamic dua for safety in new city brings Allah’s care to every new place, asking for goodness, protection, and Barakah for the Muslim and all that is around in the new land.",
+            "points": [
+              "Dua for safety in new city asks Allah for khayr in the town and its people.",
+              "Masnoon dua keeps a Muslim safe from harm and evil in every new place.",
+              "Travel dua brings Barakah and makes the new journey easy for heart and Amal.",
+              "Dua for protection and safety helps avoid bad things and keeps Iman strong.",
+              "Islamic travel prayers give peace by trusting Allah with every step in a new city."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Islamic Dua for Safety in New City",
+            "description": "This Islamic dua for safety in new city is a strong masnoon dua for asking Allah to protect you, give Barakah, and keep you safe from harm when you enter a new place or start a journey, so your heart feels peace and your Amal is safe.",
+            "points": [
+              "When first entering a new city, recite the Islamic dua for safety in new city for protection.",
+              "Before starting any travel, use this masnoon dua as your prayer for safe travel.",
+              "After reaching your travel stop, make this dua for journey to ask Allah for Barakah.",
+              "While walking in unknown streets, remember the Islamic dua for safety in new city for safety.",
+              "If you feel scared in a new place, say this dua for protection and safety to calm your heart."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Islamic Dua for Safety in New City",
+            "description": "When you enter a new city, this Islamic dua for safety in new city helps you ask Allah for goodness and protection from harm. It is a masnoon dua that brings peace, Barakah, and safety for every Muslim traveler.",
+            "steps": [
+              "Enter the new city with Bismillah and recite this dua for safety in your heart.",
+              "After reaching your room or place, quietly say this masnoon dua for protection and Barakah.",
+              "When you meet new people, remember this dua for safety to keep your Iman and Amal safe.",
+              "Before going out to explore, read this travel dua to ask Allah for goodness in the city.",
+              "If you feel worried or see anything strange, repeat this Islamic dua for safety in new city for peace."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 325,
+          "title": "Islamic Dua for entering market (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِهَا وَخَيْرِ أَهْلِهَا وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا",
+          "audio": "/audio/dua/325.mp3",
+          "transliteration": "Allaahumma inni As'aluka min khayrihaa wa khayri 'ahlihaa wa 'a'oodhu bika min sharrihaa, wa sharri 'ahlihaa",
+          "translation": "Ya Allah! I ask you for the blessing of this place and the goodness of it’s inhabitant’s. And I take refuge in you from harm of this place and harm of it’s inhabitant’s.\n\nIt is narrated on the authority of 'Abdullah ibn Mas'ud (RA) that he stood at the entrance of the market, recited the du'a and entered the market.",
+          "reference": "Sahih (Albani). Tirmidhi: 3449",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ أَبُو عَمْرٍو الْبَصْرِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا رَأَى الرِّيحَ قَالَ ‏ \"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِهَا وَخَيْرِ مَا فِيهَا وَخَيْرِ مَا أُرْسِلَتْ بِهِ وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا فِيهَا وَشَرِّ مَا أُرْسِلَتْ بِهِ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أُبَىِّ بْنِ كَعْبٍ رضى الله عنه وَهَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+            "translation": "Aishah [may Allah be pleased with her] narrates, saying: “When the Prophet (ﷺ) would see the wind he would say: ‘O Allah, indeed, I ask You for its good, the good of what is in it, and the good of what it has been sent with. And I seek refuge in You from its evil, the evil of what is in it, and the evil of what it has been sent with (Allāhumma innī as’aluka min khairihā wa khairi mā fīhā, wa khairi mā ursilat bihī, wa a`ūdhu bika min sharrihā wa sharri mā fīhā, wa sharri mā ursilat bih).’” [Sahih (Albani). Tirmidhi: 3449]"
+          },
+          "benefits": {
+            "title": "Benefits of Islamic Dua for Entering Market",
+            "description": "This dua for market brings Allah’s Barakah and safety to every step in the marketplace, asking for goodness, rizq, and protection from harm for both the Muslim and the people around.",
+            "points": [
+              "Dua for market asks Allah for khayr and Barakah in business and daily rizq.",
+              "Market dua keeps a Muslim safe from harm and bad things in the marketplace.",
+              "Dua for entering marketplace brings hope for halal wealth and honest Amal.",
+              "Masnun dua helps protect Iman and keeps the heart clean in busy places.",
+              "Dua for success in business makes every deal easy and full of Allah’s mercy."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Market",
+            "description": "This dua for market is a masnun dua that brings Barakah, safety, and good rizq when you enter busy places, asking Allah to protect your Iman and Amal from harm and give you halal success.",
+            "points": [
+              "When stepping into any market, recite the dua for market to seek Allah’s Barakah.",
+              "Before starting business in the morning, use this dua for entering market for rizq.",
+              "After seeing something wrong in the marketplace, make the dua for market for protection.",
+              "While walking through crowded shops, remember the dua for market place for safety.",
+              "If you feel your Iman is weak in the bazar, say this dua for market to keep your heart clean."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Market (Masnun Dua)",
+            "description": "This dua for market is a simple masnun dua that every Muslim should use before entering any marketplace. It helps you ask Allah for Barakah, safety, and goodness while keeping away harm and bad things.",
+            "steps": [
+              "Step into the market with Bismillah and quietly recite this dua for market in your heart.",
+              "Before starting any shopping or business, say this dua for barakah in business for rizq.",
+              "When you see many people or feel busy, remember this market dua to keep your Iman safe.",
+              "After buying or selling, thank Allah and repeat this dua for success in business and Barakah.",
+              "If you feel any harm or trouble, use this dua for entering market to ask Allah for protection."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 326,
+          "title": "Powerful Dua for entering market (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Umar ibnul khattab (RA) narrated that: the Messenger of Allah (ﷺ) said: “Whoever enters the marketplace and says:",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "audio": "/audio/dua/326.mp3",
+          "transliteration": "Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, yuhyee wa yumeetu, wa Huwa hayyun laa yamootu, biyadihil-khayru, wa Huwa 'alaa kulli shay'in Qadeer",
+          "translation": "None has the right to be worshipped but Allah alone, Who has no partener. His is the dominion and His is the praise. He brings life and He causes death, and He is living and does not die. In His Hand is all good, and He is Able to do all things.\n\nAllah will write a million rewards for him, remove a million sins from him and raise his status by one million levels.",
+          "reference": "Hasan (Albani). Tirmidhi: 3428",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا أَزْهَرُ بْنُ سِنَانٍ، حَدَّثَنَا مُحَمَّدُ بْنُ وَاسِعٍ، قَالَ قَدِمْتُ مَكَّةَ فَلَقِيَنِي أَخِي سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ فَحَدَّثَنِي عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ دَخَلَ السُّوقَ فَقَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكُ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَىٌّ لاَ يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ كَتَبَ اللَّهُ لَهُ أَلْفَ أَلْفِ حَسَنَةٍ وَمَحَا عَنْهُ أَلْفَ أَلْفِ سَيِّئَةٍ وَرَفَعَ لَهُ أَلْفَ أَلْفِ دَرَجَةٍ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَقَدْ رَوَاهُ عَمْرُو بْنُ دِينَارٍ - وَهُوَ قَهْرَمَانُ آلِ الزُّبَيْرِ عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، هَذَا الْحَدِيثَ نَحْوَهُ.",
+            "translation": "Salim bin Abdullah bin Umar narrated from his father, from his grandfather, that : the Messenger of Allah (ﷺ) said: “Whoever enters the marketplace and says: ‘There is none worthy of worship except Allah, Alone, without partner, to Him belongs the dominion, and to Him is all the praise, He gives life and causes death, He is Living and does not die, in His Hand is the good, and He has power over all things, (Lā ilāha illallāh, waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, yuḥyī wa yumītu, wa huwa ḥayyun lā yamūtu, biyadihil-khairu, wa huwa `alā kulli shay’in qadīr)’ Allah shall record a million good deeds for him, wipe a million evil deeds away from him, and raise a million ranks for him.” [Hasan (Albani). Tirmidhi: 3428]"
+          },
+          "benefits": {
+            "title": "Benefits of Powerful Dua for Entering Market",
+            "description": "This powerful dua for entering market brings Allah’s help and blessings, making every step in business and trade full of Barakah, safety, and success for all Muslims who trust in His power.",
+            "points": [
+              "Allah gives Barakah in rizq and wealth when Muslims use this dua for market.",
+              "This masnun dua for entering market keeps shaitan away from your business.",
+              "Powerful dua for entering market helps Muslims get halal profit and success.",
+              "Saying lailahaillallah in market brings more reward than other zikr Allah.",
+              "Dua for business in market protects from loss and keeps hearts full of alhamdulillah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Powerful Dua for Entering Market",
+            "description": "This powerful dua for entering market is a strong zikr Allah that brings Barakah, keeps your Iman safe, and helps you remember Allah’s power and mercy while you look for rizq and halal success in busy places.",
+            "points": [
+              "When you step into any market, recite the powerful dua for entering market for Barakah.",
+              "Before buying or selling, use this dua for business to ask Allah for halal rizq.",
+              "After seeing something that harms your Iman, make the powerful dua for entering market.",
+              "While waiting in a busy shop, remember this dua for success and praise Allah’s power.",
+              "If you feel your heart is weak in the market, say the powerful dua for entering market for strength."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Powerful Dua for entering market",
+            "description": "Entering a market can bring many tests, so this powerful dua for entering market helps you remember Allah, seek Barakah, and protect your rizq. Every Muslim should use this masnun dua to keep their business and wealth safe.",
+            "steps": [
+              "Step into the market with clean heart and quietly recite the powerful dua for entering market.",
+              "Before you start any buying or selling, say lailahaillallah and ask for halal rizq.",
+              "When you see something you want, remember to say alhamdulillah and make istighfar.",
+              "If you feel greed or worry, repeat this dua for wealth and trust Allah for your rizq.",
+              "After leaving the market, thank Allah with subhanallah and make dua for success in your business."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 327,
+          "title": "Power of Saying Bismillah",
+          "category_tags": [],
+          "introduction": "Abu al-Malih (RA) reported on the authority of a man: I was riding on a mount behind the prophet (ﷺ) It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above)",
+          "arabic": "بِسْمِ اللَّهِ",
+          "audio": "/audio/dua/327.mp3",
+          "transliteration": "Bismillaah",
+          "translation": "With the Name of Allah.\n\nAbu al-Malih (RA) reported on the authority of a man : I was riding on a mount behind the prophet (ﷺ). It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: (The dua is mentioned above) For when you say that, he will diminish so much so that he will be like a fly.",
+          "reference": "Sahih. Abu Dawud: 4982",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، - يَعْنِي ابْنَ عَبْدِ اللَّهِ - عَنْ خَالِدٍ، - يَعْنِي الْحَذَّاءَ - عَنْ أَبِي تَمِيمَةَ، عَنْ أَبِي الْمَلِيحِ، عَنْ رَجُلٍ، قَالَ كُنْتُ رَدِيفَ النَّبِيِّ صلى الله عليه وسلم فَعَثَرَتْ دَابَّتُهُ فَقُلْتُ تَعِسَ الشَّيْطَانُ ‏.‏ فَقَالَ ‏ \"‏ لاَ تَقُلْ تَعِسَ الشَّيْطَانُ فَإِنَّكَ إِذَا قُلْتَ ذَلِكَ تَعَاظَمَ حَتَّى يَكُونَ مِثْلَ الْبَيْتِ وَيَقُولَ بِقُوَّتِي وَلَكِنْ قُلْ بِسْمِ اللَّهِ فَإِنَّكَ إِذَا قُلْتَ ذَلِكَ تَصَاغَرَ حَتَّى يَكُونَ مِثْلَ الذُّبَابِ ‏\" ‏ ‏.‏",
+            "translation": "Abu al-Malih reported on the authority of a man : I was riding on a mount behind the prophet (May peace be upon him). It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: in the name of Allah; for when you say that, he will diminish so much so that he will be like a fly. [Sahih (Albani). Abu Dawud: 4982]"
+          },
+          "benefits": {
+            "title": "Benefits of Saying Bismillah",
+            "description": "Saying bismillah brings Allah’s help and mercy to every action, making daily life easy and full of Barakah for all Muslims who start with His name and trust in His power.",
+            "points": [
+              "Bismillah keeps shaitan away from food and brings Barakah in every meal.",
+              "This masnun dua before eating makes every bite halal and full of blessings.",
+              "Saying bismillah before work or study brings help from Allah in all tasks.",
+              "Bismillah hir rahman nir rahim gives peace to hearts and grows Iman in Muslims.",
+              "Start with bismillah to make every amal easy and accepted by Allah’s mercy."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Bismillah",
+            "description": "Saying bismillah brings Barakah and protection from Allah in every Amal, making your heart remember Him and keeping your actions clean and full of Iman from the start to the end.",
+            "points": [
+              "Before eating any food, say bismillah to start your meal with Allah’s name.",
+              "When you begin any work, use bismillah to bring Barakah in your Amal.",
+              "Before leaving your house, remember bismillah for safety and Allah’s help.",
+              "While starting your namaz, recite bismillah to make your salah strong and pure.",
+              "If you feel scared or unsure, say bismillah to calm your heart and trust Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Power of Saying Bismillah",
+            "description": "Saying bismillah brings Barakah and keeps your actions safe under Allah’s name, making every start blessed. This simple word is a strong shield for every Muslim, used in daily life and every good deed.",
+            "steps": [
+              "Begin any work or meal by softly saying bismillah to bring Allah’s help and mercy.",
+              "When you enter your home, say bismillah to keep shaitan away and fill your house with Barakah.",
+              "Before you read quranic dua or start namaz, say bismillah for a pure and clean Amal.",
+              "If you feel scared or alone, whisper bismillah and trust Allah to protect you always.",
+              "While teaching kids, remind them to start with bismillah so their Iman grows strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 328,
+          "title": "Dhikr & Dua for Travelling (Takbir)",
+          "category_tags": [],
+          "introduction": "Narrated Jabir bin Abdillah (RA): He said, \"When we ascended, we would say:",
+          "arabic": "اَللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/328.mp3",
+          "transliteration": "Allahu Akbar",
+          "translation": "Allah is the Most Great.\n\nAnd when descend, we said -",
+          "reference": "Bukhari: 2993",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Travel (Allahu Akbar)",
+            "description": "Saying allahu akbar as a dua for travel fills the journey with Allah’s help, making every step safe and full of Barakah for Muslims who trust in His greatness and power.",
+            "points": [
+              "Allahu akbar in travel dua keeps hearts strong and safe from fear on the road.",
+              "This takbir brings Barakah and makes every journey easy for Muslims.",
+              "Dua for travelling with allahu akbar protects from harm and sudden danger.",
+              "Saying allahu akbar meaning Allah is the greatest grows Iman in every journey.",
+              "Safar ki dua with takbeer helps Muslims remember Allah in every step of travel."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Travel (Allahu Akbar)",
+            "description": "This dua for travel with takbir fills your heart with Iman and Barakah, reminding you that Allah is the Greatest and giving you strength and safety on every journey, big or small.",
+            "points": [
+              "When starting any journey, say allahu akbar as your dua for travel and safety.",
+              "Before getting in a car or bus, use takbir to ask Allah for a safe travel.",
+              "After reaching a new place, remember allahu akbar to thank Allah for your journey.",
+              "While feeling scared on the road, recite allahu akbar to calm your heart and trust Allah.",
+              "If you see something amazing on your trip, say allahu akbar to praise Allah’s power."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Travel (Takbir)",
+            "description": "When you start a journey, saying allahu akbar as a dua for travel brings safety, Barakah, and keeps your heart close to Allah. This simple takbir is a strong shield for every Muslim on the road or in the air.",
+            "steps": [
+              "Before leaving your home, say allahu akbar to begin your travel with Allah’s name.",
+              "As you step into your car or bus, repeat the takbir and ask for a safe journey ahead.",
+              "When you see new places or feel scared, say allahu akbar and trust Allah’s power.",
+              "During your travel, keep doing this dhikr and dua for travelling to get peace and protection.",
+              "After reaching your place, thank Allah by saying allahu akbar for a safe and easy journey."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 329,
+          "title": "Dua for a traveller when dawn approaches",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) used to say at the end of the night while on a journey:",
+          "arabic": "سَمِعَ سَامِعٌ بِحَمْدِ اللَّهِ، وَحُسْنِ بَلَائِهِ عَلَيْنَا، رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا، عَائِذًا بِاللَّهِ مِنَ النَّارِ",
+          "audio": "/audio/dua/329.mp3",
+          "transliteration": "Sami'a saami'un bihamdillaahi wa husni balaa'ihi 'alaynaa. Rabbanaa saahibnaa, wa 'afdhil 'alaynaa 'aa'ithan billaahi minan-naar.",
+          "translation": "He Who listens has heard that we praise Allah for the good things He gives us. Our Lord, be with us and bestow Your favor upon us. I seek the protection of Allah from the Fire.",
+          "reference": "Muslim: 2718",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ سُهَيْلِ، بْنِ أَبِي صَالِحٍ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا كَانَ فِي سَفَرٍ وَأَسْحَرَ يَقُولُ ‏ \"‏ سَمَّعَ سَامِعٌ بِحَمْدِ اللَّهِ وَحُسْنِ بَلاَئِهِ عَلَيْنَا رَبَّنَا صَاحِبْنَا وَأَفْضِلْ عَلَيْنَا عَائِذًا بِاللَّهِ مِنَ النَّارِ ‏\" ‏ ‏.‏",
+            "translation": "Abu Huraira reported that when Allah's Messenger (ﷺ) set out on a journey in the morning, he used to say: \" A listener listened to our praising Allah (for) His goodly trial of us. Our Lord! acompany us, guard us and bestow upon us Thy grace. I am seeker of refuge in Allah from the Fire.\" [Muslim: 2718]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for a Traveller When Dawn Approaches",
+            "description": "This dua for a traveller at dawn brings Allah’s mercy and safety, making every morning on the road full of Barakah, protection, and hope for Muslims who trust in His kindness.",
+            "points": [
+              "Allah’s help comes to the traveller who makes this dua for safe journey at dawn.",
+              "Praising Allah in this morning dua brings Barakah and keeps hearts full of hope.",
+              "Dua for protection at fajr time saves from harm and keeps away the fire of Jahannam.",
+              "Safar ki dua at dawn asks Allah to stay close and shower His blessings on the trip.",
+              "This dua for a traveller brings peace and makes every step easy with Allah’s favor."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For a Traveller When Dawn Approaches",
+            "description": "This dua for a traveller is a strong way to ask Allah for Barakah, protection, and safe journey as the new day starts, keeping your Iman high and praising Allah for His blessings during travel.",
+            "points": [
+              "At dawn while on a journey, recite the dua for a traveller to seek Allah’s favor.",
+              "When fajr prayer time comes during travel, use this safar ki dua for protection.",
+              "As the morning light appears on the road, make this traveling dua for a safe trip.",
+              "Before starting your daily dhikr on a journey, begin with this dua for blessings.",
+              "After waking up for fajr in safar, ask Allah for mercy with this dua for safe journey."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for a traveller when dawn approaches",
+            "description": "When dawn comes during travel, this dua for a traveller helps you thank Allah, ask for His mercy, and seek safety from harm. It is a strong masnun dua for every Muslim who wants Barakah and protection on their journey.",
+            "steps": [
+              "At the first light of morning, quietly recite this dua for a traveller with full hope in Allah.",
+              "After fajr prayer, say this dua for protection and ask Allah to be with you on your safar.",
+              "If you feel alone or worried, repeat this morning dua and trust Allah for His blessings.",
+              "When you see a new day, praise be to Allah and make this dua for safe journey and mercy.",
+              "Before moving again, whisper this prayer for travel to keep your heart safe from every harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 330,
+          "title": "Powerful Dhikr and Dua for Travel",
+          "category_tags": [],
+          "introduction": "It is narrated on the authority of 'Abdullah ibn' Umar (RA) that the Messenger of Allah (ﷺ) used to rise on every high ground on the way back from a battle or Hajj or 'Umrah and say three times:",
+          "arabic": "اَللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/330.mp3",
+          "transliteration": "Allahu Akbar",
+          "translation": "Allah is the Most Great.",
+          "reference": "Bukhari: 1797",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Duas for Travelling (Allahu Akbar)",
+            "description": "Saying allahu akbar as duas for travelling fills the journey with Allah’s help, making every road safe and every heart strong for muslims who remember His greatness.",
+            "points": [
+              "Allahu akbar in travel dua brings safety and keeps harm away from the traveller.",
+              "This zikrullah gives Barakah and makes every step easy on the road for muslims.",
+              "Duas for travelling with allahu akbar grows Iman and trust in Allah’s power.",
+              "Praise allah with allahu akbar to get peace and hope in every part of the journey.",
+              "Safar ki dua with allahu akbar helps muslims remember Allah in every travel moment."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Duas For Travelling",
+            "description": "This duas for travelling with Allahu Akbar fills your heart with Iman, brings Barakah to your journey, and keeps you close to Allah’s mercy while you praise Him on the road or in the air.",
+            "points": [
+              "Before starting your travel, say allahu akbar as a dua for travel and Barakah.",
+              "When you see something amazing on your journey, praise Allah with allahu akbar.",
+              "While moving from one place to another, use this zikrullah for safe traveling.",
+              "After reaching a new city or stop, make allahu akbar part of your daily dhikr.",
+              "During any moment of fear or worry in safar, repeat allahu akbar for protection."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Powerful Dhikr and Dua for Travel",
+            "description": "When you travel, saying allahu akbar as duas for travelling brings peace, safety, and keeps your heart close to Allah. This simple islamic phrases is a strong way to remember Allah and ask for His help on every journey.",
+            "steps": [
+              "Before you start your safar, say allahu akbar to begin your travel with Allah’s name.",
+              "As you move on the road, repeat this dua for travel and trust Allah for safe steps.",
+              "When you see new places, praise Allah with allahu akbar and feel His greatness in your heart.",
+              "If you feel tired or scared, whisper allahu akbar and remember Allah’s power is always with you.",
+              "After reaching your stop, thank Allah by saying allahu akbar for a safe and easy journey."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 331,
+          "title": "Dua for Travelling in Names of Allah (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Noah (AS) took a boat ride while reading the following prayer:",
+          "arabic": "بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسٰىهَآ ۚ إِنَّ رَبِّى لَغَفُورٌ رَّحِيمٌ",
+          "audio": "/audio/dua/331.mp3",
+          "transliteration": "Bismillahi majraha wa mursaha inna rabbee laGhafoorur-Raheem",
+          "translation": "In the name of Allah is its course and its anchorage. Indeed, my Lord is Forgiving and Merciful.\n\nNote that, this Dua cannot be said while mounting an animal or any means of transport. However, in our country, this dua is written in front of many vehicles and the supervisor says this dua when starting the journey, which is wrong.",
+          "reference": "Surah Hu'd: 41",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Travelling in Names of Allah",
+            "description": "This dua before travelling brings Allah’s mercy and forgiveness, making every journey safe and full of Barakah for muslims who trust in His names and power.",
+            "points": [
+              "Bismillahi majreha wa mursaha keeps the journey safe from start to end.",
+              "Surah Hud ayat 41 in this dua for travel brings Allah’s Rahmah on every trip.",
+              "Dua for safe journey with Allah’s name protects from harm and sudden danger.",
+              "Saying this masnoon dua before travelling brings Barakah in every step taken.",
+              "In the name of Allah, muslims get hope and forgiveness while on the road."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Travelling",
+            "description": "This dua before travelling with bismillahi majraha wa mursaha brings Barakah, safety, and Allah’s Rahmah to your journey, making every step filled with Iman and hope for a safe return.",
+            "points": [
+              "Before starting your journey, recite dua before travelling for Allah’s protection.",
+              "As you board any vehicle, use this safar ki dua from surah hud ayat 41 for Barakah.",
+              "When your journey begins to move, say bismillahi majreha wa mursaha for safe travel.",
+              "At the start of a boat or ship ride, make this dua for journey for Allah’s mercy.",
+              "While doing dhikr and dua on the road, remember this masnoon dua for safe journey."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua before Travelling",
+            "description": "Reciting the dua before travelling brings Barakah and safety to your journey, as taught in Surah Hud ayat 41. This masnoon dua reminds every Muslim to start their safar with the name of Allah.",
+            "steps": [
+              "Start your journey by saying bismillahi majreha wa mursaha with full Iman and trust.",
+              "Before stepping out, recite this dua for travel to ask Allah for a safe journey.",
+              "When you sit in your car or any ride, softly say this surah hud ayat 41 for protection.",
+              "If you feel worried on the road, repeat this dua for safe journey to calm your heart.",
+              "After reaching your place, thank Allah by remembering this masnoon dua for travel."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 332,
+          "title": "Dhikr & Dua for Journey (Allahu Akbar)",
+          "category_tags": [],
+          "introduction": "When the Messenger of Allah (ﷺ) went out on a journey, he would sit on the back of his camel and say three times:",
+          "arabic": "اَللَّهُ أَكْبَرُ",
+          "audio": "/audio/dua/332.mp3",
+          "transliteration": "Allahu Akbar",
+          "translation": "Allah is the Most Great.",
+          "reference": "Muslim 2/978, Hadith No. 1342",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّ عَلِيًّا الأَزْدِيَّ، أَخْبَرَهُ أَنَّ ابْنَ عُمَرَ عَلَّمَهُمْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا اسْتَوَى عَلَى بَعِيرِهِ خَارِجًا إِلَى سَفَرٍ كَبَّرَ ثَلاَثًا ثُمَّ قَالَ ‏\"‏ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الأَهْلِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ ‏\"‏ ‏.‏ وَإِذَا رَجَعَ قَالَهُنَّ ‏.‏ وَزَادَ فِيهِنَّ ‏\"‏ آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ ‏\"‏ ‏.‏",
+            "translation": "Ibn Umar (Allah be pleased with them) reported that whenever Allah's Messenger (ﷺ) mounted his camel while setting out on a journey, he glorified Allah (uttered Allah-o-Akbar) thrice, and then said: Hallowed is He Who subdued for us this (ride) and we were not ourselves powerful enough to use It as a ride, and we are going to return to our Lord. O Allah, we seek virtue and piety from Thee in this journey of ours and the act which pleaseth Thee. O Allah, lighten this journey of ours, and make its distance easy for us. O Allah, Thou art (our) companion during the journey, and guardian of (our) family. O Allah, I seek refuge with Thee from hardships of the journey, gloominess of the sights, and finding of evil changes in property and family on return. And he (the Holy Prophet) uttered (these words), and made this addition to them: We are returning, repentant, worshipping our Lord. and praising Him. Sahih Muslim 1342 [Muslim 2/978, No.1342]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua While Travelling (Allahu Akbar)",
+            "description": "Saying allahu akbar as dua while travelling brings Allah’s help and keeps every journey safe, filling the road with Barakah and hope for muslims who trust in His greatness.",
+            "points": [
+              "Allahu Akbar in journey dua keeps hearts strong and safe from sudden harm.",
+              "This takbir brings Barakah and makes every travel easy for muslims on the road.",
+              "Dua while travelling with Allahu Akbar grows Iman and trust in Allah’s power.",
+              "Saying Allahu Akbar meaning Allah is the greatest gives peace in every step.",
+              "Takbiratul ihram in travel reminds muslims to remember Allah in every moment."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua While Travelling",
+            "description": "This dua while travelling with Allahu Akbar fills your heart with Iman, brings Barakah to your steps, and keeps you close to Allah’s mercy as you move from place to place on your journey.",
+            "points": [
+              "At the start of your journey, say allahu akbar as a dua while travelling for Barakah.",
+              "When passing by mountains or big places, use allahu akbar to praise Allah’s greatness.",
+              "After reaching a new stop, make allahu akbar part of your zikr for safe travel.",
+              "During moments of fear or worry on the road, repeat allahu akbar for protection.",
+              "While moving between cities, remember allahu akbar to keep your Iman strong."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua while Travelling",
+            "description": "Saying Allahu Akbar during your journey fills your heart with Iman and reminds you that Allah is the greatest, giving you strength and Barakah as you travel on any road or path.",
+            "steps": [
+              "Begin your travel by saying Allahu Akbar with a clean heart and full trust in Allah.",
+              "When you see something big or new on your journey, say Allahu Akbar to remember Allah’s power.",
+              "If you feel scared or lost, repeat Allahu Akbar to bring peace and calm to your mind.",
+              "While passing through tough roads, softly say Allahu Akbar for help and safety.",
+              "After reaching your stop, thank Allah by saying Allahu Akbar for a safe journey."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 333,
+          "title": "Send Blessings Upon the Prophet ﷺ (Hadith)",
+          "category_tags": [],
+          "introduction": "Allah says: Indeed, Allah confers blessing upon the Prophet, and His angels [ask Him to do so]. O you who have believed, ask [ Allah to confer] blessing upon him and ask [Allah to grant him] peace.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Surah Al-ahjab 33:56",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 334,
+          "title": "Islamic Travel dua for Protection",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ), used to recite this du'a when he was on a journey:",
+          "arabic": "اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الْأَهْلِ اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمُنْقَلَبِ وَسُوءِ الْمَنْظَرِ فِي الْأَهْلِ وَالْمَالِ اَللَّهُمَّ اطْوِ لَنَا الْأَرْضَ وَهَوِّنْ عَلَيْنَا السَّفَرَ",
+          "audio": "/audio/dua/334.mp3",
+          "transliteration": "Allaahumma 'Antas-saahibu fis-safari wal-khaleefatu fil-'ahli, Allaahumma 'innee 'a'oodhu bika min wa'thaa'is-safari, wa kaabatil munqalabi wa su'il manzari fil-ahli wal maali, Allaahummatwi lanal-arda wa hawwin alainas-safara",
+          "translation": "O Allah, You are the Companion in the journey, and the One Who looks after the family; O Allah, I seek refuge in Thee from the difficulty of travelling, finding harm when I return, and unhappiness in what I see coming to my family and property. O Allah, make the length of his journey short for us, and the journey easy for us.",
+          "reference": "Hasan Sahih (Albani). Abu Dawud: 2598",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا مُحَمَّدُ بْنُ عَجْلاَنَ، حَدَّثَنِي سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَافَرَ قَالَ ‏ \"‏ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الأَهْلِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمُنْقَلَبِ وَسُوءِ الْمَنْظَرِ فِي الأَهْلِ وَالْمَالِ اللَّهُمَّ اطْوِ لَنَا الأَرْضَ وَهَوِّنْ عَلَيْنَا السَّفَرَ ‏\" ‏ ‏.‏",
+            "translation": "Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) proceeded on journey, he would say: O Allah, Thou art the Companion in the journey, and the One Who looks after the family; O Allah, I seek refuge in Thee from the difficulty of travelling, finding harm when I return, and unhappiness in what I see coming to my family and property. O Allah, make the length of his journey short for us, and the journey easy for us. [Hasan Sahih (Albani). Abu Dawud: 2598]"
+          },
+          "benefits": {
+            "title": "Benefits of Islamic Travel Dua for Protection",
+            "description": "This islamic travel dua keeps every journey safe and easy, bringing Allah’s help and care for muslims and their families, filling the road with Barakah and peace.",
+            "points": [
+              "Allah’s help comes to the traveller who makes this dua for protection on journey.",
+              "This dua for safety keeps harm and evil away from family and wealth at home.",
+              "Islamic prayer for protection makes travel easy and shortens the road for muslims.",
+              "Dua for protection from enemies and hardship brings peace to every step taken.",
+              "Safar ki dua in english asks Allah to care for loved ones and give Barakah in travel."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Islamic Travel Dua",
+            "description": "This islamic travel dua is a strong way to ask Allah for protection, Barakah, and safety for you and your family, making every journey easy and your return full of happiness and Iman.",
+            "points": [
+              "Before leaving home, recite islamic travel dua for protection and safe journey.",
+              "When starting your travel, use this dua for safety to keep harm away from your family.",
+              "During long trips, make this prayer for protection to ask Allah for an easy journey.",
+              "As you return home, say this dua for protection from evil and sadness in your house.",
+              "If you feel worried about your family or money, remember this dua for family protection."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Islamic Travel Dua",
+            "description": "This islamic travel dua is a strong way to ask Allah for protection and ease during your journey, keeping your family and things safe while you travel and when you come back home.",
+            "steps": [
+              "Before leaving your house, recite this islamic travel dua with full hope in Allah’s help.",
+              "When you start your journey, say this dua for protection to keep your family and things safe.",
+              "If you feel any fear or worry on the road, repeat this dua for safety to calm your heart.",
+              "While facing hard times on the way, use this dua for journey to ask Allah to make it easy.",
+              "After coming back home, thank Allah by remembering this dua for safe journey and Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 335,
+          "title": "Islamic Travel Prayer for Safety (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ), used to recite this du'a when he was on a journey:",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِيْ هَذَا مِنَ الْبِرِّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى، اَللَّهُمَّ هَوِّنْ عَلَيْنَا الْمَسِيرَ وَاطْوِ عَنَّا بُعْدَ الْأَرْضِ اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الْأَهْلِ اَللَّهُمَّ اصْحَبْنَا فِي سَفَرِنَا وَاخْلُفْنَا فِي أَهْلِنَا",
+          "audio": "",
+          "transliteration": "Allaahumma inni as’aluka fi safari hadha minal-birri wat-taqwa, wa minal-`amali maa tarda. Allaahumma hawwin `alainal-masira, watwi `anna bu`dal-ard. Allaahumma antas-saahibu fis safari wal-khalifatu fil-ahli. Allaahumma ashaabna fi safarina wakhlufna fi ahlina",
+          "translation": "O Allah, I ask You in this journey of mine from the righteousness and piety and actions that which you are pleased with. O Allah, ease for us the path, and make near for us the distance of the land. O Allah, You are the companion in the journey, and the caretaker for the family. O Allah, accompany us in our journey, and take care of our families",
+          "reference": "Sahih (Albani). Tirmidhi: 3447",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ عَلِيِّ بْنِ عَبْدِ اللَّهِ الْبَارِقِيِّ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا سَافَرَ فَرَكِبَ رَاحِلَتَهُ كَبَّرَ ثَلاَثًا وَيَقُولُ ‏:‏ ‏",
+            "translation": "(‏ سبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‏) ‏ ثُمَّ يَقُولُ ‏\"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِي هَذَا مِنَ الْبِرِّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا الْمَسِيرَ وَاطْوِ عَنَّا بُعْدَ الأَرْضِ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الأَهْلِ اللَّهُمَّ اصْحَبْنَا فِي سَفَرِنَا وَاخْلُفْنَا فِي أَهْلِنَا ‏\"‏ ‏.‏ وَكَانَ يَقُولُ إِذَا رَجَعَ إِلَى أَهْلِهِ ‏\"‏ آيِبُونُ إِنْ شَاءَ اللَّهُ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ Ibn `Umar narrated that: When the Prophet (ﷺ) wanted to travel, when he mounted his riding camel, he would say the Takbir three times and say: Glory is to Him Who has subjected this to us, and we were not able to do it. And, surely, to our Lord are we returning (Subḥān alladhī sakh-khara lanā hādhā wa mā kunnā lahū muqrinīn. Wa innā ilā rabbinā lamunqalibūn). Then he would say: “O Allah, I ask You in this journey of mine from the righteousness and piety and actions that which you are pleased with. O Allah, ease for us the path, and make near for us the distance of the land. O Allah, You are the companion in the journey, and the caretaker for the family. O Allah, accompany us in our journey, and take care of our families (Allāhumma innī as’aluka fī safarī hādhā minal-birri wat-taqwā, wa minal-`amali mā tarḍā. Allāhumma hawwin `alainal-masīra, waṭwi `annā bu`dal-arḍ. Allāhumma antaṣ-ṣāḥibu fis safari wal-khalīfatu fil-ahli. Allāhumma aṣḥabnā fī safarinā wakhlufnā fī ahlinā).” And when he would return to his family, he would say: “(We are) Returning, if Allah wills, repenting, worshipping, and to our Lord directing the praise (Ā’ibūna in shā’ Allāh, tā’ibūna `ābidūna lirabbinā hāmidūn).” [Sahih (Albani). Tirmidhi: 3447]"
+          },
+          "benefits": {
+            "title": "Benefits of Islamic Travel Prayer for Safety",
+            "description": "This islamic travel prayer brings Allah’s help and care, making every journey safe, easy, and full of Barakah for muslims and their families who trust in His mercy.",
+            "points": [
+              "Allahumma inni asaluka in this prayer for safety brings piety and good Amal.",
+              "Safar ki dua makes the road easy and short for muslims on every journey.",
+              "Islamic travel prayer for a safe journey keeps family and home under Allah’s care.",
+              "Dua for ease in travel helps muslims do actions that please Allah on the road.",
+              "Prayer for a safe trip asks Allah to be a true companion and protect loved ones."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Islamic Travel Prayer for Safety",
+            "description": "This islamic travel prayer is a strong masnun dua for every muslim who wants Barakah, safety, and Allah’s help while traveling, asking for ease, protection, and care for family left behind.",
+            "points": [
+              "Before leaving home for a journey, recite the islamic travel prayer for safety.",
+              "When starting a long road trip, use this prayer for a safe journey and Barakah.",
+              "At the airport or station, make the dua for safety to ask Allah for ease in travel.",
+              "While on the road, repeat the travel dua for protection and a safe trip for all.",
+              "After reaching your stop, thank Allah with this dua for journey and family’s safety."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Islamic Travel Prayer",
+            "description": "This islamic travel prayer is a masnun dua that asks Allah for safety, Barakah, and ease on your journey, while also seeking His care for your family and good Amal that pleases Him.",
+            "steps": [
+              "Before you leave, recite this islamic travel prayer with a heart full of Iman and hope.",
+              "As you start your trip, say this dua for safety to ask Allah to make your path easy.",
+              "When you feel tired or the road is long, repeat this prayer for a safe journey for help.",
+              "If you worry about your family, use this dua for journey to ask Allah to protect them.",
+              "After you reach your place, thank Allah by remembering this masnun dua for travel."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 879,
+          "title": "Dua for Safe Travel (Travellers dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اطْوِ لَهُ الْأَرْضَ وَهَوِّنْ عَلَيْهِ السَّفَرَ",
+          "audio": "",
+          "transliteration": "Allahummatwi lahul-arda wa hawwin `alaihis-safar.",
+          "translation": "O Allah make near for him the distance, and ease for him the journey.",
+          "reference": "Hasan. Tirmidhi: 3445",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ الْكِنْدِيُّ الْكُوفِيُّ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ إِنِّي أُرِيدُ أَنْ أُسَافِرَ فَأَوْصِنِي ‏.‏ قَالَ ‏\"‏ عَلَيْكَ بِتَقْوَى اللَّهِ وَالتَّكْبِيرِ عَلَى كُلِّ شَرَفٍ ‏\"‏ ‏.‏ فَلَمَّا أَنْ وَلَّى الرَّجُلُ قَالَ ‏\"‏ اللَّهُمَّ اطْوِ لَهُ الأَرْضَ وَهَوِّنْ عَلَيْهِ السَّفَرَ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+            "translation": "Abu Hurairah [may Allah be pleased with him] narrated that : a man said: “O Messenger of Allah (ﷺ), I intend to travel, so advise me.” He said, “Hold fast to the Taqwa of Allah, and (say the) Takbir upon every elevated place.” So when the man turned away he said: “O Allah make near for him the distance, and ease for him the journey (Allāhummaṭwi lahul-arḍa wa hawwin `alaihis-safar).” [Hassan (Albani). Tirmidhi: 3445]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

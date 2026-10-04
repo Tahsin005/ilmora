@@ -1,0 +1,162 @@
+{
+  "id": 96,
+  "name": "العلق",
+  "transliteration": "Al-'Alaq",
+  "translation_en": "The Clot",
+  "type": "meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+      "transliteration": "Iqra biismi rabbika allathee khalaqa",
+      "translation_en": "Recite in the name of your Lord who created",
+      "translation_bn": "পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন",
+      "translation_ur": "پڑھو (اے نبیؐ) اپنے رب کے نام کے ساتھ جس نے پیدا کیا"
+    },
+    {
+      "id": 2,
+      "arabic": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+      "transliteration": "Khalaqa alinsana min AAalaqin",
+      "translation_en": "Created man from a clinging substance",
+      "translation_bn": "সৃষ্টি করেছেন মানুষকে জমাট রক্ত থেকে।",
+      "translation_ur": "جمے ہوئے خون کے ایک لوتھڑے سے انسان کی تخلیق کی"
+    },
+    {
+      "id": 3,
+      "arabic": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+      "transliteration": "Iqra warabbuka alakramu",
+      "translation_en": "Recite, and your Lord is the most Generous",
+      "translation_bn": "পাঠ করুন, আপনার পালনকর্তা মহা দয়ালু",
+      "translation_ur": "پڑھو، اور تمہارا رب بڑا کریم ہے"
+    },
+    {
+      "id": 4,
+      "arabic": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+      "transliteration": "Allathee AAallama bialqalami",
+      "translation_en": "Who taught by the pen",
+      "translation_bn": "যিনি কলমের সাহায্যে শিক্ষা দিয়েছেন",
+      "translation_ur": "جس نے قلم کے ذریعہ سے علم سکھایا"
+    },
+    {
+      "id": 5,
+      "arabic": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+      "transliteration": "AAallama alinsana ma lam yaAAlam",
+      "translation_en": "Taught man that which he knew not",
+      "translation_bn": "শিক্ষা দিয়েছেন মানুষকে যা সে জানত না।",
+      "translation_ur": "انسان کو وہ علم دیا جسے وہ نہ جانتا تھا"
+    },
+    {
+      "id": 6,
+      "arabic": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+      "transliteration": "Kalla inna alinsana layatgha",
+      "translation_en": "No! [But] indeed, man transgresses",
+      "translation_bn": "সত্যি সত্যি মানুষ সীমালংঘন করে",
+      "translation_ur": "ہرگز نہیں، انسان سرکشی کرتا ہے"
+    },
+    {
+      "id": 7,
+      "arabic": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+      "transliteration": "An raahu istaghna",
+      "translation_en": "Because he sees himself self-sufficient",
+      "translation_bn": "এ কারণে যে, সে নিজেকে অভাবমুক্ত মনে করে।",
+      "translation_ur": "اِس بنا پر کہ وہ اپنے آپ کو بے نیاز دیکھتا ہے"
+    },
+    {
+      "id": 8,
+      "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+      "transliteration": "Inna ila rabbika alrrujAAa",
+      "translation_en": "Indeed, to your Lord is the return",
+      "translation_bn": "নিশ্চয় আপনার পালনকর্তার দিকেই প্রত্যাবর্তন হবে।",
+      "translation_ur": "پلٹنا یقیناً تیرے رب ہی کی طرف ہے"
+    },
+    {
+      "id": 9,
+      "arabic": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+      "transliteration": "Araayta allathee yanha",
+      "translation_en": "Have you seen the one who forbids",
+      "translation_bn": "আপনি কি তাকে দেখেছেন, যে নিষেধ করে",
+      "translation_ur": "تم نے دیکھا اُس شخص کو"
+    },
+    {
+      "id": 10,
+      "arabic": "عَبۡدًا إِذَا صَلَّىٰٓ",
+      "transliteration": "AAabdan itha salla",
+      "translation_en": "A servant when he prays",
+      "translation_bn": "এক বান্দাকে যখন সে নামায পড়ে",
+      "translation_ur": "جو ایک بندے کو منع کرتا ہے جبکہ وہ نماز پڑھتا ہو؟"
+    },
+    {
+      "id": 11,
+      "arabic": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+      "transliteration": "Araayta in kana AAala alhuda",
+      "translation_en": "Have you seen if he is upon guidance",
+      "translation_bn": "আপনি কি দেখেছেন যদি সে সৎপথে থাকে।",
+      "translation_ur": "تمہارا کیا خیال ہے اگر (وہ بندہ) راہ راست پر ہو"
+    },
+    {
+      "id": 12,
+      "arabic": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+      "transliteration": "Aw amara bialttaqwa",
+      "translation_en": "Or enjoins righteousness",
+      "translation_bn": "অথবা খোদাভীতি শিক্ষা দেয়।",
+      "translation_ur": "یا پرہیزگاری کی تلقین کرتا ہو؟"
+    },
+    {
+      "id": 13,
+      "arabic": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "transliteration": "Araayta in kaththaba watawalla",
+      "translation_en": "Have you seen if he denies and turns away",
+      "translation_bn": "আপনি কি দেখেছেন, যদি সে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।",
+      "translation_ur": "تمہارا کیا خیال ہے اگر (یہ منع کرنے والا شخص حق کو) جھٹلاتا اور منہ موڑتا ہو؟"
+    },
+    {
+      "id": 14,
+      "arabic": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "transliteration": "Alam yaAAlam bianna Allaha yara",
+      "translation_en": "Does he not know that Allah sees",
+      "translation_bn": "সে কি জানে না যে, আল্লাহ দেখেন",
+      "translation_ur": "کیا وہ نہیں جانتا کہ اللہ دیکھ رہا ہے؟"
+    },
+    {
+      "id": 15,
+      "arabic": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+      "transliteration": "Kalla lain lam yantahi lanasfaAAan bialnnasiyati",
+      "translation_en": "No! If he does not desist, We will surely drag him by the forelock",
+      "translation_bn": "কখনই নয়, যদি সে বিরত না হয়, তবে আমি মস্তকের সামনের কেশগুচ্ছ ধরে হেঁচড়াবই",
+      "translation_ur": "ہرگز نہیں، اگر وہ باز نہ آیا تو ہم اس کی پیشانی کے بال پکڑ کر اسے کھینچیں گے"
+    },
+    {
+      "id": 16,
+      "arabic": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+      "transliteration": "Nasiyatin kathibatin khatiatin",
+      "translation_en": "A lying, sinning forelock",
+      "translation_bn": "মিথ্যাচারী, পাপীর কেশগুচ্ছ।",
+      "translation_ur": "اُس پیشانی کو جو جھوٹی اور سخت خطا کار ہے"
+    },
+    {
+      "id": 17,
+      "arabic": "فَلۡيَدۡعُ نَادِيَهُۥ",
+      "transliteration": "FalyadAAu nadiyahu",
+      "translation_en": "Then let him call his associates",
+      "translation_bn": "অতএব, সে তার সভাসদদেরকে আহবান করুক।",
+      "translation_ur": "وہ بلا لے اپنے حامیوں کی ٹولی کو"
+    },
+    {
+      "id": 18,
+      "arabic": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+      "transliteration": "SanadAAu alzzabaniyata",
+      "translation_en": "We will call the angels of Hell",
+      "translation_bn": "আমিও আহবান করব জাহান্নামের প্রহরীদেরকে",
+      "translation_ur": "ہم بھی عذاب کے فرشتوں کو بلا لیں گے"
+    },
+    {
+      "id": 19,
+      "arabic": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+      "transliteration": "Kalla la tutiAAhu waosjud waiqtarib",
+      "translation_en": "No! Do not obey him. But prostrate and draw near [to Allah]",
+      "translation_bn": "কখনই নয়, আপনি তার আনুগত্য করবেন না। আপনি সেজদা করুন ও আমার নৈকট্য অর্জন করুন।",
+      "translation_ur": "ہرگز نہیں، اُس کی بات نہ مانو اور سجدہ کرو اور (اپنے رب کا) قرب حاصل کرو"
+    }
+  ]
+}

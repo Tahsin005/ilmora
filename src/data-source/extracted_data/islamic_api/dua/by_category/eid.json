@@ -1,0 +1,157 @@
+{
+  "category": {
+    "name": "Eid",
+    "url": "eid",
+    "icon": "eid.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 4,
+  "subcategories": [
+    {
+      "id": 117,
+      "title": "Duas to be read on the day of Eid",
+      "category": "eid",
+      "dua-ids": [
+        926,
+        927,
+        928,
+        929
+      ],
+      "duas": [
+        {
+          "dua_id": 926,
+          "title": "Takbir for Eid (Takbir al Eid)",
+          "category_tags": [],
+          "introduction": "Ibn Mas'ud (RA) recited the takbeer in this way:",
+          "arabic": "اَللَّهُ أَكْبرُ اَللَّهُ أَكْبَرُ، لَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ اَللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ",
+          "audio": "",
+          "transliteration": "Allaahu akbar, Allaahu akbar, laa ilaaha illallaahu wallaahu akbar, Allahu akbar wa lillaahil hamd.",
+          "translation": "Allah is great. Allah is great. There is no worthy of worship except Allah. Allah is great. Allah is great. All praise is due to Allah.",
+          "reference": "Hassan (Albani). Musannaf: 5650",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 927,
+          "title": "Takbir for Eid",
+          "category_tags": [],
+          "introduction": "Ibn Abbas (RA) said:",
+          "arabic": "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ، اَللَّهُ أَكْبَرُ وَأَجَلُّ، اَللَّهُ أَكْبَرُ عَلىَ مَا هَدَانَا",
+          "audio": "",
+          "transliteration": "Allaahu akbar, Allaahu akbar, Allaahu akbar, wa lillaahil hamd, allaahu akbar wa ajall, allaahu akbar 'alaa maa hadaana.",
+          "translation": "Allah is great. Allah is great. Allah is great. All praise is due to Allah. Allah is great and Most High. Allah is great because He has guided us.",
+          "reference": "Irwa'ul-Ghalil, Albani: 3/125",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 928,
+          "title": "Takbir al Eid (Allaahu akbar kabira)",
+          "category_tags": [],
+          "introduction": "In another narration:",
+          "arabic": "اَللَّهُ أَكْبَرُ كَبِيْرًا، اَللَّهُ أَكْبَرُ كَبِيْرًا، اَللَّهُ أَكْبَرُ وَأَجَلُّ، اَللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ",
+          "audio": "",
+          "transliteration": "Allaahu akbar kabira, Allaahu akbar kabira, Allaahu akbar wa ajall, Allaahu akbar, wa lillaahil hamd. [1]",
+          "translation": "Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Allah is great and Most High. Allah is the Greatest, All praise is due to Allah.\n\nWomen will also recite this takbeer, but in a low voice. So that non mahram can't hear the sound of this takbeer. Umm Atiyah (RA) said, ‘Even we used to take menstruating women out to the Eidgah. They stood behind the men; They used to recite takbeer after hearing their takbeer and they also used to recite dua after hearing their dua. They hoped for the blessings and holiness of that day.' [2] On the other hand, it is bid'ah to recite the takbeer of the congregation in one voice or the recitation of the takbeer by all at the same time. Since the sunnah of the Prophet (ﷺ) is: In the dhikr of Allaah, each person will recite his own dhikr alone. So it is not right for anyone to deviate from the ideals of him and his companions. [3]",
+          "reference": "[1] Irwa'ul-Ghalil, Albani: 3/126 [2] Bukhari 971 [3] As-ilatun wa ajbibatun fee salatil Eidain 31-32 p.",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 929,
+          "title": "Eid Greeting Dua (Taqabbalallahu minna wa minkum)",
+          "category_tags": [],
+          "introduction": "When the Companions met on the day of Eid, they would say:",
+          "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكَ",
+          "audio": "",
+          "transliteration": "Taqabbalallahu minna wa minka",
+          "translation": "May Allah accept it (good deeds) from us and you.\n\nIn the case of plural, 'Minka' will be replaced by 'Minkum'.",
+          "reference": "Hasan (Ibn Hajar al-Asqalani). Fathul Bari: 2/517",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "category": {
+    "name": "Mosque",
+    "url": "mosque",
+    "icon": "mosque.svg",
+    "meta": "5 Subcategories"
+  },
+  "total_subcategories": 5,
+  "total_duas": 13,
+  "subcategories": [
+    {
+      "id": 26,
+      "title": "Going to the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        173,
+        174
+      ],
+      "duas": [
+        {
+          "dua_id": 173,
+          "title": "Dua for going to the Mosque (Dua e noor)",
+          "category_tags": [],
+          "introduction": "When the Mu'adhdhin gave the call to prayer, the Prophet (ﷺ) used to go out for the prayer while reciting this supplication -",
+          "arabic": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْرًا وَّفِي لِسَانِىْ نُوْرًا وَّاجْعَلْ فِي سَمْعِىْ نُوْرًا وَّاجْعَلْ فِي بَصَرِىْ نُوْرًا وَّاجْعَلْ مِنْ خَلْفِي نُوْرًا وَّمِنْ أَمَامِيْ نُوْرًا وَّاجْعَلْ مِنْ فَوْقِىْ نُوْرًا وَّمِنْ تَحْتِىْ نُوْرًا اَللَّهُمَّ أَعْطِنِىْ نُوْرًا",
+          "audio": "/audio/dua/173.mp3",
+          "transliteration": "Allaahumma-j‛al fee qalbee noor-an, wa fee lisaanee noor-an, waj‛al fee sam‛ee noor-an, waj‛al fee basaree noor-an, waj‛al min khalfee noor-an, wamin amaamee noor-an, waj‛al min fawqee noor-an, wa min t'ahtee noor-an, Allaahumma a‛tinee noor-an",
+          "translation": "O Allah, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light, and in front of me light, and above me light, and beneath me light. O Allah, bestow upon me light.",
+          "reference": "Bukhari: 6316",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ سَلَمَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ بِتُّ عِنْدَ مَيْمُونَةَ فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَأَتَى حَاجَتَهُ، غَسَلَ وَجْهَهُ وَيَدَيْهِ، ثُمَّ نَامَ، ثُمَّ قَامَ فَأَتَى الْقِرْبَةَ فَأَطْلَقَ شِنَاقَهَا، ثُمَّ تَوَضَّأَ وُضُوءًا بَيْنَ وُضُوءَيْنِ لَمْ يُكْثِرْ، وَقَدْ أَبْلَغَ، فَصَلَّى، فَقُمْتُ فَتَمَطَّيْتُ كَرَاهِيَةَ أَنْ يَرَى أَنِّي كُنْتُ أَتَّقِيهِ، فَتَوَضَّأْتُ، فَقَامَ يُصَلِّي، فَقُمْتُ عَنْ يَسَارِهِ، فَأَخَذَ بِأُذُنِي فَأَدَارَنِي عَنْ يَمِينِهِ، فَتَتَامَّتْ صَلاَتُهُ ثَلاَثَ عَشْرَةَ رَكْعَةً ثُمَّ اضْطَجَعَ فَنَامَ حَتَّى نَفَخَ ـ وَكَانَ إِذَا نَامَ نَفَخَ ـ فَآذَنَهُ بِلاَلٌ بِالصَّلاَةِ، فَصَلَّى وَلَمْ يَتَوَضَّأْ، وَكَانَ يَقُولُ فِي دُعَائِهِ ‏ \"‏ اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي بَصَرِي نُورًا، وَفِي سَمْعِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ يَسَارِي نُورًا، وَفَوْقِي نُورًا، وَتَحْتِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَاجْعَلْ لِي نُورًا ‏\" ‏‏.‏ قَالَ كُرَيْبٌ وَسَبْعٌ فِي التَّابُوتِ‏.‏ فَلَقِيتُ رَجُلاً مِنْ وَلَدِ الْعَبَّاسِ فَحَدَّثَنِي بِهِنَّ، فَذَكَرَ عَصَبِي وَلَحْمِي وَدَمِي وَشَعَرِي وَبَشَرِي، وَذَكَرَ خَصْلَتَيْنِ‏.‏",
+            "translation": "Narrated Ibn `Abbas: One night I slept at the house of Maimuna. The Prophet (ﷺ) woke up, answered the call of nature, washed his face and hands, and then slept. He got up (late at night), went to a water skin, opened the mouth thereof and performed ablution not using much water, yet he washed all the parts properly and then offered the prayer. I got up and straightened my back in order that the Prophet (ﷺ) might not feel that I was watching him, and then I performed the ablution, and when he got up to offer the prayer, I stood on his left. He caught hold of my ear and brought me over to his right side. He offered thirteen rak`at in all and then lay down and slept till he started blowing out his breath as he used to do when he slept. In the meantime Bilal informed the Prophet (ﷺ) of the approaching time for the (Fajr) prayer, and the Prophet offered the Fajr (Morning) prayer without performing new ablution. He used to say in his invocation, Allahumma ij`al fi qalbi nuran wa fi basari nuran, wa fi sam`i nuran, wa`an yamini nuran, wa`an yasari nuran, wa fawqi nuran, wa tahti nuran, wa amami nuran, wa khalfi nuran, waj`al li nuran.\" Kuraib (a sub narrator) said, \"I have forgotten seven other words, (which the Prophet (ﷺ) mentioned in this invocation). I met a man from the offspring of Al-`Abbas and he narrated those seven things to me, mentioning, '(Let there be light in) my nerves, my flesh, my blood, my hair and my body,' and he also mentioned two other things.\" [Bukhari: 6316]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Going to the Mosque",
+            "description": "This dua for going to the mosque fills a muslim’s heart and life with Allah’s noor, making every step to the masjid a way to get Barakah, light, and blessings in Amal and Iman.",
+            "points": [
+              "Allahumma in dua e noor brings light to the heart and makes Amal shine bright.",
+              "Dua for light helps a muslim’s face and words glow with noor from Allah always.",
+              "Noor dua for going to the mosque keeps the path safe and brings Barakah in Salah.",
+              "Prayer for light gives strength to Iman and helps see right from wrong every day.",
+              "Dua for noor on face lets a muslim feel Allah’s mercy in every part of life and namaz."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Going to the Mosque",
+            "description": "This dua for going to the mosque fills your heart with noor, asking Allah for light in every step, on your face, and in your amal, making your way to salah full of Barakah and blessings.",
+            "points": [
+              "Before leaving your house, recite the dua for going to the mosque for noor and guidance.",
+              "While walking to the masjid, use the dua e noor to ask Allah for light in your path.",
+              "As you enter the mosque, say the dua for light to fill your heart and face with noor.",
+              "When feeling weak in Iman, make the dua for noor on face before joining jamaah.",
+              "If you want more Barakah in your namaz, recite the noor dua before starting your salah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for going to the mosque",
+            "description": "This dua for going to the mosque, known as dua e noor, is a beautiful prayer for light and guidance. Reciting this dua noor brings Barakah and helps fill your heart and face with noor before entering Allah’s house.",
+            "steps": [
+              "Make fresh wudu at home and as you step out, softly recite this dua for going to the mosque.",
+              "Walk towards the masjid with calm steps and keep saying the dua e noor in your heart.",
+              "Before entering the mosque door, pause and repeat the noor dua asking Allah for light.",
+              "While waiting for salah, quietly say the dua for noor on face and ask for more Barakah.",
+              "After finishing your namaz, thank Allah for the chance to pray and remember this muslim prayer for light."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 174,
+          "title": "Dua For Going To The Masjid",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَمِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَمِنْ خَلْفِي نُورًا، وَاجْعَلْ فِي نَفْسِي نُورًا، وَأَعْظِمْ لِي نُورًا، وَعَظِّمْ لِي نُورًا، وَاجْعَلْ لِي نُورًا، وَاجْعَلْنِي نُورًا، اَللَّهُمَّ أَعْطِنِي نُورًا، وَاجْعَلْ فِي عَصَبِي نُورًا، وَفِي لَحْمِي نُورًا، وَفِي دَمِي نُورا، وَفِي شَعْرِي نُورًا، وَفِي بَشَرِي نُورًا",
+          "audio": "/audio/dua/174.mp3",
+          "transliteration": "Allaahummaj'al fee qalbee nooran, wa fee lisaaanee nooran, wa fee sam'ee nooran, wa fee basaree nooran, wa min fawqee nooran, wa min tahtee nooran, wa 'an yameenee nooran, wa 'an shimaalee nooran, wa min 'amaamee nooran, wa min khalfee nooran, waj'al fee nafsee nooran, wa 'a'dhim lee nooran, wa 'adhdhim lee nooran, waj'al lee nooran, waj'alnee nooran, Allaahumma 'a'tinee nooran, waj'al fee 'asabee nooran, wafee lahmee nooran, wafee damee nooran, wa fee sha'ree nooran, wa fee basharee nooran.",
+          "translation": "O Allah, place light in my heart, and on my tongue light, and in my ears light and in my sight light, and above me light, and below me light, and to my right light, and to my left light, and before me light and behind me light. Place in my soul light. Magnify for me light, and amplify for me light. Make for me light and make me a light. O Allah, grant me light, and place light in my nerves, and in my body light and in my blood light and in my hair light and in my skin light.",
+          "reference": "Bukhari: 6316",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ سَلَمَةَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ بِتُّ عِنْدَ مَيْمُونَةَ فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَأَتَى حَاجَتَهُ، غَسَلَ وَجْهَهُ وَيَدَيْهِ، ثُمَّ نَامَ، ثُمَّ قَامَ فَأَتَى الْقِرْبَةَ فَأَطْلَقَ شِنَاقَهَا، ثُمَّ تَوَضَّأَ وُضُوءًا بَيْنَ وُضُوءَيْنِ لَمْ يُكْثِرْ، وَقَدْ أَبْلَغَ، فَصَلَّى، فَقُمْتُ فَتَمَطَّيْتُ كَرَاهِيَةَ أَنْ يَرَى أَنِّي كُنْتُ أَتَّقِيهِ، فَتَوَضَّأْتُ، فَقَامَ يُصَلِّي، فَقُمْتُ عَنْ يَسَارِهِ، فَأَخَذَ بِأُذُنِي فَأَدَارَنِي عَنْ يَمِينِهِ، فَتَتَامَّتْ صَلاَتُهُ ثَلاَثَ عَشْرَةَ رَكْعَةً ثُمَّ اضْطَجَعَ فَنَامَ حَتَّى نَفَخَ ـ وَكَانَ إِذَا نَامَ نَفَخَ ـ فَآذَنَهُ بِلاَلٌ بِالصَّلاَةِ، فَصَلَّى وَلَمْ يَتَوَضَّأْ، وَكَانَ يَقُولُ فِي دُعَائِهِ ‏ \"‏ اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي بَصَرِي نُورًا، وَفِي سَمْعِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ يَسَارِي نُورًا، وَفَوْقِي نُورًا، وَتَحْتِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَاجْعَلْ لِي نُورًا ‏\" ‏‏.‏ قَالَ كُرَيْبٌ وَسَبْعٌ فِي التَّابُوتِ‏.‏ فَلَقِيتُ رَجُلاً مِنْ وَلَدِ الْعَبَّاسِ فَحَدَّثَنِي بِهِنَّ، فَذَكَرَ عَصَبِي وَلَحْمِي وَدَمِي وَشَعَرِي وَبَشَرِي، وَذَكَرَ خَصْلَتَيْنِ‏.‏",
+            "translation": "Narrated Ibn `Abbas: One night I slept at the house of Maimuna. The Prophet (ﷺ) woke up, answered the call of nature, washed his face and hands, and then slept. He got up (late at night), went to a water skin, opened the mouth thereof and performed ablution not using much water, yet he washed all the parts properly and then offered the prayer. I got up and straightened my back in order that the Prophet (ﷺ) might not feel that I was watching him, and then I performed the ablution, and when he got up to offer the prayer, I stood on his left. He caught hold of my ear and brought me over to his right side. He offered thirteen rak`at in all and then lay down and slept till he started blowing out his breath as he used to do when he slept. In the meantime Bilal informed the Prophet (ﷺ) of the approaching time for the (Fajr) prayer, and the Prophet offered the Fajr (Morning) prayer without performing new ablution. He used to say in his invocation, Allahumma ij`al fi qalbi nuran wa fi basari nuran, wa fi sam`i nuran, wa`an yamini nuran, wa`an yasari nuran, wa fawqi nuran, wa tahti nuran, wa amami nuran, wa khalfi nuran, waj`al li nuran.\" Kuraib (a sub narrator) said, \"I have forgotten seven other words, (which the Prophet (ﷺ) mentioned in this invocation). I met a man from the offspring of Al-`Abbas and he narrated those seven things to me, mentioning, '(Let there be light in) my nerves, my flesh, my blood, my hair and my body,' and he also mentioned two other things.\" [Bukhari: 6316]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Going to the Masjid",
+            "description": "This dua for going to the masjid fills a muslim’s heart, body, and soul with Allah’s noor, making every step to the mosque a way to get Barakah, light, and blessings in Amal and Iman.",
+            "points": [
+              "Allahumma in dua of light brings noor to every part of the body and heart.",
+              "Noor dua for going to the masjid helps a muslim’s Amal shine with Barakah.",
+              "Dua for noor face lets a muslim’s words and actions glow with Allah’s mercy.",
+              "Dua for going to the mosque keeps the path safe and Iman strong every day.",
+              "Dua for light gives hope for forgiveness and makes Salah full of blessings."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Going To The Masjid",
+            "description": "This dua for going to the masjid asks Allah for noor in every part of your life, filling your heart, body, and soul with light as you walk to salah, making your amal and Iman shine bright.",
+            "points": [
+              "Before stepping out for salah, recite the dua for going to the masjid for noor.",
+              "While walking to the mosque, use the dua of light to ask Allah for Barakah and guidance.",
+              "As you reach the masjid door, say the noor dua to fill your heart and body with light.",
+              "When feeling your Iman low, make the dua for noor face before joining the jamaah.",
+              "If you want your namaz to be full of blessings, recite the dua for going to masjid before entering."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for going to the masjid",
+            "description": "This dua for going to the masjid, called the dua of light, is a special muslim prayer asking Allah for noor in every part of your life. Reciting this dua noor brings peace, Barakah, and helps you walk to the mosque with a clean heart.",
+            "steps": [
+              "Start by making wudu at home and as you leave, quietly read the dua for going to the masjid.",
+              "Take each step to the masjid with the dua of light in your heart and lips, asking for noor.",
+              "Before you enter the masjid, pause and recite the dua for noor face and body, seeking Allah’s help.",
+              "While waiting for namaz, keep saying the noor dua softly and ask for more Barakah in your Amal.",
+              "After your salah, remember this dua for going to the mosque and thank Allah for His light and mercy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Entering the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        175,
+        176,
+        177,
+        178
+      ],
+      "duas": [
+        {
+          "dua_id": 175,
+          "title": "Dua When Entering Masjid (Wassalatu Wassalamu)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+          "audio": "/audio/dua/175.mp3",
+          "transliteration": "Bismillaahi, Wassalaatu Wassalaamu 'alaa Rasoolillaah. Allahum-maftah lee 'abwaaba rahmatik.",
+          "translation": "In the Name of Allah, And blessings and peace be upon the Messenger of Allah (ﷺ). O Allah, open before me the doors of Your mercy.",
+          "reference": "Sahih (Albani). Abu Dawud: 465, Muslim: 713",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ سُوَيْدٍ، قَالَ سَمِعْتُ أَبَا حُمَيْدٍ، أَوْ أَبَا أُسَيْدٍ الأَنْصَارِيَّ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ صلى الله عليه وسلم ثُمَّ لْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ فَإِذَا خَرَجَ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ ‏\" ‏ ‏.‏",
+            "translation": "Abu Usaid al-Ansari reported the Messenger of Allah (May peace be upon him) as saying: when any of you enters the mosque he should invoke blessing on the prophet (ﷺ) and then he should say: O Allah, open to me the gates of thy mercy. And when he goes out, he should say: O Allah, I ask thee out of Thine abundance. [Sahih (Albani). Abu Dawud: 465, Muslim: 713]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua When Entering Masjid",
+            "description": "This dua when entering masjid brings a muslim under Allah’s mercy and blessings, making every step inside the mosque a way to get Barakah, peace, and closeness to Rasulullah (peace be upon him).",
+            "points": [
+              "Bismillah in dua for entering masjid brings Barakah and safety at every step.",
+              "Dua enter mosque opens the doors of Allah’s Rahmah for the one who enters.",
+              "Sending peace on Rasulullah in this dua brings love and blessings in Amal.",
+              "Dua before entering mosque helps a muslim start Salah with a clean heart.",
+              "Entering mosque dua makes the masjid a place of mercy and Iman for muslims."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua When Entering Masjid",
+            "description": "This dua when entering masjid asks Allah to open His doors of mercy, bringing Barakah and peace as you step into the masjid, and sending blessings on Rasulullah, peace be upon him.",
+            "points": [
+              "Before stepping inside, recite the dua when entering masjid for Allah’s mercy.",
+              "As you reach the masjid door, use the dua for entering masjid to seek Barakah.",
+              "When feeling the need for forgiveness, say the dua enter mosque before your first step.",
+              "If you want your salah to be accepted, make the dua before entering mosque for blessings.",
+              "While entering for jamaah, recite the masjid me dakhil hone ki dua to ask for Allah’s Rahmah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua when entering masjid",
+            "description": "This dua when entering masjid is a simple muslim prayer that asks Allah to open His doors of mercy for you. Saying this dua for entering masjid brings Barakah and helps you remember Rasulullah, peace be upon him, before every salah.",
+            "steps": [
+              "Enter the masjid with your right foot first and softly say the dua when entering masjid.",
+              "As you step inside, remember to send peace and blessings on Rasulullah, peace be upon him.",
+              "Stand still for a moment and ask Allah to open the doors of His mercy with this dua.",
+              "Before you start your sunnah salah, repeat the dua for entering mosque to keep your heart clean.",
+              "While waiting for jamaat, quietly remember this masjid me dakhil hone ki dua for more Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 176,
+          "title": "Dua For Entering Mosque (Allahumma Salli Ala Muhammad)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ), used to say when he entered the mosque:",
+          "arabic": "بِسْمِ اللَّهِ اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+          "audio": "/audio/dua/176.mp3",
+          "transliteration": "Bismillaahi, Allaahumma salli 'ala muhammad, Allaahummaf ta'hlii abwaba ra'hmatik",
+          "translation": "In the Name of Allah, Ya Allah please send blessings and peace upon the Messenger of Allah (ﷺ). O Allah, open before me the doors of Your mercy.",
+          "reference": "Hasan (Albani). Ibn Sunni: 88, Muslim: 713",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدٍ، عَنْ أَبِي حُمَيْدٍ، - أَوْ عَنْ أَبِي أُسَيْدٍ، - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ ‏.‏ وَإِذَا خَرَجَ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ ‏\"‏ ‏.‏ قَالَ مُسْلِمٌ سَمِعْتُ يَحْيَى بْنَ يَحْيَى يَقُولُ كَتَبْتُ هَذَا الْحَدِيثَ مِنْ كِتَابِ سُلَيْمَانَ بْنِ بِلاَلٍ ‏.‏ قَالَ بَلَغَنِي أَنَّ يَحْيَى الْحِمَّانِيَّ يَقُولُ وَأَبِي أُسَيْدٍ ‏.‏",
+            "translation": "Abu Usaid reported that the Messenger of Allah (ﷺ) said: When any one of you enters the mosque, he should say: \" O Allah! open for me the doors of Thy mercy\" ; and when he steps out he should say: 'O Allah! I beg of Thee Thy Grace.\" (Imam Muslim said: I heard Yahya saying: I transcribed this hadith from the compilation of Sulaiman b. Bilal.) Sahih Muslim 713a [Hasan (Albani). Ibn Sunni: 88, Muslim: 713]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Entering Mosque",
+            "description": "Entering the mosque with this dua brings Allah’s mercy closer, helps keep your heart clean, and reminds you to honor the Prophet Muhammad ﷺ every time you step inside.",
+            "points": [
+              "Allahumma salli ala muhammad in this dua for entering mosque brings Barakah.",
+              "Doors of Allah’s Rahmah open for the muslim who uses dua entering mosque.",
+              "Bismillah in masjid enter dua keeps Iman strong and Amal pure before Salah.",
+              "Entering mosque dua helps muslims remember the Prophet ﷺ and his Sunnah.",
+              "Masjid me dakhil hone ki dua protects from evil and keeps mind ready for namaz."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Entering Mosque",
+            "description": "This dua for entering mosque brings Barakah and mercy as you step inside, asking Allah to open His doors of Rahmah and sending peace on Muhammad ﷺ with every entry to the masjid.",
+            "points": [
+              "Before your first step inside, recite the dua for entering mosque for Allah’s Rahmah.",
+              "As you touch the masjid door, use the dua entering mosque to seek Barakah and blessings.",
+              "When you want to follow sunnah, say allahumma salli ala muhammad before entering mosque.",
+              "If you feel your heart needs peace, make the masjid enter dua before joining the jamaah.",
+              "While entering for salah, recite the dua before entering mosque to ask for Allah’s mercy."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for entering mosque",
+            "description": "This dua for entering mosque is a short and blessed muslim prayer that brings Allah’s mercy and sends peace on Prophet Muhammad, peace be upon him. Reciting this dua entering masjid fills your heart with Barakah and keeps your niyyah pure before salah.",
+            "steps": [
+              "Step into the mosque with your right foot and quietly say bismillah and the dua for entering mosque.",
+              "As you walk inside, send blessings by saying allahumma salli ala muhammad with full Iman.",
+              "Stand for a moment and ask Allah to open the doors of His mercy using this masjid enter dua.",
+              "Before starting your sunnah prayer, repeat the dua entering mosque to keep your Amal clean.",
+              "While waiting for jamaat, remember this masjid me dakhil hone ki dua and ask for more Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 177,
+          "title": "Dua To Enter Mosque (Rabbighfirli dhunubi)",
+          "category_tags": [],
+          "introduction": "Whenever the Messenger of Allah (ﷺ) entered the mosque he would say Durood. Then Say:",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لِي ذُنُوْبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+          "audio": "/audio/dua/177.mp3",
+          "transliteration": "Rabbig-firli dhunubi waftah li abwaaba rahmatik",
+          "translation": "O Allah, forgive me my sins and open to me the gates of Your mercy.",
+          "reference": "Sahih (Albani). Ibn Majah: 771",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، وَأَبُو مُعَاوِيَةَ عَنْ لَيْثٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ، عَنْ أُمِّهِ، عَنْ فَاطِمَةَ بِنْتِ رَسُولِ اللَّهِ، ـ صلى الله عليه وسلم ـ قَالَتْ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ إِذَا دَخَلَ الْمَسْجِدَ يَقُولُ ‏\"‏ بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ ‏\"‏ ‏.‏ وَإِذَا خَرَجَ قَالَ ‏\"‏ بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ ‏\"‏ ‏.‏",
+            "translation": "It was narrated that Fatimah the daughter of the Messenger of Allah said: \"Whenever the Messenger of Allah entered the mosque he would say: 'Bismillah, was-salamu 'ala Rasulillah, Allahummagh-firli dhunubi waftah li abwaba rahmatika. (In the Name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open to me the gates of Your mercy).' When he left he would say: 'Bismillah, was-salamu 'ala Rasulillah, Allahummagh-firli dhunubi waftah li abwaba fadlika. (In the Name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open to me the gates of Your bounty).'\" [Sahih (Albani). Ibn Majah: 771]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua to Enter Mosque",
+            "description": "This dua to enter mosque asks Allah for forgiveness and mercy, making your heart ready for Salah and helping you start your time in the masjid with a clean soul and hope for Barakah.",
+            "points": [
+              "Rabbighfirli in dua before entering mosque brings Allah’s Maghfirat closer.",
+              "Asking for forgiveness in masjid enter dua helps muslims clean their Amal.",
+              "Dua entering mosque opens doors of Rahmah and makes Iman stronger.",
+              "Masjid me dakhil hone ki dua keeps heart soft and ready for namaz and zikr.",
+              "Istighfar in dua for entering mosque helps muslims get Allah’s blessings always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua To Enter Mosque",
+            "description": "This dua to enter mosque asks Allah for forgiveness and His mercy, making your steps into the masjid full of Barakah and Iman, and reminding every Muslim to seek Allah’s Rahmah before every Amal.",
+            "points": [
+              "Entering the masjid, read the dua to enter mosque for Allah’s forgiveness and mercy.",
+              "Before stepping inside, use the dua before entering mosque to ask for Rahmah and maghfirat.",
+              "As you reach the masjid door, recite rabbighfirli to seek Allah’s help and Barakah.",
+              "When feeling heavy with sins, make dua for forgiveness before entering masjid for a clean heart.",
+              "If you want more khushu in salah, start with this masjid enter dua at the masjid gate for Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua to enter mosque",
+            "description": "This dua to enter mosque is a simple forgiveness prayer in Islam, asking Allah to forgive your sins and open His doors of mercy. Reciting this dua before entering masjid brings Barakah and helps you start your namaz with a clean heart.",
+            "steps": [
+              "Enter the masjid with your right foot and softly say rabbighfirli dhunubi for forgiveness.",
+              "As you step inside, ask Allah to open the doors of His mercy with this dua before entering mosque.",
+              "Stand for a short while and repeat the dua for forgiveness, keeping your niyyah pure.",
+              "Before starting your salah, quietly say this masjid enter dua to seek maghfirat from Allah.",
+              "While waiting for jamaat, remember this tauba ki dua and ask for more Barakah in your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 178,
+          "title": "Dua Before Entering The Mosque (Auzubillah)",
+          "category_tags": [],
+          "introduction": "If some hadiths are combined, the Dua for entering the mosque will be as follows:",
+          "arabic": "أَعُوْذُ بِاللَّهِ الْعَظِيمِ وَبِوَجْهِهِ الْكَرِيمِ وَسُلْطَانِهِ الْقَدِيْمِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+          "audio": "/audio/dua/178.mp3",
+          "transliteration": "A'oodhu billahil-Aatheem wa bi wajhihil-kareem wa sultanihil-qadeem minash-shaytanir-rajeem, bismil-lahi, wassalatu wassalamu 'Aala rasoolil-lah, Allaahumma iftah lee abwaaba rahmatik",
+          "translation": "I take refuge with Allah, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allah, and prayers and peace be upon the Messenger of Allah (ﷺ). O Allah, open the gates of Your mercy for me.",
+          "reference": "Sahih (Albani). Abu Dawud: 465, 466",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ سُوَيْدٍ، قَالَ سَمِعْتُ أَبَا حُمَيْدٍ، أَوْ أَبَا أُسَيْدٍ الأَنْصَارِيَّ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ صلى الله عليه وسلم ثُمَّ لْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ فَإِذَا خَرَجَ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ ‏\" ‏ ‏.‏",
+            "translation": "Abu Usaid al-Ansari reported the Messenger of Allah (May peace be upon him) as saying: when any of you enters the mosque he should invoke blessing on the prophet (ﷺ) and then he should say: O Allah, open to me the gates of thy mercy. And when he goes out, he should say: O Allah, I ask thee out of Thine abundance. [Sahih (Albani). Abu Dawud: 465, 466]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Entering the Mosque",
+            "description": "This dua before entering the mosque keeps shaytan away, brings Allah’s mercy, and helps you start your masjid time with a clean heart and love for the Prophet ﷺ.",
+            "points": [
+              "Auzubillah in dua entering mosque gives strong hifazat from shaytan’s waswasah.",
+              "Bismillah in entering mosque dua brings Barakah and makes Amal easy for Salah.",
+              "Sending peace on Prophet ﷺ in masjid enter dua grows love and respect in Iman.",
+              "Asking Allah to open Rahmah in dua for entering mosque brings hope and comfort.",
+              "Masjid me dakhil hone ki dua helps Muslims keep mind clean for zikr and namaz."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Entering The Mosque",
+            "description": "This dua before entering the mosque protects you from shaytan, brings Barakah, and fills your heart with Iman as you step into Allah’s house, asking for His Rahmah and remembering the Prophet ﷺ.",
+            "points": [
+              "As you reach the masjid door, recite the dua before entering the mosque for Allah’s help.",
+              "Before stepping inside, use auzubillah to seek safety from shaytan and ask for Barakah.",
+              "When feeling weak in Iman, make dua entering mosque to get Allah’s mercy and strength.",
+              "Entering the masjid for salah, say bismillah and this masjid enter dua for a blessed start.",
+              "If you want more focus in namaz, begin with this dua for entering mosque at the entrance."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua before entering the mosque",
+            "description": "Entering the masjid is a blessed act, and saying the dua before entering the mosque brings Barakah and keeps you safe from Shaytan. This masjid enter dua is a simple way to ask Allah for mercy and protection every time you step inside.",
+            "steps": [
+              "Stand at the masjid door and quietly say the dua before entering the mosque with full Iman.",
+              "Step in with your right foot first while reciting the dua entering mosque and bismillah.",
+              "Ask Allah to open His mercy by saying the masjid enter dua with a clean heart and mind.",
+              "Remember to send peace and blessings on the Prophet as you say the dua for entering mosque.",
+              "After entering, keep your focus on zikr allah and prepare for your namaz with this masjid dua."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Getting out of the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        179,
+        180,
+        181,
+        182,
+        183
+      ],
+      "duas": [
+        {
+          "dua_id": 179,
+          "title": "Dua For Leaving Masjid (Allahumma Inni As Aluka)",
+          "category_tags": [],
+          "introduction": "If some hadiths are combined, the Dua for going out the mosque will be as follows:",
+          "arabic": "بِسْمِ اللَّهِ اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
+          "audio": "/audio/dua/179.mp3",
+          "transliteration": "Bismillahi Allaahumma salli 'ala muhammad, Allaahumma inni as-aluka min fadlik",
+          "translation": "In the name of Allah (I am going out).Oh Allah! Please send bessings and peace upon muhammad (ﷺ). Oh Allah! I want from your bounty.",
+          "reference": "Hasan (Albani). Ibn Sunni: 88, Muslim: 713",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدٍ، عَنْ أَبِي حُمَيْدٍ، - أَوْ عَنْ أَبِي أُسَيْدٍ، - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ ‏.‏ وَإِذَا خَرَجَ فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ ‏\"‏ ‏.‏ قَالَ مُسْلِمٌ سَمِعْتُ يَحْيَى بْنَ يَحْيَى يَقُولُ كَتَبْتُ هَذَا الْحَدِيثَ مِنْ كِتَابِ سُلَيْمَانَ بْنِ بِلاَلٍ ‏.‏ قَالَ بَلَغَنِي أَنَّ يَحْيَى الْحِمَّانِيَّ يَقُولُ وَأَبِي أُسَيْدٍ ‏.‏",
+            "translation": "Abu Usaid reported that the Messenger of Allah (ﷺ) said: When any one of you enters the mosque, he should say: \" O Allah! open for me the doors of Thy mercy\" ; and when he steps out he should say: 'O Allah! I beg of Thee Thy Grace.\" (Imam Muslim said: I heard Yahya saying: I transcribed this hadith from the compilation of Sulaiman b. Bilal.) Sahih Muslim 713a [Hasan (Albani). Ibn Sunni: 88, Muslim: 713]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Leaving Mosque",
+            "description": "This dua for leaving mosque asks Allah for His bounty, keeps the Prophet ﷺ in your heart, and helps you step out with Barakah and hope for more good deeds in your daily life.",
+            "points": [
+              "Allahumma inni as aluka in masjid leaving dua brings Allah’s Fazl in daily Amal.",
+              "Bismillah in leaving mosque dua keeps Iman safe and heart full of shukr.",
+              "Sending peace on Prophet ﷺ in dua for leaving masjid grows love and respect.",
+              "Masjid se nikalne ki dua helps Muslims leave with Barakah and Allah’s mercy.",
+              "Dua upon leaving the mosque reminds to stay on good path after namaz and zikr."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Leaving Mosque",
+            "description": "This dua for leaving mosque asks Allah for His bounty and blessings, sending peace on the Prophet ﷺ, and helps every Muslim step out with Barakah and Iman after finishing their Amal in the masjid.",
+            "points": [
+              "When stepping out after salah, recite the dua for leaving mosque for Allah’s bounty.",
+              "As you reach the masjid exit, use allahumma inni as aluka to ask for Barakah and rizq.",
+              "After making zikr allah inside, say leaving mosque dua before you walk outside for protection.",
+              "When you finish your namaz, make dua for leaving masjid to keep your Iman strong outside.",
+              "If you want Allah’s help in your day, begin with this masjid leaving dua as you leave the mosque."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for leaving mosque",
+            "description": "When leaving the masjid, saying the dua for leaving mosque brings Barakah and asks Allah for His bounty. This masjid leaving dua is a simple way to keep your heart close to Allah and follow the Sunnah every time you step out.",
+            "steps": [
+              "Stand at the masjid exit and softly say bismillah before reciting the dua for leaving mosque.",
+              "Step out with your left foot first while saying allahumma inni as aluka and send peace on the Prophet.",
+              "Ask Allah for His bounty by reciting the masjid leaving dua with hope and a thankful heart.",
+              "Remember to keep your mind on zikr allah as you say the dua upon leaving the mosque.",
+              "After leaving, try to keep your Amal strong and remember this Muslim prayer in your daily life."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 180,
+          "title": "Dua When Leaving Masjid (Wassalatu Wassalamu)",
+          "category_tags": [],
+          "introduction": "Start with the left foot and say-",
+          "arabic": "بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اَللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
+          "audio": "/audio/dua/180.mp3",
+          "transliteration": "Bismillaahi wassalaatu wassalaamu 'alaa Rasoolillaah, Allaahumma 'innee 'as'aluka min fadhlik, Allaahumma'simnee minash-Shaytaanir-rajeem.",
+          "translation": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah (ﷺ). O Allah, I ask for Your favor, O Allah, protect me from Satan the outcast.",
+          "reference": "Sahih (Albani). Ibn Majah: 773",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، حَدَّثَنِي سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ وَلْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ وَإِذَا خَرَجَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ وَلْيَقُلِ اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ ‏\" ‏ ‏.‏",
+            "translation": "It was narrated from Abu Hurairah that: The Mesenger of Allah said: \"When anyone of enters the mosque, let him send peace upon the Prophet, then let him say: 'Allahumma aftahli abwaba rahmatik (O Allah, open to me the gates of Your mercy).' And when he leaves, let him send peace upon the Prophet and say: 'Allahumma- simni minash-shaitanir-rajim (O Allah, protect me from the accursed Shaitan).'\" [Sahih (Albani). Ibn Majah: 773]"
+          },
+          "benefits": {
+            "title": "Benefits of Leaving Mosque Dua",
+            "description": "This leaving mosque dua asks Allah for His favor, keeps shaitan away, and helps you step out with peace, remembering the Prophet ﷺ and holding Barakah in your daily Amal.",
+            "points": [
+              "Bismillah in dua for leaving mosque keeps Iman safe and Amal strong outside.",
+              "Allahumma inni as aluka in masjid leaving dua brings Allah’s Fazl in daily life.",
+              "Asking Allah for protection from shaitan in mosque dua keeps heart clean.",
+              "Sending peace on Prophet ﷺ in dua for leaving masjid grows love and respect.",
+              "Dua for safety after namaz helps Muslims stay on good path till next Salah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Leaving Mosque Dua",
+            "description": "This leaving mosque dua asks Allah for His favor, safety from shaitan, and sends peace on the Prophet ﷺ, helping every Muslim step out with Barakah, Iman, and protection after their Amal in the masjid.",
+            "points": [
+              "After finishing salah, recite the leaving mosque dua for Allah’s favor and safety.",
+              "As you walk to the masjid door, use bismillah and allahumma for protection from shaitan.",
+              "When leaving after zikr allah, make dua for leaving mosque to keep your Iman safe outside.",
+              "Before stepping out, say this dua for leaving masjid to ask Allah for Barakah and help.",
+              "If you want Allah’s shield from shaitan, begin with this mosque dua as you exit the masjid."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform leaving mosque dua",
+            "description": "Leaving the masjid with this dua for leaving mosque brings Allah’s favor and keeps you safe from Shaytan. This masjid leaving dua is a simple way to ask for protection and Barakah as you step outside.",
+            "steps": [
+              "At the masjid door, quietly say bismillah and begin the leaving mosque dua with Iman.",
+              "Step out using your left foot first while reciting allahumma inni as aluka for Allah’s favor.",
+              "Ask Allah for protection from shaitan by saying the dua for protection from shaitan with hope.",
+              "Send peace and blessings on the Prophet as you say this dua for leaving masjid with a clean heart.",
+              "After leaving, keep your zikr allah strong and remember this Muslim prayer for daily safety."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 181,
+          "title": "Dua Upon Leaving The Mosque (Allahumma Ajirni)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) instructed to recite this dua while leaving the mosque:",
+          "arabic": "اَللَّهُمَّ أَجِرْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+          "audio": "/audio/dua/181.mp3",
+          "transliteration": "Allaahumma ajirni minash shaitaanir rajeem",
+          "translation": "O Allah, protect me from Satan the outcast.",
+          "reference": "Sahih (Ibn Hibban). Ibn Hibban: 2047",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Leaving Masjid",
+            "description": "As you step out from the masjid, this dua keeps you safe from shaitan’s tricks and brings Allah’s help, making your way home and daily life filled with His Barakah and care.",
+            "points": [
+              "Allahumma ajirni minannar keeps a Muslim safe from shaitan’s waswasah.",
+              "This dua for leaving masjid helps protect Iman after Salah and Amal.",
+              "Masjid leaving dua brings Allah’s safety for family and loved ones outside.",
+              "Leaving mosque dua keeps evil eye and harm away from a Muslim’s path.",
+              "Islamic prayer for protection gives Barakah in every step after leaving masjid."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Leaving Masjid",
+            "description": "This dua for leaving masjid asks Allah to protect you from shaitan, keeping your Iman safe and your Amal strong as you step out, and reminding every Muslim to seek Allah’s help for safety and Barakah.",
+            "points": [
+              "After finishing your salah, recite the dua for leaving masjid for Allah’s protection.",
+              "As you walk out the masjid door, use allahumma ajirni to stay safe from shaitan’s tricks.",
+              "When feeling weak or scared, make leaving mosque dua to ask Allah for safety and Iman.",
+              "Before stepping outside, say this masjid leaving dua for Barakah and protection from evil.",
+              "If you want Allah’s help for your family, begin with this dua for protection as you exit."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform dua for leaving masjid",
+            "description": "When you leave the masjid, saying the dua for leaving masjid helps you ask Allah for safety from Shaytan. This masjid leaving dua is easy and brings Barakah and protection every time you step out.",
+            "steps": [
+              "Stand at the masjid exit and softly say allahumma ajirni minash shaitaanir rajeem with Iman.",
+              "Step out with your left foot first while reciting the leaving mosque dua for protection.",
+              "Ask Allah to keep you safe from shaitan by saying this dua for protection from shaitan.",
+              "Keep your heart clean and remember this mosque dua as you leave for your daily Amal.",
+              "After leaving, try to keep your zikr allah strong and remember this Muslim prayer for safety."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 182,
+          "title": "Leaving Mosque Dua",
+          "category_tags": [],
+          "introduction": "When someone leaves the mosque, he should greet the Prophet (ﷺ) and say:",
+          "arabic": "اَللَّهُمَّ اعْصِمْنِى مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+          "audio": "/audio/dua/182.mp3",
+          "transliteration": "Allaahumma aa'simni minash shaitaanir rajeem",
+          "translation": "O Allah, protect me from Satan the outcast.",
+          "reference": "Sahih (Albani). Ibn Majah: 773",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، حَدَّثَنِي سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ وَلْيَقُلِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ وَإِذَا خَرَجَ فَلْيُسَلِّمْ عَلَى النَّبِيِّ وَلْيَقُلِ اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ ‏\" ‏ ‏.‏",
+            "translation": "It was narrated from Abu Hurairah that: The Mesenger of Allah said: \"When anyone of enters the mosque, let him send peace upon the Prophet, then let him say: 'Allahumma aftahli abwaba rahmatik (O Allah, open to me the gates of Your mercy).' And when he leaves, let him send peace upon the Prophet and say: 'Allahumma- simni minash-shaitanir-rajim (O Allah, protect me from the accursed Shaitan).'\" [Sahih (Albani). Ibn Majah: 773]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Leaving Masjid",
+            "description": "When a Muslim leaves the masjid, this dua asks Allah to keep shaitan away and brings peace, making every step outside filled with His care and safety for the day ahead.",
+            "points": [
+              "Allahumma keeps the heart safe from shaitan’s evil after leaving mosque.",
+              "Dua for leaving masjid helps protect Amal and Iman from shaitan’s tricks.",
+              "Masjid leaving dua brings Allah’s safety for family and home after Salah.",
+              "Leaving mosque dua keeps a Muslim away from harm and evil eye outside.",
+              "Protection dua gives Barakah and peace in every step after leaving masjid."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua For Leaving Masjid",
+            "description": "This leaving mosque dua asks Allah for protection from shaitan as you step out, keeping your Iman safe and your Amal strong after the Barakah of being in the masjid.",
+            "points": [
+              "After finishing salah and before stepping outside, recite the dua for leaving masjid for Allah’s protection.",
+              "When you cross the masjid door, use the leaving mosque dua to keep shaitan away from your Amal.",
+              "As you walk away from the masjid, say allahumma for safety from shaitan’s tricks.",
+              "If you feel weak in Iman after namaz, make the masjid leaving dua for help and Barakah.",
+              "While leaving after jummah prayer, remember the dua for leaving mosque to keep your heart clean."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform dua for leaving masjid",
+            "description": "Leaving the masjid with this dua for leaving masjid helps you ask Allah for protection from Shaytan. This simple masjid leaving dua is a way to keep your heart safe and your Amal strong as you go out.",
+            "steps": [
+              "At the masjid door, quietly say allahumma aa'simni minash shaitaanir rajeem with full Iman.",
+              "Step out using your left foot first while reciting the leaving mosque dua for protection.",
+              "Ask Allah to keep you safe from Shaytan by saying this protection dua with a clean heart.",
+              "Remember this mosque dua as you leave and keep your zikr allah strong in your daily Amal.",
+              "After leaving, try to keep your mind on good deeds and remember this Muslim prayer for safety."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 183,
+          "title": "Masjid Leaving Dua (Allahummaghfirli)",
+          "category_tags": [],
+          "introduction": "When someone leaves the mosque, he should send a durood on the Prophet (ﷺ) and say:",
+          "arabic": "اَللَّهُمَّ اغْفِرْ لِي ذُنُوْبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ",
+          "audio": "/audio/dua/183.mp3",
+          "transliteration": "Allaahummaghfirli dhunubi, waftahli abwaba fadlik",
+          "translation": "O Lord pardon my sins, and open the gates of Your blessings for me.",
+          "reference": "Sahih (Albani). Ibn Majah: 771",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، وَأَبُو مُعَاوِيَةَ عَنْ لَيْثٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ، عَنْ أُمِّهِ، عَنْ فَاطِمَةَ بِنْتِ رَسُولِ اللَّهِ، ـ صلى الله عليه وسلم ـ قَالَتْ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ إِذَا دَخَلَ الْمَسْجِدَ يَقُولُ ‏\"‏ بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ ‏\"‏ ‏.‏ وَإِذَا خَرَجَ قَالَ ‏\"‏ بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ ‏\"‏ ‏.‏",
+            "translation": "It was narrated that Fatimah the daughter of the Messenger of Allah said: \"Whenever the Messenger of Allah entered the mosque he would say: 'Bismillah, was-salamu 'ala Rasulillah, Allahummagh-firli dhunubi waftah li abwaba rahmatika. (In the Name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open to me the gates of Your mercy).' When he left he would say: 'Bismillah, was-salamu 'ala Rasulillah, Allahummagh-firli dhunubi waftah li abwaba fadlika. (In the Name of Allah, and peace be upon the Messenger of Allah. O Allah, forgive me my sins and open to me the gates of Your bounty).'\" [Sahih (Albani). Ibn Majah: 771]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Upon Leaving the Mosque",
+            "description": "As you walk out from the masjid, this dua asks Allah for forgiveness and His gifts, making your day brighter with Barakah, mercy, and doors of goodness opening for you.",
+            "points": [
+              "Allahummaghfirli helps a Muslim get forgiveness for sins after Salah.",
+              "Dua upon leaving the mosque brings Allah’s Barakah and opens doors of rizq.",
+              "Masjid leaving dua keeps the heart soft for Amal and Iman to grow strong.",
+              "Leaving mosque dua brings Allah’s mercy and makes the day easy for Muslims.",
+              "Forgiveness dua helps a Muslim stay close to Allah and away from bad deeds."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Upon Leaving the Mosque",
+            "description": "This dua upon leaving the mosque asks Allah for forgiveness and Barakah, opening the doors of His mercy and rizq as you step out after salah with a heart full of hope and Iman.",
+            "points": [
+              "After finishing your namaz, recite the dua upon leaving the mosque for Allah’s forgiveness.",
+              "When you reach the masjid exit, use the masjid leaving dua to ask for rizq and Barakah.",
+              "As you step outside, say allahummaghfirli for forgiveness and new blessings in your day.",
+              "If you feel your heart heavy with sins, make this forgiveness dua while leaving the mosque.",
+              "While leaving after any fard prayer, remember the mosque dua to seek Allah’s mercy and success."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Masjid Leaving Dua",
+            "description": "When you step out from the masjid, saying the masjid leaving dua brings Barakah and keeps your heart close to Allah. This simple dua upon leaving the mosque asks for forgiveness and Allah’s blessings, making every exit a moment of hope and Iman.",
+            "steps": [
+              "Stand at the masjid door and quietly recite allahummaghfirli with full focus.",
+              "After finishing your salah, remember to say this leaving mosque dua before stepping out.",
+              "If you are with family or friends, softly say the masjid leaving dua together for more Barakah.",
+              "When you feel the need for forgiveness in Islam, use this dua for forgiveness and rizq dua.",
+              "As you walk away from the mosque, keep repeating this Muslim prayer for Allah’s mercy and success."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Announcement of lost things in the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        184
+      ],
+      "duas": [
+        {
+          "dua_id": 184,
+          "title": "Dua for the one who announces lost items in the mosque",
+          "category_tags": [],
+          "introduction": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"When you see someone announcing about something lost then say:",
+          "arabic": "لَا رَدَّهَا اللَّهُ عَلَيْكَ",
+          "audio": "/audio/dua/184.mp3",
+          "transliteration": "laa raddahAllahu 'alaik",
+          "translation": "May Allah not return it to you.\n\nThis is because the mosques were not built for this purpose.",
+          "reference": "Sahih (Albani). Tirmidhi: 1321",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا عَارِمٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، أَخْبَرَنَا يَزِيدُ بْنُ خُصَيْفَةَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا رَأَيْتُمْ مَنْ يَبِيعُ أَوْ يَبْتَاعُ فِي الْمَسْجِدِ فَقُولُوا لاَ أَرْبَحَ اللَّهُ تِجَارَتَكَ وَإِذَا رَأَيْتُمْ مَنْ يَنْشُدُ فِيهِ ضَالَّةً فَقُولُوا لاَ رَدَّ اللَّهُ عَلَيْكَ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ كَرِهُوا الْبَيْعَ وَالشِّرَاءَ فِي الْمَسْجِدِ ‏.‏ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي الْبَيْعِ وَالشِّرَاءِ فِي الْمَسْجِدِ ‏.",
+            "translation": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"When you see someone selling or buying in the Masjid then say: 'May Allah not profit your business.' And when you see someone announcing about something lost then say: 'May Allah not return it to you.'\" The Hadith of Abu Hurairah is Hasan Gharib. This is acted upon according to some of the people of knowledge. They dislike selling and buying in the Masjid. This is the view of Ahmad and Ishaq. Some of the people of knowledge permitted selling and buying in the Masjid. [Sahih (Albani). Tirmidhi: 1321]"
+          },
+          "benefits": {
+            "title": "Benefits of Mosque Dua for Lost Items",
+            "description": "This mosque dua teaches respect for Allah’s house and keeps the masjid peaceful, reminding Muslims to follow the right way when something is lost or missing inside the mosque.",
+            "points": [
+              "Mosque dua helps keep the masjid safe from loud calls about lost and found.",
+              "Masjid dua reminds Muslims to respect Allah’s house and its calmness.",
+              "Dua for lost things teaches the right way to act when losing something in masjid.",
+              "Lost item dua keeps the focus on Salah and zikr allah inside the mosque.",
+              "Islamic dua for missing things helps Muslims follow sunnah and good manners."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Mosque Dua for Lost Items",
+            "description": "This mosque dua is said when someone announces a lost item inside the masjid, reminding us to keep Allah’s house for zikr and salah, not for lost and found matters.",
+            "points": [
+              "When a person calls out for lost and found in the masjid, recite this mosque dua.",
+              "If someone announces a missing thing during salah time, use the masjid dua for lost item.",
+              "While hearing anyone searching for lost things in the mosque, say the dua for lost things.",
+              "After someone interrupts zikr allah with a lost item call, make this dua for losing something.",
+              "If you see someone looking for missing things in the masjid, remember the dua for lost item."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Mosque Dua for Lost Items Announcer",
+            "description": "When someone shouts about lost things inside the masjid, this mosque dua teaches us the right way to answer. It helps keep the masjid pure for zikr allah and reminds us to follow the Sunnah in every action.",
+            "steps": [
+              "Listen for anyone calling out about lost and found or lost item inside the masjid.",
+              "Respond by saying laa raddahAllahu 'alaik as taught in this masjid dua.",
+              "Remind others kindly that the mosque is not for lost and found, but for zikr allah.",
+              "Use this dua for lost things only when someone breaks the rule and announces in the masjid.",
+              "Keep your heart clean and follow this Muslim prayer to protect the respect of the mosque."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Trading in the mosque",
+      "category": "mosque",
+      "dua-ids": [
+        185
+      ],
+      "duas": [
+        {
+          "dua_id": 185,
+          "title": "Dua for the person who trades in the mosque",
+          "category_tags": [],
+          "introduction": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"When you see someone selling or buying in the Masjid then say:",
+          "arabic": "لَا أَرْبَحَ اللَّهُ تِجَارَتَكَ",
+          "audio": "/audio/dua/185.mp3",
+          "transliteration": "laa arba'ha Allahu tijaarataka",
+          "translation": "May Allah not profit your business.\n\nThis is because the mosques were not built for this purpose.",
+          "reference": "Sahih (Albani). Tirmidhi: 1321",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا عَارِمٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، أَخْبَرَنَا يَزِيدُ بْنُ خُصَيْفَةَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا رَأَيْتُمْ مَنْ يَبِيعُ أَوْ يَبْتَاعُ فِي الْمَسْجِدِ فَقُولُوا لاَ أَرْبَحَ اللَّهُ تِجَارَتَكَ وَإِذَا رَأَيْتُمْ مَنْ يَنْشُدُ فِيهِ ضَالَّةً فَقُولُوا لاَ رَدَّ اللَّهُ عَلَيْكَ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ كَرِهُوا الْبَيْعَ وَالشِّرَاءَ فِي الْمَسْجِدِ ‏.‏ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي الْبَيْعِ وَالشِّرَاءِ فِي الْمَسْجِدِ ‏.",
+            "translation": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"When you see someone selling or buying in the Masjid then say: 'May Allah not profit your business.' And when you see someone announcing about something lost then say: 'May Allah not return it to you.'\" The Hadith of Abu Hurairah is Hasan Gharib. This is acted upon according to some of the people of knowledge. They dislike selling and buying in the Masjid. This is the view of Ahmad and Ishaq. Some of the people of knowledge permitted selling and buying in the Masjid. [Sahih (Albani). Tirmidhi: 1321]"
+          },
+          "benefits": {
+            "title": "Benefits of Masjid Dua for Trading in Mosque",
+            "description": "This masjid dua reminds Muslims to keep the mosque pure for Salah and zikr allah, teaching the right way to respect Allah’s house and keep business outside its doors.",
+            "points": [
+              "Masjid dua helps Muslims remember not to mix business with Salah and Amal.",
+              "Mosque dua keeps the house of Allah safe from noise and trading talks.",
+              "Islamic business rules are followed when Muslims avoid trading in masjid.",
+              "Karobar ki dua teaches respect for masjid and brings Barakah in halal business.",
+              "Masnoon dua helps Muslims focus on prayer and zikr allah inside the mosque."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Masjid Dua for Trading",
+            "description": "This masjid dua is said when someone does business inside the mosque, reminding us to keep the masjid for zikr allah and salah, not for trading or karobar ki dua.",
+            "points": [
+              "When a person starts trading in the masjid, recite this masjid dua for halal business.",
+              "If you see someone doing business talks after salah, use the mosque dua for trading.",
+              "While hearing anyone selling things inside the masjid, say the masjid dua for Islamic business.",
+              "After someone interrupts namaz with business deals, make this dua for karobar ki dua.",
+              "If you notice business happening in the mosque, remember the masjid dua to keep the place pure."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Masjid Dua for Trading in Mosque",
+            "description": "When someone tries to do business inside the masjid, this masjid dua reminds us to keep the mosque for zikr allah and not for trading. It helps protect the masjid’s respect and teaches the right way to act in Allah’s house.",
+            "steps": [
+              "Notice if anyone starts talking about halal business or trading inside the mosque.",
+              "Say laa arba'ha Allahu tijaarataka softly as this masjid dua guides for such times.",
+              "Remind the person kindly that Islamic business should not happen in the masjid.",
+              "Use this mosque dua only when you see someone breaking the rule of trading in Allah’s house.",
+              "Keep your own heart focused on zikr allah and follow this Muslim prayer for Barakah in Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

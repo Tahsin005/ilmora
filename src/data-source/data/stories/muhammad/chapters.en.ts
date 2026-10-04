@@ -1,0 +1,320 @@
+import type { StoryChapter } from '../../../types/prophet';
+
+const chapters: StoryChapter[] = [
+  {
+    id: 'muhammad-ch1',
+    title: 'The Seal of the Prophets',
+    summary: 'Muhammad (peace be upon him) is the final messenger of Allah, sent as a mercy to all of mankind.',
+    order: 1,
+    paragraphs: [
+      {
+        id: 'muhammad-ch1-p1',
+        text: 'Muhammad (peace be upon him) is the final messenger sent to all of mankind. Allah describes him as a mercy to the worlds. His message was not limited to one nation or tribe but was universal, encompassing all of humanity until the Day of Judgment.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 21,
+            surahName: { en: 'Al-Anbiya', bn: 'আল-আম্বিয়া', ar: 'الأنبياء' },
+            ayahStart: 107,
+            translation: {
+              en: 'And We have not sent you, [O Muhammad], except as a mercy to the worlds.',
+              bn: 'আর আমি তোমাকে সমগ্র বিশ্বের জন্য রহমত হিসেবেই প্রেরণ করেছি।',
+              ar: 'وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch1-p2',
+        text: 'Muhammad was not the father of any man among the people, but the Messenger of Allah and the Seal of the Prophets. With him, the long chain of prophethood that began with Adam was completed and perfected.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 33,
+            surahName: { en: 'Al-Ahzab', bn: 'আল-আহযাব', ar: 'الأحزاب' },
+            ayahStart: 40,
+            translation: {
+              en: 'Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets. And ever is Allah, of all things, Knowing.',
+              bn: 'মুহাম্মাদ তোমাদের পুরুষদের মধ্যে কারো পিতা নন, বরং তিনি আল্লাহর রাসূল এবং শেষ নবী। আল্লাহ সর্ববিষয়ে সর্বজ্ঞ।',
+              ar: 'مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'muhammad-ch2',
+    title: 'The First Revelation',
+    summary: 'In the Cave of Hira, the angel Jibril brought the first words of the Quran to Muhammad.',
+    order: 2,
+    paragraphs: [
+      {
+        id: 'muhammad-ch2-p1',
+        text: 'In the Cave of Hira, the angel Jibril came to Muhammad and said: "Read! In the name of your Lord who created — created man from a clinging substance. Read! And your Lord is the Most Generous." These were the first verses of the Quran ever revealed, marking the beginning of the final divine message to humanity.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 96,
+            surahName: { en: 'Al-Alaq', bn: 'আল-আলাক', ar: 'العلق' },
+            ayahStart: 1,
+            ayahEnd: 5,
+            translation: {
+              en: 'Read in the name of your Lord who created — created man from a clinging substance. Read, and your Lord is the Most Generous — Who taught by the pen — taught man that which he knew not.',
+              bn: 'পড়ো তোমার রবের নামে যিনি সৃষ্টি করেছেন — মানুষকে জমাট রক্ত থেকে সৃষ্টি করেছেন। পড়ো, আর তোমার রব সবচেয়ে দয়ালু — যিনি কলমের সাহায্যে শিক্ষা দিয়েছেন — মানুষকে শিক্ষা দিয়েছেন যা সে জানত না।',
+              ar: 'اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch2-p2',
+        text: 'Allah reassured Muhammad during the early days of revelation: "By the morning brightness and the night when it covers, your Lord has not forsaken you, nor has He become displeased." This gave the Prophet comfort and certainty that Allah was with him.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 93,
+            surahName: { en: 'Ad-Duha', bn: 'আদ-দুহা', ar: 'الضحى' },
+            ayahStart: 1,
+            ayahEnd: 3,
+            translation: {
+              en: 'By the morning brightness, and [by] the night when it covers with darkness, your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].',
+              bn: 'কসম পূর্বাহ্নের উজ্জ্বলতার, এবং রাতের যখন তা অন্ধকারে ঢেকে যায়, তোমার রব তোমাকে পরিত্যাগ করেননি এবং তোমার প্রতি অসন্তুষ্টও হননি।',
+              ar: 'وَالضُّحَىٰ وَاللَّيْلِ إِذَا سَجَىٰ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'muhammad-ch3',
+    title: 'Persecution and Patience',
+    summary: 'The early Muslims endured severe persecution, yet Allah promised ease after hardship and protected His Messenger.',
+    order: 3,
+    paragraphs: [
+      {
+        id: 'muhammad-ch3-p1',
+        text: 'The early Muslims faced severe persecution in Makkah. They were tortured, boycotted, and driven from their homes. Allah comforted Muhammad: "Indeed, with hardship comes ease. Indeed, with hardship comes ease." This promise sustained the believers through the darkest trials.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 94,
+            surahName: { en: 'Ash-Sharh', bn: 'আশ-শারহ', ar: 'الشرح' },
+            ayahStart: 5,
+            ayahEnd: 6,
+            translation: {
+              en: 'For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.',
+              bn: 'নিশ্চয়ই কষ্টের সাথে স্বস্তি আছে। নিশ্চয়ই কষ্টের সাথে স্বস্তি আছে।',
+              ar: 'فَإِنَّ مَعَ الْعُسْرِ يُسْرًا إِنَّ مَعَ الْعُسْرِ يُسْرًا'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch3-p2',
+        text: 'Allah protected Muhammad during the hardest trials. When he was alone with Abu Bakr in the cave during the Hijrah, with the enemies at the entrance, he told his companion: "Do not grieve; indeed Allah is with us." Allah sent His tranquillity upon them and aided them with unseen forces.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 9,
+            surahName: { en: 'At-Tawbah', bn: 'আত-তওবাহ', ar: 'التوبة' },
+            ayahStart: 40,
+            translation: {
+              en: 'If you do not aid the Prophet — Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, "Do not grieve; indeed Allah is with us." And Allah sent down His tranquillity upon him and supported him with angels you did not see.',
+              bn: 'যদি তোমরা তাকে (নবীকে) সাহায্য না করো — আল্লাহ তাকে সাহায্য করেছিলেন যখন কাফিররা তাকে বের করে দিয়েছিল, দুজনের একজন হিসেবে, যখন তারা গুহায় ছিলেন এবং তিনি তাঁর সঙ্গীকে বললেন, "দুঃখ করো না; নিশ্চয়ই আল্লাহ আমাদের সাথে আছেন।" আর আল্লাহ তাঁর উপর প্রশান্তি নাযিল করলেন এবং এমন সৈন্যবাহিনী দিয়ে তাঁকে সাহায্য করলেন যা তোমরা দেখোনি।',
+              ar: 'إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا ۖ فَأَنزَلَ اللَّهُ سَكِينَتَهُ عَلَيْهِ وَأَيَّدَهُ بِجُنُودٍ لَّمْ تَرَوْهَا'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'muhammad-ch4',
+    title: 'The Night Journey (Isra and Mi\'raj)',
+    summary: 'Allah took Muhammad on a miraculous night journey from Makkah to Jerusalem and then through the heavens.',
+    order: 4,
+    paragraphs: [
+      {
+        id: 'muhammad-ch4-p1',
+        text: 'Allah took Muhammad on a miraculous night journey from Masjid al-Haram in Makkah to Masjid al-Aqsa in Jerusalem. This journey, known as Al-Isra, was a sign of Allah\'s power and a honour bestowed upon His final Messenger.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 17,
+            surahName: { en: 'Al-Isra', bn: 'আল-ইসরা', ar: 'الإسراء' },
+            ayahStart: 1,
+            translation: {
+              en: 'Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.',
+              bn: 'পবিত্র মহান সেই সত্তা যিনি তাঁর বান্দাকে রাতে মসজিদুল হারাম থেকে মসজিদুল আকসায় নিয়ে গেছেন, যার চারপাশকে আমি বরকতময় করেছি, যাতে আমি তাকে আমার কিছু নিদর্শন দেখাই। নিশ্চয়ই তিনি সর্বশ্রোতা, সর্বদ্রষ্টা।',
+              ar: 'سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch4-p2',
+        text: 'From Jerusalem, Muhammad ascended through the heavens in the Mi\'raj, meeting previous prophets at each level. The five daily prayers were ordained during this blessed journey. He drew near to Allah at the highest point, closer than any creation had ever been.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 53,
+            surahName: { en: 'An-Najm', bn: 'আন-নাজম', ar: 'النجم' },
+            ayahStart: 7,
+            ayahEnd: 18,
+            translation: {
+              en: 'While he was in the upper horizon. Then he approached and descended and was at a distance of two bow lengths or nearer. And he revealed to His Servant what he revealed. The heart did not lie [about] what it saw. So will you dispute with him over what he saw? And he certainly saw him in another descent at the Lote Tree of the Utmost Boundary — near it is the Garden of Refuge — when there covered the Lote Tree that which covered [it]. The sight [of the Prophet] did not swerve, nor did it transgress [its limit]. He certainly saw of the greatest signs of his Lord.',
+              bn: 'যখন তিনি ঊর্ধ্ব দিগন্তে ছিলেন। তারপর তিনি কাছে এলেন ও ঝুলে পড়লেন। তখন দুই ধনুকের ব্যবধান ছিল বা তার চেয়েও কম। তারপর তিনি তাঁর বান্দার প্রতি যা ওহী করার তা ওহী করলেন। অন্তর যা দেখেছে সে বিষয়ে মিথ্যা বলেনি। তোমরা কি তাঁর সাথে তা নিয়ে বিতর্ক করবে যা তিনি দেখেছেন? তিনি তাকে আরেকবার দেখেছিলেন সিদরাতুল মুনতাহায় — যার কাছে জান্নাতুল মাওয়া — যখন সিদরা গাছকে যা আবৃত করার তা আবৃত করল। তাঁর দৃষ্টি বিচ্যুত হয়নি এবং সীমা অতিক্রম করেনি। তিনি তাঁর রবের মহান নিদর্শনাবলী দেখেছেন।',
+              ar: 'وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ ثُمَّ دَنَا فَتَدَلَّىٰ فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ عِندَ سِدْرَةِ الْمُنتَهَىٰ عِندَهَا جَنَّةُ الْمَأْوَىٰ إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'muhammad-ch5',
+    title: 'The Hijrah to Madinah',
+    summary: 'Muhammad migrated from Makkah to Madinah, where he established the first Muslim community.',
+    order: 5,
+    paragraphs: [
+      {
+        id: 'muhammad-ch5-p1',
+        text: 'When the disbelievers plotted against Muhammad — to imprison, kill, or expel him — Allah permitted him to migrate to Madinah. This Hijrah marked the beginning of the Islamic calendar and a new chapter in the history of Islam.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 8,
+            surahName: { en: 'Al-Anfal', bn: 'আল-আনফাল', ar: 'الأنفال' },
+            ayahStart: 30,
+            translation: {
+              en: 'And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allah plans. And Allah is the best of planners.',
+              bn: 'আর স্মরণ করো, যখন কাফিররা তোমার বিরুদ্ধে ষড়যন্ত্র করেছিল — তোমাকে বন্দী করতে, হত্যা করতে বা বের করে দিতে। তারা ষড়যন্ত্র করে আর আল্লাহও পরিকল্পনা করেন। আল্লাহ সর্বোত্তম পরিকল্পনাকারী।',
+              ar: 'وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch5-p2',
+        text: 'In Madinah, Muhammad established the first Muslim community. The Ansar (helpers of Madinah) welcomed the Muhajirun (migrants from Makkah) with open hearts, sharing their homes and wealth. Their brotherhood became a model for the entire ummah.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 59,
+            surahName: { en: 'Al-Hashr', bn: 'আল-হাশর', ar: 'الحشر' },
+            ayahStart: 9,
+            translation: {
+              en: 'And [also for] those who were settled in the Home [i.e., al-Madinah] and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul — it is those who will be the successful.',
+              bn: 'আর যারা মুহাজিরদের আগমনের পূর্বে মদীনায় বসবাস করেছে এবং ঈমান এনেছে, তারা মুহাজিরদের ভালোবাসে এবং তাদের যা দেওয়া হয়েছে তার জন্য নিজেদের অন্তরে কোনো অভাব অনুভব করে না, বরং নিজেদের অভাব থাকা সত্ত্বেও তাদের অগ্রাধিকার দেয়। যাকে মনের কার্পণ্য থেকে রক্ষা করা হয়েছে — তারাই সফলকাম।',
+              ar: 'وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْإِيمَانَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً مِّمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'muhammad-ch6',
+    title: 'The Conquest of Makkah',
+    summary: 'Allah granted Muhammad the peaceful conquest of Makkah, and people entered Islam in multitudes.',
+    order: 6,
+    paragraphs: [
+      {
+        id: 'muhammad-ch6-p1',
+        text: 'Allah promised Muhammad the conquest of Makkah. He entered the city peacefully with 10,000 companions and forgave the people of Makkah, declaring a general amnesty. This was a clear victory and a sign of Allah\'s favour.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 48,
+            surahName: { en: 'Al-Fath', bn: 'আল-ফাতহ', ar: 'الفتح' },
+            ayahStart: 1,
+            ayahEnd: 3,
+            translation: {
+              en: 'Indeed, We have given you, [O Muhammad], a clear conquest, that Allah may forgive for you what preceded of your sin and what will follow and complete His favor upon you and guide you to a straight path, and [that] Allah may aid you with a mighty victory.',
+              bn: 'নিশ্চয়ই আমি তোমাকে একটি সুস্পষ্ট বিজয় দান করেছি, যাতে আল্লাহ তোমার পূর্বের ও পরের সব ত্রুটি ক্ষমা করেন, তোমার প্রতি তাঁর নিয়ামত পূর্ণ করেন এবং তোমাকে সরল পথে পরিচালিত করেন, এবং আল্লাহ তোমাকে এক মহান বিজয়ে সাহায্য করেন।',
+              ar: 'إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا لِّيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيمًا وَيَنصُرَكَ اللَّهُ نَصْرًا عَزِيزًا'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch6-p2',
+        text: '"When the victory of Allah has come and the conquest, and you see the people entering into the religion of Allah in multitudes, then exalt with praise of your Lord and ask His forgiveness. Indeed, He is ever Accepting of repentance."',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 110,
+            surahName: { en: 'An-Nasr', bn: 'আন-নাসর', ar: 'النصر' },
+            ayahStart: 1,
+            ayahEnd: 3,
+            translation: {
+              en: 'When the victory of Allah has come and the conquest, and you see the people entering into the religion of Allah in multitudes, then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance.',
+              bn: 'যখন আল্লাহর সাহায্য ও বিজয় আসবে, এবং তুমি মানুষকে দলে দলে আল্লাহর দীনে প্রবেশ করতে দেখবে, তখন তোমার রবের প্রশংসাসহ তাঁর পবিত্রতা ঘোষণা করো এবং তাঁর কাছে ক্ষমা প্রার্থনা করো। নিশ্চয়ই তিনি তওবা কবুলকারী।',
+              ar: 'إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 'muhammad-ch7',
+    title: 'The Final Sermon and Legacy',
+    summary: 'Muhammad delivered his farewell sermon and left behind a legacy that continues to guide billions.',
+    order: 7,
+    paragraphs: [
+      {
+        id: 'muhammad-ch7-p1',
+        text: 'Muhammad delivered his farewell sermon during the final Hajj, emphasizing equality, justice, and the completion of the religion. On that day, Allah revealed: "This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion." This verse marked the completion of divine guidance.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 5,
+            surahName: { en: 'Al-Ma\'idah', bn: 'আল-মায়িদাহ', ar: 'المائدة' },
+            ayahStart: 3,
+            translation: {
+              en: 'This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion.',
+              bn: 'আজ আমি তোমাদের জন্য তোমাদের দীনকে পূর্ণাঙ্গ করলাম এবং তোমাদের প্রতি আমার নিয়ামত সম্পূর্ণ করলাম এবং ইসলামকে তোমাদের দীন হিসেবে মনোনীত করলাম।',
+              ar: 'الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا'
+            }
+          }
+        ]
+      },
+      {
+        id: 'muhammad-ch7-p2',
+        text: 'Muhammad left behind the Quran and his Sunnah as guidance for all of humanity. Allah describes his noble character: "And indeed, you are of a great moral character." His message continues to guide billions of people worldwide, a testament to the truth of his prophethood and the mercy of Allah.',
+        phase: 'quran',
+        references: [
+          {
+            type: 'quran',
+            surah: 68,
+            surahName: { en: 'Al-Qalam', bn: 'আল-কলম', ar: 'القلم' },
+            ayahStart: 4,
+            translation: {
+              en: 'And indeed, you are of a great moral character.',
+              bn: 'আর নিশ্চয়ই তুমি মহান চরিত্রের উপর অধিষ্ঠিত।',
+              ar: 'وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ'
+            }
+          }
+        ]
+      }
+    ]
+  }
+];
+
+export default chapters;

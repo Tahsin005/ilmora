@@ -1,0 +1,82 @@
+{
+  "id": 104,
+  "name": "الهمزة",
+  "transliteration": "Al-Humazah",
+  "translation_en": "The Traducer",
+  "type": "meccan",
+  "total_verses": 9,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ",
+      "transliteration": "Waylun likulli humazatin lumazatin",
+      "translation_en": "Woe to every scorner and mocker",
+      "translation_bn": "প্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর দুর্ভোগ",
+      "translation_ur": "تباہی ہے ہر اُس شخص کے لیے جو (منہ در منہ) لوگوں پر طعن اور (پیٹھ پیچھے) برائیاں کرنے کا خوگر ہے"
+    },
+    {
+      "id": 2,
+      "arabic": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
+      "transliteration": "Allathee jamaAAa malan waAAaddadahu",
+      "translation_en": "Who collects wealth and [continuously] counts it",
+      "translation_bn": "যে অর্থ সঞ্চিত করে ও গণনা করে",
+      "translation_ur": "جس نے مال جمع کیا اور اُسے گن گن کر رکھا"
+    },
+    {
+      "id": 3,
+      "arabic": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+      "transliteration": "Yahsabu anna malahu akhladahu",
+      "translation_en": "He thinks that his wealth will make him immortal",
+      "translation_bn": "সে মনে করে যে, তার অর্থ চিরকাল তার সাথে থাকবে",
+      "translation_ur": "وہ سمجھتا ہے کہ اُس کا مال ہمیشہ اُس کے پاس رہے گا"
+    },
+    {
+      "id": 4,
+      "arabic": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+      "transliteration": "Kalla layunbathanna fee alhutamati",
+      "translation_en": "No! He will surely be thrown into the Crusher",
+      "translation_bn": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে পিষ্টকারীর মধ্যে।",
+      "translation_ur": "ہرگز نہیں، وہ شخص تو چکنا چور کر دینے والی جگہ میں پھینک دیا جائے گا"
+    },
+    {
+      "id": 5,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+      "transliteration": "Wama adraka ma alhutamatu",
+      "translation_en": "And what can make you know what is the Crusher",
+      "translation_bn": "আপনি কি জানেন, পিষ্টকারী কি",
+      "translation_ur": "اور تم کیا جانو کہ کیا ہے وہ چکنا چور کر دینے والی جگہ؟"
+    },
+    {
+      "id": 6,
+      "arabic": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+      "transliteration": "Naru Allahi almooqadatu",
+      "translation_en": "It is the fire of Allah, [eternally] fueled",
+      "translation_bn": "এটা আল্লাহর প্রজ্জ্বলিত অগ্নি",
+      "translation_ur": "اللہ کی آگ، خوب بھڑکائی ہوئی"
+    },
+    {
+      "id": 7,
+      "arabic": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+      "transliteration": "Allatee tattaliAAu AAala alafidati",
+      "translation_en": "Which mounts directed at the hearts",
+      "translation_bn": "যা হৃদয় পর্যন্ত পৌছবে।",
+      "translation_ur": "جو دلوں تک پہنچے گی"
+    },
+    {
+      "id": 8,
+      "arabic": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
+      "transliteration": "lnnaha AAalayhim musadatun",
+      "translation_en": "Indeed, Hellfire will be closed down upon them",
+      "translation_bn": "এতে তাদেরকে বেঁধে দেয়া হবে",
+      "translation_ur": "وہ اُن پر ڈھانک کر بند کر دی جائے گی"
+    },
+    {
+      "id": 9,
+      "arabic": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+      "transliteration": "Fee AAamadin mumaddadatin",
+      "translation_en": "In extended columns",
+      "translation_bn": "লম্বা লম্বা খুঁটিতে।",
+      "translation_ur": "(اِس حالت میں کہ وہ) اونچے اونچے ستونوں میں (گھرے ہوئے ہوں گے)"
+    }
+  ]
+}

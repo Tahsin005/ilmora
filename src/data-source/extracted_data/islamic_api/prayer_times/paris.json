@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "06:09",
+      "Sunrise": "07:54",
+      "Dhuhr": "13:39",
+      "Asr": "16:47",
+      "Sunset": "19:23",
+      "Maghrib": "19:23",
+      "Isha": "21:02",
+      "Imsak": "05:59",
+      "Midnight": "01:39",
+      "Firstthird": "23:34",
+      "Lastthird": "03:44"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 119.16,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 4496.17,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "07:54",
+        "end": "08:09"
+      },
+      "noon": {
+        "start": "13:29",
+        "end": "13:39"
+      },
+      "sunset": {
+        "start": "19:08",
+        "end": "19:23"
+      }
+    },
+    "timezone": {
+      "name": "Europe/Paris",
+      "utc_offset": "+02:00",
+      "abbreviation": "CEST"
+    }
+  },
+  "city_info": {
+    "name": "Paris",
+    "country": "France",
+    "slug": "paris",
+    "lat": 48.8566,
+    "lon": 2.3522
+  }
+}

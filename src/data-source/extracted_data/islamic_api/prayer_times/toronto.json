@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:42",
+      "Sunrise": "07:17",
+      "Dhuhr": "13:06",
+      "Asr": "16:20",
+      "Sunset": "18:55",
+      "Maghrib": "18:55",
+      "Isha": "20:24",
+      "Imsak": "05:32",
+      "Midnight": "01:06",
+      "Firstthird": "23:02",
+      "Lastthird": "03:10"
+    },
+    "date": {
+      "readable": "03 Oct 2026",
+      "timestamp": "1790985600",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Saturday",
+          "ar": "السبت"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-03",
+        "format": "YYYY-MM-DD",
+        "day": "03",
+        "weekday": {
+          "en": "Saturday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 54.58,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 10495.83,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "07:17",
+        "end": "07:32"
+      },
+      "noon": {
+        "start": "12:56",
+        "end": "13:06"
+      },
+      "sunset": {
+        "start": "18:40",
+        "end": "18:55"
+      }
+    },
+    "timezone": {
+      "name": "America/Toronto",
+      "utc_offset": "-04:00",
+      "abbreviation": "EDT"
+    }
+  },
+  "city_info": {
+    "name": "Toronto",
+    "country": "Canada",
+    "slug": "toronto",
+    "lat": 43.6532,
+    "lon": -79.3832
+  }
+}

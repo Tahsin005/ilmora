@@ -1,0 +1,1259 @@
+{
+  "category": {
+    "name": "Time of Dua",
+    "url": "time-of-dua",
+    "icon": "time_of_dua.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 29,
+  "subcategories": [
+    {
+      "id": 9,
+      "title": "Times and places when dua will be accepted",
+      "category": "time-of-dua",
+      "dua-ids": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "duas": [
+        {
+          "dua_id": 34,
+          "title": "Dua After Adhan that gets Accepted (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated by Abdullah ibn Amr ibn al-'As (RA): A man said: O Messenger of Allah, the mu'adhdhins excel us. The Messenger of Allah (ﷺ) said: Say (the same words) as they say, and when you come to the end, ask Allah for anything and that will be granted to you.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Hasan (Albani). Abu Dawud: 524",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 35,
+          "title": "Hadith on Dua After Adhan",
+          "category_tags": [],
+          "introduction": "Anas (RA) said, the Prophet (ﷺ) said, when the call to prayer (adhan) is given, the gates of heaven are opened and the dua is accepted.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Silsila Sahihah: 1413",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 36,
+          "title": "Benefit of Laylatul Qadr Surah",
+          "category_tags": [],
+          "introduction": "Allah (SWT) says -",
+          "arabic": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ﴿٣﴾ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ ﴿٤﴾ سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ ﴿٥﴾",
+          "audio": "/audio/dua/36.mp3",
+          "transliteration": "Innaaa anzalnaahu fee Lailatil-Qadr. Wa maaa adraaka maa Lailatul-Qadr. Lailatul-Qadri khairum-min alfi shahr. Tanazzalul-malaaa'ikatu war-Roohu feehaa bi-izni Rabbihim min kulli amr. Salaamun hiya hattaa matla'il-fajr.",
+          "translation": "(1) Indeed, We sent the Qur'an down during the Night of Decree. (2) And what can make you know what is the Night of Decree? (3) The Night of Decree is better than a thousand months. (4) The angels and the Spirit descend therein by permission of their Lord for every matter. (5) Peace it is until the emergence of dawn.",
+          "reference": "Surah Al-Qadr 97:1-5",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Surah Al Qadr (Laylatul Qadr Surah)",
+            "description": "Surah al Qadr tells about the Night of Power, bringing huge rewards, peace, and blessings for muslims who read and believe in its message, making every Ramadan night full of hope.",
+            "points": [
+              "Surah al Qadr brings reward better than a thousand months in Amal.",
+              "Laylatul Qadr surah helps muslims get Allah’s mercy and forgiveness for sins.",
+              "Angels come down with peace and Barakah on the night of surah qadr.",
+              "Surat al qadr makes dua strong and accepted in the last 10 nights of Ramadan.",
+              "Inna anzalna reminds muslims of the big value of Quran and Laylatul Qadr."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Surah Al Qadr",
+            "description": "Surah al qadr is recited for Barakah and reward, reminding us of the power and mercy of Allah on Laylatul Qadr, and bringing peace, forgiveness, and blessings in the last nights of Ramadan and every day.",
+            "points": [
+              "During the last 10 nights of Ramadan, recite surah al qadr for Laylatul Qadr blessings.",
+              "In your tahajjud salah, read surah qadr to seek Allah’s mercy and forgiveness.",
+              "After maghrib salah in Ramadan, recite laylatul qadr surah for extra Barakah and reward.",
+              "When feeling weak in Iman, use surat al qadr to remember the Night of Power’s value.",
+              "For daily Quran recitation, include surah al qadr to gain peace and closeness to Allah."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Surah Al Qadr for Laylatul Qadr",
+            "description": "Reciting Surah Al Qadr on Laylatul Qadr brings big Barakah and rewards more than a thousand months. This surah al qadr reminds every Muslim about the power of Quran and the blessings of the Night of Power in Ramadan.",
+            "steps": [
+              "After Isha salah in Ramadan, recite surah al qadr slowly and think about its meaning.",
+              "In the last 10 nights, read laylatul qadr surah during tahajjud to seek Allah’s mercy.",
+              "When you make dua, add surah qadr and ask for forgiveness and peace for your family.",
+              "Before going to bed, softly recite surat al qadr to get the blessings of Shab e Qadr.",
+              "If you feel sad or need help, use surah al qadr benefits and ask Allah for guidance."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 37,
+          "title": "Laylatul Qadr dua for forgiveness",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said to 'Aa'ishah (RA): You say -",
+          "arabic": "اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+          "audio": "/audio/dua/37.mp3",
+          "transliteration": "Allaahumma innaka 'afuwwun karim, tuhibbul-'afwa, fa'fu 'anni",
+          "translation": "O Allah, You are Most Forgiving, Generous. You love forgiveness; so forgive me.",
+          "reference": "Sahih (Albani). Tirmidhi: 3513",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ الضُّبَعِيُّ، عَنْ كَهْمَسِ بْنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَائِشَةَ، قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إِنْ عَلِمْتُ أَىُّ لَيْلَةٍ لَيْلَةُ الْقَدْرِ مَا أَقُولُ فِيهَا قَالَ ‏ \"‏ قُولِي اللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "translation": "Aishah narrated: “I said: ‘O Messenger of Allah, what is your view if I know when the Night of Al-Qadr is, then what should I say in it?” He said: ‘Say: “O Allah, indeed You are Pardoning, [Generous,] You love pardon, so pardon me (Allāhumma innaka `Afuwwun [Karīmun], tuḥibbul-`afwa fa`fu `annī).’” [Sahih (Albani). Tirmidhi: 3513]"
+          },
+          "benefits": {
+            "title": "Benefits of Laylatul Qadr Dua for Forgiveness",
+            "description": "On the blessed night of Laylatul Qadr, this dua for forgiveness brings hope and mercy, helping every Muslim seek Allah’s pardon and Barakah in the last 10 days of Ramadan.",
+            "points": [
+              "Allah’s mercy covers the heart of a Muslim who makes laylatul qadr dua.",
+              "Sins get wiped away by saying dua for forgiveness on the night of power.",
+              "Allahumma innaka afuwwun karim brings Barakah in Amal and Iman for Muslims.",
+              "Dua for laylatul qadr in english helps a believer get close to Allah’s Rahmah.",
+              "Shab e qadr ki dua opens the door for new blessings in the last 10 days of Ramadan."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Laylatul Qadr Dua",
+            "description": "This laylatul qadr dua for forgiveness is best recited in the last ten nights of Ramadan, asking Allah for mercy and Barakah, as the night of power brings hope for a new start and a heart full of Iman.",
+            "points": [
+              "During the odd nights of Ramadan, recite the laylatul qadr dua for forgiveness.",
+              "After finishing your salah in the last ten nights, ask Allah with this dua for laylatul qadr.",
+              "When making dua in the quiet of night, use the laylatul qadr dua in english for Barakah.",
+              "In sujood during tahajjud, whisper the dua for forgiveness on laylatul qadr to Allah.",
+              "While seeking Allah’s mercy in the last 10 days, repeat the night of power dua for a clean heart."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Laylatul Qadr Dua for Forgiveness",
+            "description": "On the blessed night of Laylatul Qadr, Muslims seek Allah’s mercy and forgiveness with this special dua. Reciting the laylatul qadr dua brings Barakah and helps clean the heart from sins, making your Ramadan full of blessings.",
+            "steps": [
+              "Start your dua after Isha or during tahajjud, raising your hands and saying the laylatul qadr dua in arabic with full hope.",
+              "When you feel tears or regret for your sins, quietly repeat the dua for forgiveness and ask Allah to clean your heart.",
+              "In the last 10 nights of Ramadan, use this dua for last 10 days of ramadan while sitting alone and thinking about your Amal.",
+              "After reading quranic dua or finishing your namaz, softly say the laylatul qadr dua in english or arabic for more Barakah.",
+              "If you wake up at night, whisper the dua of laylatul qadr before going back to bed, asking Allah for His mercy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 38,
+          "title": "Accepted Times for Dua (Hadith)",
+          "category_tags": [],
+          "introduction": "Regarding when the Dua is accepted, the Prophet (ﷺ) said, \"On the last night and after the obligatory prayers.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Hasan (Albani). Tirmidhi: 3499",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 39,
+          "title": "Dua for Forgiveness at Tahajjud Time",
+          "category_tags": [],
+          "introduction": "Praising those who ask forgiveness on the last night, Allah says -",
+          "arabic": "كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ ﴿١٧﴾ وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ ﴿١٨﴾",
+          "audio": "/audio/dua/39.mp3",
+          "transliteration": "Kaanoo qaleelam minal layli maa yahja'oon. Wa bil ashaari hum yastaghfiroon.",
+          "translation": "(17) They used to sleep but little of the night, (18) And in the hours before dawn they would ask forgiveness. [2]",
+          "reference": "[1] Bukhari: 1145 [2] Surah Az-Zariyat: 51: 17-18",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 40,
+          "title": "Dua between Adhan and Iqamah (Hadith)",
+          "category_tags": [],
+          "introduction": "Allah's Messenger (ﷺ) said: Dua at the time between Adhan and Iqamah is not returned.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Dawud: 521",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 41,
+          "title": "Dua for Heavy Rain",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: Two (prayers) are not rejected, or seldom rejected: Prayer at the time of the call to prayer, and (the prayer) at the time of fighting when it's intensified. Another narration says, \"when it's raining.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Dawud: 2540",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 42,
+          "title": "Best Time to Make Dua at Night (Hadith)",
+          "category_tags": [],
+          "introduction": "Jabir (RA) said he heard Allah's Messenger (ﷺ) say: There is an hour during the night in which no Muslim individual will ask Allah for good in this world and the next without His giving it to him; and that applies to every night.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 757",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 43,
+          "title": "Dua when Drinking Zamzam Water",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said: ‘The water of Zamzam is for whatever it is drunk for.’",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Ibn Majah: 3062",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 44,
+          "title": "Dua in Sujood (Prostration)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said: The nearest a servant comes to his Lord is when he is prostrating himself, so make supplication (in this state).",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 482",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 45,
+          "title": "Dua When Waking Up at Night (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: The person who wakes up at night and says these words -",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ‏ اَلْحَمْدُ لِلَّهِ وَسُبْحَانَ اللَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+          "audio": "/audio/dua/45.mp3",
+          "transliteration": "Laa ilaaha illAllahu Wa'hdahu laa Sharika lahu Lahul mulku, wa lahul-'hamd wa huwa 'alaa kulli shay'in Qadir. Al'hamdulillahi wa sub'hanallahi wa laa ilaaha illAllahu wAllahu akbar wa laa 'hawla Walaa Quwwata illa billaah",
+          "translation": "None has the right to be worshipped but Allah. He is the Only One and has no partners. For Him is the Kingdom and all the praises are due for Him. He is Omnipotent. All the praises are for Allah. All the glories are for Allah. And none has the right to be worshipped but Allah, And Allah is Great And there is neither Might nor Power Except with Allah.\n\nO Allah! Forgive me. Or invokes (Allah), he will be responded to and if he performs ablution (and prays), his prayer will be accepted.",
+          "reference": "Bukhari: 1154",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، أَخْبَرَنَا الْوَلِيدُ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي عُمَيْرُ بْنُ هَانِئٍ، قَالَ حَدَّثَنِي جُنَادَةُ بْنُ أَبِي أُمَيَّةَ، حَدَّثَنِي عُبَادَةُ بْنُ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ تَعَارَّ مِنَ اللَّيْلِ فَقَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ‏.‏ الْحَمْدُ لِلَّهِ، وَسُبْحَانَ اللَّهِ، وَلاَ إِلَهَ إِلاَّ اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ‏.‏ ثُمَّ قَالَ اللَّهُمَّ اغْفِرْ لِي‏.‏ أَوْ دَعَا اسْتُجِيبَ، فَإِنْ تَوَضَّأَ وَصَلَّى قُبِلَتْ صَلاَتُهُ ‏\" ‏‏.‏",
+            "translation": "Narrated 'Ubada bin As-Samit: The Prophet (ﷺ) \"Whoever gets up at night and says: -- 'La ilaha il-lallah Wahdahu la Sharika lahu Lahu-lmulk, waLahu-l-hamd wahuwa 'ala kullishai'in Qadir. Al hamdu lil-lahi wa subhanal-lahi wa la-ilaha il-lal-lah wa-l-lahu akbar wa la hawla Wala Quwata il-la-bil-lah.' (None has the right to be worshipped but Allah. He is the Only One and has no partners . For Him is the Kingdom and all the praises are due for Him. He is Omnipotent. All the praises are for Allah. All the glories are for Allah. And none has the right to be worshipped but Allah, And Allah is Great And there is neither Might nor Power Except with Allah). And then says: -- Allahumma, Ighfir li (O Allah! Forgive me). Or invokes (Allah), he will be responded to and if he performs ablution (and prays), his prayer will be accepted.\" [Bukhari: 1154]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua at Night When Waking Up",
+            "description": "This dua at night fills the heart with Allah’s praise and power, helping Muslims remember Him after sleep and bringing peace and Barakah in the quiet hours before Fajr.",
+            "points": [
+              "Allah’s help comes close to the one who makes dua when waking up at night.",
+              "Tahajjud ki dua brings Barakah and makes Iman strong in the heart of a Muslim.",
+              "Subhanallah walhamdulillah wala ilaha illallah wallahu akbar gives peace.",
+              "La hawla wala quwwata illa billah helps a believer trust Allah in every mushkil.",
+              "Night time dua opens the door for answered prayers and Allah’s mercy."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua At Night",
+            "description": "This dua at night fills your heart with Iman and Barakah when you wake up, reminding you of Allah’s power and mercy, and helps you start your night with praise and hope for a blessed Amal.",
+            "points": [
+              "After waking up suddenly at night, remember Allah with this dua at night for Barakah.",
+              "When you rise for tahajjud, begin your tahajjud ki namaz with this night dua for Iman.",
+              "If sleep breaks in the middle of night, recite the dua for waking up from sleep for peace.",
+              "Before making any dua at night, praise Allah with subhanallah walhamdulillah wala ilaha illallah wallahu akbar.",
+              "When feeling restless or facing insomnia, use this dua for the night to find calm and strength."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua at Night When Waking Up",
+            "description": "Waking up at night is a special time to remember Allah and make dua at night. This masnoon dua brings Barakah and helps you feel close to Allah, even in the quiet hours when everyone else is sleeping.",
+            "steps": [
+              "After waking up from sleep, move your lips with the dua when waking up at night and feel the words.",
+              "If you feel restless or have trouble sleeping, softly recite the night time dua and trust Allah’s plan.",
+              "When you get up for tahajjud, say the dua at night before starting your tahajjud ki namaz for more Iman.",
+              "If you wake up suddenly, whisper the dua for waking up from sleep and ask for Allah’s help in your heart.",
+              "Before going back to bed, repeat subhanallah walhamdulillah wala ilaha illallah wallahu akbar for peace."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 46,
+          "title": "Dua of Yunus (La Ilaha Illa Anta Subhanaka)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said: Yunus (As) prayed while he was in the belly of a fish -",
+          "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ",
+          "audio": "/audio/dua/46.mp3",
+          "transliteration": "Laa 'ilaaha 'illaa 'Anta sub'haanaka 'innee kuntu minadh-dhaalimeen",
+          "translation": "There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.\n\nSo indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him.",
+          "reference": "Sahih (Albani). Tirmidhi: 3505",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، عَنْ سَعْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ دَعْوَةُ ذِي النُّونِ إِذْ دَعَا وَهُوَ فِي بَطْنِ الْحُوتِ لاَ إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ ‏.‏ فَإِنَّهُ لَمْ يَدْعُ بِهَا رَجُلٌ مُسْلِمٌ فِي شَيْءٍ قَطُّ إِلاَّ اسْتَجَابَ اللَّهُ لَهُ ‏\" ‏ ‏.‏ قَالَ مُحَمَّدُ بْنُ يَحْيَى قَالَ مُحَمَّدُ بْنُ يُوسُفَ مَرَّةً عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ سَعْدٍ، عَنْ سَعْدٍ، ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَى غَيْرُ، وَاحِدٍ، هَذَا الْحَدِيثَ عَنْ يُونُسَ بْنِ أَبِي إِسْحَاقَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ سَعْدٍ، عَنْ سَعْدٍ، وَلَمْ يَذْكُرُوا فِيهِ عَنْ أَبِيهِ، ‏.‏ وَرَوَى بَعْضُهُمْ، عَنْ يُونُسَ بْنِ أَبِي إِسْحَاقَ، فَقَالُوا عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، عَنْ سَعْدٍ، وَكَانَ، يُونُسُ بْنُ أَبِي إِسْحَاقَ رُبَّمَا ذَكَرَ فِي هَذَا الْحَدِيثِ عَنْ أَبِيهِ، وَرُبَّمَا، لَمْ يَذْكُرْهُ ‏.‏",
+            "translation": "Ibrahim bin Muhammad bin Sa`d narrated from his father, from Sa`d that the Messenger of Allah (ﷺ) said: “The supplication of Dhun-Nun (Prophet Yunus) when he supplicated, while in the belly of the whale was: ‘There is none worthy of worship except You, Glory to You, Indeed, I have been of the transgressors. (Lā ilāha illā anta subḥānaka innī kuntu minaẓ-ẓālimīn)’ So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him.” [Sahih (Albani). Tirmidhi: 3505]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Yunus (La Ilaha Illa Anta Subhanaka)",
+            "description": "This dua of Yunus brings hope and relief for Muslims facing mushkil, helping hearts find Allah’s mercy and forgiveness in times of distress and hardship.",
+            "points": [
+              "Allah removes mushkil for the one who calls with dua of yunus in hard times.",
+              "La ilaha illa anta subhanaka inni kuntu minaz zalimin brings quick Rahmah.",
+              "Ayat e karima helps a Muslim get forgiveness and Barakah from Allah.",
+              "Yunus dua gives peace to the heart when facing stress or big problems.",
+              "Dua for difficulties opens the way for Allah’s help and answers in every test."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua of Yunus",
+            "description": "The dua of Yunus brings hope and Barakah when you feel lost or in trouble, reminding you to turn to Allah with a soft heart and seek forgiveness, just like Nabi Yunus did in his hardest time.",
+            "points": [
+              "When facing big problems, recite the dua of yunus for help and Allah’s mercy.",
+              "In times of distress or sadness, use la ilaha illa anta subhanaka inni kuntu minaz zalimin.",
+              "After making a mistake, ask forgiveness with the dua of yunus for repentance and Barakah.",
+              "While feeling trapped or hopeless, repeat ayat e karima to find peace and strength.",
+              "Before starting any amal for relief, begin with dua for difficulties to seek Allah’s help."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of Yunus (La Ilaha Illa Anta Subhanaka)",
+            "description": "This dua of Yunus is a strong quranic dua for times of trouble and mistakes. Saying la ilaha illa anta subhanaka inni kuntu minaz zalimin brings hope and helps you ask Allah for forgiveness and mercy in hard days.",
+            "steps": [
+              "When you feel sad or stuck in problems, say the dua of yunus with a soft voice and trust Allah’s help.",
+              "After making a mistake, repeat la ilaha illa anta subhanaka inni kuntu minaz zalimin and ask for forgiveness.",
+              "During namaz sujood, quietly recite this ayat e karima to seek Allah’s mercy and Barakah.",
+              "If you feel stress or fear, use this dua for difficulties and let your heart find peace.",
+              "While sitting alone, remember this dua for distress and keep your Iman strong with zikr allah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 47,
+          "title": "Dua for Calamity (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "If any slave of Allah supplicate when he afflicted with a calamity -",
+          "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُوْنَ، اَللَّهُمَّ أْجُرْنِيْ فِي مُصِيْبَتِيْ وَأَخْلِفْ لِي خَيْرًا مِّنْهَا",
+          "audio": "/audio/dua/47.mp3",
+          "transliteration": "Innaa lillaahi wa 'innaa 'ilayhi raaji'oon, Allaahumma'-jurni fee museebatee wa 'akhliflee khayran minhaa",
+          "translation": "We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.\n\nUmm Salama (RA) reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him - (The dua is mentioned above) Allah will give him something better than it in exchange.",
+          "reference": "Muslim: 918",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، - قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَاعِيلُ، - أَخْبَرَنِي سَعْدُ بْنُ سَعِيدٍ، عَنْ عُمَرَ بْنِ كَثِيرِ بْنِ أَفْلَحَ، عَنِ ابْنِ، سَفِينَةَ عَنْ أُمِّ سَلَمَةَ، أَنَّهَا قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَا مِنْ مُسْلِمٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ مَا أَمَرَهُ اللَّهُ إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا ‏.‏ إِلاَّ أَخْلَفَ اللَّهُ لَهُ خَيْرًا مِنْهَا ‏\"‏ ‏.‏ قَالَتْ فَلَمَّا مَاتَ أَبُو سَلَمَةَ قُلْتُ أَىُّ الْمُسْلِمِينَ خَيْرٌ مِنْ أَبِي سَلَمَةَ أَوَّلُ بَيْتٍ هَاجَرَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ ثُمَّ إِنِّي قُلْتُهَا فَأَخْلَفَ اللَّهُ لِي رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَتْ أَرْسَلَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم حَاطِبَ بْنَ أَبِي بَلْتَعَةَ يَخْطُبُنِي لَهُ فَقُلْتُ إِنَّ لِي بِنْتًا وَأَنَا غَيُورٌ ‏.‏ فَقَالَ ‏\"‏ أَمَّا ابْنَتُهَا فَنَدْعُو اللَّهَ أَنْ يُغْنِيَهَا عَنْهَا وَأَدْعُو اللَّهَ أَنْ يَذْهَبَ بِالْغَيْرَةِ ‏\"‏ ‏.‏",
+            "translation": "Umm Salama reported Allah's Messenger (ﷺ) as saying: If any Muslim who suffers some calamity says, what Allah has commanded him,\" We belong to Allah and to Him shall we return; O Allah, reward me for my affliction and give me something better than it in exchange for it,\" Allah will give him something better than it in exchange. When Abu Salama died she said: What Muslim is better than Abu Salama whose family was the first to emigrate to the Messenger of Allah (ﷺ). I then said the words, and Allah gave me God's Messenger (ﷺ) in exchange. She said: The Messenger of Allah (ﷺ) sent Hatib b. Abu Balta'a to deliver me the message of marriage with him. I said to him: I have a daughter (as my dependant) and I am of jealous temperament. He (the Holy Prophet) said: So far as her daughter is concerned, we would supplicate Allah, that He may free her (of her responsibility) and I would also supplicate Allah to do away with (her) jealous (temperament). [Muslim: 918]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Distress and Calamity",
+            "description": "This dua for distress helps Muslims find hope and patience in tough times, asking Allah for reward and something better after every test or loss.",
+            "points": [
+              "Allah gives Sabr and reward to the one who makes dua for distress in calamity.",
+              "Innaa lillaahi wa innaa ilayhi raaji’oon brings peace to the heart in loss.",
+              "Dua for difficulties helps a Muslim trust Allah’s plan and get Barakah.",
+              "Allahumma ajurni fee museebatee brings new blessings after every hardship.",
+              "Dua for problems opens the way for better days and Allah’s special Rahmah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Distress",
+            "description": "This dua for distress helps you remember Allah’s mercy and Barakah when facing hard times, giving hope and patience to the heart, and guiding you to trust Allah’s plan in every calamity.",
+            "points": [
+              "Right after hearing bad news, recite the dua for distress to seek Allah’s help.",
+              "When a calamity strikes, turn to Allah with this dua for difficulties and patience.",
+              "After losing something dear, use the dua for distress for comfort and betterment.",
+              "In moments of deep sadness, repeat this dua for problems to find peace and Barakah.",
+              "Before making any big decision in trouble, start with this dua for stress and relief."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Distress and Calamity",
+            "description": "When facing a hard time or loss, this dua for distress helps you remember Allah’s plan and brings hope. Reciting this masnoon dua gives your heart peace and makes you strong in times of calamity.",
+            "steps": [
+              "After hearing bad news, softly say innaa lillaahi wa innaa ilayhi raaji’oon and trust Allah’s wisdom.",
+              "When you feel pain or sadness, recite the dua for distress and ask Allah to give you something better.",
+              "During your namaz, after sujood, quietly make this dua for difficulties and hope for Barakah.",
+              "If you lose something or someone, repeat this dua for calamity and let your Iman stay strong.",
+              "While sitting with family, remind each other of this muslim prayer to find comfort in Allah’s mercy."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 48,
+          "title": "Dua after Someone's Death (Muslim Hadith)",
+          "category_tags": [],
+          "introduction": "Umm Salama (RA) reported: The Messenger of Allah (ﷺ) came to Abu Salama (as he died). His eyes were fixedly open. He closed them, and then said: When the soul is taken away the sight follows it. Some of the people of his family wept and wailed. So he said: Do not supplicate for yourselves anything but good, for angels say\" Amen\" to what you say.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 920",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 49,
+          "title": "Dua before starting Salah",
+          "category_tags": [],
+          "introduction": "While praying with the Messenger of Allah (ﷺ), one of the people said -",
+          "arabic": "اَللَّهُ أَكْبَرُ كَبِيْرًا وَالْحَمْدُ لِلَّهِ كَثِيْرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيْلًا",
+          "audio": "/audio/dua/49.mp3",
+          "transliteration": "Allahu 'Akbar Kabiran, walhamdu lillaahi kathiran, wa Subhaanallahi bukratan wa'asila",
+          "translation": "Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end.\n\nThe Messenger of Allah (ﷺ) said, \"Who uttered such and such a word?\" A person (who have recited these words) among the people said: It is I, O Messenger of Allah! He (ﷺ) said: it’s utterance surprised me, for the doors of heaven were opened for It. Ibn 'Umar (RA) said: I have not abandoned them (these words) since I heard the Messenger of Allah (ﷺ) saying this.",
+          "reference": "Muslim: 601",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، أَخْبَرَنِي الْحَجَّاجُ بْنُ أَبِي عُثْمَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ عَوْنِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عُمَرَ، قَالَ بَيْنَمَا نَحْنُ نُصَلِّي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ قَالَ رَجُلٌ مِنَ الْقَوْمِ اللَّهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنِ الْقَائِلُ كَلِمَةَ كَذَا وَكَذَا ‏\"‏ ‏.‏ قَالَ رَجُلٌ مِنَ الْقَوْمِ أَنَا يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ عَجِبْتُ لَهَا فُتِحَتْ لَهَا أَبْوَابُ السَّمَاءِ ‏\"‏ ‏.‏ قَالَ ابْنُ عُمَرَ فَمَا تَرَكْتُهُنَّ مُنْذُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ذَلِكَ ‏.",
+            "translation": "Ibn 'Umar reported: While we said prayer with the Messenger of Allah (ﷺ), one among the people said: Allah is truly Great, praise be to Allah in abundance. Glory be to Allah in the morning and the evening. The Messenger of Allah (may peace be upon, him) said: Who uttered such and such a word? A person among the people said: It is I, Messenger of Allah (who have recited these words). He (the Holy Prophet) said: It (its utterance) surprised me, for the doors of heaven were opened for It. Ibn 'Umar said: I have not abandoned them (these words) since I heard the Messenger of Allah (ﷺ) saying this. [Muslim: 601]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Salat",
+            "description": "This dua before salat fills the heart with praise for Allah, helping Muslims start their Salah with Barakah and a strong focus on Iman and Amal.",
+            "points": [
+              "Allahu akbar kabira walhamdulillah kathira brings peace before every Salah.",
+              "Before namaz dua helps a Muslim remember Allah’s greatness and mercy.",
+              "Dua before salah makes the heart ready for Fard and brings more Khushu.",
+              "All praise be to Allah in this dua brings Barakah in every namaz and Amal.",
+              "Dua praising Allah at the start of prayer helps keep Iman strong all day."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Salat",
+            "description": "This dua before salat fills your heart with praise and Barakah, helping you start your salah with Iman and remembering Allah’s greatness from the first moment of your namaz.",
+            "points": [
+              "Just before saying takbir, recite the dua before salah to praise Allah and begin with khushu.",
+              "When entering the prayer area, use the dua before salat for a clean heart and focus.",
+              "Before starting any fard salah, say this dua for salah to bring Barakah in your namaz.",
+              "At the start of tahajjud, begin with allahu akbar kabira walhamdulillah kathira for extra reward.",
+              "Before sunnah or nafl prayers, use the before namaz dua to remember Allah’s greatness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Salat",
+            "description": "Before starting your salah, saying this dua before salat helps you focus your heart and praise Allah. It brings Barakah to your namaz and fills your mind with peace and thankfulness.",
+            "steps": [
+              "Stand ready for namaz, then quietly say allahu akbar kabira walhamdulillah kathira with full Iman.",
+              "When you feel distracted, use this dua before salah to bring your heart back to zikr allah.",
+              "After making your niyyah, softly recite the dua before namaz and think of Allah’s greatness.",
+              "If you want more khushu in prayer, repeat this dua for salah before every fard salah.",
+              "While waiting for jamaat, whisper this dua praising allah and let your Amal start with Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 50,
+          "title": "Dua at the Start of Salah",
+          "category_tags": [],
+          "introduction": "Anas (RA) reported: A man came panting and entered the row of worshippers and said:",
+          "arabic": "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيهِ",
+          "audio": "/audio/dua/50.mp3",
+          "transliteration": "Alhamdulillaahi hamdan kathiran tayyiban mubaarakan fih",
+          "translation": "Praise is to Allah, much, good and blessed praise.\n\nWhen the Messenger of Allah (ﷺ) finished the prayer he said: Who amongst you uttered these words? The people remained silent. He (the Prophet ﷺ again said) : Who amongst you uttered these words? He said nothing wrong. Then a man said: I came and had a difficulty in breathing, so I uttered them. He replied: I saw twelve angels facing one another as to who will take them up (to Allah).",
+          "reference": "Muslim: 600",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا قَتَادَةُ، وَثَابِتٌ، وَحُمَيْدٌ، عَنْ أَنَسٍ، أَنَّ رَجُلاً، جَاءَ فَدَخَلَ الصَّفَّ وَقَدْ حَفَزَهُ النَّفَسُ فَقَالَ الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ ‏.‏ فَلَمَّا قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَتَهُ قَالَ ‏\"‏ أَيُّكُمُ الْمُتَكَلِّمُ بِالْكَلِمَاتِ ‏\"‏ ‏.‏ فَأَرَمَّ الْقَوْمُ فَقَالَ ‏\"‏ أَيُّكُمُ الْمُتَكَلِّمُ بِهَا فَإِنَّهُ لَمْ يَقُلْ بَأْسًا ‏\"‏ ‏.‏ فَقَالَ رَجُلٌ جِئْتُ وَقَدْ حَفَزَنِي النَّفَسُ فَقُلْتُهَا ‏.‏ فَقَالَ ‏\"‏ لَقَدْ رَأَيْتُ اثْنَىْ عَشَرَ مَلَكًا يَبْتَدِرُونَهَا أَيُّهُمْ يَرْفَعُهَا ‏\"‏ ‏.‏",
+            "translation": "Anas reported: A man came panting and entered the row of worshippers and said: Praise be to Allah, much praised and blessed. When the Messenger of Allah (ﷺ) finished the prayer he said: Who amongst you uttered these words? The people remained silent. He (the Prophet again said) -: Who amongst you uttered these words? He said nothing wrong. Then a man said: I came and had a difficulty in breathing, so I uttered them. He replied: I saw twelve angels facing one another as to who will take them up (to Allah). [Muslim: 600]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua at the Start of Salah",
+            "description": "This before namaz dua fills the heart with praise for Allah and brings Barakah, making every Salah begin with thankfulness and a clean mind ready for worship.",
+            "points": [
+              "Allah gives more Barakah in Salah when muslims start with dua at the start of salah.",
+              "This dua al istiftah helps muslims focus better in every Fard and Sunnah Salah.",
+              "Saying sana in namaz brings more reward and makes the Amal of Salah strong.",
+              "Subhanakallahumma wa bihamdika fills the heart with love and praise be to Allah.",
+              "Using this masnoon dua before Salah brings peace and helps muslims remember Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Before Namaz Dua",
+            "description": "This before namaz dua fills your salah with Barakah and praise, helping you start your prayer with a clean heart and strong Iman, asking Allah for blessing and goodness in every Amal you do.",
+            "points": [
+              "Begin your salah by reciting this dua at the start of salah to praise be to Allah.",
+              "After saying takbir, use the dua al istiftah before reading surah Fatiha in namaz.",
+              "When you want more khushu in your prayer, start with sana in namaz for Barakah.",
+              "If you feel your mind is busy, recite the sana dua to focus your heart on zikr Allah.",
+              "Before moving to ruku, make this dua for blessing to fill your salah with goodness."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Before Namaz Dua",
+            "description": "Starting your Salah with this dua brings Barakah and helps your heart focus on Allah. It is a masnoon dua that sets your mind for namaz and fills your prayer with praise be to Allah and blessing.",
+            "steps": [
+              "Stand for Salah and quietly say the dua at the start of salah with full Iman.",
+              "After saying Allahu Akbar, recite this dua al istiftah before reading Surah Fatiha.",
+              "Let your tongue say sana in namaz with meaning, feeling all praise be to Allah.",
+              "When you pray in jamaat, softly read this masnoon dua to join the zikr allah.",
+              "If you forget, say this dua blessing in your next rakah to get more Barakah in Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 51,
+          "title": "Hadith on Surah Fatiha in Prayer",
+          "category_tags": [],
+          "introduction": "Abu Huraira (RA) reported: The Apostle of Allah (ﷺ) said: If anyone observes prayer in which he does not recite Umm al-Qur'an, It is deficient [he said this three times] and not complete. It was said to Abu Huraira (RA): At times we are behind the Imam. He said: Recite it inwardly, for he had heard the Messenger of Allah (ﷺ) declare that Allah the Exalted had said: I have divided the prayer into two halves between Me and My servant, and My servant will receive what he asks. When the servant says: Praise be to Allah, the Lord of the universe, Allah the Most High says: My servant has praised Me. And when he (the servant) says: The Most Compassionate, the Merciful, Allah the Most High says: My servant has lauded Me. And when he (the servant) says: Master of the Day of judgment, He remarks: My servant has glorified Me. and sometimes He would say: My servant entrusted (his affairs) to Me. And when he (the worshipper) says: Thee do we worship and of Thee do we ask help, He (Allah) says: This is between Me and My servant, and My servant will receive what he asks for. Then, when he (the worshipper) says: Guide us to the straight path, the path of those to whom Thou hast been Gracious not of those who have incurred Thy displeasure, nor of those who have gone astray, He (Allah) says: This is for My servant, and My servant will receive what he asks for.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 395",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 52,
+          "title": "Dua after Ruku (Rabana Lakal Hamdu)",
+          "category_tags": [],
+          "introduction": "One day we were praying behind the Prophet (ﷺ). When he raised his head from bowing, he said, \"Sami'Allah Huliman 'Hamidah\" A man behind him said -",
+          "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيهِ",
+          "audio": "/audio/dua/52.mp3",
+          "transliteration": "Rabbanaa wa lakal-hamd, hamdan katheeran tayyiban mubaarakan feeh",
+          "translation": "Our Lord, praise is Yours, abundant, good and blessed praise.\n\nWhen the Prophet (ﷺ) completed the prayer, he asked, \"Who has said these words?\" The man replied, \"I.\" The Prophet (ﷺ) said, \"I saw over thirty angels competing to write it first.\"",
+          "reference": "Bukhari: 799",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ الْمُجْمِرِ، عَنْ عَلِيِّ بْنِ يَحْيَى بْنِ خَلاَّدٍ الزُّرَقِيِّ، عَنْ أَبِيهِ، عَنْ رِفَاعَةَ بْنِ رَافِعٍ الزُّرَقِيِّ، قَالَ كُنَّا يَوْمًا نُصَلِّي وَرَاءَ النَّبِيِّ صلى الله عليه وسلم فَلَمَّا رَفَعَ رَأْسَهُ مِنَ الرَّكْعَةِ قَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ‏\"‏‏.‏ قَالَ رَجُلٌ وَرَاءَهُ رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ، فَلَمَّا انْصَرَفَ قَالَ ‏\"‏ مَنِ الْمُتَكَلِّمُ ‏\"‏‏.‏ قَالَ أَنَا‏.‏ قَالَ ‏\"‏ رَأَيْتُ بِضْعَةً وَثَلاَثِينَ مَلَكًا يَبْتَدِرُونَهَا، أَيُّهُمْ يَكْتُبُهَا أَوَّلُ ‏\"‏‏.‏",
+            "translation": "Narrated Rifa`a bin Rafi` Az-Zuraqi: One day we were praying behind the Prophet. When he raised his head from bowing, he said, \"Sami`a l-lahu liman hamidah.\" A man behind him said, \"Rabbana wa laka l-hamdu, hamdan kathiran taiyiban mubarakan fihi\" (O our Lord! All the praises are for You, many good and blessed praises). When the Prophet completed the prayer, he asked, \"Who has said these words?\" The man replied, \"I.\" The Prophet said, \"I saw over thirty angels competing to write it first.\" Prophet rose (from bowing) and stood straight till all the vertebrae of his spinal column came to a natural position. [Bukhari: 799]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua after Ruku (Rabbana Lakal Hamd)",
+            "description": "This dua after ruku fills your Salah with praise and thanks, bringing more Barakah and closeness to Allah, and making your namaz stronger with every word you say from the heart.",
+            "points": [
+              "Allah gives more Barakah in Salah when muslims say rabbana lakal hamd after ruku.",
+              "This dua after ruku in namaz helps muslims show true shukr to Allah in every rakah.",
+              "Saying rabbana wa lakal hamdu brings more reward and makes Amal better in namaz.",
+              "Ruku ke baad ki dua helps muslims follow the Sunnah and keep their Salah complete.",
+              "After ruku dua makes the heart soft and keeps Iman strong in every muslim prayer."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Ruku",
+            "description": "This dua after ruku brings Barakah and praise to your salah, helping you thank Allah with a full heart after bowing, and making your Amal strong with every word of Rabbana Lakal Hamd.",
+            "points": [
+              "Right after rising from ruku, recite the dua after ruku in namaz for Barakah.",
+              "When you stand straight after bowing, use rabbana lakal hamd to praise Allah.",
+              "In every fard salah, say rabbana wa lakal hamdu for blessing and acceptance.",
+              "If you want your prayer to be full of shukr, make ruku ke baad ki dua with Iman.",
+              "During long qiyam, add after ruku dua to your zikr Allah for more reward."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Ruku",
+            "description": "This dua after ruku is a masnoon dua that fills your Salah with praise and Barakah. Saying rabbana lakal hamd after ruku brings your heart closer to Allah and makes your namaz more strong and full of Amal.",
+            "steps": [
+              "When you rise from ruku, say rabbana lakal hamd with a soft voice and full heart.",
+              "After imam says sami allahu liman hamidah, recite this dua after ruku in namaz.",
+              "Let your lips move with rabbana wa lakal hamdu meaning, feeling the blessing inside.",
+              "In every rakah, remember to say ruku ke baad ki dua to keep your zikr allah strong.",
+              "If you miss, say this after ruku dua in the next rakah to get the Barakah of masnoon dua."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 53,
+          "title": "When to Say Ameen in Prayer (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, \"Say Amin\" when the Imam says it and if the Amin of any one of you coincides with that of the angels then all his past sins will be forgiven.\" [1] Narrated by Abu Huraira (RA): Allah's Messenger (ﷺ) said, \"Say Amen\" when the Imam says 'Ghairil maghdubi 'alaihim walad daalleen' (not the path of those who earn Your Anger (such as Jews) nor of those who go astray (such as Christians); all the past sins of the person whose saying (Amin) coincides with that of the angels, will be forgiven\". [2]",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "[1] Bukhari: 780 [2] Bukhari: 782",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 54,
+          "title": "Dua after Ruku (Rabana Lakal Hamdu)",
+          "category_tags": [],
+          "introduction": "Allah's Messenger (ﷺ) said, \"When the Imam says, 'Sami'Allahu liman hamidah' you should say -",
+          "arabic": "اَللَّهُمَّ رَبَّنَا وَلَكَ الْحَمْدُ",
+          "audio": "/audio/dua/54.mp3",
+          "transliteration": "Allaahumma Rabbanaa wa lakal-hamd",
+          "translation": "O Allah, our Lord and to You be the praise.\n\nIf the saying of any one of you coincides with that of the angels, all his past sins will be forgiven.",
+          "reference": "Bukhari: 796",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا قَالَ الإِمَامُ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ‏.‏ فَقُولُوا اللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ‏.‏ فَإِنَّهُ مَنْ وَافَقَ قَوْلُهُ قَوْلَ الْمَلاَئِكَةِ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"When the Imam says, \"Sami`a l-lahu liman hamidah,\" you should say, \"Allahumma Rabbana laka l-hamd.\" And if the saying of any one of you coincides with that of the angels, all his past sins will be forgiven.\" [Bukhari: 796]"
+          },
+          "benefits": {
+            "title": "Benefits of After Ruku Dua (Rabbana Lakal Hamd)",
+            "description": "This after ruku dua brings more praise to Allah in Salah, making every rakah full of thanks and Barakah, and helps muslims keep their namaz strong and close to the Sunnah.",
+            "points": [
+              "Allah loves when muslims say rabbana lakal hamd after ruku in every Salah.",
+              "After ruku dua helps muslims follow the Sunnah and keep namaz perfect.",
+              "Saying rabbana walakal hamd brings more reward and makes Amal better in Salah.",
+              "Ruku ke baad ki dua fills the heart with shukr and keeps Iman strong in prayer.",
+              "This dua in namaz helps muslims remember Allah’s mercy and stay humble in Salah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite After Ruku Dua",
+            "description": "This after ruku dua fills your salah with praise and Barakah, letting you thank Allah right after bowing, and making your Amal shine with every Rabbana Lakal Hamd you say in prayer.",
+            "points": [
+              "When you rise from ruku, recite after ruku dua to praise Allah with a clean heart.",
+              "After saying sami allahu liman hamidah, use rabbana walakal hamd in your salah.",
+              "In every rakaat, make ruku ke baad ki dua for more blessing and acceptance.",
+              "If you want your namaz to be full of shukr, add rabbana wa lakal hamd meaning in your zikr.",
+              "During long prayers, say after ruku dua to keep your Iman strong and focused."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform After Ruku Dua",
+            "description": "This after ruku dua is a simple masnoon dua that brings Barakah and praise to your Salah. Saying rabbana lakal hamd after ruku keeps your Amal strong and fills your heart with the love of Allah.",
+            "steps": [
+              "Stand up from ruku and say allaahumma rabbanaa wa lakal-hamd with full Iman.",
+              "When imam says sami allahu liman hamidah, softly recite this after ruku dua.",
+              "Let your heart feel the rabbana walakal hamd meaning as you move your lips gently.",
+              "In every rakah, remember to say ruku ke baad ki dua to keep your zikr allah alive.",
+              "If you forget, say this dua in salah in the next rakah to get the Barakah of masnoon dua."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 55,
+          "title": "Dua before Salam",
+          "category_tags": [],
+          "introduction": "Allah's Apostle (ﷺ) entered the mosque. Then a person is reciting Tashahhud towards the end of the prayer. He said -",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ أَنْ تَغْفِرَ لِي ذُنُوبِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+          "audio": "/audio/dua/55.mp3",
+          "transliteration": "Allaahumma inni as'aluka ya Allahu bi annakal Wahidul-Ahad us-Samadulla-dhi lam yalid wa lam yowlad, wa lam yakun lahu kufuwan ahad, an taghfirali dhunubi, innaka antal-Ghafurur-Rahim",
+          "translation": "O Allah, I ask of You, O Allah, as You are the One, the Only, the Self-Sufficient Master, Who begets not nor was He begotten, and there is None equal or comparable to Him, forgive me my sins, for You are the Oft-Forgiving, Most Merciful.\n\nThe Messenger of Allah (ﷺ) said: \"He has been forgiven,\" three times.",
+          "reference": "Sahih (Albani). Nasai: 1301",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ أَبُو بُرَيْدٍ الْبَصْرِيُّ، عَنْ عَبْدِ الصَّمَدِ بْنِ عَبْدِ الْوَارِثِ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنِ ابْنِ بُرَيْدَةَ، قَالَ حَدَّثَنِي حَنْظَلَةُ بْنُ عَلِيٍّ، أَنَّ مِحْجَنَ بْنَ الأَدْرَعِ، حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ الْمَسْجِدَ إِذَا رَجُلٌ قَدْ قَضَى صَلاَتَهُ وَهُوَ يَتَشَهَّدُ فَقَالَ اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ أَنْ تَغْفِرَ لِي ذُنُوبِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ قَدْ غُفِرَ لَهُ ‏\" ‏ ‏.‏ ثَلاَثًا ‏.‏",
+            "translation": "Hanzalah bin 'Ali narrated that: Mihjan bin Al-Adra' narrated to him that the Messenger of Allah (ﷺ) entered the masjid and there was a man who had finished his prayer and he was reciting the tashahhud. He said: \"Allahumma inni as'aluka ya Allah! Bi-annakal-Wahidul-Ahad us-Samad, alladhi lam yalid wa lam yowled, wa lam yakun lahu kufuwan ahad, an taghfirali dhunubi, innaka antal-Ghafurur-Rahim (O Allah, I ask of You, O Allah, as You are the One, the Only, the Self-Sufficient Master, Who begets not nor was He begotten, and there is None equal or comparable to Him, forgive me my sins, for You are the Oft-Forgiving, Most Merciful.)\" The Messenger of Allah (ﷺ) said: \"He has been forgiven,\" three times. [Sahih (Albani). Nasai: 1301]"
+          },
+          "benefits": {
+            "title": "Benefits of Salam Dua",
+            "description": "This Salam Dua before ending Salah brings hope for forgiveness and mercy, letting every muslim ask Allah by His beautiful names and find peace in their heart before saying Salam.",
+            "points": [
+              "Allah forgives sins when muslims make this salam dua with true heart in namaz.",
+              "Salam dua helps muslims remember Allah’s names and praise Him before ending Salah.",
+              "Attahiyat ke baad ki dua brings more Barakah and makes Amal strong in every prayer.",
+              "Allahumma inni as aluka keeps the heart soft and brings hope for Allah’s mercy.",
+              "This dua for forgiveness of sins helps muslims stay humble and close to Allah always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Salam Dua",
+            "description": "This salam dua is a strong way to ask Allah for forgiveness and Barakah before ending your salah, using His beautiful names and praising Him as the One and Only, so your Amal gets more blessing and your heart feels peace.",
+            "points": [
+              "After attahiyat and durood, recite salam dua before turning your head for salam.",
+              "When you finish tashahhud, use allahumma inni as aluka to seek forgiveness in islam.",
+              "In the last sitting of salah, make dua praising Allah with lam yalid walam yulad for Barakah.",
+              "If you want your sins forgiven, add this dua for forgiveness of sins before ending namaz.",
+              "Before saying salam, ask Allah by His names in salam dua for mercy and acceptance."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Salam Dua",
+            "description": "This Salam Dua is a strong masnoon dua for forgiveness in Islam, said before ending Salah. It brings Barakah and helps you ask Allah by His names for mercy and forgiveness of sins in your namaz.",
+            "steps": [
+              "After attahiyat and durood, quietly read allahumma inni as aluka with full hope.",
+              "When you finish tashahhud, say this salam dua before turning your head for salam.",
+              "Let your heart feel the names of Allah and the meaning of lam yalid walam yulad.",
+              "If you want forgiveness, ask with this dua for forgiveness of sins before ending Salah.",
+              "In every prayer, use this dua praising Allah to keep your Amal and Iman strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 56,
+          "title": "Dua before Salam",
+          "category_tags": [],
+          "introduction": "A man was praying. He did ruku’, sajdah and supplicate after tashahhud -",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ لَا إِلَهَ إِلَّا أَنْتَ الْمَنَّانُ بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ يَا حَيُّ يَا قَيُّوْمُ",
+          "audio": "/audio/dua/56.mp3",
+          "transliteration": "Allaahumma inni as'aluka bi-anna lakal-hamdu, laa ilaaha illaa antal-mannanu badi'us-samawaati wal-ardi, yaa dhal-jalaali wal-ikraam! Yaa hayyu yaa qayyum",
+          "translation": "O Allah, I ask Thee by virtue of the fact that praise is due to Thee, there is no deity but Thou, Who showest favour and beneficence, the Originator of the Heavens and the earth, O Lord of Majesty and Splendour, O Living One, O Eternal One.\n\nThe Prophet (ﷺ) said: 'Do you know what he has supplicated with?' They said: \"Allah (SWT) and His Messenger (ﷺ) know best.\"He said: 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives.'",
+          "reference": "Sahih (Albani). Abu Dawud: 1495",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عُبَيْدِ اللَّهِ الْحَلَبِيُّ، حَدَّثَنَا خَلَفُ بْنُ خَلِيفَةَ، عَنْ حَفْصٍ، - يَعْنِي ابْنَ أَخِي أَنَسٍ - عَنْ أَنَسٍ، أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم جَالِسًا وَرَجُلٌ يُصَلِّي ثُمَّ دَعَا اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لاَ إِلَهَ إِلاَّ أَنْتَ الْمَنَّانُ بَدِيعُ السَّمَوَاتِ وَالأَرْضِ يَا ذَا الْجَلاَلِ وَالإِكْرَامِ يَا حَىُّ يَا قَيُّومُ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لَقَدْ دَعَا اللَّهَ بِاسْمِهِ الْعَظِيمِ الَّذِي إِذَا دُعِيَ بِهِ أَجَابَ وَإِذَا سُئِلَ بِهِ أَعْطَى ‏\" ‏ ‏.‏",
+            "translation": "Narrated Anas ibn Malik: I was sitting with the Messenger of Allah (ﷺ) and a man was offering prayer. He then made supplication: O Allah, I ask Thee by virtue of the fact that praise is due to Thee, there is no deity but Thou, Who showest favour and beneficence, the Originator of the Heavens and the earth, O Lord of Majesty and Splendour, O Living One, O Eternal One. The Prophet (ﷺ) then said: He has supplicated Allah using His Greatest Name, when supplicated by this name, He answers, and when asked by this name He gives. [Sahih (Albani). Abu Dawud: 1495]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua after Attahiyat",
+            "description": "This dua after attahiyat fills the heart with praise for Allah, making Salah more strong and bringing hope for His help, mercy, and Barakah before saying Salam in every prayer.",
+            "points": [
+              "Allah gives more Barakah in Salah when muslims say this dua after attahiyat.",
+              "Dua after attahiyat helps muslims remember Allah’s power and His big gifts.",
+              "Yaa hayyu yaa qayyum in this dua brings hope for help in every hard time.",
+              "This dua from hadith makes Amal better and keeps the heart close to Allah.",
+              "Saying ya dhal jalali wal ikram brings more respect and love for Allah in namaz."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Attahiyat",
+            "description": "This dua after attahiyat fills your salah with praise and Barakah, calling on Allah by His beautiful names like Yaa Hayyu Yaa Qayyum and Yaa Dhal Jalali Wal Ikram, so your Amal gets more blessing and your heart feels close to Him.",
+            "points": [
+              "After attahiyat and durood, recite dua after attahiyat before saying salam in salah.",
+              "When you finish tashahhud, use this dua from hadith to praise Allah for His favors.",
+              "In the last sitting of prayer, make dua before salah ends with yaa hayyu yaa qayyum.",
+              "If you want more Barakah, add ya dhal jalali wal ikram in your dua before namaz ends.",
+              "Before turning your head for salam, ask Allah with this dua for mercy and acceptance."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Attahiyat",
+            "description": "This dua after attahiyat is a strong masnoon dua from hadith, said before ending Salah. It brings Barakah and helps you praise Allah with His beautiful names, making your namaz dua more full of Iman and Amal.",
+            "steps": [
+              "After attahiyat and durood, softly read yaa hayyu yaa qayyum with full heart.",
+              "When you finish tashahhud, say this dua before salam to praise Allah’s greatness.",
+              "Let your tongue say ya dhal jalali wal ikram, feeling the power of Allah’s names.",
+              "If you want more Barakah, use this dua before salah ends to ask for Allah’s help.",
+              "In every prayer, remember this dua from hadith to keep your zikr allah alive and strong."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 57,
+          "title": "Dua after Tashahhud (Dua Before Salam)",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) heard a man saying -",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ اَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+          "audio": "/audio/dua/57.mp3",
+          "transliteration": "Allaahumma 'innee 'as'aluka bi 'anni 'ash-hadu 'annaka 'AntAllahu laa 'ilaaha 'illaa 'Antal-'Ahadus-Samadul-ladhee lam yalid wa lam yoolad wa lam yakun lahu kufuwan 'Ahad",
+          "translation": "O Allah, I ask You, by the fact that I bear witness that You are Allah. There is none worthy of worship but You, the Only God, Independent of creation, who was not begotten and begets not, and none is equal to Him.\n\nThe Prophet (ﷺ) said: 'By the One in Whose Hand is my soul, he called upon Allah by His greatest Name, which, if He is called by it, He responds, and if He is asked by it, He gives.'",
+          "reference": "Sahih (Albani). Abu Dawud: 1493",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ مَالِكِ بْنِ مِغْوَلٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَمِعَ رَجُلاً يَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ أَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ‏.‏ فَقَالَ ‏ \"‏ لَقَدْ سَأَلْتَ اللَّهَ بِالاِسْمِ الَّذِي إِذَا سُئِلَ بِهِ أَعْطَى وَإِذَا دُعِيَ بِهِ أَجَابَ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Buraydah ibn al-Hasib: The Messenger of Allah (ﷺ) heard a man saying: O Allah, I ask Thee, I bear witness that there is no god but Thou, the One, He to Whom men repair, Who has not begotten, and has not been begotten, and to Whom no one is equal, and he said: You have supplicated Allah using His Greatest Name, when asked with this name He gives, and when supplicated by this name he answers. [Sahih (Albani). Abu Dawud: 1493]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua after Tashahhud",
+            "description": "This dua after tashahhud makes Salah more strong by praising Allah’s oneness, helping Muslims ask for everything with a clean heart before saying Salam in every prayer.",
+            "points": [
+              "Allahumma inni as'aluka in this dua after tashahhud brings more Barakah in Salah.",
+              "La ilaha illa anta in tashahhud dua helps Muslims remember Allah’s big power.",
+              "Qul huwallahu ahad and allahus samad in this dua keep Iman strong in every prayer.",
+              "This dua for forgiveness helps Muslims ask Allah for mercy before ending namaz.",
+              "Saying lam yalid walam yulad in dua after attahiyat keeps the heart close to Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Tashahhud",
+            "description": "This dua after tashahhud is a strong way to ask Allah for Barakah, forgiveness, and help before ending your salah, using the words of tawheed and praising Allahus Samad in your muslim prayer.",
+            "points": [
+              "After finishing attahiyat lillahi wa salawatu and durood sharif, read the dua after tashahhud before saying salam.",
+              "When you want Allah’s mercy, use allahumma inni as'aluka after tashahhud in your salah.",
+              "Before ending your Islamic prayer, ask for forgiveness with la ilaha illa anta in tashahhud dua.",
+              "If you need help or want to thank Allah, recite this dua in namaz after tashahhud and before salam.",
+              "While learning how to pray salah, teach kids to use this dua after attahiyat for Barakah and Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Tashahhud",
+            "description": "This dua after tashahhud is a special muslim prayer said before ending salah, asking Allah by His Oneness and greatness. It brings Barakah and forgiveness, and helps keep your Iman strong in every salah.",
+            "steps": [
+              "After reading attahiyat lillahi wa salawatu and durood sharif, quietly recite allahumma inni as'aluka with full heart.",
+              "When you finish tashahhud dua, remember to say la ilaha illa anta and allahus samad with deep belief.",
+              "Before giving salam, ask Allah for forgiveness using this dua after tashahhud in your own words.",
+              "In every salah, make sure to include this dua in namaz to get Barakah and protection from Allah.",
+              "While learning how to pray salah, teach kids this dua in prayer so they know the right way to ask Allah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 58,
+          "title": "Dua after Wudu (Ablution)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: If any one of you performs ablution and performs it properly, then he says -",
+          "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
+          "audio": "/audio/dua/58.mp3",
+          "transliteration": "Ash-hadu an laa ilaaha ill-Allahu wahdahu laa sharika lahu, wa ash hadu anna Muhammadan ‘abduhu wa Rasooluhu",
+          "translation": "I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad (ﷺ) is His slave and His Messenger.\n\nThe eight gates of Paradise will be opened for him; He will enter (Paradise) through whichever door he wishes.",
+          "reference": "Muslim: 234",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ رَبِيعَةَ، - يَعْنِي ابْنَ يَزِيدَ - عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، ح وَحَدَّثَنِي أَبُو عُثْمَانَ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ كَانَتْ عَلَيْنَا رِعَايَةُ الإِبِلِ فَجَاءَتْ نَوْبَتِي فَرَوَّحْتُهَا بِعَشِيٍّ فَأَدْرَكْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قَائِمًا يُحَدِّثُ النَّاسَ فَأَدْرَكْتُ مِنْ قَوْلِهِ ‏\"‏ مَا مِنْ مُسْلِمٍ يَتَوَضَّأُ فَيُحْسِنُ وُضُوءَهُ ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ مُقْبِلٌ عَلَيْهِمَا بِقَلْبِهِ وَوَجْهِهِ إِلاَّ وَجَبَتْ لَهُ الْجَنَّةُ ‏\"‏ ‏.‏ قَالَ فَقُلْتُ مَا أَجْوَدَ هَذِهِ ‏.‏ فَإِذَا قَائِلٌ بَيْنَ يَدَىَّ يَقُولُ الَّتِي قَبْلَهَا أَجْوَدُ ‏.‏ فَنَظَرْتُ فَإِذَا عُمَرُ قَالَ إِنِّي قَدْ رَأَيْتُكَ جِئْتَ آنِفًا قَالَ ‏\"‏ مَا مِنْكُمْ مِنْ أَحَدٍ يَتَوَضَّأُ فَيُبْلِغُ - أَوْ فَيُسْبِغُ - الْوُضُوءَ ثُمَّ يَقُولُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُولُهُ إِلاَّ فُتِحَتْ لَهُ أَبْوَابُ الْجَنَّةِ الثَّمَانِيَةُ يَدْخُلُ مِنْ أَيِّهَا شَاءَ ‏\"‏ ‏.‏ '",
+            "translation": "Uqba b. 'Amir reported: We were entrusted with the task of tending the camels. On my turn when I came back in the evening after grazing them in the pastures, I found Allah's Messenger (ﷺ) stand and address the people. I heard these words of his: If any Muslim performs ablution well, then stands and prays two rak'ahs setting about them with his heart as well as his face, Paradise would be guaranteed to him. I said: What a fine thing is this! And a narrator who was before me said: The first was better than even this. When I cast a glance, I saw that it was 'Umar who said: I see that you have just come and observed: If anyone amongst you performs the ablution, and then completes the ablution well and then says: I testify that there is no god but Allah and that Muhammad is the servant of Allah and His Messenger, the eight gates of Paradise would be opened for him and he may enter by whichever of them he wishes. Sahih Muslim 234a [Muslim: 234]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua after Ablution",
+            "description": "This dua after ablution brings a Muslim closer to Allah, making every wudu more special and full of Barakah, while keeping the heart clean and the Iman strong for Salah and daily Amal.",
+            "points": [
+              "Allah opens all eight doors of Jannah for the one who says this dua after wudu.",
+              "The shahada in this wudu dua makes the steps of wudu more accepted by Allah.",
+              "Saying the kalima shahadat after ablution brings more Barakah in every Salah.",
+              "This Islamic declaration of faith after wudu helps keep Iman and Amal strong.",
+              "Following the sunnah of wudu with this dua brings extra reward for a Muslim."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Ablution",
+            "description": "This dua after ablution is a simple way to renew your Iman, remember the shahada, and ask for Barakah after every wudu, making your amal and salah more strong with the words of la ilaha ilalah.",
+            "points": [
+              "Once you finish the last step of wudu, recite the dua after ablution before leaving the place.",
+              "After washing your feet in wudu, say the shahada and wudu dua for more Barakah.",
+              "When teaching kids how to perform wudu, remind them to use this ablution dua at the end.",
+              "If you want your salah to be accepted, use the dua after wudu before starting your muslim prayer.",
+              "While learning steps of ablution, always end with Ashhadu Alla Ilaha Illallah for strong Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua after Ablution",
+            "description": "This dua after ablution is a simple Islamic declaration of faith said right after wudu, bringing Barakah and making your wudu more strong. It is a sunnah of wudu and helps keep your Iman fresh every day.",
+            "steps": [
+              "Once you finish the last step of wudu, softly say the shahada and remember Allah’s Oneness.",
+              "After washing your feet, recite the dua after wudu with full belief in your heart.",
+              "When you stand up from the place of ablution, say Ashhadu Alla Ilaha Illallah and Muhammad Rasulullah.",
+              "Before leaving the wudu area, thank Allah for making you able to do this masnoon dua.",
+              "Teach kids the kalima shahadat as part of steps of wudu so they learn the right way from young age."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 59,
+          "title": "Dua on the Day of Arafah",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: The best supplication is the supplication on the day of 'Arafah. The best dua that the Prophet (ﷺ) recited is -",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيءٍ قَدِيرٌ",
+          "audio": "/audio/dua/59.mp3",
+          "transliteration": "Laa ilaaha ill-Allahu, wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu, wa huwa ‛alaa kulli shay’in qadeer",
+          "translation": "None has the right to be worshiped except Allah, alone, without partner. To Him belongs sovereignty and all praise and He is over all things omnipotent.",
+          "reference": "Hasan (Albani). Tirmidhi: 3585",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَبُو عَمْرٍو، مُسْلِمُ بْنُ عَمْرٍو الْحَذَّاءُ الْمَدِينِيُّ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ نَافِعٍ، عَنْ حَمَّادِ بْنِ أَبِي حُمَيْدٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ خَيْرُ الدُّعَاءِ دُعَاءُ يَوْمِ عَرَفَةَ وَخَيْرُ مَا قُلْتُ أَنَا وَالنَّبِيُّونَ مِنْ قَبْلِي لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ وَحَمَّادُ بْنُ أَبِي حُمَيْدٍ هُوَ مُحَمَّدُ بْنُ أَبِي حُمَيْدٍ وَهُوَ أَبُو إِبْرَاهِيمَ الأَنْصَارِيُّ الْمَدَنِيُّ وَلَيْسَ هُوَ بِالْقَوِيِّ عِنْدَ أَهْلِ الْحَدِيثِ ‏.‏ `",
+            "translation": "Amr bin Shu`aib narrated from his father, from his grandfather, that the Prophet (ﷺ) said: “The best of supplication is the supplication of the Day of `Arafah. And the best of what I and the Prophets before me have said is: None has the right to be worshipped but Allah, Alone, without partner, to Him belongs all that exists, and to Him belongs the Praise, and He is powerful over all things. (Lā ilāha illallāh, waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa huwa `alā kulli shai’in qadīr).’” [Hasan (Albani). Tirmidhi: 3585]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua on the Day of Arafah",
+            "description": "This dua on the day of Arafah brings a Muslim closer to Allah’s mercy, making the heart full of hope and Barakah, while the tongue stays busy with the best dhikr and praise for Allah.",
+            "points": [
+              "Allah forgives many sins for the one who makes this dua on the day of arafah.",
+              "The day of arafah dua is called the best dhikr and brings huge reward in Amal.",
+              "Saying la ilaha illallahu wahdahu la sharika lahu gives peace and strong Iman.",
+              "This hajj dua helps Muslims get closer to Allah and brings blessings in life.",
+              "Arafah dua makes the heart soft and keeps the tongue busy with zikr allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua On The Day of Arafah",
+            "description": "This dua on the day of arafah is the best dhikr for Muslims, bringing Barakah and forgiveness, and is loved by Allah, especially on the day of arafah when hearts are soft and dua is answered.",
+            "points": [
+              "During the day of arafah, repeat the dua on the day of arafah for more rewards and mercy.",
+              "While standing in arafat, use la ilaha illallahu wahdahu la sharika lahu for powerful dhikr.",
+              "When fasting on arafah day, make this arafah dua after salah or while making daily dhikr.",
+              "After sunrise on arafah, keep saying this hajj dua for Barakah and blessings in your amal.",
+              "In the last hours before maghrib, recite the day of arafah dua for forgiveness and strong Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua on the Day of Arafah",
+            "description": "The dua on the day of Arafah is a best dhikr for every Muslim, bringing Barakah and forgiveness. It is a powerful dua for arafah day, and saying it with Iman brings you closer to Allah’s mercy.",
+            "steps": [
+              "Early on arafah day, start your morning with la ilaha illallahu wahdahu la sharika lahu.",
+              "While fasting on the day of arafah, keep repeating this arafah dua with full hope in Allah.",
+              "During your daily dhikr, add this day of arafah dua to your zikr allah for more blessings.",
+              "When making hajj or at home, say this hajj dua many times to get Allah’s help and Barakah.",
+              "Teach your family the arafah dua so everyone can join in this powerful muslim prayer together."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 60,
+          "title": "Dua when the rooster crows (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, \"When you hear the crowing of rooster, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 3303",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 61,
+          "title": "Dua for Devotion to Allah (Hadith)",
+          "category_tags": [],
+          "introduction": "This concept is included in the hadith of the inhabitants of the cave. Because each of them mentioned one of their good deeds which they did only for Allah and to get close to him. So, when they were supplicating by their good deed, Allah responded to them.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 2215",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 62,
+          "title": "Dua during Dhul Hijjah (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated by Ibn `Abbas (RA): The Prophet (ﷺ) said, \"No good deeds done on other days are superior to those done on these (first ten days of Dhul Hijja).\" Then some companions of the Prophet (ﷺ) said, \"Not even Jihad?\" He replied, \"Not even Jihad, except that of a man who does it by putting himself and his property in danger (for Allah's sake) and does not return with any of those things.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 969",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "05:32",
+      "Sunrise": "07:04",
+      "Dhuhr": "12:53",
+      "Asr": "16:09",
+      "Sunset": "18:41",
+      "Maghrib": "18:41",
+      "Isha": "20:07",
+      "Imsak": "05:22",
+      "Midnight": "00:52",
+      "Firstthird": "22:49",
+      "Lastthird": "02:56"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 151.62,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 2405.07,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "07:04",
+        "end": "07:19"
+      },
+      "noon": {
+        "start": "12:43",
+        "end": "12:53"
+      },
+      "sunset": {
+        "start": "18:26",
+        "end": "18:41"
+      }
+    },
+    "timezone": {
+      "name": "Europe/Istanbul",
+      "utc_offset": "+03:00",
+      "abbreviation": ""
+    }
+  },
+  "city_info": {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "slug": "istanbul",
+    "lat": 41.0082,
+    "lon": 28.9784
+  }
+}

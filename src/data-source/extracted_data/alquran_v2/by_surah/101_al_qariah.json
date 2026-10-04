@@ -1,0 +1,98 @@
+{
+  "id": 101,
+  "name": "القارعة",
+  "transliteration": "Al-Qari'ah",
+  "translation_en": "The Calamity",
+  "type": "meccan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "ٱلۡقَارِعَةُ",
+      "transliteration": "AlqariAAatu",
+      "translation_en": "The Striking Calamity",
+      "translation_bn": "করাঘাতকারী",
+      "translation_ur": "عظیم حادثہ"
+    },
+    {
+      "id": 2,
+      "arabic": "مَا ٱلۡقَارِعَةُ",
+      "transliteration": "Ma alqariAAatu",
+      "translation_en": "What is the Striking Calamity",
+      "translation_bn": "করাঘাতকারী কি",
+      "translation_ur": "کیا ہے وہ عظیم حادثہ؟"
+    },
+    {
+      "id": 3,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+      "transliteration": "Wama adraka ma alqariAAatu",
+      "translation_en": "And what can make you know what is the Striking Calamity",
+      "translation_bn": "করাঘাতকারী সম্পর্কে আপনি কি জানেন",
+      "translation_ur": "تم کیا جانو کہ وہ عظیم حادثہ کیا ہے؟"
+    },
+    {
+      "id": 4,
+      "arabic": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+      "transliteration": "Yawma yakoonu alnnasu kaalfarashi almabthoothi",
+      "translation_en": "It is the Day when people will be like moths, dispersed",
+      "translation_bn": "যেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত",
+      "translation_ur": "وہ دن جب لوگ بکھرے ہوئے پروانوں کی طرح"
+    },
+    {
+      "id": 5,
+      "arabic": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+      "transliteration": "Watakoonu aljibalu kaalAAihni almanfooshi",
+      "translation_en": "And the mountains will be like wool, fluffed up",
+      "translation_bn": "এবং পর্বতমালা হবে ধুনিত রঙ্গীন পশমের মত।",
+      "translation_ur": "اور پہاڑ رنگ برنگ کے دھنکے ہوئے اون کی طرح ہوں گے"
+    },
+    {
+      "id": 6,
+      "arabic": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
+      "transliteration": "Faamma man thaqulat mawazeenuhu",
+      "translation_en": "Then as for one whose scales are heavy [with good deeds]",
+      "translation_bn": "অতএব যার পাল্লা ভারী হবে",
+      "translation_ur": "پھر جس کے پلڑے بھاری ہوں گے"
+    },
+    {
+      "id": 7,
+      "arabic": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+      "transliteration": "Fahuwa fee AAeeshatin radiyatin",
+      "translation_en": "He will be in a pleasant life",
+      "translation_bn": "সে সুখীজীবন যাপন করবে।",
+      "translation_ur": "وہ دل پسند عیش میں ہوگا"
+    },
+    {
+      "id": 8,
+      "arabic": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ",
+      "transliteration": "Waamma man khaffat mawazeenuhu",
+      "translation_en": "But as for one whose scales are light",
+      "translation_bn": "আর যার পাল্লা হালকা হবে",
+      "translation_ur": "اور جس کے پلڑے ہلکے ہوں گے"
+    },
+    {
+      "id": 9,
+      "arabic": "فَأُمُّهُۥ هَاوِيَةٞ",
+      "transliteration": "Faommuhu hawiyatun",
+      "translation_en": "His refuge will be an abyss",
+      "translation_bn": "তার ঠিকানা হবে হাবিয়া।",
+      "translation_ur": "اس کی جائے قرار گہری کھائی ہوگی"
+    },
+    {
+      "id": 10,
+      "arabic": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ",
+      "transliteration": "Wama adraka ma hiyah",
+      "translation_en": "And what can make you know what that is",
+      "translation_bn": "আপনি জানেন তা কি",
+      "translation_ur": "اور تمہیں کیا خبر کہ وہ کیا چیز ہے؟"
+    },
+    {
+      "id": 11,
+      "arabic": "نَارٌ حَامِيَةُۢ",
+      "transliteration": "Narun hamiyatun",
+      "translation_en": "It is a Fire, intensely hot",
+      "translation_bn": "প্রজ্জ্বলিত অগ্নি",
+      "translation_ur": "بھڑکتی ہوئی آگ"
+    }
+  ]
+}

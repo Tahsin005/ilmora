@@ -1,0 +1,327 @@
+{
+  "book": "ibn-e-majah",
+  "chapterNumber": 19,
+  "total_hadiths": 10,
+  "hadiths": [
+    {
+      "id": 26846,
+      "hadithNumber": "2492",
+      "englishNarrator": null,
+      "hadithEnglish": "It was narrated that Jabir said: “The Messenger of Allah (ﷺ) said: 'Whoever has a date-palm tree or land, should not sell it until he has offered it to his partner.' ”",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کے پاس کھجور کے درخت ہوں یا زمین ہو تو وہ اسے اس وقت تک نہ بیچے، جب تک کہ اسے اپنے شریک پر پیش نہ کر دے ۔",
+      "urduNarrator": "جابر رضی اللہ عنہ کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، ‏‏‏‏‏‏ وَمُحَمَّدُ بْنُ الصَّبَّاحِ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ جَابِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ مَنْ كَانَتْ لَهُ نَخْلٌ أَوْ أَرْضٌ فَلَا يَبِيعُهَا حَتَّى يَعْرِضَهَا عَلَى شَرِيكِهِ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26847,
+      "hadithNumber": "2493",
+      "englishNarrator": "It was narrated from Ibn Abbas رضی اللہ عنہما that:",
+      "hadithEnglish": "The Prophet (ﷺ) said: “Whoever has land and wants to sell it, let him offer it to his neighbor.”",
+      "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جس کے پاس زمین ہو اور وہ اس کو بیچنا چاہے تو اسے چاہیئے کہ وہ اسے اپنے پڑوسی پر پیش کرے ۱؎۔",
+      "urduNarrator": "ہم سے احمد بن سنان اور علاء بن سلیم نے بیان کیا، کہا ہم سے یزید بن ہارون نے بیان کیا: ہم کو شریک نے سماک سے اور عکرمہ کی سند سے خبر دی, عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ سِنَانَ، ‏‏‏‏‏‏ وَالْعَلَاءُ بْنُ سَالِمٍ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، ‏‏‏‏‏‏أَنْبَأَنَا شَرِيكٌ، ‏‏‏‏‏‏عَنْ سِمَاكٍ، ‏‏‏‏‏‏عَنْ عِكْرِمَةَ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَأَرَادَ بَيْعَهَا فَلْيَعْرِضْهَا عَلَى جَارِهِ .",
+      "headingArabic": "مَنْ بَاعَ رِبَاعًا فَلْيُؤْذِنْ شَرِيكَهُ",
+      "headingUrdu": "زمین بیچتے وقت اپنےشريك كواطلاع دينا",
+      "headingEnglish": "One Who Sells A Property Should Notify His Partner (Of His Intention)",
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26848,
+      "hadithNumber": "2494",
+      "englishNarrator": "It was narrated from Jabir رضی اللہ عنہ that:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) said: “The neighbor has more right to preemption of his neighbor, so let him wait for him even if he is absent, if they share a path.”",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: پڑوسی اپنے پڑوسی کے شفعہ کا زیادہ حقدار ہے، اس کا انتظار کیا جائے گا اگر وہ موجود نہ ہو جب دونوں کا راستہ ایک ہو ۔",
+      "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا، کہا ہم سے ہشیم نے بیان کیا، انہیں عبدالملک نے، عطاء کی سند سے, جابر رضی اللہ عنہ کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا هُشَيْمٌ، ‏‏‏‏‏‏أَنْبَأَنَا عَبْدُ الْمَلِكِ، ‏‏‏‏‏‏عَنْ عَطَاءٍ، ‏‏‏‏‏‏عَنْ جَابِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْجَارُ أَحَقُّ بِشُفْعَةِ جَارِهِ يَنْتَظِرُ بِهَا وَإِنْ كَانَ غَائِبًا إِذَا كَانَ طَرِيقُهُمَا وَاحِدًا .",
+      "headingArabic": "الشُّفْعَةِ بِالْجِوَارِ",
+      "headingUrdu": "پڑوسی ہونے کی وجہ سے شفعے کا حق",
+      "headingEnglish": "Preemption By Virtue Of Being Neighbors",
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Da`eef",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26849,
+      "hadithNumber": "2495",
+      "englishNarrator": "It was narrated from Abu Rafi' رضی اللہ عنہ that:",
+      "hadithEnglish": "The Prophet (ﷺ) said: “The neighbor has more right to property that is near.”",
+      "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: پڑوسی اپنے نزدیکی مکان کا زیادہ حقدار ہے ۔",
+      "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور علی بن محمد نے بیان کیا : ہم سے سفیان بن عیینہ نے ابراہیم بن میسرہ کی سند سے اور عمرو بن شرید کی سند سے بیان کیا , ابورافع رضی اللہ عنہ سے روایت ہے کہ",
+      "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏ وَعَلِيُّ بْنُ مُحَمَّدٍ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ الشَّرِيدِ، ‏‏‏‏‏‏عَنْ أَبِي رَافِعٍ، ‏‏‏‏‏‏أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْجَارُ أَحَقُّ بِسَقَبِهِ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26850,
+      "hadithNumber": "2496",
+      "englishNarrator": "It was narrated that Sharid bin Suwaid  رضی اللہ عنہ said:",
+      "hadithEnglish": "“I said: 'O Messenger of Allah, (what do you think of) land owned by only one person but this land has neighbors?' He said: 'The neighbor has more right to property that is near.' ”",
+      "hadithUrdu": "میں نے عرض کیا: اللہ کے رسول! ایک زمین ہے جس میں کسی کا حصہ نہیں اور نہ کوئی شرکت ہے، سوائے پڑوسی کے ( تو اس کے بارے میں فرمائیے؟! ) آپ صلی اللہ علیہ وسلم نے فرمایا: پڑوسی اپنی نزدیکی زمین کا زیادہ حقدار ہے.",
+      "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا کہ ہم سے ابو اسامہ نے حسین المعلم کی سند سے، وہ عمرو بن شعیب کی سند سے، وہ عمرو بن شرید بن سوید کے واسطہ سے، انہوں نے اپنے والد سے روایت کی، انہوں نےشرید بن سوید رضی اللہ عنہ کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو أُسَامَةَ، ‏‏‏‏‏‏عَنْ حُسَيْنٍ الْمُعَلِّمِ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ الشَّرِيدِ بْنِ سُوَيْدٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ الشَّرِيدِ بْنِ سُوَيْدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قُلْتُ:‏‏‏‏ يَا رَسُولَ اللَّهِ، ‏‏‏‏‏‏أَرْضٌ لَيْسَ فِيهَا لِأَحَدٍ قِسْمٌ وَلَا شِرْكٌ إِلَّا الْجِوَارُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ الْجَارُ أَحَقُّ بِسَقَبِهِ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26851,
+      "hadithNumber": "2497",
+      "englishNarrator": "It was narrated from Abu Hurairah رضی اللہ عنہ that:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) ruled concerning preemption of land that has not been divided; if the boundaries have been set then there is no preemption.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایسی جائیداد میں شفعہ کا حکم دیا ہے جو تقسیم نہ کی گئی ہو، لیکن جب تقسیم ہو جائے اور حد بندی ہو تو شفعہ نہیں ہے۔",
+      "urduNarrator": "ہم سے محمد بن یحییٰ اور عبدالرحمٰن بن عمر نے بیان کیا، کہا ہم سے ابو عاصم نے بیان کیا، کہا ہم سے مالک بن انس نے، زہری کی سند سے، سعید بن المسیب اور ابو سلمہ بن عبدالرحمٰن سے, ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+      "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، ‏‏‏‏‏‏ وَعَبْدُ الرَّحْمَنِ بْنُ عُمَرَ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا أَبُو عَاصِمٍ، ‏‏‏‏‏‏حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، ‏‏‏‏‏‏ وَأَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ قَضَى بِالشُّفْعَةِ فِيمَا لَمْ يُقْسَمْ فَإِذَا وَقَعَتِ الْحُدُودُ فَلَا شُفْعَةَ .",
+      "headingArabic": "إِذَا وَقَعَتِ الْحُدُودُ فَلاَ شُفْعَةَ",
+      "headingUrdu": "حد بندى ہوجانے كے بعد نہيں ہوتا",
+      "headingEnglish": "If The Boundaries Have Been Fixed Then There Is No Preemption",
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26852,
+      "hadithNumber": "2498",
+      "englishNarrator": "It was narrated from Abu Rafi' رضی اللہ عنہ that:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) said: “The partner has more right to what is near him, so long as he is still a partner.”",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شریک ( ساجھی دار ) اپنی قریبی جائیداد کا زیادہ حقدار ہے، خواہ کوئی بھی چیز ہو ۔",
+      "urduNarrator": "ہم سے عبداللہ بن الجراح نے بیان کیا، کہا: ہم سے سفیان بن عیینہ نے ابراہیم بن میسرہ کی سند سے، وہ عمرو بن شرید کی سند سے, ابورافع رضی اللہ عنہ کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ الشَّرِيدِ، ‏‏‏‏‏‏عَنْ أَبِي رَافِعٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الشَّرِيكُ أَحَقُّ بِسَقَبِهِ مَا كَانَ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26853,
+      "hadithNumber": "2499",
+      "englishNarrator": "It was narrated from Jabir bin Abdullah رضی اللہ عنہما that:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) ruled that preemption takes effect in all cases where land has not been divided. But if the boundaries have been set and the roads laid out, then there is no preemption.”",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے شفعہ ہر اس جائیداد میں ٹھہرایا ہے جو تقسیم نہ کی گئی ہو، اور جب حد بندی ہو جائے اور راستے جدا ہو جائیں تو اب شفعہ نہیں ہے ۔",
+      "urduNarrator": "ہم سے محمد بن یحییٰ نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، انہوں نے معمر کی سند سے، وہ زہری کی سند سے، انہوں نے ابو سلمہ کی سند سے, جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ أَبِي سَلَمَةَ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ إِنَّمَا جَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الشُّفْعَةَ فِي كُلِّ مَا لَمْ يُقْسَمْ، ‏‏‏‏‏‏فَإِذَا وَقَعَتِ الْحُدُودُ، ‏‏‏‏‏‏وَصُرِّفَتِ الطُّرُقُ فَلَا شُفْعَةَ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26854,
+      "hadithNumber": "2500",
+      "englishNarrator": "It was narrated from Ibn 'Umar رضی اللہ عنہما that:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) said: “Preemption is like undoing the `Iqal.”",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شفعہ اونٹ کی رسی کھولنے کے مانند ہے ۔",
+      "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے محمد بن حارث نے بیان کیا، ان سے محمد بن عبدالرحمٰن بیلمانی نے اپنے والد کی سند سے, عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ الْحَارِثِ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ الْبَيْلَمَانِيِّ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الشُّفْعَةُ كَحَلِّ الْعِقَالِ .",
+      "headingArabic": "طَلَبِ الشُّفْعَةِ",
+      "headingUrdu": "حق شفعہ كا مطالبہ",
+      "headingEnglish": "Requesting Preemption",
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Sahih",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    },
+    {
+      "id": 26855,
+      "hadithNumber": "2501",
+      "englishNarrator": "It was narrated from Ibn 'Umar رضی اللہ عنہما that:",
+      "hadithEnglish": "The Messenger of Allah (ﷺ) said: “There is no preemption for a partner when his co-partner has beaten him to it (in another deal before), not for a minor nor one who is absent.”",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شریک کو شریک پر اس وقت شفعہ نہیں رہتا ہے، جب وہ خریداری میں اس سے سبقت کر جائے، اسی طرح نہ کم سن ( نابالغ ) کے لیے شفعہ ہے، اور نہ غائب کے لیے ۔",
+      "urduNarrator": "ہم سے سوید بن سعید نے بیان کیا، کہا: ہم سے محمد بن الحارث نے، محمد بن عبدالرحمٰن بیلمانی سے، اپنے والد سے,عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ",
+      "hadithArabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا مُحَمَّدُ بْنُ الْحَارِثِ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ الْبَيْلَمَانِيِّ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا شُفْعَةَ لِشَرِيكٍ عَلَى شَرِيكٍ إِذَا سَبَقَهُ بِالشِّرَاءِ وَلَا لِصَغِيرٍ وَلَا لِغَائِبٍ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 19,
+      "bookSlug": "ibn-e-majah",
+      "volume": 3,
+      "status": "Da`eef",
+      "book": {
+        "id": 6,
+        "bookName": "Sunan Ibn-e-Majah",
+        "writerName": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "aboutWriter": null,
+        "writerDeath": "273",
+        "bookSlug": "ibn-e-majah"
+      },
+      "chapter": {
+        "id": 267,
+        "chapterNumber": 19,
+        "chapterEnglish": "The Chapter on Pre-emption",
+        "chapterUrdu": "شفعہ کے احکام و مسائل",
+        "chapterArabic": "كتاب الشفعة",
+        "bookSlug": "ibn-e-majah"
+      }
+    }
+  ]
+}

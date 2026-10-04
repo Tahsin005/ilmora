@@ -1,0 +1,358 @@
+{
+  "category": {
+    "name": "Adhaan & Iqamah",
+    "url": "adhaan-and-iqamah",
+    "icon": "adhaan_iqamah.svg",
+    "meta": "4 Subcategories"
+  },
+  "total_subcategories": 4,
+  "total_duas": 7,
+  "subcategories": [
+    {
+      "id": 20,
+      "title": "Dua while hearing the adhaan",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        162,
+        163
+      ],
+      "duas": [
+        {
+          "dua_id": 162,
+          "title": "Reply of Azan (Azan Dua)",
+          "category_tags": [],
+          "introduction": "Narrated by 'Umar ibn al-Khattab (RA), he said, The Messenger of Allah (ﷺ) said: When the muazzin says \"Allahu Akbar Allahu Akbar\", Then if any of you say “Allahu Akbar Allahu Akbar; When the muazzin says \"Ashhadu an laa ilaaha illallah\", If he says \"Ashhadu an laa ilaaha illallah\"; When Muazzin says “Ashhadu Anna Muhammadar Rasoolullah, If he says \"Ashhadu Anna Muhammadar Rasoolullah\"; When the muazzin says \"Haiya alas salah\", If he says \"Laa hawla wala quwwata illa billah\"; When the muazzin says \"Haiya alal falah\", If he says \"Laa hawla wala quwwata illa billah\"; When the muazzin says \"Allahu Akbar Allahu Akbar\", If he says \"Allahu Akbar Allahu Akbar\", Then when the muazzin says \"Laa ilaaha illallah\", If he says \"Laa ilaaha illallah\" If he says these things from the heart, then he will go to Paradise.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 385",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 163,
+          "title": "Dua after hearing Adhan (Azan dua)",
+          "category_tags": [],
+          "introduction": "After uttering Mu'adhdhin Tashahhud (i.e. Ashhadu Anna Muhammadar ...) the listeners will say this dhikr -",
+          "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ رَضِيتُ بِاللَّهِ رَبًّا وَبِمُحَمَّدٍ رَسُولًا وَبِالْإِسْلَامِ دِينًا",
+          "audio": "/audio/dua/163.mp3",
+          "transliteration": "Ash-hadu an laa ilaaha ill-Allahu wa'hdahu laa shareeka lahu wa anna mu'hammadan ‛abduhu wa rasooluhu, radeetu billaahi rabban wa bimu'hammadin rasoolan wa bil -islaami deen-an",
+          "translation": "I bear witness that none has the right to be worshipped except Allah, alone, without partner, and that Muhammad is His slave and Messenger (ﷺ). I am pleased with Allah as a Lord, and Muhammad as a Messenger and Islam as a religion.\n\nSa'd ibn Abi Waqqas (RA) said: The Messenger of Allah (ﷺ) said: \"Whoever hears Mu'adhzin and utters these words, all his sins will be forgiven.\"",
+          "reference": "Muslim: 386",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنِ الْحُكَيْمِ بْنِ عَبْدِ اللَّهِ بْنِ قَيْسٍ الْقُرَشِيِّ، ح وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنِ الْحُكَيْمِ بْنِ عَبْدِ اللَّهِ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ مَنْ قَالَ حِينَ يَسْمَعُ الْمُؤَذِّنَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ رَضِيتُ بِاللَّهِ رَبًّا وَبِمُحَمَّدٍ رَسُولاً وَبِالإِسْلاَمِ دِينًا ‏.‏ غُفِرَ لَهُ ذَنْبُهُ ‏\"‏ ‏.‏ قَالَ ابْنُ رُمْحٍ فِي رِوَايَتِهِ ‏\"‏ مَنْ قَالَ حِينَ يَسْمَعُ الْمُؤَذِّنَ وَأَنَا أَشْهَدُ ‏\"‏ ‏.‏ وَلَمْ يَذْكُرْ قُتَيْبَةُ قَوْلَهُ وَأَنَا ‏.‏",
+            "translation": "Sa'd b. Abu Waqqas reported: The Messenger of Allah (ﷺ) said: If anyone says on hearing the Mu'adhdhin: I testify that there is no god but Allah alone. Who has no partner, and that Muhammad is His servant and His Messenger, (and that) I am satisfied with Allah as my Lord, with Muhammad as Messenger. and with Islam as din (code of life), his sins would be forgiven. In the narration transmitted by Ibn Rumh the words are:\" He who said on hearing the Mu'adhdhin and verity I testify.\" ' Qutaiba has not mentioned his words:\" And I.\" [Muslim: 386]"
+          },
+          "benefits": {
+            "title": "Benefits of Azan Dua",
+            "description": "Let your Iman grow strong by saying the azan dua after hearing the call to prayer, showing love for Allah, His Messenger, and Islam, and bringing Barakah to your Salah and daily Amal.",
+            "points": [
+              "Ash hadu allah ilaha illallah in azan dua makes Iman shine in the heart.",
+              "Raditu billahi rabban in dua after adhan brings Allah’s pleasure and mercy.",
+              "Azan ke baad ki dua helps a muslim remember the true path of Islam every day.",
+              "Saying this masnoon dua after azan brings Barakah to your Salah and Amal.",
+              "Azan dua keeps the love for Prophet Muhammad and Islam alive in the heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Azan Dua",
+            "description": "This azan dua is recited after hearing the call to prayer, helping Muslims renew their Iman, remember the shahada, and feel close to Allah, His Messenger, and Islam with every adhan.",
+            "points": [
+              "After hearing the adhan, recite the azan dua to show your Iman and love for Islam.",
+              "When teaching kids about salah, use the dua after adhan to build their faith in shahada.",
+              "If you hear the muslim call to prayer at home, say the azan dua for Barakah in your house.",
+              "While waiting for jamaat in masjid, remember the azan ke baad ki dua for more reward.",
+              "After listening to adhan on phone or radio, softly recite the azan dua for Amal and peace."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Azan Dua",
+            "description": "After hearing the azan, this azan dua helps you show your Iman and love for Islam. It is a masnoon dua that every Muslim should say to get Barakah and follow the sunnah of the Prophet.",
+            "steps": [
+              "Wait until the adhan is finished, then softly recite the azan dua with full heart.",
+              "Say the shahada and azan dua after adhan, showing your faith in Allah and His Messenger.",
+              "Keep your mind on zikr allah and repeat raditu billahi rabban as part of this muslim prayer.",
+              "Use this dua after azan before starting your namaz to get more reward and blessings.",
+              "Teach your family to say this azan ke baad ki dua so everyone gets the Barakah of this masnoon dua."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Dua after the adhaan",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        164,
+        165
+      ],
+      "duas": [
+        {
+          "dua_id": 164,
+          "title": "Dua After Adhan (Durood Sharif)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اَللَّهُمَّ بَارِكَ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+          "audio": "/audio/dua/164.mp3",
+          "transliteration": "Allaahumma salli 'alaa Mu'hammadin wa 'alaa 'aali Mu'hammadin, kamaa sallayta 'alaa 'Ibraaheema wa 'alaa 'aali 'Ibraaheema, 'innaka Hameedun Majeed. Allaahumma baarik 'alaa Mu'hammadin wa 'alaa 'aali Mu'hammadin, kamaa baarakta 'alaa 'Ibraaheema wa 'alaa 'aali 'Ibraaheema, 'innaka Hameedun Majeed",
+          "translation": "O Allah, bestow Your favor on Muhammad (ﷺ) and on the family of Muhammad (ﷺ) as You have bestowed Your favor on Ibrahim (Ah) and on the family of Ibrahim (Ah), You are Praiseworthy, Most Glorious. O Allah, bless Muhammad (ﷺ) and the family of Muhammad (ﷺ) as You have blessed Ibrahim and the family of Ibrahim (Ah), You are Praiseworthy, Most Glorious.\n\nAbdullah bin Amr bin al-As (RA) reported Allah's Messenger (ﷺ) as saying: When you hear the Mu'adhdhin, repeat what he says, then invoke a blessing on me, for everyone who invokes a blessing on me will receive ten blessings from Allah; then beg from Allah al-Wasila for me, which is a rank in Paradise fitting for only one of Allah's servants, and I hope that I may be that one. If anyone who asks that I be given the Wasila, he will be assured of my intercession.",
+          "reference": "Muslim: 384",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، عَنْ حَيْوَةَ، وَسَعِيدِ بْنِ أَبِي أَيُّوبَ، وَغَيْرِهِمَا، عَنْ كَعْبِ بْنِ عَلْقَمَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُبَيْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِذَا سَمِعْتُمُ الْمُؤَذِّنَ فَقُولُوا مِثْلَ مَا يَقُولُ ثُمَّ صَلُّوا عَلَىَّ فَإِنَّهُ مَنْ صَلَّى عَلَىَّ صَلاَةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْرًا ثُمَّ سَلُوا اللَّهَ لِيَ الْوَسِيلَةَ فَإِنَّهَا مَنْزِلَةٌ فِي الْجَنَّةِ لاَ تَنْبَغِي إِلاَّ لِعَبْدٍ مِنْ عِبَادِ اللَّهِ وَأَرْجُو أَنْ أَكُونَ أَنَا هُوَ فَمَنْ سَأَلَ لِيَ الْوَسِيلَةَ حَلَّتْ لَهُ الشَّفَاعَةُ ‏\" ‏ ‏.‏ '",
+            "translation": "Abdullah b. Amr b. al-As reported Allah's Messenger (ﷺ) as saying: When you hear the Mu'adhdhin, repeat what he says, then invoke a blessing on me, for everyone who invokes a blessing on me will receive ten blessings from Allah; then beg from Allah al-Wasila for me, which is a rank in Paradise fitting for only one of Allah's servants, and I hope that I may be that one. If anyone who asks that I be given the Wasila, he will be assured of my intercession. [Muslim: 384]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua After Adhan (Durood Sharif)",
+            "description": "This dua after azan brings blessings and mercy from Allah, raising the rank of Prophet Muhammad ﷺ and his family, and brings Barakah to those who send durood sharif after hearing the call to prayer.",
+            "points": [
+              "Allah gives Barakah to the one who sends durood sharif after azan.",
+              "Durood ibrahim after adhan helps a muslim get closer to Prophet Muhammad ﷺ.",
+              "Saying allahumma salli ala muhammad after azan brings more mercy in namaz.",
+              "After azan dua with durood sharif makes duas more likely to be accepted.",
+              "Durood sharif in english or arabic after azan brings peace and Amal in heart."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Durood Sharif",
+            "description": "This durood sharif is recited after adhan to send blessings on Prophet Muhammad ﷺ and his family, bringing Barakah and reward for every Muslim who loves the Prophet and follows his sunnah.",
+            "points": [
+              "After the adhan finishes, recite durood sharif for blessings on Prophet Muhammad ﷺ.",
+              "While waiting for iqamah, use the dua after adhan to fill your heart with love for Nabi.",
+              "When teaching kids about salah, help them learn durood ibrahim after azan for Amal.",
+              "If you hear the azan at home, softly say durood sharif for Barakah in your house.",
+              "Before starting fard salah, remember to recite durood sharif for more reward and Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Durood Sharif after Adhan",
+            "description": "After the adhan, reciting durood sharif brings Barakah and follows the sunnah of the Prophet. This masnoon dua is a way to send blessings on Muhammad ﷺ and his family, and every Muslim should make it a habit.",
+            "steps": [
+              "Wait for the azan to finish, then start with allahumma salli ala muhammad from your heart.",
+              "Recite durood ibrahim slowly, thinking about the blessings for the Prophet and his family.",
+              "Say this durood sharif after azan before making any other dua or starting your namaz.",
+              "Teach your kids and family to read this darood pak so everyone gets the reward together.",
+              "Use this muslim prayer daily to keep your zikr allah strong and get more Barakah in your Amal."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 165,
+          "title": "Dua After Adhan (Azan Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا وَالْوَسِيْلَةَ وَالْفَضِيْلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُوْدًا الَّذِيْ وَعَدْتَهُ",
+          "audio": "/audio/dua/165.mp3",
+          "transliteration": "Allaahumma rabba haadhi-hid-da watit-taammah, wassalaatil-qaa’imah, aati mu'hammadan-il- waseelata wal-fadeelah, wab‛ath-hu maqaaman ma'hmoodan-illadhee wa‛adtah",
+          "translation": "O Allah, Owner of this perfect call and Owner of this prayer to be performed, bestow upon Muhammad (ﷺ) al-waseelah and al-fadeelah and raise him upon a praised platform which You have promised him.",
+          "reference": "Bukhari: 614",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَالَ حِينَ يَسْمَعُ النِّدَاءَ اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلاَةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ ‏\" ‏‏.‏",
+            "translation": "Narrated Jabir bin `Abdullah: Allah's Messenger (ﷺ) said, \"Whoever after listening to the Adhan says, 'Allahumma Rabba hadhihi-dda` watit-tammah, was-salatil qa'imah, ati Muhammadan al-wasilata wal-fadilah, wa b`ath-hu maqaman mahmudan-il-ladhi wa`adtahu' [O Allah! Lord of this perfect call (perfect by not ascribing partners to You) and of the regular prayer which is going to be established, give Muhammad the right of intercession and illustriousness, and resurrect him to the best and the highest place in Paradise that You promised him (of)], then my intercession for him will be allowed on the Day of Resurrection\". [Bukhari: 614]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua After Adhan (Azan Dua)",
+            "description": "This dua after adhan brings special rewards, helps raise the rank of Prophet Muhammad ﷺ, and brings Barakah and acceptance for those who remember Allah after hearing the azan.",
+            "points": [
+              "Allah grants the promise of Maqam Mahmood to Prophet Muhammad ﷺ.",
+              "After azan dua helps a muslim get more Barakah in every Salah and Amal.",
+              "Azan dua makes duas more likely to be accepted by Allah’s mercy.",
+              "Saying dua after adhan brings peace and Iman in the heart of a muslim.",
+              "Azan ke baad ki dua gives a muslim the chance to earn big rewards from Allah."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua After Adhan",
+            "description": "This dua after adhan is a special way to ask Allah for Barakah and honor for our Prophet Muhammad ﷺ, bringing more reward and blessings to your namaz and making your Iman stronger every day.",
+            "points": [
+              "After hearing the adhan, muslims should recite the dua after adhan for Barakah.",
+              "When the muazzin finishes calling, use the after azan dua to gain more reward.",
+              "Before starting your fard salah, make dua after azan in english for extra blessings.",
+              "At the masjid, after hearing the azan, recite the azan ke baad ki dua for more Amal.",
+              "If you want to follow sunnah, remember to say the dua after hearing adhan for Iman."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua After Adhan",
+            "description": "This dua after adhan is a special muslim prayer to ask Allah to give the Prophet Muhammad ﷺ the highest place in Jannah. Every Muslim should say this masnoon dua after hearing the azan to get Barakah and follow the sunnah.",
+            "steps": [
+              "Wait for the muazzin to finish the azan, then start the dua after adhan with full Iman.",
+              "Recite the azan dua slowly, asking Allah to give the Prophet the promised Maqam Mahmood.",
+              "Keep your heart focused on zikr allah and say this dua after azan before starting your namaz.",
+              "Teach your family to read this after azan dua so everyone gets reward and follows islamic prayers.",
+              "Use this masnoon dua daily to get more Barakah and keep your Amal strong in every salah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Dua between Adhaan and Iqamah",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        166,
+        167
+      ],
+      "duas": [
+        {
+          "dua_id": 166,
+          "title": "Hadith on Dua between Adhan and Iqamah",
+          "category_tags": [],
+          "introduction": "Narrated Anas Ibn Malik (RA): The Messenger of Allah (ﷺ) said, \"Dua is not returned between Adhaan and Iqamah\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Tirmidhi: 212",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 167,
+          "title": "Answer to Adhan and Iqamah",
+          "category_tags": [],
+          "introduction": "Allah's Messenger (ﷺ) said, \"Whenever you hear the Adhaan, say what the Mu'adh-dhin is saying. The Prophet (ﷺ) called both Adhaan and Iqamah as Adhaan. [1] Here is to be mentioned that, to reply 'Qaadaqaamatissalah' as 'Aqaamaha allahy wa aadaamahaa' - the hadith is weak (Da’eef) [2] So, for replying the iqaamah, the musalli should reply by using same words as the ad’aan.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "[1] Bukhari: 611 [2] Da'if (Albani). Abu Dawud: 528",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Dua for Imam and Mu'adhdhin",
+      "category": "adhaan-and-iqamah",
+      "dua-ids": [
+        168
+      ],
+      "duas": [
+        {
+          "dua_id": 168,
+          "title": "Dua for Imams and Mu'adhdhins (Dua for Forgiveness)",
+          "category_tags": [],
+          "introduction": "Narrated Abu Hurayrah (RA): The imam is responsible and the mu'adhdhin is trusted.",
+          "arabic": "اَللَّهُمَّ أَرْشِدِ الْأَئِمَّةَ وَاغْفِرْ لِلْمُؤَذِّنِيْنَ",
+          "audio": "/audio/dua/168.mp3",
+          "transliteration": "Allaahumma arshidil a-immata wagfir lilmua-ddhinin",
+          "translation": "O Allah, guide the imams and forgive the mu'adhdhins.",
+          "reference": "Sahih (Albani). Abu Dawud: 517",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، حَدَّثَنَا الأَعْمَشُ، عَنْ رَجُلٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الإِمَامُ ضَامِنٌ وَالْمُؤَذِّنُ مُؤْتَمَنٌ اللَّهُمَّ أَرْشِدِ الأَئِمَّةَ وَاغْفِرْ لِلْمُؤَذِّنِينَ ‏\" ‏ ‏.‏",
+            "translation": "Narrated AbuHurayrah: The imam is responsible and the mu'adhdhin is trusted, O Allah, guide the imams and forgive the mu'adhdhins. [Sahih (Albani). Abu Dawud: 517]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Imams and Mu'adhdhins",
+            "description": "This dua for imams and mu'adhdhins brings Allah’s guidance for leaders and forgiveness for those who call to prayer, making the masjid a place of Barakah and unity for all muslims.",
+            "points": [
+              "Allahumma gives hidayah to imams so they lead Salah with true Iman.",
+              "Dua for forgiveness brings maghfirat for mu'adhdhins who call to prayer.",
+              "Asking Allah for guidance helps imams stay on the right path in Amal.",
+              "Islamic prayer for forgiveness makes the masjid full of Barakah and peace.",
+              "Maghfirat ki dua for mu'adhdhins brings reward for every adhan they call."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Imams and Mu'adhdhins",
+            "description": "This dua for imams and mu'adhdhins is a simple way to ask Allah for guidance and forgiveness, bringing Barakah to those who lead and call us to salah, and helping our Iman grow with every prayer.",
+            "points": [
+              "After every fard salah, muslims can recite dua for imams and mu'adhdhins for Barakah.",
+              "When you hear the adhan, remember to make this dua for forgiveness for mu'adhdhins.",
+              "At the masjid, before joining jamaat, use the dua for guidance for imams and mu'adhdhins.",
+              "On Fridays, after jummah prayer, recite the islamic prayer for forgiveness for leaders.",
+              "If you see the imam or mu'adhdhin, quietly say this dua for guidance and maghfirat."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Imams and Mu'adhdhins",
+            "description": "This dua for Imams and Mu'adhdhins is a simple islamic prayer for forgiveness and guidance, asking Allah to guide those who lead Salah and forgive those who call to prayer, bringing Barakah to the whole community.",
+            "steps": [
+              "Start by facing the Qiblah and with a clean heart, say allaahumma arshidil a-immata wagfir lilmua-ddhinin.",
+              "After every Fard Salah, quietly recite this dua for forgiveness for imams and mu'adhdhins.",
+              "When you hear the adhan, make this prayer for guidance and forgiveness in your heart.",
+              "During gatherings in masjid, encourage others to join in this islamic prayer for forgiveness.",
+              "At times of reflection, use this maghfirat ki dua to ask Allah for guidance and forgiveness for all."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Asma-ul-Husna (99 Names of Allah)",
+  "total_names": 99,
+  "available_languages": [
+    "ar",
+    "bn",
+    "de",
+    "en",
+    "es",
+    "fa",
+    "fr",
+    "hi",
+    "id",
+    "ms",
+    "ru",
+    "tr",
+    "ur",
+    "zh"
+  ],
+  "multilingual_file": "asmaul_husna_multilingual.json",
+  "files": {
+    "ar": "asmaul_husna_ar.json",
+    "bn": "asmaul_husna_bn.json",
+    "de": "asmaul_husna_de.json",
+    "en": "asmaul_husna_en.json",
+    "es": "asmaul_husna_es.json",
+    "fa": "asmaul_husna_fa.json",
+    "fr": "asmaul_husna_fr.json",
+    "hi": "asmaul_husna_hi.json",
+    "id": "asmaul_husna_id.json",
+    "ms": "asmaul_husna_ms.json",
+    "ru": "asmaul_husna_ru.json",
+    "tr": "asmaul_husna_tr.json",
+    "ur": "asmaul_husna_ur.json",
+    "zh": "asmaul_husna_zh.json"
+  }
+}

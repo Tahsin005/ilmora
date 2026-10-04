@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "04:14",
+      "Sunrise": "05:38",
+      "Dhuhr": "11:30",
+      "Asr": "14:51",
+      "Sunset": "17:22",
+      "Maghrib": "17:22",
+      "Isha": "18:41",
+      "Imsak": "04:04",
+      "Midnight": "23:30",
+      "Firstthird": "21:27",
+      "Lastthird": "01:33"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-22",
+        "format": "YYYY-MM-DD",
+        "day": "22",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": -1
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 293,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 9471.85,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "05:38",
+        "end": "05:53"
+      },
+      "noon": {
+        "start": "11:20",
+        "end": "11:30"
+      },
+      "sunset": {
+        "start": "17:07",
+        "end": "17:22"
+      }
+    },
+    "timezone": {
+      "name": "Asia/Tokyo",
+      "utc_offset": "+09:00",
+      "abbreviation": "JST"
+    }
+  },
+  "city_info": {
+    "name": "Tokyo",
+    "country": "Japan",
+    "slug": "tokyo",
+    "lat": 35.6762,
+    "lon": 139.6503
+  }
+}

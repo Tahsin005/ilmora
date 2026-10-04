@@ -1,0 +1,327 @@
+{
+  "book": "sunan-nasai",
+  "chapterNumber": 41,
+  "total_hadiths": 10,
+  "hadiths": [
+    {
+      "id": 39205,
+      "hadithNumber": "4217",
+      "englishNarrator": "It was narrated from 'Amr bin Shuaib, from his fahther, that his grandfather said:",
+      "hadithEnglish": "The messenger of Allah ﷺ was asked about the 'Aqiqah and he said: Allah, the mighty and sublime, does not like Al-Uquq' as if he disliked the word (Al-Aqiqah). He said to the Messenger of Allah ﷺ: 'But one of us may offer a sacrifice when a child is born to him.' He said: 'Whoever wants to offer a sacrifice for his child, let him do so, for a boy; two sheep, Mukafaatan, (of equal age), and for a girl, one.' (One of the narrators) Dawud said: 'I asked Ziad bin Aslam about the word Mukafaatan and he said: 'Two similar sheep that are slaughtered together.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سے عقیقہ کے سلسلے میں پوچھا گیا تو آپ نے فرمایا: ”اللہ تعالیٰ عقوق کو پسند نہیں کرتا“۔ گویا کہ آپ کو یہ نام ناپسند تھا۔ لوگوں نے رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا: ہم تو آپ سے صرف یہ پوچھ رہے ہیں کہ جب ایک شخص کے یہاں اولاد پیدا ہو تو کیا کرے؟ آپ نے فرمایا: ”جو اپنی اولاد کی طرف سے قربانی کرنا چاہے  کرے، لڑکے کی طرف سے ایک ہی عمر کی دو بکریاں اور لڑکی کی طرف سے ایک بکری“۔ داود بن قیس کہتے ہیں: میں نے زید بن اسلم سے «مكافئتان» کے بارے میں پوچھا تو انہوں نے کہا: دو مشابہ بکریاں جو ایک ساتھ ذبح کی جائیں ۔",
+      "urduNarrator": "ہمیں احمد بن سلیمان نے خبر دی، کہا: ہمیں ابو نعیم نے حدیث بیان کی، کہا: ہمیں داؤد بن قیس نے عمرو بن شعیب سے، انہوں نے اپنے والد سے اور انہوں نے اپنے دادا سے حدیث بیان کی، جنہوں نے کہا",
+      "hadithArabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو نُعَيْمٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْعَقِيقَةِ ؟، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ لَا يُحِبُّ اللَّهُ عَزَّ وَجَلَّ الْعُقُوقَ ،‏‏‏‏ وَكَأَنَّهُ كَرِهَ الِاسْمَ، ‏‏‏‏‏‏قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ إِنَّمَا نَسْأَلُكَ أَحَدُنَا يُولَدُ لَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ مَنْ أَحَبَّ أَنْ يَنْسُكَ عَنْ وَلَدِهِ فَلْيَنْسُكْ عَنْهُ عَنَ الْغُلَامِ شَاتَانِ مُكَافَأَتَانِ، ‏‏‏‏‏‏وَعَنِ الْجَارِيَةِ شَاةٌ . قَالَ دَاوُدُ:‏‏‏‏ سَأَلْتُ زَيْدَ بْنَ أَسْلَمَ عَنِ الْمُكَافَأَتَانِ ؟، ‏‏‏‏‏‏قَالَ:‏‏‏‏ الشَّاتَانِ الْمُشَبَّهَتَانِ،‏‏‏‏ تُذْبَحَانِ جَمِيعًا.",
+      "headingArabic": "عَنِ الْغُلَامِ شَاتَانِ",
+      "headingUrdu": "لڑکے کى طرف سے دوبكرياں (ذبح كرنے كابيان)",
+      "headingEnglish": "For a boy, two sheep",
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Hasan",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39206,
+      "hadithNumber": "4218",
+      "englishNarrator": "It was narrated from 'Abdullah bin Buraidah رضی اللہ عنہ, from his father, that:",
+      "hadithEnglish": "The Messenger of Allah ﷺ offered the 'Aqiqah for Al-Hasan and Al-Husain  رضی اللہ عنہما.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے حسن اور حسین رضی اللہ عنہما کی طرف سے عقیقہ کیا۔",
+      "urduNarrator": "ہمیں الحسین بن حریث نے خبر دی، کہا: ہمیں الفضل نے بیان کیا، انہوں نے الحسین بن واقد سے، انہوں نے عبداللہ بن بریدہ رضی اللہ عنہ سے، انہوں نے اپنے والد سے",
+      "hadithArabic": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْفَضْلُ، ‏‏‏‏‏‏عَنْ الْحُسَيْنِ بْنِ وَاقِدٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ عَقَّ عَنِ الْحَسَنِ،‏‏‏‏ وَالْحُسَيْنِ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Hasan",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39207,
+      "hadithNumber": "4219",
+      "englishNarrator": "It was narrated from Salman bin 'Amir Ad-Dabbi رضی اللہ عنہ that:",
+      "hadithEnglish": "The Messenger of Allah ﷺ said: For a boy there should be an 'Aqiqah, so shed blood for him, and remove the harm from him.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”لڑکے کی پیدائش پر ۱؎ اس کا عقیقہ ہے، تو اس کی جانب سے خون بہاؤ  اور اس سے تکلیف دہ چیز کو دور کرو“ ۔",
+      "urduNarrator": "ہمیں محمد بن المثنیٰ نے خبر دی، کہا: ہمیں عفان نے بیان کیا، کہا: ہمیں حماد بن سلمہ نے بیان کیا، کہا: ہمیں ایوب، حبیب، یونس اور قتادہ نے محمد بن سیرین سے بیان کیا, سلمان بن عامر ضبی رضی اللہ عنہ سے روایت ہے کہ",
+      "hadithArabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَفَّانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَيُّوبُ، ‏‏‏‏‏‏وَحَبِيبٌ، ‏‏‏‏‏‏وَيُونُسُ، ‏‏‏‏‏‏وَقَتَادَةُ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ سِيرِينَ، ‏‏‏‏‏‏عَنْ سَلْمَانَ بْنِ عَامِرٍ الضَّبِّيِّ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ فِي الْغُلَامِ عَقِيقَةٌ فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الْأَذَى .",
+      "headingArabic": "الْعَقِيقَةِ عَنِ الْغُلاَمِ،",
+      "headingUrdu": "لڑکے کا عقیقہ",
+      "headingEnglish": "The 'Aqiqah for a boy",
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Sahih",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39208,
+      "hadithNumber": "4220",
+      "englishNarrator": "t was narrated from Um Kurz that t",
+      "hadithEnglish": "The Messenger of Allah ﷺ said: for a boy two sheep, Mukafaatan (of equal age), and for a girl, one sheep.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ” ( عقیقہ کے لیے ) لڑکے میں دو ہم عمر بکریاں اور لڑکی میں ایک بکری ( کافی ) ہے“ ۔",
+      "urduNarrator": "ہمیں احمد بن سلیمان نے خبر دی، انہوں نے کہا: ہمیں عفان نے بیان کیا، انہوں نے کہا: ہمیں حماد نے قیس بن سعد سے، اور انہوں نے عطاء، طاؤس اور مجاہد سے روایت کیا, ام کرز رضی اللہ عنہا سے روایت ہے کہ",
+      "hadithArabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَفَّانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏عَنْ قَيْسِ بْنِ سَعْدٍ، ‏‏‏‏‏‏عَنْ عَطَاءٍ، ‏‏‏‏‏‏وَطَاوُسٍ، ‏‏‏‏‏‏وَمُجَاهِدٍ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ فِي الْغُلَامِ شَاتَانِ مُكَافَأَتَانِ، ‏‏‏‏‏‏وَفِي الْجَارِيَةِ شَاةٌ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Sahih",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39209,
+      "hadithNumber": "4221",
+      "englishNarrator": "It was narrated from Umm Kurz that:",
+      "hadithEnglish": "The Messenger of Allah ﷺ said: For a boy two sheep, Mukafaatan (of equal age), and for a girl, one sheep.\"",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ” ( عقیقے کے لیے ) لڑکے کی طرف سے دو ہم عمر بکریاں ہوں گی اور لڑکی کی طرف سے ایک بکری“۔",
+      "urduNarrator": "ہمیں عبید اللہ بن سعید نے خبر دی، کہا: ہمیں سفیان نے بیان کیا، کہا: عمرو نے عطا کے واسطے سے، اور انہوں نے حبیبہ بنت میسرہ کے واسطے سے بیان کیا, ام کرز رضی اللہ عنہا سے روایت ہے کہ",
+      "hadithArabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ عَمْرٌو،‏‏‏‏ عَنْ عَطَاءٍ، ‏‏‏‏‏‏عَنْ حَبِيبَةَ بِنْتِ مَيْسَرَةَ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ عَنِ الْغُلَامِ شَاتَانِ مُكَافَأَتَانِ، ‏‏‏‏‏‏وَعَنِ الْجَارِيَةِ شَاةٌ .",
+      "headingArabic": "الْعَقِيقَةِ عَنِ الْجَارِيَةِ،",
+      "headingUrdu": "لڑکی کا عقیقہ",
+      "headingEnglish": "The Aqiqah For A Girl.",
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Sahih",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39210,
+      "hadithNumber": "4222",
+      "englishNarrator": "It was narrated that umm Kurz رضی اللہ عنہا said:",
+      "hadithEnglish": "I came to the Prophet ﷺ and asked him about the sacrificial meat. I heard him say: 'For a boy, two sheep, and for a girl, one sheep, and it does not matter if they are male or female. '",
+      "hadithUrdu": "میں حدیبیہ میں ہدی کے گوشت کے بارے میں پوچھنے کے لیے نبی اکرم صلی اللہ علیہ وسلم کے پاس آئی، تو میں نے آپ کو فرماتے ہوئے سنا: ”لڑکا ہونے پر دو بکریاں ہیں اور لڑکی پر ایک بکری، نر ہوں یا مادہ اس سے تم کو کوئی نقصان نہیں ہو گا“۔",
+      "urduNarrator": "قتبہ نے ہمیں بیان کیا، کہا: ہمیں سفیان نے عبید اللہ (جو ابن ابی یزید ہیں) سے، انہوں نے سباع بن ثابت (رضی اللہ عنہ) سے خبر دی, ام کرز رضی اللہ عنہا کہتی ہیں کہ",
+      "hadithArabic": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ وَهُوَ ابْنُ أَبِي يَزِيدَ، ‏‏‏‏‏‏عَنْ سِبَاعِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالْحُدَيْبِيَةِ أَسْأَلُهُ عَنْ لُحُومِ الْهَدْيِ ؟ فَسَمِعْتُهُ يَقُولُ:‏‏‏‏ عَلَى الْغُلَامِ شَاتَانِ،‏‏‏‏ وَعَلَى الْجَارِيَةِ شَاةٌ لَا يَضُرُّكُمْ ذُكْرَانًا كُنَّ أَمْ إِنَاثًا .",
+      "headingArabic": "كَمْ يَعِقُّ عَنِ الْجَارِيَةِ،",
+      "headingUrdu": "لڑکی کے عقیقے کے لیے کتنے جانور ذبح کی جانی چاہئیں؟",
+      "headingEnglish": "How Many Sheep Should Be Slaughtered As An 'Aqiqah For A Girl?",
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Hasan",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39211,
+      "hadithNumber": "4223",
+      "englishNarrator": "It was narrated from Umma Kurz رضی اللہ عنہا that:",
+      "hadithEnglish": "The Messenger of Allah ﷺ said: For a boy, two sheep, and or a girl, one sheep, and it does not matter if they are male or female",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”لڑکے کی طرف سے دو بکریاں ہوں گی اور لڑکی کی طرف سے ایک بکری، نر ہوں یا مادہ اس میں تمہارا کوئی نقصان نہیں“۔",
+      "urduNarrator": "ہمیں عمرو بن علی نے خبر دی، کہا: ہمیں یحییٰ نے بیان کیا، کہا: ہمیں ابن جریج نے بیان کیا، کہا: مجھے عبید اللہ بن ابی یزید نے سباع بن ثابت سے بیان کیا, ام کرز رضی اللہ عنہا سے روایت ہے کہ",
+      "hadithArabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي يَزِيدَ، ‏‏‏‏‏‏عَنْ سِبَاعِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ عَنِ الْغُلَامِ شَاتَانِ، ‏‏‏‏‏‏وَعَنَ الْجَارِيَةِ شَاةٌ، ‏‏‏‏‏‏لَا يَضُرُّكُمْ ذُكْرَانًا كُنَّ أَمْ إِنَاثًا .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Hasan",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39212,
+      "hadithNumber": "4224",
+      "englishNarrator": "It was narrated that Ibn 'Abbas رضی اللہ عنہما said:",
+      "hadithEnglish": "The Messenger of Allah ﷺ offered an 'Aqiqah for Al-Hasan and Al-Husain رضی اللہ عنہما, two rams for each.",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے حسن اور حسین رضی اللہ عنہما کی طرف سے دو دو مینڈھے ذبح کیے۔",
+      "urduNarrator": "ہمیں احمد بن حفص بن عبداللہ نے خبر دی، انہوں نے کہا: مجھ سے میرے والد نے بیان کیا، انہوں نے کہا: مجھ سے ابراہیم —یعنی ابن طہمان— نے بیان کیا، انہوں نے حجاج بن حجاج سے، انہوں نے قتادہ سے، اور انہوں نے عکرمہ سے روایت کیا, عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ",
+      "hadithArabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبِي، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي إِبْرَاهِيمُ هُوَ ابْنُ طَهْمَانَ، ‏‏‏‏‏‏عَنْ الْحَجَّاجِ بْنِ الْحَجَّاجِ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ عِكْرِمَةَ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ عَقَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنَ الْحَسَنِ وَالْحُسَيْنِ رَضِيَ اللَّهُ عَنْهُمَا بِكَبْشَيْنِ كَبْشَيْنِ .",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Sahih",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39213,
+      "hadithNumber": "4225",
+      "englishNarrator": "It was narrated from Qatadah, from Al-Hasan, from Samurh bin Jundab رضی اللہ عنہ that:",
+      "hadithEnglish": "The Messenger of Allah ﷺ said: Every boy is in pledge for his 'Aqiqah, so slaughter (the animal) for him on the seventh day, and shave his head, and a name",
+      "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”ہر بچہ اپنے عقیقہ کے بدلے گروی ہے  اس کی طرف سے ساتویں روز ذبح کیا جائے ، اس کا سر مونڈا جائے، اور اس کا نام رکھا جائے“۔",
+      "urduNarrator": "ہمیں عمرو بن علی اور محمد بن عبد الاعلیٰ نے خبر دی، انہوں نے کہا: ہمیں یزید —یعنی ابن زریع— نے سعید سے روایت کرتے ہوئے بیان کیا؛ اور ہمیں قتادہ نے حسن سے خبر دی, سمرہ بن جندب رضی اللہ عنہ کہتے ہیں کہ",
+      "hadithArabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏وَمُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا يَزِيدُ وَهُوَ ابْنُ زُرَيْعٍ، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏أَنْبَأَنَا قَتَادَةُ، ‏‏‏‏‏‏عَنْ الْحَسَنِ، ‏‏‏‏‏‏عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، ‏‏‏‏‏‏عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ كُلُّ غُلَامٍ رَهِينٌ بِعَقِيقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ،‏‏‏‏ وَيُحْلَقُ رَأْسُهُ وَيُسَمَّى .",
+      "headingArabic": "مَتَى يَعِقُّ",
+      "headingUrdu": "عقیقہ کب ادا کیا جانا چاہیے؟",
+      "headingEnglish": "When should the 'Aqiqah be performed?",
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Hasan",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    },
+    {
+      "id": 39214,
+      "hadithNumber": "4226",
+      "englishNarrator": "It was narrated from Habib bin Ash-Shahid:",
+      "hadithEnglish": "Muhammad bin Sirin said to me: 'Ask Al-Hasan (Al-Basri) from whom he heard this Hadith about the 'Aqiqah.' I asked him about that and he said: 'I heard it from Samurh رضی اللہ عنہ . '",
+      "hadithUrdu": "مجھ سے محمد بن سیرین نے کہا: حسن ( حسن بصری ) سے پوچھو، انہوں نے عقیقہ کے سلسلے میں اپنی حدیث کس سے سنی ہے؟ چنانچہ میں نے ان سے اس بارے میں سوال کیا تو انہوں نے کہا: یہ حدیث میں نے سمرہ رضی اللہ عنہ سے سنی ہے۔",
+      "urduNarrator": "ہارون بن عبداللہ نے ہمیں خبر دی، کہا: ہمیں قریش بن انس نے حدیث بیان کی, حبیب بن شہید کہتے ہیں کہ",
+      "hadithArabic": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، ‏‏‏‏‏‏عَنْ حَبِيبِ بْنِ الشَّهِيدِ، ‏‏‏‏‏‏قَالَ لِي مُحَمَّدُ بْنُ سِيرِينَ:‏‏‏‏ سَلْ الْحَسَنَ مِمَّنْ سَمِعَ حَدِيثَهُ فِي الْعَقِيقَةِ،‏‏‏‏ فَسَأَلْتُهُ عَنْ ذَلِكَ ؟، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ سَمِعْتُهُ مِنْ سَمُرَةَ.",
+      "headingArabic": null,
+      "headingUrdu": null,
+      "headingEnglish": null,
+      "chapterId": 41,
+      "bookSlug": "sunan-nasai",
+      "volume": 5,
+      "status": "Hasan",
+      "book": {
+        "id": 7,
+        "bookName": "Sunan An-Nasa`i",
+        "writerName": "Imam Ahmad an-Nasa`i",
+        "aboutWriter": null,
+        "writerDeath": "303",
+        "bookSlug": "sunan-nasai"
+      },
+      "chapter": {
+        "id": 422,
+        "chapterNumber": 41,
+        "chapterEnglish": "The Book of Al-`Aqiqah",
+        "chapterUrdu": "عقیقہ کے احکام و مسائل",
+        "chapterArabic": "كتاب العقيقة",
+        "bookSlug": "sunan-nasai"
+      }
+    }
+  ]
+}

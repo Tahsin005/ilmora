@@ -1,0 +1,125 @@
+{
+  "category": {
+    "name": "Toilet",
+    "url": "toilet",
+    "icon": "toilet.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 2,
+  "subcategories": [
+    {
+      "id": 19,
+      "title": "Duas related to toilets",
+      "category": "toilet",
+      "dua-ids": [
+        160,
+        161
+      ],
+      "duas": [
+        {
+          "dua_id": 160,
+          "title": "Dua Before Entering the Toilet",
+          "category_tags": [],
+          "introduction": "Narrated Anas: The Prophet (ﷺ) used to say when he entered the toilet:",
+          "arabic": "بِسْمِ اللَّهِ، اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+          "audio": "/audio/dua/160.mp3",
+          "transliteration": "Bismillaah, Allaahumma 'innee 'A'oodhu bika minal-khubuthi walkhabaa'ith",
+          "translation": "In the Name of Allah. O Allah, I seek protection in You from the male and female unclean spirits.\n\nAli (RA) said, Rasoolullah (ﷺ) said: When one of you goes to a secluded place by the call of nature, the covering of the genitals of the children of Adam from the eyes of the jinn is to say \"Bismillah\".",
+          "reference": "Bukhari: 142",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا دَخَلَ الْخَلاَءَ قَالَ ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ ‏\" ‏‏.‏ تَابَعَهُ ابْنُ عَرْعَرَةَ عَنْ شُعْبَةَ‏.‏ وَقَالَ غُنْدَرٌ عَنْ شُعْبَةَ إِذَا أَتَى الْخَلاَءَ‏.‏ وَقَالَ مُوسَى عَنْ حَمَّادٍ إِذَا دَخَلَ‏.‏ وَقَالَ سَعِيدُ بْنُ زَيْدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ إِذَا أَرَادَ أَنْ يَدْخُلَ‏.‏",
+            "translation": "Narrated Anas: Whenever the Prophet (ﷺ) went to answer the call of nature, he used to say, \"Allah-umma inni a`udhu bika minal khubuthi wal khaba'ith i.e. O Allah, I seek Refuge with You from all offensive and wicked things (evil deeds and evil spirits). [Bukhari: 142]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua Before Entering the Toilet",
+            "description": "Keep yourself safe from harm and impurity by saying this dua before entering the toilet, letting Allah’s name protect you from all evil and keeping your heart clean and full of Iman.",
+            "points": [
+              "Bismillah in this dua before entering the toilet keeps shayateen away from you.",
+              "Allahumma inni in this dua gives protection from hidden harm and impurity.",
+              "Bathroom jane ki dua helps a muslim stay clean in body and Amal every day.",
+              "Using this masnoon dua before entering bathroom brings Allah’s mercy and safety.",
+              "Dua before toilet entry keeps your zikr Allah strong even in private moments."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua Before Entering the Toilet",
+            "description": "This dua before entering the toilet helps every Muslim remember bismillah and ask Allah for safety from harm, keeping the heart clean and the mind safe from shayateen with every step inside.",
+            "points": [
+              "Before stepping into the washroom, recite the dua before entering the toilet for Allah’s help.",
+              "When your child goes to the bathroom, teach them the bathroom dua for protection.",
+              "If you feel scared at night, use the dua before entering bathroom for peace and calm.",
+              "Entering any public toilet, remember the dua before toilet to keep away bad things.",
+              "While opening the bathroom door, say the dua entering toilet for Barakah and safety."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua Before Entering the Toilet",
+            "description": "This dua before entering the toilet is a simple way to ask Allah for safety from harm and keep your Amal clean. Every Muslim should say this masnoon dua before going into the bathroom to get Allah’s help and Barakah.",
+            "steps": [
+              "Always say bismillah softly before stepping into the washroom to start with zikr allah.",
+              "Enter the bathroom with your left foot first and recite the dua before entering the toilet.",
+              "Use the words allahumma inni as you walk in, asking Allah to keep you safe from bad things.",
+              "Remember to keep your mind on this bathroom dua and not talk or mention Allah’s name inside.",
+              "When you leave, step out with your right foot and thank Allah for keeping you safe from harm."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 161,
+          "title": "Dua for Leaving the Toilet",
+          "category_tags": [],
+          "introduction": "It is narrated on the authority of Aisha (RA) that the Messenger of Allah (ﷺ) used to say when he came out of the toilet:",
+          "arabic": "غُفْرَانَكَ",
+          "audio": "/audio/dua/161.mp3",
+          "transliteration": "Gufraanak",
+          "translation": "I ask You (Allah) for forgiveness.\n\nAyesha (RA) said that Rasoolullah (ﷺ) used to say this dua when he came out of the toilet.",
+          "reference": "Sahih (Albani). Abu Dawud: 30",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ النَّاقِدُ، حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ يُوسُفَ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، حَدَّثَتْنِي عَائِشَةُ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا خَرَجَ مِنَ الْغَائِطِ قَالَ ‏ \"‏ غُفْرَانَكَ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Aisha, Ummul Mu'minin: When the Prophet (ﷺ) came out of the privy, he used to say: \"Grant me Thy forgiveness.\" [Sahih (Albani). Abu Dawud: 30]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Leaving the Toilet",
+            "description": "Show thankfulness and seek Allah’s forgiveness by saying this dua for leaving the toilet, keeping your heart humble and your Amal clean as you follow the right way of islamic toilet etiquette.",
+            "points": [
+              "Gufranak in this dua for leaving toilet brings Allah’s forgiveness to the heart.",
+              "Dua after leaving toilet helps a muslim remember Allah after every need.",
+              "Using this masnoon dua for leaving the toilet keeps your Amal pure and accepted.",
+              "Toilet se nikalne ki dua teaches thankfulness for Allah’s mercy and daily ease.",
+              "After toilet dua reminds muslims to stay humble and ask forgiveness in small things."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Leaving the Toilet",
+            "description": "This dua for leaving the toilet reminds Muslims to ask Allah for forgiveness, showing thankfulness for His mercy and keeping the heart clean after every visit to the washroom.",
+            "points": [
+              "After stepping out from the bathroom, recite the dua for leaving the toilet for forgiveness.",
+              "When teaching kids islamic toilet etiquette, use the dua after leaving toilet for Amal.",
+              "If you forget to say the dua after toilet, remember it as soon as you recall for Barakah.",
+              "Leaving a public washroom, make the dua for leaving the toilet to thank Allah for ease.",
+              "After using the toilet at night, softly say the after toilet dua for Allah’s mercy."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Leaving the Toilet",
+            "description": "This dua for leaving the toilet is a short masnoon dua that helps you ask Allah for forgiveness and keep your Amal pure. Every Muslim should say this bathroom dua after coming out to follow islamic toilet etiquette and get Barakah.",
+            "steps": [
+              "Step out of the bathroom with your right foot first and quietly say gufranak.",
+              "Right after leaving, recite the dua for leaving toilet to ask Allah for forgiveness.",
+              "Keep your heart focused on forgiveness in islam while saying this masnoon dua.",
+              "Make sure not to delay this after toilet dua and say it as soon as you exit the washroom.",
+              "Use this muslim prayer daily to keep your Amal clean and follow the sunnah of the Prophet."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

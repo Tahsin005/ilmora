@@ -1,0 +1,186 @@
+{
+  "id": 85,
+  "name": "البروج",
+  "transliteration": "Al-Buruj",
+  "translation_en": "The Mansions of the Stars",
+  "type": "meccan",
+  "total_verses": 22,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ",
+      "transliteration": "Waalssamai thati alburooji",
+      "translation_en": "By the sky containing great stars",
+      "translation_bn": "শপথ গ্রহ-নক্ষত্র শোভিত আকাশের",
+      "translation_ur": "قسم ہے مضبوط قلعوں والے آسمان کی"
+    },
+    {
+      "id": 2,
+      "arabic": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ",
+      "transliteration": "Waalyawmi almawAAoodi",
+      "translation_en": "And [by] the promised Day",
+      "translation_bn": "এবং প্রতিশ্রুত দিবসের",
+      "translation_ur": "اور اُس دن کی جس کا وعدہ کیا گیا ہے"
+    },
+    {
+      "id": 3,
+      "arabic": "وَشَاهِدٖ وَمَشۡهُودٖ",
+      "transliteration": "Washahidin wamashhoodin",
+      "translation_en": "And [by] the witness and what is witnessed",
+      "translation_bn": "এবং সেই দিবসের, যে উপস্থিত হয় ও যাতে উপস্থিত হয়",
+      "translation_ur": "اور دیکھنے والے کی اور دیکھی جانے والی چیز کی"
+    },
+    {
+      "id": 4,
+      "arabic": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ",
+      "transliteration": "Qutila ashabu alukhdoodi",
+      "translation_en": "Cursed were the companions of the trench",
+      "translation_bn": "অভিশপ্ত হয়েছে গর্ত ওয়ালারা অর্থাৎ",
+      "translation_ur": "کہ مارے گئے گڑھے والے"
+    },
+    {
+      "id": 5,
+      "arabic": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ",
+      "transliteration": "Alnnari thati alwaqoodi",
+      "translation_en": "[Containing] the fire full of fuel",
+      "translation_bn": "অনেক ইন্ধনের অগ্নিসংযোগকারীরা",
+      "translation_ur": "(اُس گڑھے والے) جس میں خوب بھڑکتے ہوئے ایندھن کی آگ تھی"
+    },
+    {
+      "id": 6,
+      "arabic": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ",
+      "transliteration": "Ith hum AAalayha quAAoodun",
+      "translation_en": "When they were sitting near it",
+      "translation_bn": "যখন তারা তার কিনারায় বসেছিল।",
+      "translation_ur": "جبکہ وہ اُس گڑھے کے کنارے بیٹھے ہوئے تھے"
+    },
+    {
+      "id": 7,
+      "arabic": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ",
+      "transliteration": "Wahum AAala ma yafAAaloona bialmumineena shuhoodun",
+      "translation_en": "And they, to what they were doing against the believers, were witnesses",
+      "translation_bn": "এবং তারা বিশ্বাসীদের সাথে যা করেছিল, তা নিরীক্ষণ করছিল।",
+      "translation_ur": "اور جو کچھ وہ ایمان لانے والوں کے ساتھ کر رہے تھے اُسے دیکھ رہے تھے"
+    },
+    {
+      "id": 8,
+      "arabic": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+      "transliteration": "Wama naqamoo minhum illa an yuminoo biAllahi alAAazeezi alhameedi",
+      "translation_en": "And they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy",
+      "translation_bn": "তারা তাদেরকে শাস্তি দিয়েছিল শুধু এ কারণে যে, তারা প্রশংসিত, পরাক্রান্ত আল্লাহর প্রতি বিশ্বাস স্থাপন করেছিল",
+      "translation_ur": "اور اُن اہل ایمان سے اُن کی دشمنی اِس کے سوا کسی وجہ سے نہ تھی کہ وہ اُس خدا پر ایمان لے آئے تھے جو زبردست اور اپنی ذات میں آپ محمود ہے"
+    },
+    {
+      "id": 9,
+      "arabic": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+      "transliteration": "Allathee lahu mulku alssamawati waalardi waAllahu AAala kulli shayin shaheedun",
+      "translation_en": "To whom belongs the dominion of the heavens and the earth. And Allah, over all things, is Witness",
+      "translation_bn": "যিনি নভোমন্ডল ও ভূমন্ডলের ক্ষমতার মালিক, আল্লাহর সামনে রয়েছে সবকিছু।",
+      "translation_ur": "جو آسمانوں اور زمین کی سلطنت کا مالک ہے، اور وہ خدا سب کچھ دیکھ رہا ہے"
+    },
+    {
+      "id": 10,
+      "arabic": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ",
+      "transliteration": "Inna allatheena fatanoo almumineena waalmuminati thumma lam yatooboo falahum AAathabu jahannama walahum AAathabu alhareeqi",
+      "translation_en": "Indeed, those who have tortured the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire",
+      "translation_bn": "যারা মুমিন পুরুষ ও নারীকে নিপীড়ন করেছে, অতঃপর তওবা করেনি, তাদের জন্যে আছে জাহান্নামের শাস্তি, আর আছে দহন যন্ত্রণা",
+      "translation_ur": "جن لوگوں نے مومن مردوں اور عورتوں پر ظلم و ستم توڑا اور پھر اس سے تائب نہ ہوئے، یقیناً اُن کے لیے جہنم کا عذاب ہے اور ان کے لیے جلائے جانے کی سزا ہے"
+    },
+    {
+      "id": 11,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ جَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ",
+      "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati lahum jannatun tajree min tahtiha alanharu thalika alfawzu alkabeeru",
+      "translation_en": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment",
+      "translation_bn": "যারা ঈমান আনে ও সৎকর্ম করে তাদের জন্যে আছে জান্নাত, যার তলদেশে প্রবাহিত হয় নির্ঝরিণীসমূহ। এটাই মহাসাফল্য।",
+      "translation_ur": "جو لوگ ایمان لائے اور جنہوں نے نیک عمل کیے، یقیناً اُن کے لیے جنت کے باغ ہیں جن کے نیچے نہریں بہتی ہوں گی، یہ ہے بڑی کامیابی"
+    },
+    {
+      "id": 12,
+      "arabic": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ",
+      "transliteration": "Inna batsha rabbika lashadeedun",
+      "translation_en": "Indeed, the vengeance of your Lord is severe",
+      "translation_bn": "নিশ্চয় তোমার পালনকর্তার পাকড়াও অত্যন্ত কঠিন।",
+      "translation_ur": "درحقیقت تمہارے رب کی پکڑ بڑی سخت ہے"
+    },
+    {
+      "id": 13,
+      "arabic": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
+      "transliteration": "Innahu huwa yubdio wayuAAeedu",
+      "translation_en": "Indeed, it is He who originates [creation] and repeats",
+      "translation_bn": "তিনিই প্রথমবার অস্তিত্ব দান করেন এবং পুনরায় জীবিত করেন।",
+      "translation_ur": "وہی پہلی بار پیدا کرتا ہے اور وہی دوبارہ پیدا کرے گا"
+    },
+    {
+      "id": 14,
+      "arabic": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+      "transliteration": "Wahuwa alghafooru alwadoodu",
+      "translation_en": "And He is the Forgiving, the Affectionate",
+      "translation_bn": "তিনি ক্ষমাশীল, প্রেমময়",
+      "translation_ur": "اور وہ بخشنے والا ہے، محبت کرنے والا ہے"
+    },
+    {
+      "id": 15,
+      "arabic": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
+      "transliteration": "Thoo alAAarshi almajeedi",
+      "translation_en": "Honorable Owner of the Throne",
+      "translation_bn": "মহান আরশের অধিকারী।",
+      "translation_ur": "عرش کا مالک ہے، بزرگ و برتر ہے"
+    },
+    {
+      "id": 16,
+      "arabic": "فَعَّالٞ لِّمَا يُرِيدُ",
+      "transliteration": "FaAAAAalun lima yureedu",
+      "translation_en": "Effecter of what He intends",
+      "translation_bn": "তিনি যা চান, তাই করেন।",
+      "translation_ur": "اور جو کچھ چاہے کر ڈالنے والا ہے"
+    },
+    {
+      "id": 17,
+      "arabic": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ",
+      "transliteration": "Hal ataka hadeethu aljunoodi",
+      "translation_en": "Has there reached you the story of the soldiers",
+      "translation_bn": "আপনার কাছে সৈন্যবাহিনীর ইতিবৃত্ত পৌছেছে কি",
+      "translation_ur": "کیا تمہیں لشکروں کی خبر پہنچی ہے؟"
+    },
+    {
+      "id": 18,
+      "arabic": "فِرۡعَوۡنَ وَثَمُودَ",
+      "transliteration": "FirAAawna wathamooda",
+      "translation_en": "[Those of] Pharaoh and Thamud",
+      "translation_bn": "ফেরাউনের এবং সামুদের",
+      "translation_ur": "فرعون اور ثمود (کے لشکروں) کی؟"
+    },
+    {
+      "id": 19,
+      "arabic": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ",
+      "transliteration": "Bali allatheena kafaroo fee taktheebin",
+      "translation_en": "But they who disbelieve are in [persistent] denial",
+      "translation_bn": "বরং যারা কাফের, তারা মিথ্যারোপে রত আছে।",
+      "translation_ur": "مگر جنہوں نے کفر کیا ہے وہ جھٹلانے میں لگے ہوئے ہیں"
+    },
+    {
+      "id": 20,
+      "arabic": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ",
+      "transliteration": "WaAllahu min waraihim muheetun",
+      "translation_en": "While Allah encompasses them from behind",
+      "translation_bn": "আল্লাহ তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রেখেছেন।",
+      "translation_ur": "حالانکہ اللہ نے ان کو گھیرے میں لے رکھا ہے"
+    },
+    {
+      "id": 21,
+      "arabic": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ",
+      "transliteration": "Bal huwa quranun majeedun",
+      "translation_en": "But this is an honored Qur'an",
+      "translation_bn": "বরং এটা মহান কোরআন",
+      "translation_ur": "(اُن کے جھٹلانے سے اِس قرآن کا کچھ نہیں بگڑتا) بلکہ یہ قرآن بلند پایہ ہے"
+    },
+    {
+      "id": 22,
+      "arabic": "فِي لَوۡحٖ مَّحۡفُوظِۭ",
+      "transliteration": "Fee lawhin mahfoothin",
+      "translation_en": "[Inscribed] in a Preserved Slate",
+      "translation_bn": "লওহে মাহফুযে লিপিবদ্ধ।",
+      "translation_ur": "اُس لوح میں (نقش ہے) جو محفوظ ہے"
+    }
+  ]
+}

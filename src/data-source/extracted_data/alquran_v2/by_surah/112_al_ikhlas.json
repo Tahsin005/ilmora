@@ -1,0 +1,42 @@
+{
+  "id": 112,
+  "name": "الإخلاص",
+  "transliteration": "Al-Ikhlas",
+  "translation_en": "The Sincerity",
+  "type": "meccan",
+  "total_verses": 4,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+      "transliteration": "Qul huwa Allahu ahadun",
+      "translation_en": "Say, \"He is Allah, [who is] One",
+      "translation_bn": "বলুন, তিনি আল্লাহ, এক",
+      "translation_ur": "کہو، وہ اللہ ہے، یکتا"
+    },
+    {
+      "id": 2,
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+      "transliteration": "Allahu alssamadu",
+      "translation_en": "Allah, the Eternal Refuge",
+      "translation_bn": "আল্লাহ অমুখাপেক্ষী",
+      "translation_ur": "اللہ سب سے بے نیاز ہے اور سب اس کے محتاج ہیں"
+    },
+    {
+      "id": 3,
+      "arabic": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+      "transliteration": "Lam yalid walam yooladu",
+      "translation_en": "He neither begets nor is born",
+      "translation_bn": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+      "translation_ur": "نہ اس کی کوئی اولاد ہے اور نہ وہ کسی کی اولاد"
+    },
+    {
+      "id": 4,
+      "arabic": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+      "transliteration": "Walam yakun lahu kufuwan ahadun",
+      "translation_en": "Nor is there to Him any equivalent",
+      "translation_bn": "এবং তার সমতুল্য কেউ নেই।",
+      "translation_ur": "اور کوئی اس کا ہمسر نہیں ہے"
+    }
+  ]
+}

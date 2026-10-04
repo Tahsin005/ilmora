@@ -1,0 +1,50 @@
+{
+  "id": 111,
+  "name": "المسد",
+  "transliteration": "Al-Masad",
+  "translation_en": "The Palm Fiber",
+  "type": "meccan",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
+      "transliteration": "Tabbat yada abee lahabin watabba",
+      "translation_en": "May the hands of Abu Lahab be ruined, and ruined is he",
+      "translation_bn": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে",
+      "translation_ur": "ٹوٹ گئے ابولہب کے ہاتھ اور نامراد ہو گیا وہ"
+    },
+    {
+      "id": 2,
+      "arabic": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+      "transliteration": "Ma aghna AAanhu maluhu wama kasaba",
+      "translation_en": "His wealth will not avail him or that which he gained",
+      "translation_bn": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।",
+      "translation_ur": "اُس کا مال اور جو کچھ اس نے کمایا وہ اُس کے کسی کام نہ آیا"
+    },
+    {
+      "id": 3,
+      "arabic": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ",
+      "transliteration": "Sayasla naran thata lahabin",
+      "translation_en": "He will [enter to] burn in a Fire of [blazing] flame",
+      "translation_bn": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে",
+      "translation_ur": "ضرور وہ شعلہ زن آگ میں ڈالا جائے گا"
+    },
+    {
+      "id": 4,
+      "arabic": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+      "transliteration": "Waimraatuhu hammalata alhatabi",
+      "translation_en": "And his wife [as well] - the carrier of firewood",
+      "translation_bn": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে",
+      "translation_ur": "اور (اُس کے ساتھ) اُس کی جورو بھی، لگائی بجھائی کرنے والی"
+    },
+    {
+      "id": 5,
+      "arabic": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+      "transliteration": "Fee jeediha hablun min masadin",
+      "translation_en": "Around her neck is a rope of [twisted] fiber",
+      "translation_bn": "তার গলদেশে খর্জুরের রশি নিয়ে।",
+      "translation_ur": "اُس کی گردن میں مونجھ کی رسی ہوگی"
+    }
+  ]
+}

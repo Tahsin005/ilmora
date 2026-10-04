@@ -1,0 +1,362 @@
+{
+  "id": 70,
+  "name": "المعارج",
+  "transliteration": "Al-Ma'arij",
+  "translation_en": "The Ascending Stairways",
+  "type": "meccan",
+  "total_verses": 44,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ",
+      "transliteration": "Saala sailun biAAathabin waqiAAin",
+      "translation_en": "A supplicant asked for a punishment bound to happen",
+      "translation_bn": "একব্যক্তি চাইল, সেই আযাব সংঘটিত হোক যা অবধারিত",
+      "translation_ur": "مانگنے والے نے عذاب مانگا ہے، (وہ عذاب) جو ضرور واقع ہونے والا ہے"
+    },
+    {
+      "id": 2,
+      "arabic": "لِّلۡكَٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ",
+      "transliteration": "Lilkafireena laysa lahu dafiAAun",
+      "translation_en": "To the disbelievers; of it there is no preventer",
+      "translation_bn": "কাফেরদের জন্যে, যার প্রতিরোধকারী কেউ নেই।",
+      "translation_ur": "کافروں کے لیے ہے، کوئی اُسے دفع کرنے والا نہیں"
+    },
+    {
+      "id": 3,
+      "arabic": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ",
+      "transliteration": "Mina Allahi thee almaAAariji",
+      "translation_en": "[It is] from Allah, owner of the ways of ascent",
+      "translation_bn": "তা আসবে আল্লাহ তা’আলার পক্ষ থেকে, যিনি সমুন্নত মর্তবার অধিকারী।",
+      "translation_ur": "اُس خدا کی طرف سے ہے جو عروج کے زینوں کا مالک ہے"
+    },
+    {
+      "id": 4,
+      "arabic": "تَعۡرُجُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+      "transliteration": "TaAAruju almalaikatu waalrroohu ilayhi fee yawmin kana miqdaruhu khamseena alfa sanatin",
+      "translation_en": "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years",
+      "translation_bn": "ফেরেশতাগণ এবং রূহ আল্লাহ তা’আলার দিকে উর্ধ্বগামী হয় এমন একদিনে, যার পরিমাণ পঞ্চাশ হাজার বছর।",
+      "translation_ur": "ملائکہ اور روح اُس کے حضور چڑھ کر جاتے ہیں ایک ایسے دن میں جس کی مقدار پچاس ہزار سال ہے"
+    },
+    {
+      "id": 5,
+      "arabic": "فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا",
+      "transliteration": "Faisbir sabran jameelan",
+      "translation_en": "So be patient with gracious patience",
+      "translation_bn": "অতএব, আপনি উত্তম সবর করুন।",
+      "translation_ur": "پس اے نبیؐ، صبر کرو، شائستہ صبر"
+    },
+    {
+      "id": 6,
+      "arabic": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا",
+      "transliteration": "Innahum yarawnahu baAAeedan",
+      "translation_en": "Indeed, they see it [as] distant",
+      "translation_bn": "তারা এই আযাবকে সুদূরপরাহত মনে করে",
+      "translation_ur": "یہ لوگ اُسے دور سمجھتے ہیں"
+    },
+    {
+      "id": 7,
+      "arabic": "وَنَرَىٰهُ قَرِيبٗا",
+      "transliteration": "Wanarahu qareeban",
+      "translation_en": "But We see it [as] near",
+      "translation_bn": "আর আমি একে আসন্ন দেখছি।",
+      "translation_ur": "اور ہم اسے قریب دیکھ رہے ہیں"
+    },
+    {
+      "id": 8,
+      "arabic": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
+      "transliteration": "Yawma takoonu alssamao kaalmuhli",
+      "translation_en": "On the Day the sky will be like murky oil",
+      "translation_bn": "সেদিন আকাশ হবে গলিত তামার মত।",
+      "translation_ur": "(وہ عذاب اُس روز ہوگا) جس روز آسمان پگھلی ہوئی چاندی کی طرح ہو جائے گا"
+    },
+    {
+      "id": 9,
+      "arabic": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ",
+      "transliteration": "Watakoonu aljibalu kaalAAihni",
+      "translation_en": "And the mountains will be like wool",
+      "translation_bn": "এবং পর্বতসমূহ হবে রঙ্গীন পশমের মত",
+      "translation_ur": "اور پہاڑ رنگ برنگ کے دھنکے ہوئے اون جیسے ہو جائیں گے"
+    },
+    {
+      "id": 10,
+      "arabic": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا",
+      "transliteration": "Wala yasalu hameemun hameeman",
+      "translation_en": "And no friend will ask [anything of] a friend",
+      "translation_bn": "বন্ধু বন্ধুর খবর নিবে না।",
+      "translation_ur": "اور کوئی جگری دوست اپنے جگری دوست کو نہ پوچھے گا"
+    },
+    {
+      "id": 11,
+      "arabic": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ",
+      "transliteration": "Yubassaroonahum yawaddu almujrimu law yaftadee min AAathabi yawmiithin bibaneehi",
+      "translation_en": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children",
+      "translation_bn": "যদিও একে অপরকে দেখতে পাবে। সেদিন গোনাহগার ব্যক্তি পনস্বরূপ দিতে চাইবে তার সন্তান-সন্ততিকে",
+      "translation_ur": "حالانکہ وہ ایک دوسرے کو دکھائے جائیں گے مجرم چاہے گا کہ اس دن کے عذاب سے بچنے کے لیے اپنی اولاد کو"
+    },
+    {
+      "id": 12,
+      "arabic": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "transliteration": "Wasahibatihi waakheehi",
+      "translation_en": "And his wife and his brother",
+      "translation_bn": "তার স্ত্রীকে, তার ভ্রাতাকে",
+      "translation_ur": "اپنی بیوی کو، اپنے بھائی کو"
+    },
+    {
+      "id": 13,
+      "arabic": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ",
+      "transliteration": "Wafaseelatihi allatee tuweehi",
+      "translation_en": "And his nearest kindred who shelter him",
+      "translation_bn": "তার গোষ্ঠীকে, যারা তাকে আশ্রয় দিত।",
+      "translation_ur": "اپنے قریب ترین خاندان کو جو اسے پناہ دینے والا تھا"
+    },
+    {
+      "id": 14,
+      "arabic": "وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ",
+      "transliteration": "Waman fee alardi jameeAAan thumma yunjeehi",
+      "translation_en": "And whoever is on earth entirely [so] then it could save him",
+      "translation_bn": "এবং পৃথিবীর সবকিছুকে, অতঃপর নিজেকে রক্ষা করতে চাইবে।",
+      "translation_ur": "اور روئے زمین کے سب لوگوں کو فدیہ میں دیدے اور یہ تدبیر اُسے نجات دلا دے"
+    },
+    {
+      "id": 15,
+      "arabic": "كَلَّآۖ إِنَّهَا لَظَىٰ",
+      "transliteration": "Kalla innaha latha",
+      "translation_en": "No! Indeed, it is the Flame [of Hell]",
+      "translation_bn": "কখনই নয়। নিশ্চয় এটা লেলিহান অগ্নি।",
+      "translation_ur": "ہرگز نہیں وہ تو بھڑکتی ہوئی آگ کی لپٹ ہوگی"
+    },
+    {
+      "id": 16,
+      "arabic": "نَزَّاعَةٗ لِّلشَّوَىٰ",
+      "transliteration": "NazzaAAatan lilshshawa",
+      "translation_en": "A remover of exteriors",
+      "translation_bn": "যা চামড়া তুলে দিবে।",
+      "translation_ur": "جو گوشت پوست کو چاٹ جائے گی"
+    },
+    {
+      "id": 17,
+      "arabic": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ",
+      "transliteration": "TadAAoo man adbara watawalla",
+      "translation_en": "It invites he who turned his back [on truth] and went away [from obedience]",
+      "translation_bn": "সে সেই ব্যক্তিকে ডাকবে যে সত্যের প্রতি পৃষ্ঠপ্রদর্শন করেছিল ও বিমুখ হয়েছিল।",
+      "translation_ur": "پکار پکار کر اپنی طرف بلائے گی ہر اُس شخص کو جس نے حق سے منہ موڑا اور پیٹھ پھیری"
+    },
+    {
+      "id": 18,
+      "arabic": "وَجَمَعَ فَأَوۡعَىٰٓ",
+      "transliteration": "WajamaAAa faawAAa",
+      "translation_en": "And collected [wealth] and hoarded",
+      "translation_bn": "সম্পদ পুঞ্জীভূত করেছিল, অতঃপর আগলিয়ে রেখেছিল।",
+      "translation_ur": "اور مال جمع کیا اور سینت سینت کر رکھا"
+    },
+    {
+      "id": 19,
+      "arabic": "۞إِنَّ ٱلۡإِنسَٰنَ خُلِقَ هَلُوعًا",
+      "transliteration": "Inna alinsana khuliqa halooAAan",
+      "translation_en": "Indeed, mankind was created anxious",
+      "translation_bn": "মানুষ তো সৃজিত হয়েছে ভীরুরূপে।",
+      "translation_ur": "انسان تھڑدلا پیدا کیا گیا ہے"
+    },
+    {
+      "id": 20,
+      "arabic": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا",
+      "transliteration": "Itha massahu alshsharru jazooAAan",
+      "translation_en": "When evil touches him, impatient",
+      "translation_bn": "যখন তাকে অনিষ্ট স্পর্শ করে, তখন সে হা-হুতাশ করে।",
+      "translation_ur": "جب اس پر مصیبت آتی ہے تو گھبرا اٹھتا ہے"
+    },
+    {
+      "id": 21,
+      "arabic": "وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا",
+      "transliteration": "Waitha massahu alkhayru manooAAan",
+      "translation_en": "And when good touches him, withholding [of it]",
+      "translation_bn": "আর যখন কল্যাণপ্রাপ্ত হয়, তখন কৃপণ হয়ে যায়।",
+      "translation_ur": "اور جب اسے خوشحالی نصیب ہوتی ہے تو بخل کرنے لگتا ہے"
+    },
+    {
+      "id": 22,
+      "arabic": "إِلَّا ٱلۡمُصَلِّينَ",
+      "transliteration": "Illa almusalleena",
+      "translation_en": "Except the observers of prayer",
+      "translation_bn": "তবে তারা স্বতন্ত্র, যারা নামায আদায় কারী।",
+      "translation_ur": "مگر وہ لوگ (اِس عیب سے بچے ہوئے ہیں) جو نماز پڑھنے والے ہیں"
+    },
+    {
+      "id": 23,
+      "arabic": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ",
+      "transliteration": "Allatheena hum AAala salatihim daimoona",
+      "translation_en": "Those who are constant in their prayer",
+      "translation_bn": "যারা তাদের নামাযে সার্বক্ষণিক কায়েম থাকে।",
+      "translation_ur": "جو اپنی نماز کی ہمیشہ پابندی کرتے ہیں"
+    },
+    {
+      "id": 24,
+      "arabic": "وَٱلَّذِينَ فِيٓ أَمۡوَٰلِهِمۡ حَقّٞ مَّعۡلُومٞ",
+      "transliteration": "Waallatheena fee amwalihim haqqun maAAloomun",
+      "translation_en": "And those within whose wealth is a known right",
+      "translation_bn": "এবং যাদের ধন-সম্পদে নির্ধারিত হক আছে",
+      "translation_ur": "جن کے مالوں میں،"
+    },
+    {
+      "id": 25,
+      "arabic": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "transliteration": "Lilssaili waalmahroomi",
+      "translation_en": "For the petitioner and the deprived",
+      "translation_bn": "যাঞ্ছাকারী ও বঞ্চিতের",
+      "translation_ur": "سائل اور محروم کا ایک حق مقرر ہے"
+    },
+    {
+      "id": 26,
+      "arabic": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ",
+      "transliteration": "Waallatheena yusaddiqoona biyawmi alddeeni",
+      "translation_en": "And those who believe in the Day of Recompense",
+      "translation_bn": "এবং যারা প্রতিফল দিবসকে সত্য বলে বিশ্বাস করে।",
+      "translation_ur": "جو روز جزا کو برحق مانتے ہیں"
+    },
+    {
+      "id": 27,
+      "arabic": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ",
+      "transliteration": "Waallatheena hum min AAathabi rabbihim mushfiqoona",
+      "translation_en": "And those who are fearful of the punishment of their Lord",
+      "translation_bn": "এবং যারা তাদের পালনকর্তার শাস্তির সম্পর্কে ভীত-কম্পিত।",
+      "translation_ur": "جو اپنے رب کے عذاب سے ڈرتے ہیں"
+    },
+    {
+      "id": 28,
+      "arabic": "إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ",
+      "transliteration": "Inna AAathaba rabbihim ghayru mamoonin",
+      "translation_en": "Indeed, the punishment of their Lord is not that from which one is safe",
+      "translation_bn": "নিশ্চয় তাদের পালনকর্তার শাস্তি থেকে নিঃশঙ্কা থাকা যায় না।",
+      "translation_ur": "کیونکہ اُن کے رب کا عذاب ایسی چیز نہیں ہے جس سے کوئی بے خوف ہو"
+    },
+    {
+      "id": 29,
+      "arabic": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "transliteration": "Waallatheena hum lifuroojihim hafithoona",
+      "translation_en": "And those who guard their private parts",
+      "translation_bn": "এবং যারা তাদের যৌন-অঙ্গকে সংযত রাখে",
+      "translation_ur": "جو اپنی شرمگاہوں کی حفاظت کرتے ہیں"
+    },
+    {
+      "id": 30,
+      "arabic": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "transliteration": "Illa AAala azwajihim aw ma malakat aymanuhum fainnahum ghayru maloomeena",
+      "translation_en": "Except from their wives or those their right hands possess, for indeed, they are not to be blamed",
+      "translation_bn": "কিন্তু তাদের স্ত্রী অথবা মালিকানাভূক্ত দাসীদের বেলায় তিরস্কৃত হবে না।",
+      "translation_ur": "بجز اپنی بیویوں یا اپنی مملوکہ عورتوں کے جن سے محفوظ نہ رکھنے میں ان پر کوئی ملامت نہیں"
+    },
+    {
+      "id": 31,
+      "arabic": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "transliteration": "Famani ibtagha waraa thalika faolaika humu alAAadoona",
+      "translation_en": "But whoever seeks beyond that, then they are the transgressors",
+      "translation_bn": "অতএব, যারা এদের ছাড়া অন্যকে কামনা করে, তারাই সীমালংঘনকারী।",
+      "translation_ur": "البتہ جو اس کے علاوہ کچھ اور چاہیں وہی حد سے تجاوز کرنے والے ہیں"
+    },
+    {
+      "id": 32,
+      "arabic": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+      "transliteration": "Waallatheena hum liamanatihim waAAahdihim raAAoona",
+      "translation_en": "And those who are to their trusts and promises attentive",
+      "translation_bn": "এবং যারা তাদের আমানত ও অঙ্গীকার রক্ষা করে",
+      "translation_ur": "جو اپنی امانتوں کی حفاظت اور اپنے عہد کا پاس کرتے ہیں"
+    },
+    {
+      "id": 33,
+      "arabic": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ",
+      "transliteration": "Waallatheena hum bishahadatihim qaimoona",
+      "translation_en": "And those who are in their testimonies upright",
+      "translation_bn": "এবং যারা তাদের সাক্ষ্যদানে সরল-নিষ্ঠাবান",
+      "translation_ur": "جو اپنی گواہیوں میں راست بازی پر قائم رہتے ہیں"
+    },
+    {
+      "id": 34,
+      "arabic": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ",
+      "transliteration": "Waallatheena hum AAala salatihim yuhafithoona",
+      "translation_en": "And those who [carefully] maintain their prayer",
+      "translation_bn": "এবং যারা তাদের নামাযে যত্নবান",
+      "translation_ur": "اور جو اپنی نماز کی حفاظت کرتے ہیں"
+    },
+    {
+      "id": 35,
+      "arabic": "أُوْلَـٰٓئِكَ فِي جَنَّـٰتٖ مُّكۡرَمُونَ",
+      "transliteration": "Olaika fee jannatin mukramoona",
+      "translation_en": "They will be in gardens, honored",
+      "translation_bn": "তারাই জান্নাতে সম্মানিত হবে।",
+      "translation_ur": "یہ لوگ عزت کے ساتھ جنت کے باغوں میں رہیں گے"
+    },
+    {
+      "id": 36,
+      "arabic": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
+      "transliteration": "Famali allatheena kafaroo qibalaka muhtiAAeena",
+      "translation_en": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muhammad]",
+      "translation_bn": "অতএব, কাফেরদের কি হল যে, তারা আপনার দিকে উর্ধ্বশ্বাসে ছুটে আসছে।",
+      "translation_ur": "پس اے نبیؐ، کیا بات ہے کہ یہ منکرین دائیں اور بائیں سے،"
+    },
+    {
+      "id": 37,
+      "arabic": "عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "transliteration": "AAani alyameeni waAAani alshshimali AAizeena",
+      "translation_en": "[To sit] on [your] right and [your] left in separate groups",
+      "translation_bn": "ডান ও বামদিক থেকে দলে দলে।",
+      "translation_ur": "گروہ در گروہ تمہاری طرف دوڑے چلے آ رہے ہیں؟"
+    },
+    {
+      "id": 38,
+      "arabic": "أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ",
+      "transliteration": "AyatmaAAu kullu imriin minhum an yudkhala jannata naAAeemin",
+      "translation_en": "Does every person among them aspire to enter a garden of pleasure",
+      "translation_bn": "তাদের প্রত্যেকেই কি আশা করে যে, তাকে নেয়ামতের জান্নাতে দাখিল করা হবে",
+      "translation_ur": "کیا اِن میں سے ہر ایک یہ لالچ رکھتا ہے کہ وہ نعمت بھری جنت میں داخل کر دیا جائے گا؟"
+    },
+    {
+      "id": 39,
+      "arabic": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
+      "transliteration": "Kalla inna khalaqnahum mimma yaAAlamoona",
+      "translation_en": "No! Indeed, We have created them from that which they know",
+      "translation_bn": "কখনই নয়, আমি তাদেরকে এমন বস্তু দ্বারা সৃষ্টি করেছি, যা তারা জানে।",
+      "translation_ur": "ہرگز نہیں ہم نے جس چیز سے اِن کو پیدا کیا ہے اُسے یہ خود جانتے ہیں"
+    },
+    {
+      "id": 40,
+      "arabic": "فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشَٰرِقِ وَٱلۡمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "transliteration": "Fala oqsimu birabbi almashariqi waalmagharibi inna laqadiroona",
+      "translation_en": "So I swear by the Lord of [all] risings and settings that indeed We are able",
+      "translation_bn": "আমি শপথ করছি উদয়াচল ও অস্তাচলসমূহের পালনকর্তার, নিশ্চয়ই আমি সক্ষম",
+      "translation_ur": "پس نہیں، میں قسم کھاتا ہوں مشرقوں اور مغربوں کے مالک کی، ہم اِس پر قادر ہیں"
+    },
+    {
+      "id": 41,
+      "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "transliteration": "AAala an nubaddila khayran minhum wama nahnu bimasbooqeena",
+      "translation_en": "To replace them with better than them; and We are not to be outdone",
+      "translation_bn": "তাদের পরিবর্তে উৎকৃষ্টতর মানুষ সৃষ্টি করতে এবং এটা আমার সাধ্যের অতীত নয়।",
+      "translation_ur": "کہ اِن کی جگہ اِن سے بہتر لوگ لے آئیں اور کوئی ہم سے بازی لے جانے والا نہیں ہے"
+    },
+    {
+      "id": 42,
+      "arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "transliteration": "Fatharhum yakhoodoo wayalAAaboo hatta yulaqoo yawmahumu allathee yooAAadoona",
+      "translation_en": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised",
+      "translation_bn": "অতএব, আপনি তাদেরকে ছেড়ে দিন, তারা বাকবিতন্ডা ও ক্রীড়া-কৌতুক করুক সেই দিবসের সম্মুখীন হওয়া পর্যন্ত, যে দিবসের ওয়াদা তাদের সাথে করা হচ্ছে।",
+      "translation_ur": "لہٰذا اِنہیں اپنی بیہودہ باتوں اور اپنے کھیل میں پڑا رہنے دو یہاں تک کہ یہ اپنے اُس دن تک پہنچ جائیں جس کا ان سے وعدہ کیا جا رہا ہے"
+    },
+    {
+      "id": 43,
+      "arabic": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ",
+      "transliteration": "Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona",
+      "translation_en": "The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening",
+      "translation_bn": "সে দিন তারা কবর থেকে দ্রুতবেগে বের হবে, যেন তারা কোন এক লক্ষ্যস্থলের দিকে ছুটে যাচ্ছে।",
+      "translation_ur": "جب یہ اپنی قبروں سے نکل کر اِس طرح دوڑے جا رہے ہوں گے جیسے اپنے بتوں کے استھانوں کی طرف دوڑ رہے ہوں"
+    },
+    {
+      "id": 44,
+      "arabic": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ",
+      "transliteration": "KhashiAAatan absaruhum tarhaquhum thillatun thalika alyawmu allathee kanoo yooAAadoona",
+      "translation_en": "Their eyes humbled, humiliation will cover them. That is the Day which they had been promised",
+      "translation_bn": "তাদের দৃষ্টি থাকবে অবনমিত; তারা হবে হীনতাগ্রস্ত। এটাই সেইদিন, যার ওয়াদা তাদেরকে দেয়া হত।",
+      "translation_ur": "اِن کی نگاہیں جھکی ہوئی ہوں گی، ذلت اِن پر چھا رہی ہوگی وہ دن ہے جس کا اِن سے وعدہ کیا جا رہا ہے"
+    }
+  ]
+}

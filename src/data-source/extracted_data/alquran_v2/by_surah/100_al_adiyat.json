@@ -1,0 +1,98 @@
+{
+  "id": 100,
+  "name": "العاديات",
+  "transliteration": "Al-'Adiyat",
+  "translation_en": "The Courser",
+  "type": "meccan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا",
+      "transliteration": "WaalAAadiyati dabhan",
+      "translation_en": "By the racers, panting",
+      "translation_bn": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের",
+      "translation_ur": "قسم ہے اُن (گھوڑوں) کی جو پھنکارے مارتے ہوئے دوڑتے ہیں"
+    },
+    {
+      "id": 2,
+      "arabic": "فَٱلۡمُورِيَٰتِ قَدۡحٗا",
+      "transliteration": "Faalmooriyati qadhan",
+      "translation_en": "And the producers of sparks [when] striking",
+      "translation_bn": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের",
+      "translation_ur": "پھر (اپنی ٹاپوں سے) چنگاریاں جھاڑتے ہیں"
+    },
+    {
+      "id": 3,
+      "arabic": "فَٱلۡمُغِيرَٰتِ صُبۡحٗا",
+      "transliteration": "Faalmugheerati subhan",
+      "translation_en": "And the chargers at dawn",
+      "translation_bn": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের",
+      "translation_ur": "پھر صبح سویرے چھاپہ مارتے ہیں"
+    },
+    {
+      "id": 4,
+      "arabic": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا",
+      "transliteration": "Faatharna bihi naqAAan",
+      "translation_en": "Stirring up thereby [clouds of] dust",
+      "translation_bn": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে",
+      "translation_ur": "پھر اس موقع پر گرد و غبار اڑاتے ہیں"
+    },
+    {
+      "id": 5,
+      "arabic": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
+      "transliteration": "Fawasatna bihi jamAAan",
+      "translation_en": "Arriving thereby in the center collectively",
+      "translation_bn": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে",
+      "translation_ur": "پھر اِسی حالت میں کسی مجمع کے اندر جا گھستے ہیں"
+    },
+    {
+      "id": 6,
+      "arabic": "إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ",
+      "transliteration": "Inna alinsana lirabbihi lakanoodun",
+      "translation_en": "Indeed mankind, to his Lord, is ungrateful",
+      "translation_bn": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।",
+      "translation_ur": "حقیقت یہ ہے کہ انسان اپنے رب کا بڑا ناشکرا ہے"
+    },
+    {
+      "id": 7,
+      "arabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ",
+      "transliteration": "Wainnahu AAala thalika lashaheedun",
+      "translation_en": "And indeed, he is to that a witness",
+      "translation_bn": "এবং সে অবশ্য এ বিষয়ে অবহিত",
+      "translation_ur": "اور وہ خود اِس پر گواہ ہے"
+    },
+    {
+      "id": 8,
+      "arabic": "وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ",
+      "transliteration": "Wainnahu lihubbi alkhayri lashadeedun",
+      "translation_en": "And indeed he is, in love of wealth, intense",
+      "translation_bn": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।",
+      "translation_ur": "اور وہ مال و دولت کی محبت میں بری طرح مبتلا ہے"
+    },
+    {
+      "id": 9,
+      "arabic": "۞أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
+      "transliteration": "Afala yaAAlamu itha buAAthira ma fee alquboori",
+      "translation_en": "But does he not know that when the contents of the graves are scattered",
+      "translation_bn": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে",
+      "translation_ur": "تو کیا وہ اُس حقیقت کو نہیں جانتا جب قبروں میں جو کچھ (مدفون) ہے اُسے نکال لیا جائے گا"
+    },
+    {
+      "id": 10,
+      "arabic": "وَحُصِّلَ مَا فِي ٱلصُّدُورِ",
+      "transliteration": "Wahussila ma fee alssudoori",
+      "translation_en": "And that within the breasts is obtained",
+      "translation_bn": "এবং অন্তরে যা আছে, তা অর্জন করা হবে",
+      "translation_ur": "اور سینوں میں جو کچھ (مخفی) ہے اُسے برآمد کر کے اس کی جانچ پڑتال کی جائے گی؟"
+    },
+    {
+      "id": 11,
+      "arabic": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
+      "transliteration": "Inna rabbahum bihim yawmaithin lakhabeerun",
+      "translation_en": "Indeed, their Lord with them, that Day, is [fully] Acquainted",
+      "translation_bn": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।",
+      "translation_ur": "یقیناً اُن کا رب اُس روز اُن سے خوب باخبر ہوگا"
+    }
+  ]
+}

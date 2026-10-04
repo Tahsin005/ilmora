@@ -1,0 +1,401 @@
+{
+  "category": {
+    "name": "Fasting",
+    "url": "fasting",
+    "icon": "fasting.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 8,
+  "subcategories": [
+    {
+      "id": 59,
+      "title": "Duas to be recited in Ramadan",
+      "category": "fasting",
+      "dua-ids": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317
+      ],
+      "duas": [
+        {
+          "dua_id": 310,
+          "title": "Laylatul Qadr Dua (Allahumma Innaka Afuwwun Karim Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنَّكَ عَفُوٌّ (كَرِيْمٌ) تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+          "audio": "/audio/dua/310.mp3",
+          "transliteration": "Allaahumma innaka `Afuwwun [Karimun], tu'hibbul-`afwa fa`fu `annī.",
+          "translation": "O Allah, indeed You are Pardoning [Generous], You love pardon, so pardon me.\n\nAyesha (RA) said, \"O Messenger of Allah (ﷺ), should I make du'a on Lailatul Qadr?\" Then he (ﷺ) taught me this du'a. This du'aa 'can be recited in the prostration of Salat on Laylat al-Qadr, before Salam, after salaam and on all other days and nights in all Salats and at normal times.",
+          "reference": "Sahih (Albani). Tirmidhi: 3513",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ الضُّبَعِيُّ، عَنْ كَهْمَسِ بْنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَائِشَةَ، قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ إِنْ عَلِمْتُ أَىُّ لَيْلَةٍ لَيْلَةُ الْقَدْرِ مَا أَقُولُ فِيهَا قَالَ ‏ \"‏ قُولِي اللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+            "translation": "Aishah narrated: “I said: ‘O Messenger of Allah, what is your view if I know when the Night of Al-Qadr is, then what should I say in it?” He said: ‘Say: “O Allah, indeed You are Pardoning, [Generous,] You love pardon, so pardon me (Allāhumma innaka `Afuwwun [Karīmun], tuḥibbul-`afwa fa`fu `annī).’” [Sahih (Albani). Tirmidhi: 3513]"
+          },
+          "benefits": {
+            "title": "Benefits of Laylatul Qadr Dua",
+            "description": "This special dua for laylatul qadr asks Allah for full pardon and mercy, bringing hope, forgiveness, and Barakah to Muslims in the blessed nights of Ramadan.",
+            "points": [
+              "Allahumma innaka afuwwun dua brings full forgiveness on shab e qadr night.",
+              "Laylatul qadr dua helps Muslims get Barakah and mercy in last 10 days of Ramadan.",
+              "This dua for forgiveness wipes away old sins and gives a fresh start in life.",
+              "Shab e qadr ki dua brings hope and closeness to Allah in the night of power.",
+              "Making this dua of laylatul qadr keeps Iman strong and Amal pure for Muslims."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Laylatul Qadr Dua (Allahumma Innaka Afuwwun Karim Dua)",
+            "description": "This laylatul qadr dua is recited in the blessed nights of Ramadan, asking Allah for forgiveness and Barakah, especially when hearts are soft and the night of power brings hope for mercy and new Amal.",
+            "points": [
+              "During the last 10 days of Ramadan, Muslims recite laylatul qadr dua for forgiveness.",
+              "On shab e qadr, use allahumma innaka afuwwun tuhibbul afwa for Barakah and mercy.",
+              "While praying in the night of power, make dua for laylatul qadr with full Iman.",
+              "After finishing lailatul qadr prayer, say this dua of laylatul qadr for Allah’s pardon.",
+              "When seeking signs of laylatul qadr, repeat this qadr night dua for more blessings."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Laylatul Qadr Dua",
+            "description": "On the blessed night of Laylatul Qadr, this laylatul qadr dua is recited to seek Allah’s forgiveness and mercy. It is a simple masnoon dua that brings Barakah and is loved by every Muslim during Ramadan.",
+            "steps": [
+              "After finishing your salah in the last 10 nights, recite the laylatul qadr dua with full hope.",
+              "When you feel the night is special, whisper allahumma innaka afuwwun with a soft heart.",
+              "During your qadr night dua, raise your hands and ask Allah for forgiveness and mercy.",
+              "If you sit for zikr Allah or quranic dua, say this dua for laylatul qadr to get Allah’s pardon.",
+              "Before going to bed on shab e qadr, repeat this dua of laylatul qadr for more Barakah and peace."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 311,
+          "title": "Dua of the beginning of fasting",
+          "category_tags": [],
+          "introduction": "There is no masnun dua at the beginning of fasting. However, it is important to make the intention for fasting the night before the start of fasting. The conscious purpose in the mind is called intention. This is the intention of the believer to fast before fasting, before going to bed at night or during sahri. It is not Sunnah to say \"Nawaituan\" or to do so in any other way.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 312,
+          "title": "Moon Sighting Dua",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَهْلِلْهُ عَلَيْنَا بِالْيُمْنِ وَالْإِيْمَانِ وَالسَّلَامَةِ وَالْإِسْلَامِ رَبِّيْ وَرَبُّكَ اللَّهُ",
+          "audio": "/audio/dua/312.mp3",
+          "transliteration": "Allaahumma ahlilhu `alaina bil-yumni wal-iman, was-salamati wal-Islam, rabbi wa rabbuk Allah",
+          "translation": "O Allah, bring it over us with blessing and faith, and security and Islam. My Lord and your Lord is Allah.\n\nRasulullah (ﷺ) used to say this dua when he saw the new moon. It is masnun to recite this dua after seeing the new moon of Ramadan and all the months.",
+          "reference": "Sahih. Tirmidhi: 3451",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ سُفْيَانَ الْمَدَنِيُّ، حَدَّثَنِي بِلاَلُ بْنُ يَحْيَى بْنِ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا رَأَى الْهِلاَلَ قَالَ ‏ \"‏ اللَّهُمَّ أَهْلِلْهُ عَلَيْنَا بِالْيُمْنِ وَالإِيمَانِ وَالسَّلاَمَةِ وَالإِسْلاَمِ رَبِّي وَرَبُّكَ اللَّهُ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+            "translation": "Bilal bin Yahya bin Talhah bin `Ubaidullah narrated : from his father, from his grandfather Talhah bin `Ubaidullah that when the Prophet (ﷺ) would see a crescent moon, he would say: “O Allah, bring it over us with blessing and faith, and security and Islam. My Lord and your Lord is Allah (Allāhumma ahlilhu `alainā bil-yumni wal-Īmān, was-salāmati wal-Islām, rabbī wa rabbuk Allāh).” [Sahih (Albani). Tirmidhi: 3451]"
+          },
+          "benefits": {
+            "title": "Benefits of Moon Sighting Dua",
+            "description": "This moon sighting dua asks Allah for Barakah, Iman, and safety with every new moon, bringing hope and peace to Muslims as they welcome Ramadan or Eid with faith and happiness.",
+            "points": [
+              "Allah gives Barakah and Iman to Muslims who make this moon sighting dua.",
+              "Dua for new moon brings peace, safety, and Islam in every new month.",
+              "Chand dekhne ki dua helps Muslims start Ramadan or Eid with pure Amal.",
+              "New moon dua reminds hearts that Allah is the Lord of all creation and time.",
+              "Saying this dua for moon brings hope and unity to the Muslim ummah always."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Moon Sighting Dua",
+            "description": "This moon sighting dua is recited when seeing the new moon, asking Allah for Barakah, Iman, and peace, making every new month start with hope and zikr Allah in the heart of every Muslim.",
+            "points": [
+              "When first seeing the new moon, recite moon sighting dua for blessing and Iman.",
+              "At the start of Ramadan moon sighting, Muslims use this dua for new moon with Amal.",
+              "During Eid moon sighting, make chand dekhne ki dua for Barakah and safety.",
+              "After spotting the Ramadan crescent, say this dua for moon to thank Allah for the month.",
+              "When teaching kids about rukyatul hilal, repeat new moon dua for zikr Allah and joy."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Moon Sighting Dua",
+            "description": "When you see the new moon, this moon sighting dua is recited to ask Allah for Barakah, Iman, and safety. It is a masnoon dua that brings peace and is used by Muslims at the start of Ramadan or Eid.",
+            "steps": [
+              "As soon as you spot the new moon, quietly say the moon sighting dua with Iman.",
+              "When standing with family for Ramadan moon sighting, recite this dua for new moon together.",
+              "After seeing the crescent, look up and say chand dekhne ki dua for Barakah and peace.",
+              "If you join others for Eid moon sighting, share this dua for moon to spread happiness.",
+              "While making rukyatul hilal, remember to say this masnun dua for a blessed Islamic month."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 313,
+          "title": "Dua for Iftar (Iftar Dua)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) used to say when he breaks his fast:",
+          "arabic": "ذَهَبَ الظَّمَاءُ وَابْتَلَّتِ الْعُرُوْقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+          "audio": "/audio/dua/313.mp3",
+          "transliteration": "Dhahabadh-dhama'u wabtallatil-'urooqu, wa thabatal-'ajru 'inshaa'Allah",
+          "translation": "The thirst is gone, the veins are moistened and the reward is confirmed, if Allah wills.\n\nNote that, the widely practiced hadith 'Allahumma laka samtu wa 'ala rizqika aftartu' but, the hadith is da'if (weak). [2]",
+          "reference": "[1] Hasan (Albani). Abu Dawud: 2357 [2] Weak (Albany). Abu Dawud: 2358",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ يَحْيَى أَبُو مُحَمَّدٍ، حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ، أَخْبَرَنِي الْحُسَيْنُ بْنُ وَاقِدٍ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي ابْنَ سَالِمٍ - الْمُقَفَّعُ - قَالَ رَأَيْتُ ابْنَ عُمَرَ يَقْبِضُ عَلَى لِحْيَتِهِ فَيَقْطَعُ مَا زَادَ عَلَى الْكَفِّ وَقَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَفْطَرَ قَالَ ‏ \"‏ ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ ‏\" ‏ ‏.‏",
+            "translation": "Marwan ibn Salim al-Muqaffa' said: I saw Ibn Umar holding his beard with his hand and cutting what exceeded the handful of it. He (Ibn Umar) said that the Prophet (ﷺ) said when he broke his fast: Thirst has gone, the arteries are moist, and the reward is sure, if Allah wills. [[1] Hasan (Albani). Abu Dawud: 2357 [2] Weak (Albany). Abu Dawud: 2358]"
+          },
+          "benefits": {
+            "title": "Benefits of Iftar Dua",
+            "description": "This iftar dua thanks Allah for the end of fasting, asking for reward and Barakah, and helps Muslims remember the blessings of Ramadan with every sip and bite at iftar time.",
+            "points": [
+              "Allah gives reward to Muslims who say iftar dua after breaking their fast.",
+              "Dua for breaking fast brings Barakah and peace to hearts at iftar time.",
+              "Iftar prayer helps Muslims remember Allah’s mercy and Amal during Ramadan.",
+              "Roza kholne ki dua makes the fasting day complete with hope and thankfulness.",
+              "Saying this dua for iftar keeps Iman strong and brings joy to the family table."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Iftar Dua",
+            "description": "The iftar dua is a simple masnoon dua that Muslims say at the time of breaking their fast, asking Allah for reward and Barakah after a day of patience and fasting in Ramadan.",
+            "points": [
+              "At the moment you break your fast, recite the iftar dua for breaking fast and reward.",
+              "Just before taking your first sip of water, use the dua for iftar to thank Allah for His mercy.",
+              "After finishing your meal at iftar, say the dua for fasting to ask for Barakah in your Amal.",
+              "When sitting with family at iftar time, make the Ramadan iftar dua together for unity and reward.",
+              "If you forget before eating, recite the breaking fast dua right after remembering for your fasting Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Iftar Dua",
+            "description": "At the time of iftar, this iftar dua is recited to thank Allah for the fast and ask for reward. It is a masnoon dua that every Muslim should say when breaking their fast in Ramadan.",
+            "steps": [
+              "Just before taking your first sip of water, quietly recite the iftar dua with hope in your heart.",
+              "When sitting with family for iftar, say the dua for breaking fast together for more Barakah.",
+              "After eating your first date, remember to say the Ramadan iftar dua to thank Allah for the day.",
+              "If you break your fast at masjid, share this dua for iftar with other Muslims around you.",
+              "While making dua after breaking fast, ask Allah for acceptance and reward with this masnun dua."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 314,
+          "title": "Dua of Iftar",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ أَنْ تَغْفِرَ لِي",
+          "audio": "/audio/dua/314.mp3",
+          "transliteration": "Allaahumma 'innee 'as'aluka birahmatikal-latee wasi'at kulla shay'in 'an taghfira lee",
+          "translation": "O Allah, I ask You by Your mercy, which encompasses all things, that You forgive me.\n\nAbdullah bin Amr (RA) used to say this dua during Iftar.",
+          "reference": "Hasan (Hafiz Ibn Hazar). Takhrijul Adhkar, Sharhul Adhkar: 4/342",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "Benefits of Dua of Iftar",
+            "description": "This dua of iftar asks Allah for forgiveness with His wide mercy, making the moment of breaking fast full of hope, Barakah, and a reminder of Allah’s kindness in every Ramadan day.",
+            "points": [
+              "Allah forgives sins when Muslims make this dua of iftar with true heart.",
+              "Dua for breaking fast brings Barakah and peace to the fasting Muslim.",
+              "Ramadan dua helps Muslims remember Allah’s Rahmah at iftar time.",
+              "Iftar dua makes the end of fasting day full of hope and thankfulness.",
+              "Saying this dua for forgiveness keeps Iman strong and Amal pure in Ramadan."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua of Iftar",
+            "description": "This dua of iftar is a heartfelt masnoon dua asking Allah for forgiveness and mercy, recited at the time of breaking fast in Ramadan when hearts are soft and Barakah fills the home.",
+            "points": [
+              "As the sun sets and you wait for iftar, recite the dua of iftar for Allah’s forgiveness.",
+              "Before taking your first bite at iftar, use this dua for breaking fast to seek mercy.",
+              "After making your intention for fasting, say the Ramadan dua for forgiveness and Barakah.",
+              "When sitting with family at the iftar table, make the dua of iftar together for unity and reward.",
+              "If you remember after eating, recite the dua for forgiveness right away for your fasting Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua of Iftar",
+            "description": "This dua of iftar is a heartfelt prayer asking Allah for forgiveness through His endless mercy. It is a masnoon dua that brings Barakah and should be recited by every Muslim before breaking their fast.",
+            "steps": [
+              "As the sun sets and you wait for iftar, softly say the dua of iftar with full Iman.",
+              "When you sit with family at the iftar table, recite this dua for breaking fast together.",
+              "After hearing the adhan for maghrib, raise your hands and ask Allah for forgiveness with this dua.",
+              "If you are alone during Ramadan fasting, quietly whisper this Ramadan dua before your first bite.",
+              "While making other Islamic prayers, add this dua for forgiveness to your iftar duas for more Barakah."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 315,
+          "title": "Dua when insulted while fasting",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "إِنِّي صَائِمٌ، إِنِّي صَائِمٌ",
+          "audio": "/audio/dua/315.mp3",
+          "transliteration": "Innee saa'imun, 'innee saa'imun",
+          "translation": "I am fasting. I am fasting.\n\nNarrated Abu Huraira (RA): The Messenger of Allah (ﷺ) said: Fasting is a shield; So if any one of you observes fasting, let him not commit adultery or foolishness; If someone fights him or insults him, let him say - (The dua is mentioned above)",
+          "reference": "Bukhari: 1894",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الصِّيَامُ جُنَّةٌ، فَلاَ يَرْفُثْ وَلاَ يَجْهَلْ، وَإِنِ امْرُؤٌ قَاتَلَهُ أَوْ شَاتَمَهُ فَلْيَقُلْ إِنِّي صَائِمٌ‏.‏ مَرَّتَيْنِ، وَالَّذِي نَفْسِي بِيَدِهِ لَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ تَعَالَى مِنْ رِيحِ الْمِسْكِ، يَتْرُكُ طَعَامَهُ وَشَرَابَهُ وَشَهْوَتَهُ مِنْ أَجْلِي، الصِّيَامُ لِي، وَأَنَا أَجْزِي بِهِ، وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"Fasting is a shield (or a screen or a shelter). So, the person observing fasting should avoid sexual relation with his wife and should not behave foolishly and impudently, and if somebody fights with him or abuses him, he should tell him twice, 'I am fasting.\" The Prophet (ﷺ) added, \"By Him in Whose Hands my soul is, the smell coming out from the mouth of a fasting person is better in the sight of Allah than the smell of musk. (Allah says about the fasting person), 'He has left his food, drink and desires for My sake. The fast is for Me. So I will reward (the fasting person) for it and the reward of good deeds is multiplied ten times.\" [Bukhari: 1894]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua when Insulted while Fasting",
+            "description": "This Ramadan dua helps a Muslim keep calm and patient when someone insults them, reminding the heart to hold onto sabr and follow the sunnah of fasting in Islam.",
+            "points": [
+              "Allah gives more reward to the one who uses this Ramadan dua with sabr.",
+              "Hadith about fasting shows this dua keeps your roza safe from what breaks a fast.",
+              "Fasting in Islam becomes easy when a Muslim follows this hadith on Ramadan.",
+              "Using this dua for patience helps control anger and keeps Amal strong in Ramadan.",
+              "This Islamic dua teaches the real meaning of patience in Islam and brings peace."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Ramadan Dua",
+            "description": "This Ramadan dua is a simple masnoon dua for patience, taught by the Prophet when someone faces insult or anger while fasting, helping to protect your fast and keep your Iman strong.",
+            "points": [
+              "When someone insults you during fasting, repeat the Ramadan dua to show patience.",
+              "If anger rises while fasting in Islam, quietly say this dua for patience and control.",
+              "While walking on road and someone tries to argue, use the hadith about fasting dua.",
+              "During any heated talk in Ramadan, remind yourself with this dua for sabr and Barakah.",
+              "If you feel upset by harsh words, softly recite the Ramadan dua to protect your fasting Amal."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua when insulted while fasting",
+            "description": "This Ramadan dua teaches us to show patience in Islam and follow the hadith about fasting when someone insults you. It helps protect your fasting in Islam and reminds you to keep calm and strong during roza.",
+            "steps": [
+              "When someone insults you during fasting, quietly say innee saa'imun to yourself.",
+              "If anger rises, remember the hadith on Ramadan and repeat this dua for patience.",
+              "While walking away from insult, softly say this Islamic dua to keep your fast safe.",
+              "After the insult, think of Islamic quotes on patience and repeat the dua in your heart.",
+              "Before iftar, recall this masnoon dua to protect your roza and keep your Amal pure."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 316,
+          "title": "Dua for Iftar at Someone's House",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+          "audio": "/audio/dua/316.mp3",
+          "transliteration": "Aftara 'indakumus-saa'imoona, wa 'akala ta'aamakumul-'abraaru, wa sallat 'alaykumul-malaa'ikah.",
+          "translation": "With you, those who are fasting have broken their fast, you have fed those who are righteous, and the angels recite their prayers upon you.",
+          "reference": "Sahih. Abu Dawud: 3854",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مَخْلَدُ بْنُ خَالِدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم جَاءَ إِلَى سَعْدِ بْنِ عُبَادَةَ فَجَاءَ بِخُبْزٍ وَزَيْتٍ فَأَكَلَ ثُمَّ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ وَأَكَلَ طَعَامَكُمُ الأَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلاَئِكَةُ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Anas ibn Malik: The Prophet (ﷺ) came to visit Sa'd ibn Ubaydah, and he brought bread and olive oil, and he ate (them). Them). Then the Prophet (ﷺ) said: May the fasting (men) break their fast with you, and the pious eat your food, and the angels pray for blessing on you. [Sahih (Albani). Abu Dawud: 3854]"
+          },
+          "benefits": {
+            "title": "Benefits of Dua for Iftar at Someone's House",
+            "description": "This dua for iftar brings blessings to the home and hearts of those who host, making every iftar a time of reward, kindness, and angelic prayers for the family.",
+            "points": [
+              "Allah sends Barakah to the house where this dua for iftar is made with Iman.",
+              "Angels pray for the family who gives food and follows this iftar dua with love.",
+              "Dua for breaking fast at someone’s home brings reward for both host and guest.",
+              "Iftar prayer helps the host get duas from the righteous and keeps hearts soft.",
+              "This Islamic dua for iftar makes the meal full of mercy and Amal in every bite."
+            ]
+          },
+          "when_to_recite": {
+            "title": "When to Recite Dua for Iftar at Someone's House",
+            "description": "This dua for iftar is a beautiful masnoon dua to make after breaking your fast at someone’s home, asking Allah to bless the host with Barakah, reward, and the prayers of angels for their kindness.",
+            "points": [
+              "After finishing your iftar meal at a friend’s house, recite the dua for iftar to thank the host.",
+              "When you see the host serving food, use the dua for breaking fast to ask Allah for Barakah.",
+              "Before leaving the house after iftar, say the iftar prayer for the host’s reward and Amal.",
+              "While sitting with others after eating, make the dua after iftar for the angels’ prayers.",
+              "If you remember later, softly recite the breaking fast dua for the host’s kindness and reward."
+            ]
+          },
+          "how_to_perform": {
+            "title": "How to perform Dua for Iftar at Someone's House",
+            "description": "This dua for iftar is a beautiful way to thank your host and ask Allah for Barakah after breaking fast together. It is a masnoon dua that brings blessings and connects hearts during iftar.",
+            "steps": [
+              "After breaking your fast at someone’s house, recite this dua for iftar with a thankful heart.",
+              "When you finish eating, say this iftar prayer to ask Allah to bless your host’s food.",
+              "Before leaving the table, quietly make this breaking fast dua for the angels’ prayers.",
+              "If you see others serving food, remember this dua at iftar and wish them Barakah.",
+              "While sitting with family or friends, softly repeat this dua for iftaar to spread blessings."
+            ]
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 317,
+          "title": "Responding to Meal Invites While Fasting",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) says: If any one of you is invited to a meal when he is fasting, he should say:\" I am fasting.\"",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 1150",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

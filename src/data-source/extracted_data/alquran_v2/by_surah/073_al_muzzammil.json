@@ -1,0 +1,170 @@
+{
+  "id": 73,
+  "name": "المزمل",
+  "transliteration": "Al-Muzzammil",
+  "translation_en": "The Enshrouded One",
+  "type": "meccan",
+  "total_verses": 20,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "يَـٰٓأَيُّهَا ٱلۡمُزَّمِّلُ",
+      "transliteration": "Ya ayyuha almuzzammilu",
+      "translation_en": "O you who wraps himself [in clothing]",
+      "translation_bn": "হে বস্ত্রাবৃত",
+      "translation_ur": "اے اوڑھ لپیٹ کر سونے والے"
+    },
+    {
+      "id": 2,
+      "arabic": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا",
+      "transliteration": "Qumi allayla illa qaleelan",
+      "translation_en": "Arise [to pray] the night, except for a little",
+      "translation_bn": "রাত্রিতে দন্ডায়মান হোন কিছু অংশ বাদ দিয়ে",
+      "translation_ur": "رات کو نماز میں کھڑے رہا کرو مگر کم"
+    },
+    {
+      "id": 3,
+      "arabic": "نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا",
+      "transliteration": "Nisfahu awi onqus minhu qaleelan",
+      "translation_en": "Half of it - or subtract from it a little",
+      "translation_bn": "অর্ধরাত্রি অথবা তদপেক্ষা কিছু কম",
+      "translation_ur": "آدھی رات،"
+    },
+    {
+      "id": 4,
+      "arabic": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا",
+      "transliteration": "Aw zid AAalayhi warattili alqurana tarteelan",
+      "translation_en": "Or add to it, and recite the Qur'an with measured recitation",
+      "translation_bn": "অথবা তদপেক্ষা বেশী এবং কোরআন আবৃত্তি করুন সুবিন্যস্ত ভাবে ও স্পষ্টভাবে।",
+      "translation_ur": "یا اس سے کچھ کم کر لو یا اس سے کچھ زیادہ بڑھا دو، اور قرآن کو خوب ٹھیر ٹھیر کر پڑھو"
+    },
+    {
+      "id": 5,
+      "arabic": "إِنَّا سَنُلۡقِي عَلَيۡكَ قَوۡلٗا ثَقِيلًا",
+      "transliteration": "Inna sanulqee AAalayka qawlan thaqeelan",
+      "translation_en": "Indeed, We will cast upon you a heavy word",
+      "translation_bn": "আমি আপনার প্রতি অবতীর্ণ করেছি গুরুত্বপূর্ণ বাণী।",
+      "translation_ur": "ہم تم پر ایک بھاری کلام نازل کرنے والے ہیں"
+    },
+    {
+      "id": 6,
+      "arabic": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا",
+      "transliteration": "Inna nashiata allayli hiya ashaddu watan waaqwamu qeelan",
+      "translation_en": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words",
+      "translation_bn": "নিশ্চয় এবাদতের জন্যে রাত্রিতে উঠা প্রবৃত্তি দলনে সহায়ক এবং স্পষ্ট উচ্চারণের অনুকূল।",
+      "translation_ur": "درحقیقت رات کا اٹھنا نفس پر قابو پانے کے لیے بہت کارگر اور قرآن ٹھیک پڑھنے کے لیے زیادہ موزوں ہے"
+    },
+    {
+      "id": 7,
+      "arabic": "إِنَّ لَكَ فِي ٱلنَّهَارِ سَبۡحٗا طَوِيلٗا",
+      "transliteration": "Inna laka fee alnnahari sabhan taweelan",
+      "translation_en": "Indeed, for you by day is prolonged occupation",
+      "translation_bn": "নিশ্চয় দিবাভাগে রয়েছে আপনার দীর্ঘ কর্মব্যস্ততা।",
+      "translation_ur": "دن کے اوقات میں تو تمہارے لیے بہت مصروفیات ہیں"
+    },
+    {
+      "id": 8,
+      "arabic": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا",
+      "transliteration": "Waothkuri isma rabbika watabattal ilayhi tabteelan",
+      "translation_en": "And remember the name of your Lord and devote yourself to Him with [complete] devotion",
+      "translation_bn": "আপনি আপনার পালনকর্তার নাম স্মরণ করুন এবং একাগ্রচিত্তে তাতে মগ্ন হোন।",
+      "translation_ur": "اپنے رب کے نام کا ذکر کیا کرو اور سب سے کٹ کر اسی کے ہو رہو"
+    },
+    {
+      "id": 9,
+      "arabic": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلٗا",
+      "transliteration": "Rabbu almashriqi waalmaghribi la ilaha illa huwa faittakhithhu wakeelan",
+      "translation_en": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs",
+      "translation_bn": "তিনি পূর্ব ও পশ্চিমের অধিকর্তা। তিনি ব্যতীত কোন উপাস্য নেই। অতএব, তাঁকেই গ্রহণ করুন কর্মবিধায়করূপে।",
+      "translation_ur": "وہ مشرق و مغرب کا مالک ہے، اُس کے سوا کوئی خدا نہیں ہے، لہٰذا اُسی کو اپنا وکیل بنا لو"
+    },
+    {
+      "id": 10,
+      "arabic": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا",
+      "transliteration": "Waisbir AAala ma yaqooloona waohjurhum hajran jameelan",
+      "translation_en": "And be patient over what they say and avoid them with gracious avoidance",
+      "translation_bn": "কাফেররা যা বলে, তজ্জন্যে আপনি সবর করুন এবং সুন্দরভাবে তাদেরকে পরিহার করে চলুন।",
+      "translation_ur": "اور جو باتیں لوگ بنا رہے ہیں ان پر صبر کرو اور شرافت کے ساتھ اُن سے الگ ہو جاؤ"
+    },
+    {
+      "id": 11,
+      "arabic": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
+      "transliteration": "Watharnee waalmukaththibeena olee alnnaAAmati wamahhilhum qaleelan",
+      "translation_en": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little",
+      "translation_bn": "বিত্ত-বৈভবের অধিকারী মিথ্যারোপকারীদেরকে আমার হাতে ছেড়ে দিন এবং তাদেরকে কিছু অবকাশ দিন।",
+      "translation_ur": "اِن جھٹلانے والے خوشحال لوگوں سے نمٹنے کا کام تم مجھ پر چھوڑ دو اور اِنہیں ذرا کچھ دیر اِسی حالت پر رہنے دو"
+    },
+    {
+      "id": 12,
+      "arabic": "إِنَّ لَدَيۡنَآ أَنكَالٗا وَجَحِيمٗا",
+      "transliteration": "Inna ladayna ankalan wajaheeman",
+      "translation_en": "Indeed, with Us [for them] are shackles and burning fire",
+      "translation_bn": "নিশ্চয় আমার কাছে আছে শিকল ও অগ্নিকুন্ড।",
+      "translation_ur": "ہمارے پاس (ان کے لیے) بھاری بیڑیاں ہیں اور بھڑکتی ہوئی آگ"
+    },
+    {
+      "id": 13,
+      "arabic": "وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا",
+      "transliteration": "WataAAaman tha ghussatin waAAathaban aleeman",
+      "translation_en": "And food that chokes and a painful punishment",
+      "translation_bn": "গলগ্রহ হয়ে যায় এমন খাদ্য এবং যন্ত্রণাদায়ক শাস্তি।",
+      "translation_ur": "اور حلق میں پھنسنے والا کھانا اور دردناک عذاب"
+    },
+    {
+      "id": 14,
+      "arabic": "يَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِيبٗا مَّهِيلًا",
+      "transliteration": "Yawma tarjufu alardu waaljibalu wakanati aljibalu katheeban maheelan",
+      "translation_en": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down",
+      "translation_bn": "যেদিন পৃথিবী পর্বতমালা প্রকম্পিত হবে এবং পর্বতসমূহ হয়ে যাবে বহমান বালুকাস্তুপ।",
+      "translation_ur": "یہ اُس دن ہوگا جب زمین اور پہاڑ لرز اٹھیں گے اور پہاڑوں کا حال ایسا ہو جائے گا جیسے ریت کے ڈھیر ہیں جو بکھرے جا رہے ہیں"
+    },
+    {
+      "id": 15,
+      "arabic": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولٗا",
+      "transliteration": "Inna arsalna ilaykum rasoolan shahidan AAalaykum kama arsalna ila firAAawna rasoolan",
+      "translation_en": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger",
+      "translation_bn": "আমি তোমাদের কাছে একজন রসূলকে তোমাদের জন্যে সাক্ষী করে প্রেরণ করেছি, যেমন প্রেরণ করেছিলাম ফেরাউনের কাছে একজন রসূল।",
+      "translation_ur": "تم لوگوں کے پاس ہم نے اُسی طرح ایک رسول تم پر گواہ بنا کر بھیجا ہے جس طرح ہم نے فرعون کی طرف ایک رسول بھیجا تھا"
+    },
+    {
+      "id": 16,
+      "arabic": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا",
+      "transliteration": "FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan",
+      "translation_en": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure",
+      "translation_bn": "অতঃপর ফেরাউন সেই রসূলকে অমান্য করল, ফলে আমি তাকে কঠিন শাস্তি দিয়েছি।",
+      "translation_ur": "(پھر دیکھ لو کہ جب) فرعون نے اُس رسول کی بات نہ مانی تو ہم نے اس کو بڑی سختی کے ساتھ پکڑ لیا"
+    },
+    {
+      "id": 17,
+      "arabic": "فَكَيۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ يَوۡمٗا يَجۡعَلُ ٱلۡوِلۡدَٰنَ شِيبًا",
+      "transliteration": "Fakayfa tattaqoona in kafartum yawman yajAAalu alwildana sheeban",
+      "translation_en": "Then how can you fear, if you disbelieve, a Day that will make the children white- haired",
+      "translation_bn": "অতএব, তোমরা কিরূপে আত্নরক্ষা করবে যদি তোমরা সেদিনকে অস্বীকার কর, যেদিন বালককে করে দিব বৃদ্ধ",
+      "translation_ur": "اگر تم ماننے سے انکار کرو گے تو اُس دن کیسے بچ جاؤ گے جو بچوں کو بوڑھا کر دے گا"
+    },
+    {
+      "id": 18,
+      "arabic": "ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا",
+      "transliteration": "Alssamao munfatirun bihi kana waAAduhu mafAAoolan",
+      "translation_en": "The heaven will break apart therefrom; ever is His promise fulfilled",
+      "translation_bn": "সেদিন আকাশ বিদীর্ণ হবে। তার প্রতিশ্রুতি অবশ্যই বাস্তবায়িত হবে।",
+      "translation_ur": "اور جس کی سختی سے آسمان پھٹا جا رہا ہوگا؟ اللہ کا وعدہ تو پورا ہو کر ہی رہنا ہے"
+    },
+    {
+      "id": 19,
+      "arabic": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "transliteration": "Inna hathihi tathkiratun faman shaa ittakhatha ila rabbihi sabeelan",
+      "translation_en": "Indeed, this is a reminder, so whoever wills may take to his Lord a way",
+      "translation_bn": "এটা উপদেশ। অতএব, যার ইচ্ছা, সে তার পালনকর্তার দিকে পথ অবলম্বন করুক।",
+      "translation_ur": "یہ ایک نصیحت ہے، اب جس کا جی چاہے اپنے رب کی طرف جانے کا راستہ اختیار کر لے"
+    },
+    {
+      "id": 20,
+      "arabic": "۞إِنَّ رَبَّكَ يَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٞ مِّنَ ٱلَّذِينَ مَعَكَۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَيۡكُمۡۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ يَضۡرِبُونَ فِي ٱلۡأَرۡضِ يَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنۡهُۚ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗاۚ وَمَا تُقَدِّمُواْ لِأَنفُسِكُم مِّنۡ خَيۡرٖ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيۡرٗا وَأَعۡظَمَ أَجۡرٗاۚ وَٱسۡتَغۡفِرُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمُۢ",
+      "transliteration": "Inna rabbaka yaAAlamu annaka taqoomu adna min thuluthayi allayli wanisfahu wathuluthahu wataifatun mina allatheena maAAaka waAllahu yuqaddiru allayla waalnnahara AAalima an lan tuhsoohu fataba AAalaykum faiqraoo ma tayassara mina alqurani AAalima an sayakoonu minkum marda waakharoona yadriboona fee alardi yabtaghoona min fadli Allahi waakharoona yuqatiloona fee sabeeli Allahi faiqraoo ma tayassara minhu waaqeemoo alssalata waatoo alzzakata waaqridoo Allaha qardan hasanan wama tuqaddimoo lianfusikum min khayrin tajidoohu AAinda Allahi huwa khayran waaAAthama ajran waistaghfiroo Allaha inna Allaha ghafoorun raheemun",
+      "translation_en": "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allah determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur'an. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allah and others fighting for the cause of Allah. So recite what is easy from it and establish prayer and give zakah and loan Allah a goodly loan. And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward. And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful",
+      "translation_bn": "আপনার পালনকর্তা জানেন, আপনি এবাদতের জন্যে দন্ডায়মান হন রাত্রির প্রায় দু’তৃতীয়াংশ, অর্ধাংশ ও তৃতীয়াংশ এবং আপনার সঙ্গীদের একটি দলও দন্ডায়মান হয়। আল্লাহ দিবা ও রাত্রি পরিমাপ করেন। তিনি জানেন, তোমরা এর পূর্ণ হিসাব রাখতে পার না। অতএব তিনি তোমাদের প্রতি ক্ষমা পরায়ন হয়েছেন। কাজেই কোরআনের যতটুকু তোমাদের জন্যে সহজ, ততটুকু আবৃত্তি কর। তিনি জানেন তোমাদের মধ্যে কেউ কেউ অসুস্থ হবে, কেউ কেউ আল্লাহর অনুগ্রহ সন্ধানে দেশে-বিদেশে যাবে এবং কেউ কেউ আল্লাহর পথে জেহাদে লিপ্ত হবে। কাজেই কোরআনের যতটুকু তোমাদের জন্যে সহজ ততটুকু আবৃত্তি কর। তোমরা নামায কায়েম কর, যাকাত দাও এবং আল্লাহকে উত্তম ঋণ দাও। তোমরা নিজেদের জন্যে যা কিছু অগ্রে পাঠাবে, তা আল্লাহর কাছে উত্তম আকারে এবং পুরস্কার হিসেবে বর্ধিতরূপে পাবে। তোমরা আল্লাহর কাছে ক্ষমাপ্রার্থনা কর। নিশ্চয় আল্লাহ ক্ষমাশীল, দয়ালু।",
+      "translation_ur": "اے نبیؐ، تمہارا رب جانتا ہے کہ تم کبھی دو تہائی رات کے قریب اور کبھی آدھی رات اور کبھی ایک تہائی رات عبادت میں کھڑے رہتے ہو، اور تمہارے ساتھیوں میں سے بھی ایک گروہ یہ عمل کرتا ہے اللہ ہی رات اور دن کے اوقات کا حساب رکھتا ہے، اُسے معلوم ہے کہ تم لوگ اوقات کا ٹھیک شمار نہیں کر سکتے، لہٰذا اس نے تم پر مہربانی فرمائی، اب جتنا قرآن آسانی سے پڑھ سکتے ہو پڑھ لیا کرو اُسے معلوم ہے کہ تم میں کچھ مریض ہونگے، کچھ دوسرے لوگ اللہ کے فضل کی تلاش میں سفر کرتے ہیں، اور کچھ اور لوگ اللہ کی راہ میں جنگ کرتے ہیں پس جتنا قرآن بآسانی پڑھا جا سکے پڑھ لیا کرو، نماز قائم کرو، زکوٰۃ دو اور اللہ کو اچھا قرض دیتے رہو جو کچھ بھلائی تم اپنے لیے آگے بھیجو گے اسے اللہ کے ہاں موجود پاؤ گے، وہی زیادہ بہتر ہے اور اس کا اجر بہت بڑا ہے اللہ سے مغفرت مانگتے رہو، بے شک اللہ بڑا غفور و رحیم ہے"
+    }
+  ]
+}

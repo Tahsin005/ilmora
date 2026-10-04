@@ -1,0 +1,146 @@
+{
+  "title": "Daily Prayer Times & Qibla for 20 Global Cities",
+  "total_cities": 20,
+  "cities": [
+    {
+      "name": "Makkah",
+      "country": "Saudi Arabia",
+      "slug": "makkah",
+      "lat": 21.4225,
+      "lon": 39.8262
+    },
+    {
+      "name": "Madinah",
+      "country": "Saudi Arabia",
+      "slug": "madinah",
+      "lat": 24.4672,
+      "lon": 39.6111
+    },
+    {
+      "name": "Jerusalem",
+      "country": "Palestine",
+      "slug": "jerusalem",
+      "lat": 31.7767,
+      "lon": 35.2345
+    },
+    {
+      "name": "Cairo",
+      "country": "Egypt",
+      "slug": "cairo",
+      "lat": 30.0444,
+      "lon": 31.2357
+    },
+    {
+      "name": "Istanbul",
+      "country": "Turkey",
+      "slug": "istanbul",
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    {
+      "name": "Dhaka",
+      "country": "Bangladesh",
+      "slug": "dhaka",
+      "lat": 23.8103,
+      "lon": 90.4125
+    },
+    {
+      "name": "Karachi",
+      "country": "Pakistan",
+      "slug": "karachi",
+      "lat": 24.8607,
+      "lon": 67.0011
+    },
+    {
+      "name": "Jakarta",
+      "country": "Indonesia",
+      "slug": "jakarta",
+      "lat": -6.2088,
+      "lon": 106.8456
+    },
+    {
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "slug": "kuala_lumpur",
+      "lat": 3.139,
+      "lon": 101.6869
+    },
+    {
+      "name": "London",
+      "country": "United Kingdom",
+      "slug": "london",
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    {
+      "name": "New York",
+      "country": "United States",
+      "slug": "new_york",
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    {
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "slug": "dubai",
+      "lat": 25.2048,
+      "lon": 55.2708
+    },
+    {
+      "name": "Riyadh",
+      "country": "Saudi Arabia",
+      "slug": "riyadh",
+      "lat": 24.7136,
+      "lon": 46.6753
+    },
+    {
+      "name": "Delhi",
+      "country": "India",
+      "slug": "delhi",
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    {
+      "name": "Toronto",
+      "country": "Canada",
+      "slug": "toronto",
+      "lat": 43.6532,
+      "lon": -79.3832
+    },
+    {
+      "name": "Sydney",
+      "country": "Australia",
+      "slug": "sydney",
+      "lat": -33.8688,
+      "lon": 151.2093
+    },
+    {
+      "name": "Paris",
+      "country": "France",
+      "slug": "paris",
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    {
+      "name": "Berlin",
+      "country": "Germany",
+      "slug": "berlin",
+      "lat": 52.52,
+      "lon": 13.405
+    },
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "slug": "tokyo",
+      "lat": 35.6762,
+      "lon": 139.6503
+    },
+    {
+      "name": "Casablanca",
+      "country": "Morocco",
+      "slug": "casablanca",
+      "lat": 33.5731,
+      "lon": -7.5898
+    }
+  ]
+}

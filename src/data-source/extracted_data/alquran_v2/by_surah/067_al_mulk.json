@@ -1,0 +1,250 @@
+{
+  "id": 67,
+  "name": "الملك",
+  "transliteration": "Al-Mulk",
+  "translation_en": "The Sovereignty",
+  "type": "meccan",
+  "total_verses": 30,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "تَبَٰرَكَ ٱلَّذِي بِيَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+      "transliteration": "Tabaraka allathee biyadihi almulku wahuwa AAala kulli shayin qadeerun",
+      "translation_en": "Blessed is He in whose hand is dominion, and He is over all things competent",
+      "translation_bn": "পূণ্যময় তিনি, যাঁর হাতে রাজত্ব। তিনি সবকিছুর উপর সর্বশক্তিমান।",
+      "translation_ur": "نہایت بزرگ و برتر ہے وہ جس کے ہاتھ میں کائنات کی سلطنت ہے، اور وہ ہر چیز پر قدرت رکھتا ہے"
+    },
+    {
+      "id": 2,
+      "arabic": "ٱلَّذِي خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ",
+      "transliteration": "Allathee khalaqa almawta waalhayata liyabluwakum ayyukum ahsanu AAamalan wahuwa alAAazeezu alghafooru",
+      "translation_en": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving",
+      "translation_bn": "যিনি সৃষ্টি করেছেন মরণ ও জীবন, যাতে তোমাদেরকে পরীক্ষা করেন-কে তোমাদের মধ্যে কর্মে শ্রেষ্ঠ? তিনি পরাক্রমশালী, ক্ষমাময়।",
+      "translation_ur": "جس نے موت اور زندگی کو ایجاد کیا تاکہ تم لوگوں کو آزما کر دیکھے تم میں سے کون بہتر عمل کرنے والا ہے، اور وہ زبردست بھی ہے اور درگزر فرمانے والا بھی"
+    },
+    {
+      "id": 3,
+      "arabic": "ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗاۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتٖۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورٖ",
+      "transliteration": "Allathee khalaqa sabAAa samawatin tibaqan ma tara fee khalqi alrrahmani min tafawutin fairjiAAi albasara hal tara min futoorin",
+      "translation_en": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks",
+      "translation_bn": "তিনি সপ্ত আকাশ স্তরে স্তরে সৃষ্টি করেছেন। তুমি করুণাময় আল্লাহ তা’আলার সৃষ্টিতে কোন তফাত দেখতে পাবে না। আবার দৃষ্টিফেরাও; কোন ফাটল দেখতে পাও কি",
+      "translation_ur": "جس نے تہ بر تہ سات آسمان بنائے تم رحمان کی تخلیق میں کسی قسم کی بے ربطی نہ پاؤ گے پھر پلٹ کر دیکھو، کہیں تمہیں کوئی خلل نظر آتا ہے؟"
+    },
+    {
+      "id": 4,
+      "arabic": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا وَهُوَ حَسِيرٞ",
+      "transliteration": "Thumma irjiAAi albasara karratayni yanqalib ilayka albasaru khasian wahuwa haseerun",
+      "translation_en": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued",
+      "translation_bn": "অতঃপর তুমি বার বার তাকিয়ে দেখ-তোমার দৃষ্টি ব্যর্থ ও পরিশ্রান্ত হয়ে তোমার দিকে ফিরে আসবে।",
+      "translation_ur": "بار بار نگاہ دوڑاؤ تمہاری نگاہ تھک کر نامراد پلٹ آئے گی"
+    },
+    {
+      "id": 5,
+      "arabic": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+      "transliteration": "Walaqad zayyanna alssamaa alddunya bimasabeeha wajaAAalnaha rujooman lilshshayateeni waaAAtadna lahum AAathaba alssaAAeeri",
+      "translation_en": "And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze",
+      "translation_bn": "আমি সর্বনিম্ন আকাশকে প্রদীপমালা দ্বারা সুসজ্জত করেছি; সেগুলোকে শয়তানদের জন্যে ক্ষেপণাস্ত্রবৎ করেছি এবং প্রস্তুত করে রেখেছি তাদের জন্যে জলন্ত অগ্নির শাস্তি।",
+      "translation_ur": "ہم نے تمہارے قریب کے آسمان کو عظیم الشان چراغوں سے آراستہ کیا ہے اور اُنہیں شیاطین کو مار بھگانے کا ذریعہ بنا دیا ہے اِن شیطانوں کے لیے بھڑکتی ہوئی آگ ہم نے مہیا کر رکھی ہے"
+    },
+    {
+      "id": 6,
+      "arabic": "وَلِلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+      "transliteration": "Walillatheena kafaroo birabbihim AAathabu jahannama wabisa almaseeru",
+      "translation_en": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination",
+      "translation_bn": "যারা তাদের পালনকর্তাকে অস্বীকার করেছে তাদের জন্যে রয়েছে জাহান্নামের শাস্তি। সেটা কতই না নিকৃষ্ট স্থান।",
+      "translation_ur": "جن لوگوں نے اپنے رب سے کفر کیا ان کے لیے جہنم کا عذاب ہے اور وہ بہت ہی برا ٹھکانا ہے"
+    },
+    {
+      "id": 7,
+      "arabic": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ",
+      "transliteration": "Itha olqoo feeha samiAAoo laha shaheeqan wahiya tafooru",
+      "translation_en": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up",
+      "translation_bn": "যখন তারা তথায় নিক্ষিপ্ত হবে, তখন তার উৎক্ষিপ্ত গর্জন শুনতে পাবে।",
+      "translation_ur": "جب وہ اُس میں پھینکے جائیں گے تو اسکے دھاڑنے کی ہولناک آواز سنیں گے اور وہ جوش کھا رہی ہوگی"
+    },
+    {
+      "id": 8,
+      "arabic": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ",
+      "transliteration": "Takadu tamayyazu mina alghaythi kullama olqiya feeha fawjun saalahum khazanatuha alam yatikum natheerun",
+      "translation_en": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner",
+      "translation_bn": "ক্রোধে জাহান্নাম যেন ফেটে পড়বে। যখনই তাতে কোন সম্প্রদায় নিক্ষিপ্ত হবে তখন তাদেরকে তার সিপাহীরা জিজ্ঞাসা করবে। তোমাদের কাছে কি কোন সতর্ককারী আগমন করেনি",
+      "translation_ur": "شدت غضب سے پھٹی جاتی ہو گی ہر بار جب کوئی انبوہ اس میں ڈالا جائے گا، اُس کے کارندے اُن لوگوں سے پوچھیں گے \"کیا تمہارے پاس کوئی خبردار کرنے والا نہیں آیا تھا؟"
+    },
+    {
+      "id": 9,
+      "arabic": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ",
+      "transliteration": "Qaloo bala qad jaana natheerun fakaththabna waqulna ma nazzala Allahu min shayin in antum illa fee dalalin kabeerin",
+      "translation_en": "They will say,\" Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error",
+      "translation_bn": "তারা বলবেঃ হ্যাঁ আমাদের কাছে সতর্ককারী আগমন করেছিল, অতঃপর আমরা মিথ্যারোপ করেছিলাম এবং বলেছিলামঃ আল্লাহ তা’আলা কোন কিছু নাজিল করেননি। তোমরা মহাবিভ্রান্তিতে পড়ে রয়েছ।",
+      "translation_ur": "وہ جواب دیں گے \"ہاں، خبردار کرنے والا ہمارے پاس آیا تھا، مگر ہم نے اسے جھٹلا دیا اور کہا اللہ نے کچھ بھی نازل نہیں کیا ہے، تم بڑی گمراہی میں پڑے ہوئے ہو"
+    },
+    {
+      "id": 10,
+      "arabic": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ",
+      "transliteration": "Waqaloo law kunna nasmaAAu aw naAAqilu ma kunna fee ashabi alssaAAeeri",
+      "translation_en": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze",
+      "translation_bn": "তারা আরও বলবেঃ যদি আমরা শুনতাম অথবা বুদ্ধি খাটাতাম, তবে আমরা জাহান্নামবাসীদের মধ্যে থাকতাম না।",
+      "translation_ur": "اور وہ کہیں گے \"کاش ہم سنتے یا سمجھتے تو آج اِس بھڑکتی ہوئی آگ کے سزا واروں میں نہ شامل ہوتے"
+    },
+    {
+      "id": 11,
+      "arabic": "فَٱعۡتَرَفُواْ بِذَنۢبِهِمۡ فَسُحۡقٗا لِّأَصۡحَٰبِ ٱلسَّعِيرِ",
+      "transliteration": "FaiAAtarafoo bithanbihim fasuhqan liashabi alssaAAeeri",
+      "translation_en": "And they will admit their sin, so [it is] alienation for the companions of the Blaze",
+      "translation_bn": "অতঃপর তারা তাদের অপরাধ স্বীকার করবে। জাহান্নামীরা দূর হোক।",
+      "translation_ur": "اس طرح وہ اپنے قصور کا خود اعتراف کر لیں گے، لعنت ہے ان دوزخیوں پر"
+    },
+    {
+      "id": 12,
+      "arabic": "إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ",
+      "transliteration": "Inna allatheena yakhshawna rabbahum bialghaybi lahum maghfiratun waajrun kabeerun",
+      "translation_en": "Indeed, those who fear their Lord unseen will have forgiveness and great reward",
+      "translation_bn": "নিশ্চয় যারা তাদের পালনকর্তাকে না দেখে ভয় করে, তাদের জন্যে রয়েছে ক্ষমা ও মহাপুরস্কার।",
+      "translation_ur": "جو لوگ بے دیکھے اپنے رب سے ڈرتے ہیں، یقیناً اُن کے لیے مغفرت ہے اور بڑا اجر"
+    },
+    {
+      "id": 13,
+      "arabic": "وَأَسِرُّواْ قَوۡلَكُمۡ أَوِ ٱجۡهَرُواْ بِهِۦٓۖ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "transliteration": "Waasirroo qawlakum awi ijharoo bihi innahu AAaleemun bithati alssudoori",
+      "translation_en": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts",
+      "translation_bn": "তোমরা তোমাদের কথা গোপনে বল অথবা প্রকাশ্যে বল, তিনি তো অন্তরের বিষয়াদি সম্পর্কে সম্যক অবগত।",
+      "translation_ur": "تم خواہ چپکے سے بات کرو یا اونچی آواز سے (اللہ کے لیے یکساں ہے)، وہ تو دلوں کا حال تک جانتا ہے"
+    },
+    {
+      "id": 14,
+      "arabic": "أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+      "transliteration": "Ala yaAAlamu man khalaqa wahuwa allateefu alkhabeeru",
+      "translation_en": "Does He who created not know, while He is the Subtle, the Acquainted",
+      "translation_bn": "যিনি সৃষ্টি করেছেন, তিনি কি করে জানবেন না? তিনি সূক্ষ্নজ্ঞানী, সম্যক জ্ঞাত।",
+      "translation_ur": "کیا وہی نہ جانے گا جس نے پیدا کیا ہے؟ حالانکہ وہ باریک بیں اور باخبر ہے"
+    },
+    {
+      "id": 15,
+      "arabic": "هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولٗا فَٱمۡشُواْ فِي مَنَاكِبِهَا وَكُلُواْ مِن رِّزۡقِهِۦۖ وَإِلَيۡهِ ٱلنُّشُورُ",
+      "transliteration": "Huwa allathee jaAAala lakumu alarda thaloolan faimshoo fee manakibiha wakuloo min rizqihi wailayhi alnnushooru",
+      "translation_en": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection",
+      "translation_bn": "তিনি তোমাদের জন্যে পৃথিবীকে সুগম করেছেন, অতএব, তোমরা তার কাঁধে বিচরণ কর এবং তাঁর দেয়া রিযিক আহার কর। তাঁরই কাছে পুনরুজ্জীবন হবে।",
+      "translation_ur": "وہی تو ہے جس نے تمہارے لیے زمین کو تابع کر رکھا ہے، چلو اُس کی چھاتی پر اور کھاؤ خدا کا رزق، اُسی کے حضور تمہیں دوبارہ زندہ ہو کر جانا ہے"
+    },
+    {
+      "id": 16,
+      "arabic": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ",
+      "transliteration": "Aamintum man fee alssamai an yakhsifa bikumu alarda faitha hiya tamooru",
+      "translation_en": "Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway",
+      "translation_bn": "তোমরা কি ভাবনামুক্ত হয়ে গেছ যে, আকাশে যিনি আছেন তিনি তোমাদেরকে ভূগর্ভে বিলীন করে দেবেন, অতঃপর তা কাঁপতে থাকবে।",
+      "translation_ur": "کیا تم اِس سے بے خوف ہو کہ وہ جو آسمان میں ہے تمہیں زمین میں دھنسا دے اور یکایک یہ زمین جھکولے کھانے لگے؟"
+    },
+    {
+      "id": 17,
+      "arabic": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ",
+      "transliteration": "Am amintum man fee alssamai an yursila AAalaykum hasiban fasataAAlamoona kayfa natheeri",
+      "translation_en": "Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning",
+      "translation_bn": "না তোমরা নিশ্চিন্ত হয়ে গেছ যে, আকাশে যিনি আছেন, তিনি তোমাদের উপর প্রস্তর বৃষ্টি বর্ষণ করবেন, অতঃপর তোমরা জানতে পারবে কেমন ছিল আমার সতর্কবাণী।",
+      "translation_ur": "کیا تم اِس سے بے خوف ہو کہ وہ جو آسمان میں ہے تم پر پتھراؤ کرنے والی ہوا بھیج دے؟ پھر تمہیں معلوم ہو جائے گا کہ میری تنبیہ کیسی ہوتی ہے"
+    },
+    {
+      "id": 18,
+      "arabic": "وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيرِ",
+      "transliteration": "Walaqad kaththaba allatheena min qablihim fakayfa kana nakeeri",
+      "translation_en": "And already had those before them denied, and how [terrible] was My reproach",
+      "translation_bn": "তাদের পূর্ববর্তীরা মিথ্যারোপ করেছিল, অতঃপর কত কঠোর হয়েছিল আমার অস্বীকৃতি।",
+      "translation_ur": "اِن سے پہلے گزرے ہوئے لوگ جھٹلا چکے ہیں پھر دیکھ لو کہ میری گرفت کیسی سخت تھی"
+    },
+    {
+      "id": 19,
+      "arabic": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَـٰٓفَّـٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ",
+      "transliteration": "Awalam yaraw ila alttayri fawqahum saffatin wayaqbidna ma yumsikuhunna illa alrrahmanu innahu bikulli shayin baseerun",
+      "translation_en": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing",
+      "translation_bn": "তারা কি লক্ষ্য করে না, তাদের মাথার উপর উড়ন্ত পক্ষীকুলের প্রতি পাখা বিস্তারকারী ও পাখা সংকোচনকারী? রহমান আল্লাহ-ই তাদেরকে স্থির রাখেন। তিনি সর্ব-বিষয় দেখেন।",
+      "translation_ur": "کیا یہ لو گ اپنے اوپر اڑنے والے پرندوں کو پر پھیلائے اور سکیڑتے نہیں دیکھتے؟ رحمان کے سوا کوئی نہیں جو انہیں تھامے ہوئے ہو وہی ہر چیز کا نگہبان ہے"
+    },
+    {
+      "id": 20,
+      "arabic": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ",
+      "transliteration": "Amman hatha allathee huwa jundun lakum yansurukum min dooni alrrahmani ini alkafiroona illa fee ghuroorin",
+      "translation_en": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion",
+      "translation_bn": "রহমান আল্লাহ তা’আলা ব্যতীত তোমাদের কোন সৈন্য আছে কি, যে তোমাদেরকে সাহায্য করবে? কাফেররা বিভ্রান্তিতেই পতিত আছে।",
+      "translation_ur": "بتاؤ، آخر وہ کونسا لشکر تمہارے پاس ہے جو رحمان کے مقابلے میں تمہاری مدد کر سکتا ہے؟ حقیقت یہ ہے کہ منکرین دھوکے میں پڑے ہوئے ہیں"
+    },
+    {
+      "id": 21,
+      "arabic": "أَمَّنۡ هَٰذَا ٱلَّذِي يَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّواْ فِي عُتُوّٖ وَنُفُورٍ",
+      "transliteration": "Amman hatha allathee yarzuqukum in amsaka rizqahu bal lajjoo fee AAutuwwin wanufoorin",
+      "translation_en": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion",
+      "translation_bn": "তিনি যদি রিযিক বন্ধ করে দেন, তবে কে আছে, যে তোমাদেরকে রিযিক দিবে বরং তারা অবাধ্যতা ও বিমুখতায় ডুবে রয়েছে।",
+      "translation_ur": "یا پھر بتاؤ، کون ہے جو تمہیں رزق دے سکتا ہے اگر رحمان اپنا رزق روک لے؟ دراصل یہ لوگ سر کشی اور حق سے گریز پر اڑے ہوئے ہیں"
+    },
+    {
+      "id": 22,
+      "arabic": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+      "transliteration": "Afaman yamshee mukibban AAala wajhihi ahda amman yamshee sawiyyan AAala siratin mustaqeemin",
+      "translation_en": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path",
+      "translation_bn": "যে ব্যক্তি উপুড় হয়ে মুখে ভর দিয়ে চলে, সে-ই কি সৎ পথে চলে, না সে ব্যক্তি যে সোজা হয়ে সরলপথে চলে",
+      "translation_ur": "بھلا سوچو، جو شخص منہ اوندھائے چل رہا ہو وہ زیادہ صحیح راہ پانے والا ہے یا وہ جو سر اٹھائے سیدھا ایک ہموار سڑک پر چل رہا ہو؟"
+    },
+    {
+      "id": 23,
+      "arabic": "قُلۡ هُوَ ٱلَّذِيٓ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ",
+      "transliteration": "Qul huwa allathee anshaakum wajaAAala lakumu alssamAAa waalabsara waalafidata qaleelan ma tashkuroona",
+      "translation_en": "Say, \"It is He who has produced you and made for you hearing and vision and hearts; little are you grateful",
+      "translation_bn": "বলুন, তিনিই তোমাদেরকে সৃষ্টি করেছেন এবং দিয়েছেন কর্ণ, চক্ষু ও অন্তর। তোমরা অল্পই কৃতজ্ঞতা প্রকাশ কর।",
+      "translation_ur": "اِن سے کہو اللہ ہی ہے جس نے تمہیں پیدا کیا، تم کو سننے اور دیکھنے کی طاقتیں دیں اور سوچنے سمجھنے والے دل دیے، مگر تم کم ہی شکر ادا کرتے ہو"
+    },
+    {
+      "id": 24,
+      "arabic": "قُلۡ هُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+      "transliteration": "Qul huwa allathee tharaakum fee alardi wailayhi tuhsharoona",
+      "translation_en": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered",
+      "translation_bn": "বলুন, তিনিই তোমাদেরকে পৃথিবীতে বিস্তৃত করেছেন এবং তাঁরই কাছে তোমরা সমবেত হবে।",
+      "translation_ur": "اِن سے کہو، اللہ ہی ہے جس نے تمہیں زمین میں پھیلایا اور اسی کی طرف تم سمیٹے جاؤ گے"
+    },
+    {
+      "id": 25,
+      "arabic": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+      "transliteration": "Wayaqooloona mata hatha alwaAAdu in kuntum sadiqeena",
+      "translation_en": "And they say, \"When is this promise, if you should be truthful",
+      "translation_bn": "কাফেররা বলেঃ এই প্রতিশ্রুতি কবে হবে, যদি তোমরা সত্যবাদী হও",
+      "translation_ur": "یہ کہتے ہیں \"اگر تم سچے ہو تو بتاؤ یہ وعدہ کب پورا ہوگا؟"
+    },
+    {
+      "id": 26,
+      "arabic": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ",
+      "transliteration": "Qul innama alAAilmu AAinda Allahi wainnama ana natheerun mubeenun",
+      "translation_en": "Say, \"The knowledge is only with Allah, and I am only a clear warner",
+      "translation_bn": "বলুন, এর জ্ঞান আল্লাহ তা’আলার কাছেই আছে। আমি তো কেবল প্রকাশ্য সতর্ককারী।",
+      "translation_ur": "کہو، \"اِس کا علم تو اللہ کے پاس ہے، میں تو بس صاف صاف خبردار کر دینے والا ہوں"
+    },
+    {
+      "id": 27,
+      "arabic": "فَلَمَّا رَأَوۡهُ زُلۡفَةٗ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ",
+      "transliteration": "Falamma raawhu zulfatan seeat wujoohu allatheena kafaroo waqeela hatha allathee kuntum bihi taddaAAoona",
+      "translation_en": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call",
+      "translation_bn": "যখন তারা সেই প্রতিশ্রুতিকে আসন্ন দেখবে তখন কাফেরদের মুখমন্ডল মলিন হয়ে পড়বে এবং বলা হবেঃ এটাই তো তোমরা চাইতে।",
+      "translation_ur": "پھر جب یہ اُس چیز کو قریب دیکھ لیں گے تو اُن سب لوگوں کے چہرے بگڑ جائیں گے جنہوں نے انکار کیا ہے، اور اُس وقت ان سے کہا جائے گا کہ یہی ہے وہ چیز جس کے لیے تم تقاضے کر رہے تھے"
+    },
+    {
+      "id": 28,
+      "arabic": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
+      "transliteration": "Qul araaytum in ahlakaniya Allahu waman maAAiya aw rahimana faman yujeeru alkafireena min AAathabin aleemin",
+      "translation_en": "Say, [O Muhammad], \"Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment",
+      "translation_bn": "বলুন, তোমরা কি ভেবে দেখেছ-যদি আল্লাহ তা’আলা আমাকে ও আমার সংগীদেরকে ধ্বংস করেন অথবা আমাদের প্রতি দয়া করেন, তবে কাফেরদেরকে কে যন্ত্রণাদায়ক শাস্তি থেকে রক্ষা করবে",
+      "translation_ur": "اِن سے کہو، کبھی تم نے یہ بھی سوچا کہ اللہ خواہ مجھے اور میرے ساتھیوں کو ہلاک کر دے یا ہم پر رحم کرے، کافروں کو دردناک عذاب سے کون بچا لے گا؟"
+    },
+    {
+      "id": 29,
+      "arabic": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+      "transliteration": "Qul huwa alrrahmanu amanna bihi waAAalayhi tawakkalna fasataAAlamoona man huwa fee dalalin mubeenin",
+      "translation_en": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error",
+      "translation_bn": "বলুন, তিনি পরম করুণাময়, আমরা তাতে বিশ্বাস রাখি এবং তাঁরই উপর ভরসা করি। সত্ত্বরই তোমরা জানতে পারবে, কে প্রকাশ্য পথ-ভ্রষ্টতায় আছে।",
+      "translation_ur": "اِن سے کہو، وہ بڑا رحیم ہے، اسی پر ہم ایمان لائے ہیں، اور اُسی پر ہمارا بھروسا ہے، عنقریب تمہیں معلوم ہو جائے گا کہ صریح گمراہی میں پڑا ہوا کون ہے"
+    },
+    {
+      "id": 30,
+      "arabic": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
+      "transliteration": "Qul araaytum in asbaha maokum ghawran faman yateekum bimain maAAeenin",
+      "translation_en": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water",
+      "translation_bn": "বলুন, তোমরা ভেবে দেখেছ কি, যদি তোমাদের পানি ভূগর্ভের গভীরে চলে যায়, তবে কে তোমাদেরকে সরবরাহ করবে পানির স্রোতধারা",
+      "translation_ur": "اِن سے کہو، کبھی تم نے یہ بھی سوچا کہ اگر تمہارے کنوؤں کا پانی زمین میں اتر جائے تو کون ہے جو اِس پانی کی بہتی ہوئی سوتیں تمہیں نکال کر لا دے گا؟"
+    }
+  ]
+}

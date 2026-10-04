@@ -1,0 +1,149 @@
+{
+  "status": "success",
+  "message": "Ruqyah entries fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "title": "Abu Dawud : 775",
+      "introduction": "",
+      "arabic": "أَعُوذُ بِاللهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيطَانِ الرَّجِيمِ مِنْ هَمْزِهِ وَنَفْخِهِ وَنَفْثِهِ",
+      "transliteration": "‘Audhu billahis sami’il ‘aliimi minash shaitaanir rajiimi min hamzihi wa nafkhihi wa nafthih.",
+      "translation": "I seek refuge in Allah, the All-Hearing, All-Knowing, from Satan, the outcast, and from his whispers, his blowing and his Nafith.",
+      "reference": "Sunan Abu Dawud: 775 & 764, Sunan Tirmidhi: 242",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 2,
+      "title": "Al-Bukhari : 3371",
+      "introduction": "",
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+      "transliteration": "A'udhu bi kalimaatillaah ittaammah min kulli shaytaanin wa haammah wa min kulli 'aynin laammah.",
+      "translation": "I seek refuge in Allah's perfect words from the evil of all what He has created, from all devils and insects and from all envious eyes.",
+      "reference": "Sahih Al-Bukhari: 3371",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 3,
+      "title": "Muslim : 2708",
+      "introduction": "",
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ كُلِّهِنَّ مِنْ شَرِّ مَا خَلَقَ",
+      "transliteration": "A'udhu bi kalimaatillaah ittaammati min sharri ma khalaq.",
+      "translation": "I seek refuge in Allah's perfect Words from the evil of what He has created.",
+      "reference": "Sahih Muslim: 2708, Musnad Al Imam Ahmad: 5/364",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 4,
+      "title": "Abu Dawud : 5088",
+      "introduction": "",
+      "arabic": "بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismillahi alladhi la yadurru ma' ismihi shai'un fil-ardi wa-laa fil-samaa'i wa huwa al-Samee'u al-'Aleem.",
+      "translation": "In the name of Allah, with whose name nothing in the heavens or earth can cause harm, and He is the All-Hearing, All-Knowing.",
+      "reference": "Sunan Abu Dawud: 5088",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 5,
+      "title": "Muslim : 2186",
+      "introduction": "",
+      "arabic": "بِسْمِ اللّٰهِ أَرْقِيْكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيْكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللّٰهُ يَشْفِيْكَ، بِاسْمِ اللّٰهِ أَرْقِيْكَ.",
+      "transliteration": "Bismillah-hi Arqik, Min Kulli Shayin Yu'zik, Min Sharri Kulli Nafsin aw ‘Ainin Ha-Sidin, Alla-hu Yashfik, Bismillahi Arqik.",
+      "translation": "In the name of Allah I am doing this Ruqyah unto you to get rid of what is harming you and of the evil of spirits and envious eyes. May Allah cure you! In the name of Allah I am doing this Ruqyah unto you.",
+      "reference": "Sahih Muslim: 2186",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 6,
+      "title": "Muslim : 222",
+      "introduction": "",
+      "arabic": "أَعُوْذُ بِاللّٰهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+      "transliteration": "Bismillah (3 times), A’oodhu billahi wa qudratihi min sharri ma ajidu wa uhadhiru.",
+      "translation": "In the name of Allah. I seek refuge in Allah and His might from the evil of what I find and fear.",
+      "reference": "Sahih Muslim: 222, Sunan Tirmidhi: 3588",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 7,
+      "title": "Abu Dawud : 3106",
+      "introduction": "",
+      "arabic": "أَسْأَلُ اللهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+      "transliteration": "As-alullah-hal ‘Adheem, Rabbal‘ Arshil ‘Azeem, Ai Yashfiyak.",
+      "translation": "I pray to Allah, the Magnificent, the Owner of the Glorious Throne, to grant you healing.",
+      "reference": "Sunan Abu Dawud: 3106, SunanTirmidhi: 2083, Musnad Al Imam Ahmad: 1/239",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 8,
+      "title": "Al-Bukhari : 5675",
+      "introduction": "",
+      "arabic": "أَذْهِبِ الْبَأْسَ، رَبَّ النَّاسِ، وَاشْفِ أَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا.",
+      "transliteration": "Adhhibil Ba'as, Rabbannas, Washfi Antash-Shafi, La-Shifa-A Illa-Shifa-Uka. Shifa-an la-yuga-diru saqama.",
+      "translation": "O Allah, Lord of mankind! It is You Who removes suffering. You are the Healer, and none can heal but You. I beg You to bring about healing that leaves behind no ailment.",
+      "reference": "Sahih Al-Bukhari: 5675, Sahih Muslim: 2191",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 9,
+      "title": "Musnad Ahmad : 3/447",
+      "introduction": "",
+      "arabic": "اَللّٰهُمَّ بَارِكْ عَلَيْهِ وَأَذْهِبْ عَنْهُ حَرَّ الْعَيْنِ وَبَرْدَهَا وَوَصَبَهَا",
+      "transliteration": "Allahumma baarik ‘alaihi wa adh-hib ‘anhu harril ‘aini wa bardahaa wa wasabahaa.",
+      "translation": "O Allah, I beg You to grant him Your blessings, to rid him of the evil eye's heat, cold and aches.",
+      "reference": "Musnad Al-Imam Ahmad: 3/447, Al-Haakim's Al-Mustadrak, No. 3/411, Ibn Al-Atheer's Annihaayah, No. 5/116",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 10,
+      "title": "Tirmidhi: 3521",
+      "introduction": "",
+      "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ مِن خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ (ﷺ)، وَنَعُوذُ بِكَ مِن شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ مُحَمَّدٌ (ﷺ)، وَأَنْتَ الْمُسْتَعَانُ، وَعَلَيْكَ الْبَلَاغُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ.",
+      "transliteration": "Allahumma innaa nas-aluka min khairi maa sa-alaka minhu nabiyyuka muhammadun sallallahu ‘alaihi wa sallam wa na’udhu bika min sharri maas ta’a-adha minhu nabiyyuka muhammadun sallallahu ‘alaihi wa sallam wa antal musta’aanu wa ‘alaikal balaagh, wa laa hawla wa laa quwwata illa billah.",
+      "translation": "O Allah, we beg You to grant us good as Your Prophet Muhammad begged of You, and we seek refuge in You from evil as Your Prophet Muhammad sought in You. You are the only One whose help is sought, and the only One that answers prayers. There is no help or power except from Allah.",
+      "reference": "SunanTirmidhi: 3521",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 11,
+      "title": "Sahih Bukhari: 6345",
+      "introduction": "",
+      "arabic": "لاَ إِلَهَ إِلاَّ اللهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+      "transliteration": "La ila-ha illallah-hul ‘azimul halim. La ila-ha illallah-hu rabbul ‘arshil’ azeem. La ilaha illallah-hu rabbus sama-wa-ti wa rabbul ardi wa rabbul ‘arshil kareem.",
+      "translation": "There is no god but Allah, the Magnificent, the Forbearing; there is no god but Allah, Lord of the Tremendous Throne, Lord of the heavens and the earth, and Lord of the Glorious Throne.",
+      "reference": "Sahih Bukhari: 6345",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 12,
+      "title": "Abu Dawud: 3892",
+      "introduction": "",
+      "arabic": "رَبُّنَا اللهُ الَّذِي فِي السَّمَاءِ، تَقَدَّسَ اسْمُكَ أَمْرُكَ فِي السَّمَاءِ وَالْأَرْضِ، كَمَا رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الْأَرْضِ، اِغْفِرْ لَنَا حُوْبَنَا وَخَطَايَانَا، أَنْتَ رَبُّ الطَّيِّبِينَ، أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ، فَيَبْرَأَ.",
+      "transliteration": "Rabbunallahulladhi fis sama-i taqaddasasmuka amruka fissama-i wal ardi kamaa rahmatuka fissama-i faj’al rahmataka fil ardi ighfir lanaa huubanaa wa khataayanaa anta rabbut tayyibin, anzil rahmatan min rahmatika wa shifaa-ika ‘ala hadhal waja-’i fayabra-a.",
+      "translation": "O our Lord, Allah, You are in Heaven; holy be Your name. Your command reigns supreme in the heavens and on the earth. As Your mercy is in the heavens, have Your mercy on the earth. Forgive our sins. You are the Lord of the good. Send down of Your mercy and healing unto this ailment to cure it.",
+      "reference": "Sunan Abu Dawud: 3892, Musnad Al-Imam Ahmad: 6/21, & Ibn Al-Qayyim's Zaad Al-Mee aad, No.3/141",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    },
+    {
+      "id": 13,
+      "title": "Bukhari : 3370",
+      "introduction": "",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيتَ عَلَى إِبْرَاهِيمَ، وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "transliteration": "Alla-humma salli ‘ala muhammadiwa’ ala a-li muhammadin kama sallaita ‘ala ibrahima wa‘ ala a-li ibrahima innaka hamidum majeed. Alla-humma barik ‘ala muhammadiwa’ ala ali muhammadin, kama ba-rakta ‘ala ibrahima wa‘ ala a-li ibrahima innaka hamidum majid.",
+      "translation": "O Allah, send salah upon Muhammad and the family of Muhammad, as You have sent salah upon Ibraheem and the family of Ibraheem. You are Praiseworthy and Gloryworthy. O Allah! Bless Muhammad and the family of Muhammad, as You have blessed Ibraheem and the family of Ibraheem, in all the worlds. You are Praiseworthy and Gloryworthy.",
+      "reference": "Sahih Al-Bukhari: 3370, Sahih Muslim: 406",
+      "category": "Brief Ruqya",
+      "sub_category": "From Sunnah"
+    }
+  ]
+}

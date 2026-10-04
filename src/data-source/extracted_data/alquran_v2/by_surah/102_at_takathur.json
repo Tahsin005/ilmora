@@ -1,0 +1,74 @@
+{
+  "id": 102,
+  "name": "التكاثر",
+  "transliteration": "At-Takathur",
+  "translation_en": "The Rivalry in world increase",
+  "type": "meccan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "transliteration": "Alhakumu alttakathuru",
+      "translation_en": "Competition in [worldly] increase diverts you",
+      "translation_bn": "প্রাচুর্যের লালসা তোমাদেরকে গাফেল রাখে",
+      "translation_ur": "تم لوگوں کو زیادہ سے زیادہ اور ایک دوسرے سے بڑھ کر دنیا حاصل کرنے کی دھن نے غفلت میں ڈال رکھا ہے"
+    },
+    {
+      "id": 2,
+      "arabic": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+      "transliteration": "Hatta zurtumu almaqabira",
+      "translation_en": "Until you visit the graveyards",
+      "translation_bn": "এমনকি, তোমরা কবরস্থানে পৌছে যাও।",
+      "translation_ur": "یہاں تک کہ (اسی فکر میں) تم لب گور تک پہنچ جاتے ہو"
+    },
+    {
+      "id": 3,
+      "arabic": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "transliteration": "Kalla sawfa taAAlamoona",
+      "translation_en": "No! You are going to know",
+      "translation_bn": "এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+      "translation_ur": "ہرگز نہیں، عنقریب تم کو معلوم ہو جائے گا"
+    },
+    {
+      "id": 4,
+      "arabic": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "transliteration": "Thumma kalla sawfa taAAlamoona",
+      "translation_en": "Then no! You are going to know",
+      "translation_bn": "অতঃপর এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+      "translation_ur": "پھر (سن لو کہ) ہرگز نہیں، عنقریب تم کو معلوم ہو جائے گا"
+    },
+    {
+      "id": 5,
+      "arabic": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+      "transliteration": "Kalla law taAAlamoona AAilma alyaqeeni",
+      "translation_en": "No! If you only knew with knowledge of certainty",
+      "translation_bn": "কখনই নয়; যদি তোমরা নিশ্চিত জানতে।",
+      "translation_ur": "ہرگز نہیں، اگر تم یقینی علم کی حیثیت سے (اِس روش کے انجام کو) جانتے ہوتے (تو تمہارا یہ طرز عمل نہ ہوتا)"
+    },
+    {
+      "id": 6,
+      "arabic": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+      "transliteration": "Latarawunna aljaheema",
+      "translation_en": "You will surely see the Hellfire",
+      "translation_bn": "তোমরা অবশ্যই জাহান্নাম দেখবে",
+      "translation_ur": "تم دوزخ دیکھ کر رہو گے"
+    },
+    {
+      "id": 7,
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+      "transliteration": "Thumma latarawunnaha AAayna alyaqeeni",
+      "translation_en": "Then you will surely see it with the eye of certainty",
+      "translation_bn": "অতঃপর তোমরা তা অবশ্যই দেখবে দিব্য প্রত্যয়ে",
+      "translation_ur": "پھر (سن لو کہ) تم بالکل یقین کے ساتھ اُسے دیکھ لو گے"
+    },
+    {
+      "id": 8,
+      "arabic": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "transliteration": "Thumma latusalunna yawmaithin AAani alnnaAAeemi",
+      "translation_en": "Then you will surely be asked that Day about pleasure",
+      "translation_bn": "এরপর অবশ্যই সেদিন তোমরা নেয়ামত সম্পর্কে জিজ্ঞাসিত হবে।",
+      "translation_ur": "پھر ضرور اُس روز تم سے اِن نعمتوں کے بارے میں جواب طلبی کی جائے گی"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "category": {
+    "name": "Prophet's Dua",
+    "url": "prophets-dua",
+    "icon": "prophet_s_dua.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 11,
+  "subcategories": [
+    {
+      "id": 111,
+      "title": "The way the Prophets and the Messengers prayed",
+      "category": "prophets-dua",
+      "dua-ids": [
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694
+      ],
+      "duas": [
+        {
+          "dua_id": 684,
+          "title": "Quranic Dua for Forgiveness (Surah Al-A'raf)",
+          "category_tags": [],
+          "introduction": "Allah says:",
+          "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+          "audio": "/audio/dua/684.mp3",
+          "transliteration": "Rabbanaa zalamnaaa anfusanaa wa il-lam taghfir lanaa wa tarhamnaa lanakoonanna minal-khaasireen.",
+          "translation": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+          "reference": "Surah Al-A'raf 7:23",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 685,
+          "title": "Prophet Ayyub’s Dua for Pain Relief and Hard times",
+          "category_tags": [],
+          "introduction": "Allah says:",
+          "arabic": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+          "audio": "/audio/dua/685.mp3",
+          "transliteration": "Annee massaniyad-durru wa Anta Arhamur-Raahimeen.",
+          "translation": "Indeed, adversity has touched me, and you are the Most Merciful of the merciful.",
+          "reference": "Surah Al-Ambiya 21:83",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 686,
+          "title": "Powerful Dua of Yunus (AS) in Hard Times",
+          "category_tags": [],
+          "introduction": "Allah says:",
+          "arabic": "لَا إِلَـٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+          "audio": "/audio/dua/686.mp3",
+          "transliteration": "Laaa ilaaha illaa Anta Subhaanaka innee kuntu minaz-zaalimeen.",
+          "translation": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+          "reference": "Surah Al-Ambiya 21:87",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 687,
+          "title": "Dua of Zakariya (AS) - Surah Ali Imran",
+          "category_tags": [],
+          "introduction": "Allah says:",
+          "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ الدُّعَاءِ",
+          "audio": "/audio/dua/687.mp3",
+          "transliteration": "Rabbi hab lee mil-ladunka zurriyyatan tayyibatan innaka Samee'ud-du'aaa'.",
+          "translation": "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.",
+          "reference": "Surah Ali Imran 3:38",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 688,
+          "title": "Dua for Offspring (Dua of Zakariya)",
+          "category_tags": [],
+          "introduction": "Allah says:",
+          "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ",
+          "audio": "/audio/dua/688.mp3",
+          "transliteration": "Rabbi laa tazarnee fardan wa Anta Khairul-waaritheen.",
+          "translation": "My Lord, do not leave me alone [with no heir], while you are the best of inheritors.",
+          "reference": "Suya al-Ambiya 21:89",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 689,
+          "title": "Dua for Guidance (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَاللَّـهُ خَيْرٌ حَافِظًا ۖ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+          "audio": "/audio/dua/689.mp3",
+          "transliteration": "Fallaahu khairun haafizaa; wa Huwa Arhamur-Raahimeen.",
+          "translation": "But Allah is the best guardian, and He is the most merciful of the merciful.",
+          "reference": "Surah Yusuf 12:64",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 690,
+          "title": "Dua for patience (Surah Yusuf)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّـهُ أَن يَأْتِيَنِي بِهِمْ جَمِيعًا ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+          "audio": "/audio/dua/690.mp3",
+          "transliteration": "Fasabrun jameel; 'asallaahu ay-ya'tiyanee bihim jamee'aa; innahoo Huwal-'Aleemul-Hakeem.",
+          "translation": "So patience is most fitting. Perhaps Allah will bring them to me all together. Indeed it is He who is the Knowing, the Wise.\"",
+          "reference": "Surah Yusuf 12:83",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 691,
+          "title": "Prophet Yusuf’s Dua for Protection",
+          "category_tags": [],
+          "introduction": "Regarding Yusuf (AS) and the women, Allah says:",
+          "arabic": "رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ الْجَاهِلِينَ",
+          "audio": "/audio/dua/691.mp3",
+          "transliteration": "Rabbis-sijnu ahabbu ilaiya mimmaa yad'oonaneee ilaih; wa illaa tasrif 'annee kaidahunna asbu ilaihinna wa akum-minal-jaahileen.",
+          "translation": "My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant.",
+          "reference": "Surah Yusuf 12:33",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 692,
+          "title": "Powerful Dua for Confidence (Masnoon Dua)",
+          "category_tags": [],
+          "introduction": "Regarding his supplication, Allah says:",
+          "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي ﴿٢٥﴾ وَيَسِّرْ لِي أَمْرِي ﴿٢٦﴾ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ﴿٢٧﴾ يَفْقَهُوا قَوْلِي ﴿٢٨﴾",
+          "audio": "/audio/dua/692.mp3",
+          "transliteration": "Rabbish-rah lee sadree. Wa yassir leee amree. Wahlul 'uqdatam-mil-lisaanee. Yafqahoo qawlee.",
+          "translation": "My Lord, expand for me my breast [with assurance] (25) And ease for me my task(26) And untie the knot from my tongue(27) That they may understand my speech.(28)",
+          "reference": "Surah Ta Ha 20: 25-28",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 693,
+          "title": "Dua for Forgiveness by Prophet Musa (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Regarding Moses, Allah says:",
+          "arabic": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+          "audio": "/audio/dua/693.mp3",
+          "transliteration": "Rabbi innee zalamtu nafsee faghfir lee.",
+          "translation": "My Lord, indeed I have wronged myself, so forgive me",
+          "reference": "Surah Al-Qasas 28:16",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 694,
+          "title": "Dua of Musa (Surah Al-Qasas)",
+          "category_tags": [],
+          "introduction": "Regarding Moses, Allah says:",
+          "arabic": "رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ",
+          "audio": "/audio/dua/694.mp3",
+          "transliteration": "Rabbi bimaaa an'amta 'alayya falan akoona zaheeral-lil-mujrimeen.",
+          "translation": "My Lord, for the favor You bestowed upon me, I will never be an assistant to the criminals.",
+          "reference": "Surah Al-Qasas 28:17",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

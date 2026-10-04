@@ -1,0 +1,225 @@
+{
+  "category": {
+    "name": "Animals",
+    "url": "animals",
+    "icon": "animals.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 6,
+  "subcategories": [
+    {
+      "id": 99,
+      "title": "Duas regarding to animals",
+      "category": "animals",
+      "dua-ids": [
+        510,
+        511,
+        512,
+        513,
+        514,
+        515
+      ],
+      "duas": [
+        {
+          "dua_id": 510,
+          "title": "Dua When Rooster Crows or Donkey Brays (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated by Abu Huraira (RA): The Prophet (ﷺ) said, \"When you hear the crowing of cocks, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Bukhari: 3303",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 511,
+          "title": "Prophet’s Advice on Night Dangers (Hadith)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said, When people stop moving, get out (of the house) less, because Allah scatters whom He wills in His creation at night. Close the door by remembering the name of Allah, because the door that is closed by remembering the name of Allah, Satan cannot open it. Then cover the pot, turn the (empty) pot upside down and close the mouth of the water bag.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Silsila Sahiha: 1518, Bukhari: 3304",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 512,
+          "title": "Dua for Protection from Shaytan",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيـمِ",
+          "audio": "/audio/dua/512.mp3",
+          "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+          "translation": "I seek refuge in Allah from Satan the outcast.\n\nThe Prophet (ﷺ) said, \"When you hear the crowing of cocks, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\" [1] When you hear the donkeys of dogs and the braying of asses at night, seek refuge in Allah, for they see which you do not see. [2]",
+          "reference": "[1] Bukhari: 3303 [2] Sahih. Abu Dawud: 5103",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ، فَإِنَّهَا رَأَتْ مَلَكًا، وَإِذَا سَمِعْتُمْ نَهِيقَ الْحِمَارِ فَتَعَوَّذُوا بِاللَّهِ مِنَ الشَّيْطَانِ، فَإِنَّهُ رَأَى شَيْطَانًا ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"When you hear the crowing of roosters, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\" [[1] Bukhari: 3303 [2] Sahih (Albani). Abu Dawud: 5103]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 513,
+          "title": "Dua for Traveling and Riding (Safar Dua)",
+          "category_tags": [],
+          "introduction": "Rasulullah (ﷺ) used to say Bismillah while boarding the ride, he said the rest of the dua after getting up:",
+          "arabic": "اَلْحَمْدُ لِلَّهِ، سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، (لَا إِلَهَ إِلَّا أَنْتَ) سُبْحَانَكَ، إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
+          "audio": "/audio/dua/513.mp3",
+          "transliteration": "Alhamdu lillaah. Subhaanal-ladhee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen. Wa 'innaa 'ilaa Rabbinaa lamunqaliboon. Alhamdu lillaah, alhamdu lillaah, alhamdu lillaah, Allahu 'Akbar, Allahu 'Akbar, Allahu 'Akbar, (laa ilaaha illaa 'Anta) subhaanaka 'innee dhalamtu nafsee faghfir lee, fa'innahu laa yaghfirudh-dhunooba 'illaa 'Anta",
+          "translation": "Praise is to Allah. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. Praise is to Allah.(3 times) Allah is the Most Great. (3 times) Glory is to You. O Allah, I have wronged my own soul. Forgive me, for surely none forgives sins but You.",
+          "reference": "Sahih. Tirmidhi: 3446",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَلِيِّ بْنِ رَبِيعَةَ، قَالَ شَهِدْتُ عَلِيًّا أُتِيَ بِدَابَّةٍ لِيَرْكَبَهَا فَلَمَّا وَضَعَ رِجْلَهُ فِي الرِّكَابِ قَالَ بِسْمِ اللَّهِ ثَلاَثًا فَلَمَّا اسْتَوَى عَلَى ظَهْرِهَا قَالَ الْحَمْدُ لِلَّهِ ثُمَّ قَالَ ‏:‏ ‏",
+            "translation": "(‏ سبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‏) ‏ ثُمَّ قَالَ الْحَمْدُ لِلَّهِ ثَلاَثًا وَاللَّهُ أَكْبَرُ ثَلاَثًا سُبْحَانَكَ إِنِّي قَدْ ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ ‏.‏ ثُمَّ ضَحِكَ ‏.‏ فَقُلْتُ مِنْ أَىِّ شَيْءٍ ضَحِكْتَ يَا أَمِيرَ الْمُؤْمِنِينَ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم صَنَعَ كَمَا صَنَعْتُ ثُمَّ ضَحِكَ فَقُلْتُ مِنْ أَىِّ شَيْءٍ ضَحِكْتَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ إِنَّ رَبَّكَ لَيَعْجَبُ مِنْ عَبْدِهِ إِذَا قَالَ رَبِّ اغْفِرْ لِي ذُنُوبِي إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ غَيْرُكَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ رضى الله عنهما ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ Ali bin Rabi’ah said: “I witnessed Ali having an animal brought to him to ride. When he placed his foot in the stirrup he said: ‘In the Name of Allah,’ (Bismillāh) [three times]. So then, once he had ascended upon its back, he said: ‘All praise is due to Allah.’ (Al-ḥamdulillāh) then he said: Glory is to Him Who has subjected this to us, and we were not able to do it. And, surely, to our Lord are we returning (Subḥān alladhī sakh-khara lanā hādhā wa mā kunnā lahū muqrinīn. Wa innā ilā rabbinā lamunqalibūn). Then he said: ‘All praise is due to Allah (Al-ḥamdulillāh)’ – three times – and ‘Allah is the Greatest (Allāhu Akbar)’ – three times – ‘Glory is to You, indeed I have wronged myself, so forgive me, for indeed none forgives sins except You (Subḥānaka innī qad ẓalamtu nafsī faghfirlī fa-innahū lā yaghfirudh-dhunūba illā ant).’ Then he laughed. So I said: ‘O Commander of the Believer! What caused you to laugh?’ He said: ‘I saw the Messenger of Allah do as I did, then he (ﷺ) laughed, so I said, ‘What cause you to laugh?’ He said: ‘Indeed, your Lord is very pleased with His worshipper when he says: “O my Lord, forgive me my sins, indeed, no one other than You forgives sins.” [Sahih (Albani). Tirmidhi: 3446]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 514,
+          "title": "Dua when riding animal or car",
+          "category_tags": [],
+          "introduction": "The messenger of Allah (ﷺ) said: If you buy a camel, then you should take hold of it’s hump and say:",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+          "audio": "/audio/dua/514.mp3",
+          "transliteration": "Allaahumma 'innee 'as'aluka khayrahaa wa khayra maa jabaltahaa 'alayhi wa 'A'oodhu bika min sharrihaa wamin sharri maa jabaltahaa 'alayhi",
+          "translation": "O Allah, I ask You for the goodness of it and the goodness upon which You have created it, and I seek refuge in You from the evil of it and from the evil upon which You have created it.",
+          "reference": "Hasan. Abu Dawud: 2160",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَعَبْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا أَبُو خَالِدٍ، - يَعْنِي سُلَيْمَانَ بْنَ حَيَّانَ - عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا تَزَوَّجَ أَحَدُكُمُ امْرَأَةً أَوِ اشْتَرَى خَادِمًا فَلْيَقُلِ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَمِنْ شَرِّ مَا جَبَلْتَهَا عَلَيْهِ وَإِذَا اشْتَرَى بَعِيرًا فَلْيَأْخُذْ بِذِرْوَةِ سَنَامِهِ وَلْيَقُلْ مِثْلَ ذَلِكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ زَادَ أَبُو سَعِيدٍ ‏\"‏ ثُمَّ لْيَأْخُذْ بِنَاصِيَتِهَا وَلْيَدْعُ بِالْبَرَكَةِ ‏\"‏ ‏.‏ فِي الْمَرْأَةِ وَالْخَادِمِ ‏.‏ '",
+            "translation": "Amr b. Shu'aib on his father's authority said that his grandfather (Abdullah ibn Amr ibn al-'As) reported the Prophet (ﷺ) said: If one of you marries a woman or buys a slave, he should say: \"O Allah, I ask You for the good in her, and in the disposition You have given her; I take refuge in You from the evil in her, and in the disposition You have given her.\" When he buys a camel, he should take hold of the top of its hump and say the same kind of thing. Abu Dawud said: Abu Sa'id added the following words in his version: He should then tale hold of her forelock and pray for blessing in the case of a woman or a slave. [Hasan (Albani). Abu Dawud: 2160]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 515,
+          "title": "Prophet’s Dua upon Hearing Rooster Crows",
+          "category_tags": [],
+          "introduction": "The Messenger of Allah (ﷺ) said, “If you hear the crow of a rooster, ask Allah for his bounty for it has seen an angel.” Say:",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+          "audio": "/audio/dua/515.mp3",
+          "transliteration": "Allaahumma innee as’aluka min fadlik",
+          "translation": "O Allah, I ask You from Your favor.",
+          "reference": "Bukhari: 3303",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ، فَإِنَّهَا رَأَتْ مَلَكًا، وَإِذَا سَمِعْتُمْ نَهِيقَ الْحِمَارِ فَتَعَوَّذُوا بِاللَّهِ مِنَ الشَّيْطَانِ، فَإِنَّهُ رَأَى شَيْطَانًا ‏\" ‏‏.‏",
+            "translation": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"When you hear the crowing of roosters, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\" [Bukhari: 3303]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

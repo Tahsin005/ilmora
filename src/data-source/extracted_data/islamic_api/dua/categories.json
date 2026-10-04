@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "message": "Category fetched successfully",
+  "data": [
+    {
+      "name": "Dua's Importance",
+      "url": "duas-importance",
+      "icon": "dua_s_importance.svg",
+      "meta": "7 Subcategories"
+    },
+    {
+      "name": "Dua's Excellence",
+      "url": "duas-excellence",
+      "icon": "dua_s_excellence.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Time of Dua",
+      "url": "time-of-dua",
+      "icon": "time_of_dua.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Dua Acceptance",
+      "url": "dua-acceptance",
+      "icon": "dua_acceptance.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Morning & Evening",
+      "url": "morning-and-evening",
+      "icon": "morning_evening.svg",
+      "meta": "3 Subcategories"
+    },
+    {
+      "name": "Sleep",
+      "url": "sleep",
+      "icon": "sleep.svg",
+      "meta": "2 Subcategories"
+    },
+    {
+      "name": "Cloths",
+      "url": "cloths",
+      "icon": "cloths.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Home",
+      "url": "home",
+      "icon": "home.svg",
+      "meta": "2 Subcategories"
+    },
+    {
+      "name": "Toilet",
+      "url": "toilet",
+      "icon": "toilet.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Adhaan & Iqamah",
+      "url": "adhaan-and-iqamah",
+      "icon": "adhaan_iqamah.svg",
+      "meta": "4 Subcategories"
+    },
+    {
+      "name": "Ablution & Bath",
+      "url": "ablution-and-bath",
+      "icon": "ablution_bath.svg",
+      "meta": "2 Subcategories"
+    },
+    {
+      "name": "Mosque",
+      "url": "mosque",
+      "icon": "mosque.svg",
+      "meta": "5 Subcategories"
+    },
+    {
+      "name": "Salah",
+      "url": "salah",
+      "icon": "salah.svg",
+      "meta": "17 Subcategories"
+    },
+    {
+      "name": "Witr & Other",
+      "url": "witr-and-other",
+      "icon": "witr_other.svg",
+      "meta": "6 Subcategories"
+    },
+    {
+      "name": "Grave / Funeral",
+      "url": "grave-funeral",
+      "icon": "grave_funeral.svg",
+      "meta": "5 Subcategories"
+    },
+    {
+      "name": "Fasting",
+      "url": "fasting",
+      "icon": "fasting.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Travel",
+      "url": "travel",
+      "icon": "travel.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Hajj & Umrah",
+      "url": "hajj-and-umrah",
+      "icon": "hajj_umrah.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Sacrifice",
+      "url": "sacrifice",
+      "icon": "sacrifice.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Evil Protection",
+      "url": "evil-protection",
+      "icon": "evil_protection.svg",
+      "meta": "6 Subcategories"
+    },
+    {
+      "name": "Forgiveness",
+      "url": "forgiveness",
+      "icon": "forgiveness.svg",
+      "meta": "4 Subcategories"
+    },
+    {
+      "name": "Marriage",
+      "url": "marriage",
+      "icon": "marriage.svg",
+      "meta": "3 Subcategories"
+    },
+    {
+      "name": "Family",
+      "url": "family",
+      "icon": "family.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Debt",
+      "url": "debt",
+      "icon": "debt.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Anxiety",
+      "url": "anxiety",
+      "icon": "anxiety.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Danger",
+      "url": "danger",
+      "icon": "danger.svg",
+      "meta": "4 Subcategories"
+    },
+    {
+      "name": "Condemnation/Praise",
+      "url": "condemnationpraise",
+      "icon": "condemnation_praise.svg",
+      "meta": "2 Subcategories"
+    },
+    {
+      "name": "Manners",
+      "url": "manners",
+      "icon": "manners.svg",
+      "meta": "7 Subcategories"
+    },
+    {
+      "name": "Gathering",
+      "url": "gathering",
+      "icon": "gathering.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Food",
+      "url": "food",
+      "icon": "food.svg",
+      "meta": "6 Subcategories"
+    },
+    {
+      "name": "Animals",
+      "url": "animals",
+      "icon": "animals.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Rain/Nature",
+      "url": "rainnature",
+      "icon": "rain_nature.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Sickness",
+      "url": "sickness",
+      "icon": "sickness.svg",
+      "meta": "3 Subcategories"
+    },
+    {
+      "name": "Jinn/Diseases",
+      "url": "jinndiseases",
+      "icon": "jinn_diseases.svg",
+      "meta": "2 Subcategories"
+    },
+    {
+      "name": "Quranic Dua",
+      "url": "quranic-dua",
+      "icon": "quranic_dua.svg",
+      "meta": "4 Subcategories"
+    },
+    {
+      "name": "Greatest Name of Allah",
+      "url": "greatest-name-of-allah",
+      "icon": "greatest_name_of_allah.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Prophet's Dua",
+      "url": "prophets-dua",
+      "icon": "prophet_s_dua.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Duas of Hadith",
+      "url": "duas-of-hadith",
+      "icon": "duas_of_hadith.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Duas of Sahaba",
+      "url": "duas-of-sahaba",
+      "icon": "duas_of_sahaba.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Masnun Duas",
+      "url": "masnun-duas",
+      "icon": "masnun_duas.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Other Duas",
+      "url": "other-duas",
+      "icon": "other_duas.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "When to say what",
+      "url": "when-to-say-what",
+      "icon": "when_to_say_what.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "Eid",
+      "url": "eid",
+      "icon": "eid.svg",
+      "meta": "1 Subcategories"
+    },
+    {
+      "name": "40 Rabbana Duas",
+      "url": "40-rabbana-duas",
+      "icon": "40_rabbana_duas.svg",
+      "meta": "1 Subcategories"
+    }
+  ]
+}

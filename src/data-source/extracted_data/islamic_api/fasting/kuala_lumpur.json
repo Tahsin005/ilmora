@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "status": "success",
+  "range": "day",
+  "data": {
+    "fasting": [
+      {
+        "date": "2026-10-04",
+        "hijri": "1448-04-22",
+        "hijri_readable": "22 Rabi al-Thani 1448 AH",
+        "time": {
+          "sahur": "05:51",
+          "iftar": "19:04",
+          "duration": "13 hours 13 minutes"
+        }
+      }
+    ],
+    "white_days": {
+      "status": "next_month",
+      "days": {
+        "13th": "2026-09-25",
+        "14th": "2026-09-26",
+        "15th": "2026-09-27"
+      }
+    }
+  },
+  "city_info": {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "slug": "kuala_lumpur",
+    "lat": 3.139,
+    "lon": 101.6869
+  }
+}

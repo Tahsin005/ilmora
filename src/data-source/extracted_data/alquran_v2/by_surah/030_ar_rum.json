@@ -1,0 +1,490 @@
+{
+  "id": 30,
+  "name": "الروم",
+  "transliteration": "Ar-Rum",
+  "translation_en": "The Romans",
+  "type": "meccan",
+  "total_verses": 60,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "الٓمٓ",
+      "transliteration": "Aliflammeem",
+      "translation_en": "Alif, Lam, Meem",
+      "translation_bn": "আলিফ-লাম-মীম",
+      "translation_ur": "ا ل م"
+    },
+    {
+      "id": 2,
+      "arabic": "غُلِبَتِ ٱلرُّومُ",
+      "transliteration": "Ghulibati alrroomu",
+      "translation_en": "The Byzantines have been defeated",
+      "translation_bn": "রোমকরা পরাজিত হয়েছে",
+      "translation_ur": "رومی قریب کی سرزمین میں مغلوب ہو گئے ہیں"
+    },
+    {
+      "id": 3,
+      "arabic": "فِيٓ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُونَ",
+      "transliteration": "Fee adna alardi wahum min baAAdi ghalabihim sayaghliboona",
+      "translation_en": "In the nearest land. But they, after their defeat, will overcome",
+      "translation_bn": "নিকটবর্তী এলাকায় এবং তারা তাদের পরাজয়ের পর অতিসত্বর বিজয়ী হবে",
+      "translation_ur": "اور اپنی اِس مغلوبیت کے بعد چند سال کے اندر وہ غالب ہو جائیں گے"
+    },
+    {
+      "id": 4,
+      "arabic": "فِي بِضۡعِ سِنِينَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَيَوۡمَئِذٖ يَفۡرَحُ ٱلۡمُؤۡمِنُونَ",
+      "transliteration": "Fee bidAAi sineena lillahi alamru min qablu wamin baAAdu wayawmaithin yafrahu almuminoona",
+      "translation_en": "Within three to nine years. To Allah belongs the command before and after. And that day the believers will rejoice",
+      "translation_bn": "কয়েক বছরের মধ্যে। অগ্র-পশ্চাতের কাজ আল্লাহর হাতেই। সেদিন মুমিনগণ আনন্দিত হবে।",
+      "translation_ur": "اللہ ہی کا اختیار ہے پہلے بھی اور بعد میں بھی اور وہ دن وہ ہو گا جبکہ اللہ کی بخشی ہوئی فتح پر مسلمان خوشیاں منائیں گے"
+    },
+    {
+      "id": 5,
+      "arabic": "بِنَصۡرِ ٱللَّهِۚ يَنصُرُ مَن يَشَآءُۖ وَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "transliteration": "Binasri Allahi yansuru man yashao wahuwa alAAazeezu alrraheemu",
+      "translation_en": "In the victory of Allah. He gives victory to whom He wills, and He is the Exalted in Might, the Merciful",
+      "translation_bn": "আল্লাহর সাহায্যে। তিনি যাকে ইচ্ছা সাহায্য করেন এবং তিনি পরাক্রমশালী, পরম দয়ালু।",
+      "translation_ur": "اللہ نصرت عطا فرماتا ہے جسے چاہتا ہے، اور وہ زبردست اور رحیم ہے"
+    },
+    {
+      "id": 6,
+      "arabic": "وَعۡدَ ٱللَّهِۖ لَا يُخۡلِفُ ٱللَّهُ وَعۡدَهُۥ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "transliteration": "WaAAda Allahi la yukhlifu Allahu waAAdahu walakinna akthara alnnasi la yaAAlamoona",
+      "translation_en": "[It is] the promise of Allah. Allah does not fail in His promise, but most of the people do not know",
+      "translation_bn": "আল্লাহর প্রতিশ্রুতি হয়ে গেছে। আল্লাহ তার প্রতিশ্রুতি খেলাফ করবেন না। কিন্তু অধিকাংশ লোক জানে না।",
+      "translation_ur": "یہ وعدہ اللہ نے کیا ہے، اللہ کبھی اپنے وعدے کی خلاف ورزی نہیں کرتا، مگر اکثر لوگ نہیں جانتے ہیں"
+    },
+    {
+      "id": 7,
+      "arabic": "يَعۡلَمُونَ ظَٰهِرٗا مِّنَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَهُمۡ عَنِ ٱلۡأٓخِرَةِ هُمۡ غَٰفِلُونَ",
+      "transliteration": "YaAAlamoona thahiran mina alhayati alddunya wahum AAani alakhirati hum ghafiloona",
+      "translation_en": "They know what is apparent of the worldly life, but they, of the Hereafter, are unaware",
+      "translation_bn": "তারা পার্থিব জীবনের বাহ্যিক দিক জানে এবং তারা পরকালের খবর রাখে না।",
+      "translation_ur": "لوگ دُنیا کی زندگی کا بس ظاہری پہلو جانتے ہیں اور آخرت سے وہ خود ہی غافل ہیں"
+    },
+    {
+      "id": 8,
+      "arabic": "أَوَلَمۡ يَتَفَكَّرُواْ فِيٓ أَنفُسِهِمۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّ وَأَجَلٖ مُّسَمّٗىۗ وَإِنَّ كَثِيرٗا مِّنَ ٱلنَّاسِ بِلِقَآيِٕ رَبِّهِمۡ لَكَٰفِرُونَ",
+      "transliteration": "Awalam yatafakkaroo fee anfusihim ma khalaqa Allahu alssamawati waalarda wama baynahuma illa bialhaqqi waajalin musamman wainna katheeran mina alnnasi biliqai rabbihim lakafiroona",
+      "translation_en": "Do they not contemplate within themselves? Allah has not created the heavens and the earth and what is between them except in truth and for a specified term. And indeed, many of the people, in [the matter of] the meeting with their Lord, are disbelievers",
+      "translation_bn": "তারা কি তাদের মনে ভেবে দেখে না যে, আল্লাহ নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যবর্তী সবকিছু সৃষ্টি করেছেন যথাযথরূপে ও নির্দিষ্ট সময়ের জন্য, কিন্তু অনেক মানুষ তাদের পালনকর্তার সাক্ষাতে অবিশ্বাসী।",
+      "translation_ur": "کیا انہوں نے کبھی اپنے آپ میں غور و فکر نہیں کیا؟ اللہ نے زمین اور آسمانوں کو اور اُن ساری چیزوں کو جو اُن کے درمیان ہیں برحق اور ایک مقرّر مدت ہی کے لیے پیدا کیا ہے مگر بہت سے لوگ اپنے رب کی ملاقات کے منکر ہیں"
+    },
+    {
+      "id": 9,
+      "arabic": "أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَانُوٓاْ أَشَدَّ مِنۡهُمۡ قُوَّةٗ وَأَثَارُواْ ٱلۡأَرۡضَ وَعَمَرُوهَآ أَكۡثَرَ مِمَّا عَمَرُوهَا وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِۖ فَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+      "transliteration": "Awalam yaseeroo fee alardi fayanthuroo kayfa kana AAaqibatu allatheena min qablihim kanoo ashadda minhum quwwatan waatharoo alarda waAAamarooha akthara mimma AAamarooha wajaathum rusuluhum bialbayyinati fama kana Allahu liyathlimahum walakin kanoo anfusahum yathlimoona",
+      "translation_en": "Have they not traveled through the earth and observed how was the end of those before them? They were greater than them in power, and they plowed the earth and built it up more than they have built it up, and their messengers came to them with clear evidences. And Allah would not ever have wronged them, but they were wronging themselves",
+      "translation_bn": "তারা কি পৃথিবীতে ভ্রমণ করে না অতঃপর দেখে না যে; তাদের পূর্ববর্তীদের পরিণাম কি কি হয়েছে? তারা তাদের চাইতে শক্তিশালী ছিল, তারা যমীন চাষ করত এবং তাদের চাইতে বেশী আবাদ করত। তাদের কাছে তাদের রসূলগণ সুস্পষ্ট নির্দেশ নিয়ে এসেছিল। বস্তুতঃ আল্লাহ তাদের প্রতি জুলুমকারী ছিলেন না। কিন্তু তারা নিজেরাই নিজেদের প্রতি জুলুম করেছিল।",
+      "translation_ur": "اور کیا یہ لوگ کبھی زمین میں چلے پھرے نہیں ہیں کہ اِنہیں اُن لوگوں کا انجام نظر آتا جو اِن سے پہلے گزر چکے ہیں؟ وہ اِن سے زیادہ طاقت رکھتے تھے، اُنہوں نے زمین کو خوب ادھیڑا تھا اور اُسے اتنا آباد کیا تھا جتنا اِنہوں نے نہیں کیا ہے اُن کے پاس ان کے رسول روشن نشانیاں لے کر آئے پھر اللہ ان پر ظلم کرنے والا نہ تھا، مگر وہ خود ہی اپنے اوپر ظلم کر رہے تھے"
+    },
+    {
+      "id": 10,
+      "arabic": "ثُمَّ كَانَ عَٰقِبَةَ ٱلَّذِينَ أَسَـٰٓـُٔواْ ٱلسُّوٓأَىٰٓ أَن كَذَّبُواْ بِـَٔايَٰتِ ٱللَّهِ وَكَانُواْ بِهَا يَسۡتَهۡزِءُونَ",
+      "transliteration": "Thumma kana AAaqibata allatheena asaoo alssooa an kaththaboo biayati Allahi wakanoo biha yastahzioona",
+      "translation_en": "Then the end of those who did evil was the worst [consequence] because they denied the signs of Allah and used to ridicule them",
+      "translation_bn": "অতঃপর যারা মন্দ কর্ম করত, তাদের পরিণাম হয়েছে মন্দ। কারণ, তারা আল্লাহর আয়াতসমূহকে মিথ্যা বলত এবং সেগুলো নিয়ে ঠাট্টা-বিদ্রূপ করত।",
+      "translation_ur": "آ خرکار جن لوگوں نے بُرائیاں کی تھیں ان کا انجام بہت برا ہوا، اس لیے کہ انہوں نے اللہ کی آیات کو جھٹلایا تھا اور وہ ان کا مذاق اڑاتے تھے"
+    },
+    {
+      "id": 11,
+      "arabic": "ٱللَّهُ يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
+      "transliteration": "Allahu yabdao alkhalqa thumma yuAAeeduhu thumma ilayhi turjaAAoona",
+      "translation_en": "Allah begins creation; then He will repeat it; then to Him you will be returned",
+      "translation_bn": "আল্লাহ প্রথমবার সৃষ্টি করেন, অতঃপর তিনি পুনরায় সৃষ্টি করবেন। এরপর তোমরা তাঁরই দিকে প্রত্যাবর্তিত হবে।",
+      "translation_ur": "اللہ ہی خلق کی ابتدا کرتا ہے، پھر وہی اس کا اعادہ کرے گا، پھر اسی کی طرف تم پلٹائے جاؤ گے"
+    },
+    {
+      "id": 12,
+      "arabic": "وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يُبۡلِسُ ٱلۡمُجۡرِمُونَ",
+      "transliteration": "Wayawma taqoomu alssaAAatu yublisu almujrimoona",
+      "translation_en": "And the Day the Hour appears the criminals will be in despair",
+      "translation_bn": "যে দিন কেয়ামত সংঘটিত হবে, সেদিন অপরাধীরা হতাশ হয়ে যাবে।",
+      "translation_ur": "اور جب وہ ساعت برپا ہو گی اس دن مجرم ہَک دَک رہ جائیں گے"
+    },
+    {
+      "id": 13,
+      "arabic": "وَلَمۡ يَكُن لَّهُم مِّن شُرَكَآئِهِمۡ شُفَعَـٰٓؤُاْ وَكَانُواْ بِشُرَكَآئِهِمۡ كَٰفِرِينَ",
+      "transliteration": "Walam yakun lahum min shurakaihim shufaAAao wakanoo bishurakaihim kafireena",
+      "translation_en": "And there will not be for them among their [alleged] partners any intercessors, and they will [then] be disbelievers in their partners",
+      "translation_bn": "তাদের দেবতা গুলোর মধ্যে কেউ তাদের সুপারিশ করবে না। এবং তারা তাদের দেবতাকে অস্বীকার করবে।",
+      "translation_ur": "ان کے ٹھیرائے ہوئے شریکوں میں کوئی ان کا سفارشی نہ ہو گا اور وہ اپنے شریکوں کے منکر ہو جائیں گے"
+    },
+    {
+      "id": 14,
+      "arabic": "وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يَوۡمَئِذٖ يَتَفَرَّقُونَ",
+      "transliteration": "Wayawma taqoomu alssaAAatu yawmaithin yatafarraqoona",
+      "translation_en": "And the Day the Hour appears - that Day they will become separated",
+      "translation_bn": "যেদিন কেয়ামত সংঘটিত হবে, সেদিন মানুষ বিভক্ত হয়ে পড়বে।",
+      "translation_ur": "جس روز وہ ساعت برپا ہو گی، اس دن (سب انسان) الگ گروہوں میں بٹ جائیں گے"
+    },
+    {
+      "id": 15,
+      "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ فَهُمۡ فِي رَوۡضَةٖ يُحۡبَرُونَ",
+      "transliteration": "Faamma allatheena amanoo waAAamiloo alssalihati fahum fee rawdatin yuhbaroona",
+      "translation_en": "And as for those who had believed and done righteous deeds, they will be in a garden [of Paradise], delighted",
+      "translation_bn": "যারা বিশ্বাস স্থাপন করেছে ও সৎকর্ম করেছে, তারা জান্নাতে সমাদৃত হবে",
+      "translation_ur": "جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں وہ ایک باغ میں شاداں و فرحاں رکھے جائیں گے"
+    },
+    {
+      "id": 16,
+      "arabic": "وَأَمَّا ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَا وَلِقَآيِٕ ٱلۡأٓخِرَةِ فَأُوْلَـٰٓئِكَ فِي ٱلۡعَذَابِ مُحۡضَرُونَ",
+      "transliteration": "Waamma allatheena kafaroo wakaththaboo biayatina waliqai alakhirati faolaika fee alAAathabi muhdaroona",
+      "translation_en": "But as for those who disbelieved and denied Our verses and the meeting of the Hereafter, those will be brought into the punishment [to remain]",
+      "translation_bn": "আর যারা কাফের এবং আমার আয়াতসমূহ ও পরকালের সাক্ষাতকারকে মিথ্যা বলছে, তাদেরকেই আযাবের মধ্যে উপস্থিত করা হবে।",
+      "translation_ur": "اور جنہوں نے کفر کیا ہے اور ہماری آیات کو اور آخرت کی ملاقات کو جھٹلایا ہے وہ عذاب میں حاضر رکھے جائیں گے"
+    },
+    {
+      "id": 17,
+      "arabic": "فَسُبۡحَٰنَ ٱللَّهِ حِينَ تُمۡسُونَ وَحِينَ تُصۡبِحُونَ",
+      "transliteration": "Fasubhana Allahi heena tumsoona waheena tusbihoona",
+      "translation_en": "So exalted is Allah when you reach the evening and when you reach the morning",
+      "translation_bn": "অতএব, তোমরা আল্লাহর পবিত্রতা স্মরণ কর সন্ধ্যায় ও সকালে",
+      "translation_ur": "پس تسبیح کرو اللہ کی جبکہ تم شام کرتے ہو اور جب صبح کرتے ہو"
+    },
+    {
+      "id": 18,
+      "arabic": "وَلَهُ ٱلۡحَمۡدُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَعَشِيّٗا وَحِينَ تُظۡهِرُونَ",
+      "transliteration": "Walahu alhamdu fee alssamawati waalardi waAAashiyyan waheena tuthhiroona",
+      "translation_en": "And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon",
+      "translation_bn": "এবং অপরাহেߠও মধ্যাহেߦ#2404; নভোমন্ডল ও ভূমন্ডলে, তাঁরই প্রসংসা।",
+      "translation_ur": "آسمانوں اور زمین میں اُسی کے لیے حمد ہے اور (تسبیح کرو اس کی) تیسرے پہر اور جبکہ تم پر ظہر کا وقت آتا ہے"
+    },
+    {
+      "id": 19,
+      "arabic": "يُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَيُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّ وَيُحۡيِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ وَكَذَٰلِكَ تُخۡرَجُونَ",
+      "transliteration": "Yukhriju alhayya mina almayyiti wayukhriju almayyita mina alhayyi wayuhyee alarda baAAda mawtiha wakathalika tukhrajoona",
+      "translation_en": "He brings the living out of the dead and brings the dead out of the living and brings to life the earth after its lifelessness. And thus will you be brought out",
+      "translation_bn": "তিনি মৃত থেকে জীবিতকে বহির্গত করেন জীবিত থেকে মৃতকে বহির্গত করেন, এবং ভূমির মৃত্যুর পর তাকে পুনরুজ্জীবিত করেন। এভাবে তোমরা উত্থিত হবে।",
+      "translation_ur": "وہ زندہ میں سے مُردے کو نکالتا ہے اور مُردے میں سے زندہ کو نکالتا ہے اور زمین کو اس کی موت کے بعد زندگی بخشتا ہے اسی طرح تم لوگ بھی (حالت موت سے) نکال لیے جاؤ گے"
+    },
+    {
+      "id": 20,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦٓ أَنۡ خَلَقَكُم مِّن تُرَابٖ ثُمَّ إِذَآ أَنتُم بَشَرٞ تَنتَشِرُونَ",
+      "transliteration": "Wamin ayatihi an khalaqakum min turabin thumma itha antum basharun tantashiroona",
+      "translation_en": "And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth]",
+      "translation_bn": "তাঁর নিদর্শনাবলীর মধ্যে এক নিদর্শন এই যে, তিনি মৃত্তিকা থেকে তোমাদের সৃষ্টি করেছেন। এখন তোমরা মানুষ, পৃথিবীতে ছড়িয়ে আছ।",
+      "translation_ur": "اُس کی نشانیوں میں سے یہ ہے کہ اس نے تم کو مٹی سے پیدا کیا پھر یکایک تم بشر ہو کہ (زمین میں) پھیلتے چلے جا رہے ہو"
+    },
+    {
+      "id": 21,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦٓ أَنۡ خَلَقَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا لِّتَسۡكُنُوٓاْ إِلَيۡهَا وَجَعَلَ بَيۡنَكُم مَّوَدَّةٗ وَرَحۡمَةًۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+      "transliteration": "Wamin ayatihi an khalaqa lakum min anfusikum azwajan litaskunoo ilayha wajaAAala baynakum mawaddatan warahmatan inna fee thalika laayatin liqawmin yatafakkaroona",
+      "translation_en": "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought",
+      "translation_bn": "আর এক নিদর্শন এই যে, তিনি তোমাদের জন্যে তোমাদের মধ্য থেকে তোমাদের সংগিনীদের সৃষ্টি করেছেন, যাতে তোমরা তাদের কাছে শান্তিতে থাক এবং তিনি তোমাদের মধ্যে পারস্পরিক সম্প্রীতি ও দয়া সৃষ্টি করেছেন। নিশ্চয় এতে চিন্তাশীল লোকদের জন্যে নিদর্শনাবলী রয়েছে।",
+      "translation_ur": "اور اس کی نشانیوں میں سے یہ ہے کہ اس نے تمہارے لیے تمہاری ہی جنس سے بیویاں بنائیں تاکہ تم ان کے پاس سکون حاصل کرو اور تمہارے درمیان محبّت اور رحمت پیدا کر دی یقیناً اس میں بہت سی نشانیاں ہے اُن لوگوں کے لیے جو غور و فکر کرتے ہیں"
+    },
+    {
+      "id": 22,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦ خَلۡقُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفُ أَلۡسِنَتِكُمۡ وَأَلۡوَٰنِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡعَٰلِمِينَ",
+      "transliteration": "Wamin ayatihi khalqu alssamawati waalardi waikhtilafu alsinatikum waalwanikum inna fee thalika laayatin lilAAalimeena",
+      "translation_en": "And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge",
+      "translation_bn": "তাঁর আর ও এক নিদর্শন হচ্ছে নভোমন্ডল ও ভূমন্ডলের সৃজন এবং তোমাদের ভাষা ও বর্ণের বৈচিত্র। নিশ্চয় এতে জ্ঞানীদের জন্যে নিদর্শনাবলী রয়েছে।",
+      "translation_ur": "اور اس کی نشانیوں میں سے آسمانوں اور زمین کی پیدائش، اور تمہاری زبانوں اور تمہارے رنگوں کا اختلاف ہے یقیناً اس میں بہت سی نشانیاں ہیں دانشمند لوگوں کے لیے"
+    },
+    {
+      "id": 23,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ وَٱبۡتِغَآؤُكُم مِّن فَضۡلِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَسۡمَعُونَ",
+      "transliteration": "Wamin ayatihi manamukum biallayli waalnnahari waibtighaokum min fadlihi inna fee thalika laayatin liqawmin yasmaAAoona",
+      "translation_en": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen",
+      "translation_bn": "তাঁর আরও নিদর্শনঃ রাতে ও দিনে তোমাদের নিদ্রা এবং তাঁর কৃপা অন্বেষণ। নিশ্চয় এতে মনোযোগী সম্প্রদায়ের জন্যে নিদর্শনাবলী রয়েছে।",
+      "translation_ur": "اور اُس کی نشانیوں میں سے تمہارا رات اور دن کو سونا اور تمہارا اس کے فضل کو تلاش کرنا ہے یقیناً اِس میں بہت سی نشانیاں ہیں اُن لوگوں کے لیے جو (غور سے) سُنتے ہیں"
+    },
+    {
+      "id": 24,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦ يُرِيكُمُ ٱلۡبَرۡقَ خَوۡفٗا وَطَمَعٗا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءٗ فَيُحۡيِۦ بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
+      "transliteration": "Wamin ayatihi yureekumu albarqa khawfan watamaAAan wayunazzilu mina alssamai maan fayuhyee bihi alarda baAAda mawtiha inna fee thalika laayatin liqawmin yaAAqiloona",
+      "translation_en": "And of His signs is [that] He shows you the lightning [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason",
+      "translation_bn": "তাঁর আরও নিদর্শনঃ তিনি তোমাদেরকে দেখান বিদ্যুৎ, ভয় ও ভরসার জন্যে এবং আকাশ থেকে পানি বর্ষণ করেন, অতঃপর তদ্দ্বারা ভূমির মৃত্যুর পর তাকে পুনরুজ্জীবিত করেন। নিশ্চয় এতে বুদ্ধিমান লোকদের জন্যে নিদর্শনাবলী রয়েছে।",
+      "translation_ur": "اور اُس کی نشانیوں میں سے یہ ہے کہ وہ تمہیں بجلی کی چمک دکھاتا ہے خوف کے ساتھ بھی اور طمع کے ساتھ بھی اور آسمان سے پانی برساتا ہے، پھر اس کے ذریعہ سے زمین کو اس کی موت کے بعد زندگی بخشتا ہے یقیناً اِس میں بہت سی نشانیاں ہیں اُن لوگوں کے لیے جو عقل سے کام لیتے ہیں"
+    },
+    {
+      "id": 25,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ ثُمَّ إِذَا دَعَاكُمۡ دَعۡوَةٗ مِّنَ ٱلۡأَرۡضِ إِذَآ أَنتُمۡ تَخۡرُجُونَ",
+      "transliteration": "Wamin ayatihi an taqooma alssamao waalardu biamrihi thumma itha daAAakum daAAwatan mina alardi itha antum takhrujoona",
+      "translation_en": "And of His signs is that the heaven and earth remain by His command. Then when He calls you with a [single] call from the earth, immediately you will come forth",
+      "translation_bn": "তাঁর অন্যতম নিদর্শন এই যে, তাঁরই আদেশে আকাশ ও পৃথিবী প্রতিষ্ঠিত আছে। অতঃপর যখন তিনি মৃত্তিকা থেকে উঠার জন্যে তোমাদের ডাক দেবেন, তখন তোমরা উঠে আসবে।",
+      "translation_ur": "اور اُس کی نشانیوں میں سے یہ ہے کہ آسمان اور زمین اس کے حکم سے قائم ہیں پھر جونہی کہ اُس نے تمہیں زمین سے پکارا، بس ایک ہی پکار میں اچانک تم نکل آؤ گے"
+    },
+    {
+      "id": 26,
+      "arabic": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
+      "transliteration": "Walahu man fee alssamawati waalardi kullun lahu qanitoona",
+      "translation_en": "And to Him belongs whoever is in the heavens and earth. All are to Him devoutly obedient",
+      "translation_bn": "নভোমন্ডলে ও ভুমন্ডলে যা কিছু আছে, সব তাঁরই। সবাই তাঁর আজ্ঞাবহ।",
+      "translation_ur": "آسمانوں اور زمین میں جو بھی ہیں اُس کے بندے ہیں، سب کے سب اسی کے تابع فرمان ہیں"
+    },
+    {
+      "id": 27,
+      "arabic": "وَهُوَ ٱلَّذِي يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهۡوَنُ عَلَيۡهِۚ وَلَهُ ٱلۡمَثَلُ ٱلۡأَعۡلَىٰ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+      "transliteration": "Wahuwa allathee yabdao alkhalqa thumma yuAAeeduhu wahuwa ahwanu AAalayhi walahu almathalu alaAAla fee alssamawati waalardi wahuwa alAAazeezu alhakeemu",
+      "translation_en": "And it is He who begins creation; then He repeats it, and that is [even] easier for Him. To Him belongs the highest attribute in the heavens and earth. And He is the Exalted in Might, the Wise",
+      "translation_bn": "তিনিই প্রথমবার সৃষ্টিকে অস্তিত্বে আনয়ন করেন, অতঃপর তিনি সৃষ্টি করবেন। এটা তাঁর জন্যে সহজ। আকাশ ও পৃথিবীতে সর্বোচ্চ মর্যাদা তাঁরই এবং তিনিই পরাক্রমশালী, প্রজ্ঞাময়।",
+      "translation_ur": "وہی ہے جو تخلیق کی ابتدا کرتا ہے، پھر وہی اس کا اعادہ کرے گا اور یہ اس کے لیے آسان تر ہے آسمانوں اور زمین میں اس کی صفت سب سے برتر ہے اور وہ زبردست اور حکیم ہے"
+    },
+    {
+      "id": 28,
+      "arabic": "ضَرَبَ لَكُم مَّثَلٗا مِّنۡ أَنفُسِكُمۡۖ هَل لَّكُم مِّن مَّا مَلَكَتۡ أَيۡمَٰنُكُم مِّن شُرَكَآءَ فِي مَا رَزَقۡنَٰكُمۡ فَأَنتُمۡ فِيهِ سَوَآءٞ تَخَافُونَهُمۡ كَخِيفَتِكُمۡ أَنفُسَكُمۡۚ كَذَٰلِكَ نُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡقِلُونَ",
+      "transliteration": "Daraba lakum mathalan min anfusikum hal lakum mi mma malakat aymanukum min shurakaa fee ma razaqnakum faantum feehi sawaon takhafoonahum kakheefatikum anfusakum kathalika nufassilu alayati liqawmin yaAAqiloona",
+      "translation_en": "He presents to you an example from yourselves. Do you have among those whom your right hands possess any partners in what We have provided for you so that you are equal therein [and] would fear them as your fear of one another [within a partnership]? Thus do We detail the verses for a people who use reason",
+      "translation_bn": "আল্লাহ তোমাদের জন্যে তোমাদেরই মধ্য থেকে একটি দৃষ্টান্ত বর্ণনা করেছেনঃ তোমাদের আমি যে রুযী দিয়েছি, তোমাদের অধিকারভুক্ত দাস-দাসীরা কি তাতে তোমাদের সমান সমান অংশীদার? তোমরা কি তাদেরকে সেরূপ ভয় কর, যেরূপ নিজেদের লোককে ভয় কর? এমনিভাবে আমি সমঝদার সম্প্রদায়ের জন্যে নিদর্শনাবলী বিস্তারিত বর্ণনা করি।",
+      "translation_ur": "وہ تمہیں خود تمہاری اپنی ہی ذات سے ایک مثال دیتا ہے کیا تمہارے اُن غلاموں میں سے جو تمہاری ملکیت میں ہیں کچھ غلام ایسے بھی ہیں جو ہمارے دیے ہوئے مال و دولت میں تمہارے ساتھ برابر کے شریک ہوں اور تم اُن سے اُس طرح ڈرتے ہو جس طرح آپس میں اپنے ہمسروں سے ڈرتے ہو؟ اس طرح ہم آیات کھول کر پیش کرتے ہیں اُن لوگوں کے لیے جو عقل سے کام لیتے ہیں"
+    },
+    {
+      "id": 29,
+      "arabic": "بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓاْ أَهۡوَآءَهُم بِغَيۡرِ عِلۡمٖۖ فَمَن يَهۡدِي مَنۡ أَضَلَّ ٱللَّهُۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+      "transliteration": "Bali ittabaAAa allatheena thalamoo ahwaahum bighayri AAilmin faman yahdee man adalla Allahu wama lahum min nasireena",
+      "translation_en": "But those who wrong follow their [own] desires without knowledge. Then who can guide one whom Allah has sent astray? And for them there are no helpers",
+      "translation_bn": "বরং যারা যে-ইনসাফ, তারা অজ্ঞানতাবশতঃ তাদের খেয়াল-খূশীর অনুসরণ করে থাকে। অতএব, আল্লাহ যাকে পথভ্রষ্ট করেন, তাকে কে বোঝাবে? তাদের কোন সাহায্যকারী নেই।",
+      "translation_ur": "مگر یہ ظالم بے سمجھے بوجھے اپنے تخیلات کے پیچھے چل پڑے ہیں اب کون اُس شخص کو راستہ دکھا سکتا ہے جسے اللہ نے بھٹکا دیا ہو ایسے لوگوں کا تو کوئی مدد گار نہیں ہو سکتا"
+    },
+    {
+      "id": 30,
+      "arabic": "فَأَقِمۡ وَجۡهَكَ لِلدِّينِ حَنِيفٗاۚ فِطۡرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيۡهَاۚ لَا تَبۡدِيلَ لِخَلۡقِ ٱللَّهِۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "transliteration": "Faaqim wajhaka lilddeeni haneefan fitrata Allahi allatee fatara alnnasa AAalayha la tabdeela likhalqi Allahi thalika alddeenu alqayyimu walakinna akthara alnnasi la yaAAlamoona",
+      "translation_en": "So direct your face toward the religion, inclining to truth. [Adhere to] the fitrah of Allah upon which He has created [all] people. No change should there be in the creation of Allah. That is the correct religion, but most of the people do not know",
+      "translation_bn": "তুমি একনিষ্ঠ ভাবে নিজেকে ধর্মের উপর প্রতিষ্ঠিত রাখ। এটাই আল্লাহর প্রকৃতি, যার উপর তিনি মানব সৃষ্টি করেছেন। আল্লাহর সৃষ্টির কোন পরিবর্তন নেই। এটাই সরল ধর্ম। কিন্তু অধিকাংশ মানুষ জানে না।",
+      "translation_ur": "پس (اے نبیؐ، اور نبیؐ کے پیروؤں) یک سُو ہو کر اپنا رُخ اِس دین کی سمت میں جما دو، قائم ہو جاؤ اُس فطرت پر جس پر اللہ تعالیٰ نے انسانوں کو پیدا کیا ہے، اللہ کی بنائی ہوئی ساخت بدلی نہیں جا سکتی، یہی بالکل راست اور درست دین ہے، مگر اکثر لوگ جانتے نہیں ہیں"
+    },
+    {
+      "id": 31,
+      "arabic": "۞مُنِيبِينَ إِلَيۡهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلۡمُشۡرِكِينَ",
+      "transliteration": "Muneebeena ilayhi waittaqoohu waaqeemoo alssalata wala takoonoo mina almushrikeena",
+      "translation_en": "[Adhere to it], turning in repentance to Him, and fear Him and establish prayer and do not be of those who associate others with Allah",
+      "translation_bn": "সবাই তাঁর অভিমুখী হও এবং ভয় কর, নামায কায়েম কর এবং মুশরিকদের অন্তর্ভুক্ত হয়ো না।",
+      "translation_ur": "(قائم ہو جاؤ اِس بات پر) اللہ کی طرف رجوع کرتے ہوئے، اور ڈرو اُس سے، اور نماز قائم کرو، اور نہ ہو جاؤ اُن مشرکین میں سے"
+    },
+    {
+      "id": 32,
+      "arabic": "مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ فَرِحُونَ",
+      "transliteration": "Mina allatheena farraqoo deenahum wakanoo shiyaAAan kullu hizbin bima ladayhim farihoona",
+      "translation_en": "[Or] of those who have divided their religion and become sects, every faction rejoicing in what it has",
+      "translation_bn": "যারা তাদের ধর্মে বিভেদ সৃষ্টি করেছে এবং অনেক দলে বিভক্ত হয়ে পড়েছে। প্রত্যেক দলই নিজ নিজ মতবাদ নিয়ে উল্লসিত।",
+      "translation_ur": "جنہوں نے اپنا اپنا دین الگ بنا لیا ہے اور گروہوں میں بٹ گئے ہیں، ہر ایک گروہ کے پاس جو کچھ ہے اسی میں وہ مگن ہے"
+    },
+    {
+      "id": 33,
+      "arabic": "وَإِذَا مَسَّ ٱلنَّاسَ ضُرّٞ دَعَوۡاْ رَبَّهُم مُّنِيبِينَ إِلَيۡهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنۡهُ رَحۡمَةً إِذَا فَرِيقٞ مِّنۡهُم بِرَبِّهِمۡ يُشۡرِكُونَ",
+      "transliteration": "Waitha massa alnnasa durrun daAAaw rabbahum muneebeena ilayhi thumma itha athaqahum minhu rahmatan itha fareequn minhum birabbihim yushrikoona",
+      "translation_en": "And when adversity touches the people, they call upon their Lord, turning in repentance to Him. Then when He lets them taste mercy from Him, at once a party of them associate others with their Lord",
+      "translation_bn": "মানুষকে যখন দুঃখ-কষ্ট স্পর্শ করে, তখন তারা তাদের পালনকর্তাকে আহবান করে তাঁরই অভিমুখী হয়ে। অতঃপর তিনি যখন তাদেরকে রহমতের স্বাদ আস্বাদন করান, তখন তাদের একদল তাদের পালনকর্তার সাথে শিরক করতে থাকে",
+      "translation_ur": "لوگوں کا حال یہ ہے کہ جب انہیں کوئی تکلیف پہنچتی ہے تو اپنے رب کی طرف رجوع کر کے اُسے پکارتے ہیں، پھر جب وہ کچھ اپنی رحمت کا ذائقہ انہیں چکھا دیتا ہے تو یکایک ان میں سے کچھ لوگ شرک کرنے لگتے ہیں"
+    },
+    {
+      "id": 34,
+      "arabic": "لِيَكۡفُرُواْ بِمَآ ءَاتَيۡنَٰهُمۡۚ فَتَمَتَّعُواْ فَسَوۡفَ تَعۡلَمُونَ",
+      "transliteration": "Liyakfuroo bima ataynahum fatamattaAAoo fasawfa taAAlamoona",
+      "translation_en": "So that they will deny what We have granted them. Then enjoy yourselves, for you are going to know",
+      "translation_bn": "যাতে তারা অস্বীকার করে যা আমি তাদেরকে দিয়েছি। অতএব, মজা লুটে নাও, সত্বরই জানতে পারবে।",
+      "translation_ur": "تاکہ ہمارے کیے ہوئے احسان کی ناشکری کریں اچھا، مزے کر لو، عنقریب تمہیں معلوم ہو جائے گا"
+    },
+    {
+      "id": 35,
+      "arabic": "أَمۡ أَنزَلۡنَا عَلَيۡهِمۡ سُلۡطَٰنٗا فَهُوَ يَتَكَلَّمُ بِمَا كَانُواْ بِهِۦ يُشۡرِكُونَ",
+      "transliteration": "Am anzalna AAalayhim sultanan fahuwa yatakallamu bima kanoo bihi yushrikoona",
+      "translation_en": "Or have We sent down to them an authority, and it speaks of what they were associating with Him",
+      "translation_bn": "আমি কি তাদের কাছে এমন কোন দলীল নাযিল করেছি, যে তাদেরকে আমার শরীক করতে বলে",
+      "translation_ur": "کیا ہم نے کوئی سند اور دلیل ان پر نازل کی ہے جو شہادت دیتی ہو اس شرک کی صداقت پر جو یہ کر رہے ہیں؟"
+    },
+    {
+      "id": 36,
+      "arabic": "وَإِذَآ أَذَقۡنَا ٱلنَّاسَ رَحۡمَةٗ فَرِحُواْ بِهَاۖ وَإِن تُصِبۡهُمۡ سَيِّئَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ إِذَا هُمۡ يَقۡنَطُونَ",
+      "transliteration": "Waitha athaqna alnnasa rahmatan farihoo biha wain tusibhum sayyiatun bima qaddamat aydeehim itha hum yaqnatoona",
+      "translation_en": "And when We let the people taste mercy, they rejoice therein, but if evil afflicts them for what their hands have put forth, immediately they despair",
+      "translation_bn": "আর যখন আমি মানুষকে রহমতের স্বাদ আস্বাদন করাই, তারা তাতে আনন্দিত হয় এবং তাদের কৃতকর্মের ফলে যদি তাদেরকে কোন দুদর্শা পায়, তবে তারা হতাশ হয়ে পড়ে।",
+      "translation_ur": "جب ہم لوگوں کو رحمت کا ذائقہ چکھاتے ہیں تو وہ اس پر پھول جاتے ہیں، اور جب ان کے اپنے کیے کرتوتوں سے ان پر کوئی مصیبت آتی ہے تو یکایک وہ مایوس ہونے لگتے ہیں"
+    },
+    {
+      "id": 37,
+      "arabic": "أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+      "transliteration": "Awalam yaraw anna Allaha yabsutu alrrizqa liman yashao wayaqdiru inna fee thalika laayatin liqawmin yuminoona",
+      "translation_en": "Do they not see that Allah extends provision for whom He wills and restricts [it]? Indeed, in that are signs for a people who believe",
+      "translation_bn": "তারা কি দেখে না যে, আল্লাহ যার জন্যে ইচ্ছা রিযিক বর্ধিত করেন এবং হ্রাস করেন। নিশ্চয় এতে বিশ্বাসী সম্প্রদায়ের জন্যে নিদর্শনাবলী রয়েছে।",
+      "translation_ur": "کیا یہ لوگ دیکھتے نہیں ہیں کہ اللہ ہی رزق کشادہ کرتا ہے جس کا چاہتا ہے اور تنگ کرتا ہے (جس کا چاہتا ہے) یقیناً اس میں بہت سی نشانیاں ہیں اُن لوگوں کے لیے جو ایمان لاتے ہیں"
+    },
+    {
+      "id": 38,
+      "arabic": "فَـَٔاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ وَٱلۡمِسۡكِينَ وَٱبۡنَ ٱلسَّبِيلِۚ ذَٰلِكَ خَيۡرٞ لِّلَّذِينَ يُرِيدُونَ وَجۡهَ ٱللَّهِۖ وَأُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "transliteration": "Faati tha alqurba haqqahu waalmiskeena waibna alssabeeli thalika khayrun lillatheena yureedoona wajha Allahi waolaika humu almuflihoona",
+      "translation_en": "So give the relative his right, as well as the needy and the traveler. That is best for those who desire the countenance of Allah, and it is they who will be the successful",
+      "translation_bn": "আত্নীয়-স্বজনকে তাদের প্রাপ্য দিন এবং মিসকীন ও মুসাফিরদেরও। এটা তাদের জন্যে উত্তম, যারা আল্লাহর সন্তুষ্টি কামনা করে। তারাই সফলকাম।",
+      "translation_ur": "پس (اے مومن) رشتہ دار کو اس کا حق دے اور مسکین و مسافر کو (اُس کا حق) یہ طریقہ بہتر ہے اُن لوگوں کے لیے جو اللہ کی خوشنودی چاہتے ہوں، اور وہی فلاح پانے والے ہیں"
+    },
+    {
+      "id": 39,
+      "arabic": "وَمَآ ءَاتَيۡتُم مِّن رِّبٗا لِّيَرۡبُوَاْ فِيٓ أَمۡوَٰلِ ٱلنَّاسِ فَلَا يَرۡبُواْ عِندَ ٱللَّهِۖ وَمَآ ءَاتَيۡتُم مِّن زَكَوٰةٖ تُرِيدُونَ وَجۡهَ ٱللَّهِ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡمُضۡعِفُونَ",
+      "transliteration": "Wama ataytum min riban liyarbuwa fee amwali alnnasi fala yarboo AAinda Allahi wama ataytum min zakatin tureedoona wajha Allahi faolaika humu almudAAifoona",
+      "translation_en": "And whatever you give for interest to increase within the wealth of people will not increase with Allah. But what you give in zakah, desiring the countenance of Allah - those are the multipliers",
+      "translation_bn": "মানুষের ধন-সম্পদে তোমাদের ধন-সম্পদ বৃদ্ধি পাবে, এই আশায় তোমরা সুদে যা কিছু দাও, আল্লাহর কাছে তা বৃদ্ধি পায় না। পক্ষান্তরে, আল্লাহর সন্তুষ্টি লাভের আশায় পবিত্র অন্তরে যারা দিয়ে থাকে, অতএব, তারাই দ্বিগুণ লাভ করে।",
+      "translation_ur": "جو سُود تم دیتے ہو تاکہ لوگوں کے اموال میں شامل ہو کر وہ بڑھ جائے، اللہ کے نزدیک وہ نہیں بڑھتا، اور جو زکوٰۃ تم اللہ کی خوشنودی حاصل کرنے کے ارادے سے دیتے ہو، اسی کے دینے والے در حقیقت اپنے مال بڑھاتے ہیں"
+    },
+    {
+      "id": 40,
+      "arabic": "ٱللَّهُ ٱلَّذِي خَلَقَكُمۡ ثُمَّ رَزَقَكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡۖ هَلۡ مِن شُرَكَآئِكُم مَّن يَفۡعَلُ مِن ذَٰلِكُم مِّن شَيۡءٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+      "transliteration": "Allahu allathee khalaqakum thumma razaqakum thumma yumeetukum thumma yuhyeekum hal min shurakaikum man yafAAalu min thalikum min shayin subhanahu wataAAala AAamma yushrikoona",
+      "translation_en": "Allah is the one who created you, then provided for you, then will cause you to die, and then will give you life. Are there any of your \"partners\" who does anything of that? Exalted is He and high above what they associate with Him",
+      "translation_bn": "আল্লাহই তোমাদের সৃষ্টি করেছেন, অতঃপর রিযিক দিয়েছেন, এরপর তোমাদের মৃত্যু দেবেন, এরপর তোমাদের জীবিত করবেন। তোমাদের শরীকদের মধ্যে এমন কেউ আছে কি, যে এসব কাজের মধ্যে কোন একটিও করতে পারবে? তারা যাকে শরীক করে, আল্লাহ তা থেকে পবিত্র ও মহান।",
+      "translation_ur": "اللہ ہی ہے جس نے تم کو پیدا کیا، پھر تمہیں رزق دیا، پھر وہ تمہیں موت دیتا ہے، پھر وہ تمہیں زندہ کرے گا کیا تمہارے ٹھیرائے ہوئے شریکوں میں کوئی ایسا ہے جو ان میں سے کوئی کام بھی کرتا ہو؟ پاک ہے وہ اور بہت بالا و برتر ہے اُس شرک سے جو یہ لوگ کرتے ہیں؟"
+    },
+    {
+      "id": 41,
+      "arabic": "ظَهَرَ ٱلۡفَسَادُ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ أَيۡدِي ٱلنَّاسِ لِيُذِيقَهُم بَعۡضَ ٱلَّذِي عَمِلُواْ لَعَلَّهُمۡ يَرۡجِعُونَ",
+      "transliteration": "Thahara alfasadu fee albarri waalbahri bima kasabat aydee alnnasi liyutheeqahum baAAda allathee AAamiloo laAAallahum yarjiAAoona",
+      "translation_en": "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned so He may let them taste part of [the consequence of] what they have done that perhaps they will return [to righteousness]",
+      "translation_bn": "স্থলে ও জলে মানুষের কৃতকর্মের দরুন বিপর্যয় ছড়িয়ে পড়েছে। আল্লাহ তাদেরকে তাদের কর্মের শাস্তি আস্বাদন করাতে চান, যাতে তারা ফিরে আসে।",
+      "translation_ur": "خشکی اور تری میں فساد برپا ہو گیا ہے لوگوں کے اپنے ہاتھوں کی کمائی سے تاکہ مزا چکھائے اُن کو ان کے بعض اعمال کا، شاید کہ وہ باز آئیں"
+    },
+    {
+      "id": 42,
+      "arabic": "قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلُۚ كَانَ أَكۡثَرُهُم مُّشۡرِكِينَ",
+      "transliteration": "Qul seeroo fee alardi faonthuroo kayfa kana AAaqibatu allatheena min qablu kana aktharuhum mushrikeena",
+      "translation_en": "Say, [O Muhammad], \"Travel through the land and observe how was the end of those before. Most of them were associators [of others with Allah]",
+      "translation_bn": "বলুন, তোমরা পৃথিবীতে পরিভ্রমণ কর এবং দেখ তোমাদের পুর্ববর্তীদের পরিণাম কি হয়েছে। তাদের অধিকাংশই ছিল মুশরিক।",
+      "translation_ur": "(اے نبیؐ) اِن سے کہو کہ زمین میں چل پھر کر دیکھو پہلے گزرے ہوئے لوگوں کا کیا انجام ہو چکا ہے، ان میں سے اکثر مشرک ہی تھے"
+    },
+    {
+      "id": 43,
+      "arabic": "فَأَقِمۡ وَجۡهَكَ لِلدِّينِ ٱلۡقَيِّمِ مِن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِۖ يَوۡمَئِذٖ يَصَّدَّعُونَ",
+      "transliteration": "Faaqim wajhaka lilddeeni alqayyimi min qabli an yatiya yawmun la maradda lahu mina Allahi yawmaithin yassaddaAAoona",
+      "translation_en": "So direct your face toward the correct religion before a Day comes from Allah of which there is no repelling. That Day, they will be divided",
+      "translation_bn": "যে দিবস আল্লাহর পক্ষ থেকে প্রত্যাহূত হবার নয়, সেই দিবসের পূর্বে আপনি সরল ধর্মে নিজেকে প্রতিষ্ঠিত করুন। সেদিন মানুষ বিভক্ত হয়ে পড়বে।",
+      "translation_ur": "پس (اے نبیؐ) اپنا رُخ مضبوطی کے ساتھ جما دو اِس دین راست کی سمت میں قبل اس کے کہ وہ دن آئے جس کے ٹل جانے کی کوئی صورت اللہ کی طرف سے نہیں ہے اُس دن لوگ پھَٹ کر ایک دُوسرے سے الگ ہو جائیں گے"
+    },
+    {
+      "id": 44,
+      "arabic": "مَن كَفَرَ فَعَلَيۡهِ كُفۡرُهُۥۖ وَمَنۡ عَمِلَ صَٰلِحٗا فَلِأَنفُسِهِمۡ يَمۡهَدُونَ",
+      "transliteration": "Man kafara faAAalayhi kufruhu waman AAamila salihan falianfusihim yamhadoona",
+      "translation_en": "Whoever disbelieves - upon him is [the consequence of] his disbelief. And whoever does righteousness - they are for themselves preparing",
+      "translation_bn": "যে কুফরী করে, তার কফুরের জন্যে সে-ই দায়ী এবং যে সৎকর্ম করে, তারা নিজেদের পথই শুধরে নিচ্ছে।",
+      "translation_ur": "جس نے کفر کیا ہے اس کے کفر کا وبال اسی پر ہے اور جن لوگوں نے نیک عمل کیا ہے وہ اپنے ہی لیے فلاح کا راستہ صاف کر رہے ہیں"
+    },
+    {
+      "id": 45,
+      "arabic": "لِيَجۡزِيَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ مِن فَضۡلِهِۦٓۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡكَٰفِرِينَ",
+      "transliteration": "Liyajziya allatheena amanoo waAAamiloo alssalihati min fadlihi innahu la yuhibbu alkafireena",
+      "translation_en": "That He may reward those who have believed and done righteous deeds out of His bounty. Indeed, He does not like the disbelievers",
+      "translation_bn": "যারা বিশ্বাস করেছে ও সৎকর্ম করেছে যাতে, আল্লাহ তা’আলা তাদেরকে নিজ অনুগ্রহে প্রতিদান দেন। নিশ্চয় তিনি কাফেরদের ভালবাসেন না।",
+      "translation_ur": "تاکہ اللہ ایمان لانے والوں اور عملِ صالح کرنے والوں کو اپنے فضل سے جزا دے یقیناً وہ کافروں کو پسند نہیں کرتا"
+    },
+    {
+      "id": 46,
+      "arabic": "وَمِنۡ ءَايَٰتِهِۦٓ أَن يُرۡسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٖ وَلِيُذِيقَكُم مِّن رَّحۡمَتِهِۦ وَلِتَجۡرِيَ ٱلۡفُلۡكُ بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+      "transliteration": "Wamin ayatihi an yursila alrriyaha mubashshiratin waliyutheeqakum min rahmatihi walitajriya alfulku biamrihi walitabtaghoo min fadlihi walaAAallakum tashkuroona",
+      "translation_en": "And of His signs is that He sends the winds as bringers of good tidings and to let you taste His mercy and so the ships may sail at His command and so you may seek of His bounty, and perhaps you will be grateful",
+      "translation_bn": "তাঁর নিদর্শনসমূহের মধ্যে একটি এই যে, তিনি সুসংবাদবাহী বায়ু প্রেরণ করেন, যাতে তিনি তাঁর অনুগ্রহ তোমাদের আস্বাদন করান এবং যাতে তাঁর নির্দেশে জাহাজসমূহ বিচরণ করে এবং যাতে তোমরা তাঁর অনুগ্রহ তালাশ কর এবং তাঁর প্রতি কৃতজ্ঞ হও।",
+      "translation_ur": "اُس کی نشانیوں میں سے یہ ہے کہ وہ ہوائیں بھیجتا ہے بشارت دینے کے لیے اور تمہیں اپنی رحمت سے بہرہ مند کرنے کے لیے اور اس غرض کے لیے کہ کشتیاں اس کے حکم سے چلیں اور تم اس کا فضل تلاش کرو اور اس کے شکر گزار بنو"
+    },
+    {
+      "id": 47,
+      "arabic": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ رُسُلًا إِلَىٰ قَوۡمِهِمۡ فَجَآءُوهُم بِٱلۡبَيِّنَٰتِ فَٱنتَقَمۡنَا مِنَ ٱلَّذِينَ أَجۡرَمُواْۖ وَكَانَ حَقًّا عَلَيۡنَا نَصۡرُ ٱلۡمُؤۡمِنِينَ",
+      "transliteration": "Walaqad arsalna min qablika rusulan ila qawmihim fajaoohum bialbayyinati faintaqamna mina allatheena ajramoo wakana haqqan AAalayna nasru almumineena",
+      "translation_en": "And We have already sent messengers before you to their peoples, and they came to them with clear evidences; then We took retribution from those who committed crimes, and incumbent upon Us was support of the believers",
+      "translation_bn": "আপনার পূর্বে আমি রসূলগণকে তাঁদের নিজ নিজ সম্প্রদায়ের কাছে প্রেরণ করেছি। তাঁরা তাদের কাছে সুস্পষ্ট নিদর্শনাবলী নিয়ে আগমন করেন। অতঃপর যারা পাপী ছিল, তাদের আমি শাস্তি দিয়েছি। মুমিনদের সাহায্য করা আমার দায়িত্ব।",
+      "translation_ur": "اور ہم نے تم سے پہلے رسُولوں کو ان کی قوم کی طرف بھیجا اور وہ ان کے پاس روشن نشانیاں لے کر آئے، پھر جنہوں نے جرم کیا اُن سے ہم نے انتقام لیا اور ہم پر یہ حق تھا کہ ہم مومنوں کی مدد کریں"
+    },
+    {
+      "id": 48,
+      "arabic": "ٱللَّهُ ٱلَّذِي يُرۡسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابٗا فَيَبۡسُطُهُۥ فِي ٱلسَّمَآءِ كَيۡفَ يَشَآءُ وَيَجۡعَلُهُۥ كِسَفٗا فَتَرَى ٱلۡوَدۡقَ يَخۡرُجُ مِنۡ خِلَٰلِهِۦۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنۡ عِبَادِهِۦٓ إِذَا هُمۡ يَسۡتَبۡشِرُونَ",
+      "transliteration": "Allahu allathee yursilu alrriyaha fatutheeru sahaban fayabsutuhu fee alssamai kayfa yashao wayajAAaluhu kisafan fatara alwadqa yakhruju min khilalihi faitha asaba bihi man yashao min AAibadihi itha hum yastabshiroona",
+      "translation_en": "It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice",
+      "translation_bn": "তিনি আল্লাহ, যিনি বায়ু প্রেরণ করেন, অতঃপর তা মেঘমালাকে সঞ্চারিত করে। অতঃপর তিনি মেঘমালাকে যেভাবে ইচ্ছা আকাশে ছড়িয়ে দেন এবং তাকে স্তরে স্তরে রাখেন। এরপর তুমি দেখতে পাও তার মধ্য থেকে নির্গত হয় বৃষ্টিধারা। তিনি তাঁর বান্দাদের মধ্যে যাদেরকে ইচ্ছা পৌঁছান; তখন তারা আনন্দিত হয়।",
+      "translation_ur": "اللہ ہی ہے جو ہواؤں کو بھیجتا ہے اور وہ بادل اٹھاتی ہیں، پھر وہ اِن بادلوں کو آسمان میں پھیلا دیتا ہے جس طرح چاہتا ہے اور انہیں ٹکڑیوں میں تقسیم کرتا ہے، پھر تُو دیکھتا ہے کہ بارش کے قطرے بادل سے ٹپکے چلے آتے ہیں یہ بارش جب وہ اپنے بندوں میں سے جن پر چاہتا ہے برساتا ہے"
+    },
+    {
+      "id": 49,
+      "arabic": "وَإِن كَانُواْ مِن قَبۡلِ أَن يُنَزَّلَ عَلَيۡهِم مِّن قَبۡلِهِۦ لَمُبۡلِسِينَ",
+      "transliteration": "Wain kanoo min qabli an yunazzala AAalayhim min qablihi lamubliseena",
+      "translation_en": "Although they were, before it was sent down upon them - before that, in despair",
+      "translation_bn": "তারা প্রথম থেকেই তাদের প্রতি এই বৃষ্টি বর্ষিত হওয়ার পূর্বে নিরাশ ছিল।",
+      "translation_ur": "تو یکایک وہ خوش و خرم ہو جاتے ہیں حالانکہ اس کے نزول سے پہلے وہ مایوس ہو رہے تھے"
+    },
+    {
+      "id": 50,
+      "arabic": "فَٱنظُرۡ إِلَىٰٓ ءَاثَٰرِ رَحۡمَتِ ٱللَّهِ كَيۡفَ يُحۡيِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ ذَٰلِكَ لَمُحۡيِ ٱلۡمَوۡتَىٰۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+      "transliteration": "Faonthur ila athari rahmati Allahi kayfa yuhyee alarda baAAda mawtiha inna thalika lamuhyee almawta wahuwa AAala kulli shayin qadeerun",
+      "translation_en": "So observe the effects of the mercy of Allah - how He gives life to the earth after its lifelessness. Indeed, that [same one] will give life to the dead, and He is over all things competent",
+      "translation_bn": "অতএব, আল্লাহর রহমতের ফল দেখে নাও, কিভাবে তিনি মৃত্তিকার মৃত্যুর পর তাকে জীবিত করেন। নিশ্চয় তিনি মৃতদেরকে জীবিত করবেন এবং তিনি সব কিছুর উপর সর্বশক্তিমান।",
+      "translation_ur": "دیکھو اللہ کی رحمت کے اثرات کہ مُردہ پڑی ہوئی زمین کو وہ کس طرح جِلا اٹھاتا ہے، یقیناً وہ مُردوں کو زندگی بخشنے والا ہے اور وہ ہر چیز پر قادر ہے"
+    },
+    {
+      "id": 51,
+      "arabic": "وَلَئِنۡ أَرۡسَلۡنَا رِيحٗا فَرَأَوۡهُ مُصۡفَرّٗا لَّظَلُّواْ مِنۢ بَعۡدِهِۦ يَكۡفُرُونَ",
+      "transliteration": "Walain arsalna reehan faraawhu musfarran lathalloo min baAAdihi yakfuroona",
+      "translation_en": "But if We should send a [bad] wind and they saw [their crops] turned yellow, they would remain thereafter disbelievers",
+      "translation_bn": "আমি যদি এমন বায়ু প্রেরণ করি যার ফলে তারা শস্যকে হলদে হয়ে যেতে দেখে, তখন তো তারা অবশ্যই অকৃতজ্ঞ হয়ে যায়।",
+      "translation_ur": "اور اگر ہم ایک ایسی ہوا بھیج دیں جس کے اثر سے وہ اپنی کھیتی کو زرد پائیں تو وہ کفر کرتے رہ جاتے ہیں"
+    },
+    {
+      "id": 52,
+      "arabic": "فَإِنَّكَ لَا تُسۡمِعُ ٱلۡمَوۡتَىٰ وَلَا تُسۡمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوۡاْ مُدۡبِرِينَ",
+      "transliteration": "Fainnaka la tusmiAAu almawta wala tusmiAAu alssumma aldduAAaa itha wallaw mudbireena",
+      "translation_en": "So indeed, you will not make the dead hear, nor will you make the deaf hear the call when they turn their backs, retreating",
+      "translation_bn": "অতএব, আপনি মৃতদেরকে শোনাতে পারবেন না এবং বধিরকেও আহবান শোনাতে পারবেন না, যখন তারা পৃষ্ঠ প্রদর্শন করে।",
+      "translation_ur": "(اے نبیؐ) تم مُردوں کو نہیں سنا سکتے، نہ اُن بہروں کو اپنی پکار سنا سکتے ہو جو پیٹھ پھیرے بھاگے چلے جا رہے ہوں"
+    },
+    {
+      "id": 53,
+      "arabic": "وَمَآ أَنتَ بِهَٰدِ ٱلۡعُمۡيِ عَن ضَلَٰلَتِهِمۡۖ إِن تُسۡمِعُ إِلَّا مَن يُؤۡمِنُ بِـَٔايَٰتِنَا فَهُم مُّسۡلِمُونَ",
+      "transliteration": "Wama anta bihadi alAAumyi AAan dalalatihim in tusmiAAu illa man yuminu biayatina fahum muslimoona",
+      "translation_en": "And you cannot guide the blind away from their error. You will only make hear those who believe in Our verses so they are Muslims [in submission to Allah]",
+      "translation_bn": "আপনি অন্ধদেরও তাদের পথভ্রষ্টতা থেকে পথ দেখাতে পারবেন না। আপনি কেবল তাদেরই শোনাতে পারবেন, যারা আমার আয়াতসমূহে বিশ্বাস করে। কারন তারা মুসলমান।",
+      "translation_ur": "اور نہ تم اندھوں کو ان کی گمراہی سے نکال کر راہِ راست دکھا سکتے ہو تم تو صرف انہی کو سنا سکتے ہو جو ہماری آیات پر ایمان لاتے اور سرِ تسلیم خم کر دیتے ہیں"
+    },
+    {
+      "id": 54,
+      "arabic": "۞ٱللَّهُ ٱلَّذِي خَلَقَكُم مِّن ضَعۡفٖ ثُمَّ جَعَلَ مِنۢ بَعۡدِ ضَعۡفٖ قُوَّةٗ ثُمَّ جَعَلَ مِنۢ بَعۡدِ قُوَّةٖ ضَعۡفٗا وَشَيۡبَةٗۚ يَخۡلُقُ مَا يَشَآءُۚ وَهُوَ ٱلۡعَلِيمُ ٱلۡقَدِيرُ",
+      "transliteration": "Allahu allathee khalaqakum min daAAfin thumma jaAAala min baAAdi daAAfin quwwatan thumma jaAAala min baAAdi quwwatin daAAfan washaybatan yakhluqu ma yashao wahuwa alAAaleemu alqadeeru",
+      "translation_en": "Allah is the one who created you from weakness, then made after weakness strength, then made after strength weakness and white hair. He creates what He wills, and He is the Knowing, the Competent",
+      "translation_bn": "আল্লাহ তিনি দূর্বল অবস্থায় তোমাদের সৃষ্টি করেন অতঃপর দূর্বলতার পর শক্তিদান করেন, অতঃপর শক্তির পর দেন দুর্বলতা ও বার্ধক্য। তিনি যা ইচ্ছা সৃষ্টি করেন এবং তিনি সর্বজ্ঞ, সর্বশক্তিমান।",
+      "translation_ur": "اللہ ہی تو ہے جس نے ضعف کی حالت میں تمہاری پیدائش کی ابتدا کی، پھر اس ضعف کے بعد تمہیں قوت بخشی، پھر اس قوت کے بعد تمہیں ضعیف اور بوڑھا کر دیا وہ جو کچھ چاہتا ہے پیدا کرتا ہے اور وہ سب کچھ جاننے والا، ہر چیز پر قدرت رکھنے والا ہے"
+    },
+    {
+      "id": 55,
+      "arabic": "وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يُقۡسِمُ ٱلۡمُجۡرِمُونَ مَا لَبِثُواْ غَيۡرَ سَاعَةٖۚ كَذَٰلِكَ كَانُواْ يُؤۡفَكُونَ",
+      "transliteration": "Wayawma taqoomu alssaAAatu yuqsimu almujrimoona ma labithoo ghayra saAAatin kathalika kanoo yufakoona",
+      "translation_en": "And the Day the Hour appears the criminals will swear they had remained but an hour. Thus they were deluded",
+      "translation_bn": "যেদিন কেয়ামত সংঘটিত হবে, সেদিন অপরাধীরা কসম খেয়ে বলবে যে, এক মুহুর্তেরও বেশী অবস্থান করিনি। এমনিভাবে তারা সত্যবিমুখ হত।",
+      "translation_ur": "اور جب وہ ساعت برپا ہو گی تو مجرم قسمیں کھا کھا کر کہیں گے کہ ہم ایک گھڑی بھر سے زیادہ نہیں ٹھیرے ہیں، اِسی طرح وہ دنیا کی زندگی میں دھوکا کھایا کرتے تھے"
+    },
+    {
+      "id": 56,
+      "arabic": "وَقَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ وَٱلۡإِيمَٰنَ لَقَدۡ لَبِثۡتُمۡ فِي كِتَٰبِ ٱللَّهِ إِلَىٰ يَوۡمِ ٱلۡبَعۡثِۖ فَهَٰذَا يَوۡمُ ٱلۡبَعۡثِ وَلَٰكِنَّكُمۡ كُنتُمۡ لَا تَعۡلَمُونَ",
+      "transliteration": "Waqala allatheena ootoo alAAilma waaleemana laqad labithtum fee kitabi Allahi ila yawmi albaAAthi fahatha yawmu albaAAthi walakinnakum kuntum la taAAlamoona",
+      "translation_en": "But those who were given knowledge and faith will say, \"You remained the extent of Allah 's decree until the Day of Resurrection, and this is the Day of Resurrection, but you did not used to know",
+      "translation_bn": "যাদের জ্ঞান ও ঈমান দেয়া হয়েছে, তারা বলবে আমরা আল্লাহর কিতাব মতে পুনরুত্থান দিবস পর্যন্ত অবস্থান করেছি। এটাই পুনরুত্থান দিবস, কিন্তু তোমরা তা জানতে না।",
+      "translation_ur": "مگر جو علم اور ایمان سے بہرہ مند کیے گئے تھے وہ کہیں گے کہ خدا کے نوشتے میں تو تم روزِ حشر تک پڑے رہے ہو، سو یہ وہی روزِ حشر ہے، لیکن تم جانتے نہ تھے"
+    },
+    {
+      "id": 57,
+      "arabic": "فَيَوۡمَئِذٖ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُواْ مَعۡذِرَتُهُمۡ وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
+      "transliteration": "Fayawmaithin la yanfaAAu allatheena thalamoo maAAthiratuhum wala hum yustaAAtaboona",
+      "translation_en": "So that Day, their excuse will not benefit those who wronged, nor will they be asked to appease [Allah]",
+      "translation_bn": "সেদিন জালেমদের ওযর-আপত্তি তাদের কোন উপকারে আসবে না এবং তওবা করে আল্লাহর সন্তুষ্টি লাভের সুযোগও তাদের দেয়া হবে না।",
+      "translation_ur": "پس وہ دن ہو گا جس میں ظالموں کو ان کی معذرت کوئی نفع نہ دے گی اور نہ ان سے معافی مانگنے کے لیے کہا جائے گا"
+    },
+    {
+      "id": 58,
+      "arabic": "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖۚ وَلَئِن جِئۡتَهُم بِـَٔايَةٖ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ أَنتُمۡ إِلَّا مُبۡطِلُونَ",
+      "transliteration": "Walaqad darabna lilnnasi fee hatha alqurani min kulli mathalin walain jitahum biayatin layaqoolanna allatheena kafaroo in antum illa mubtiloona",
+      "translation_en": "And We have certainly presented to the people in this Qur'an from every [kind of] example. But, [O Muhammad], if you should bring them a sign, the disbelievers will surely say, \"You [believers] are but falsifiers",
+      "translation_bn": "আমি এই কোরআনে মানুষের জন্য সর্বপ্রকার দৃষ্টান্ত বর্ণনা করেছি। আপনি যদি তাদের কাছে কোন নিদর্শন উপস্থিত করেন, তবে কাফেররা অবশ্যই বলবে, তোমরা সবাই মিথ্যাপন্থী।",
+      "translation_ur": "ہم نے اِس قرآن میں لوگوں کو طرح طرح سے سمجھایا ہے تم خواہ کوئی نشانی لے آؤ، جن لوگوں نے ماننے سے انکار کر دیا ہے وہ یہی کہیں گے کہ تم باطل پر ہو"
+    },
+    {
+      "id": 59,
+      "arabic": "كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعۡلَمُونَ",
+      "transliteration": "Kathalika yatbaAAu Allahu AAala quloobi allatheena la yaAAlamoona",
+      "translation_en": "Thus does Allah seal the hearts of those who do not know",
+      "translation_bn": "এমনিভাবে আল্লাহ জ্ঞানহীনদের হৃদয় মোহরাঙ্কিত করে দেন।",
+      "translation_ur": "اِس طرح ٹھپہ لگا دیتا ہے اللہ اُن لوگوں کے دلوں پر جو بے علم ہیں"
+    },
+    {
+      "id": 60,
+      "arabic": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ وَلَا يَسۡتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "transliteration": "Faisbir inna waAAda Allahi haqqun wala yastakhiffannaka allatheena la yooqinoona",
+      "translation_en": "So be patient. Indeed, the promise of Allah is truth. And let them not disquiet you who are not certain [in faith]",
+      "translation_bn": "অতএব, আপনি সবর করুন। আল্লাহর ওয়াদা সত্য। যারা বিশ্বাসী নয়, তারা যেন আপনাকে বিচলিত করতে না পারে।",
+      "translation_ur": "پس (اے نبیؐ) صبر کرو، یقیناً اللہ کا وعدہ سچا ہے، اور ہرگز ہلکا نہ پائیں تم کو وہ لوگ جو یقین نہیں لاتے"
+    }
+  ]
+}

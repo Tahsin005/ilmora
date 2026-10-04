@@ -1,0 +1,34 @@
+{
+  "id": 108,
+  "name": "الكوثر",
+  "transliteration": "Al-Kawthar",
+  "translation_en": "The Abundance",
+  "type": "meccan",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "transliteration": "Inna aAAtaynaka alkawthara",
+      "translation_en": "Indeed, We have granted you, [O Muhammad], al-Kawthar",
+      "translation_bn": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।",
+      "translation_ur": "(اے نبیؐ) ہم نے تمہیں کوثر عطا کر دیا"
+    },
+    {
+      "id": 2,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "transliteration": "Fasalli lirabbika wainhar",
+      "translation_en": "So pray to your Lord and sacrifice [to Him alone]",
+      "translation_bn": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।",
+      "translation_ur": "پس تم اپنے رب ہی کے لیے نماز پڑھو اور قربانی کرو"
+    },
+    {
+      "id": 3,
+      "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "transliteration": "Inna shaniaka huwa alabtaru",
+      "translation_en": "Indeed, your enemy is the one cut off",
+      "translation_bn": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।",
+      "translation_ur": "تمہارا دشمن ہی جڑ کٹا ہے"
+    }
+  ]
+}

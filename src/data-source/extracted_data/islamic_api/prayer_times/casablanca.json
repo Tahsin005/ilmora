@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "success",
+  "data": {
+    "times": {
+      "Fajr": "06:04",
+      "Sunrise": "07:27",
+      "Dhuhr": "13:19",
+      "Asr": "16:40",
+      "Sunset": "19:11",
+      "Maghrib": "19:11",
+      "Isha": "20:29",
+      "Imsak": "05:54",
+      "Midnight": "01:19",
+      "Firstthird": "23:16",
+      "Lastthird": "03:21"
+    },
+    "date": {
+      "readable": "04 Oct 2026",
+      "timestamp": "1791072000",
+      "hijri": {
+        "date": "1448-04-23",
+        "format": "YYYY-MM-DD",
+        "day": "23",
+        "weekday": {
+          "en": "Sunday",
+          "ar": "الأحد"
+        },
+        "month": {
+          "number": 4,
+          "en": "Rabi al-Thani",
+          "ar": "رَبِيع ٱلثَّانِي",
+          "days": 30
+        },
+        "year": "1448",
+        "designation": {
+          "abbreviated": "AH",
+          "expanded": "Anno Hegirae"
+        },
+        "holidays": [],
+        "adjustedHolidays": [],
+        "method": "UAQ",
+        "shift": 0
+      },
+      "gregorian": {
+        "date": "2026-10-04",
+        "format": "YYYY-MM-DD",
+        "day": "04",
+        "weekday": {
+          "en": "Sunday"
+        },
+        "month": {
+          "number": 10,
+          "en": "October"
+        },
+        "year": "2026",
+        "designation": {
+          "abbreviated": "AD",
+          "expanded": "Anno Domini"
+        }
+      }
+    },
+    "qibla": {
+      "direction": {
+        "degrees": 93.68,
+        "from": "North",
+        "clockwise": true
+      },
+      "distance": {
+        "value": 4823.61,
+        "unit": "km"
+      }
+    },
+    "prohibited_times": {
+      "sunrise": {
+        "start": "07:27",
+        "end": "07:42"
+      },
+      "noon": {
+        "start": "13:09",
+        "end": "13:19"
+      },
+      "sunset": {
+        "start": "18:56",
+        "end": "19:11"
+      }
+    },
+    "timezone": {
+      "name": "Africa/Casablanca",
+      "utc_offset": "+01:00",
+      "abbreviation": ""
+    }
+  },
+  "city_info": {
+    "name": "Casablanca",
+    "country": "Morocco",
+    "slug": "casablanca",
+    "lat": 33.5731,
+    "lon": -7.5898
+  }
+}

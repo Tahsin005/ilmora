@@ -1,0 +1,837 @@
+{
+  "category": {
+    "name": "Other Duas",
+    "url": "other-duas",
+    "icon": "other_duas.svg",
+    "meta": "1 Subcategories"
+  },
+  "total_subcategories": 1,
+  "total_duas": 24,
+  "subcategories": [
+    {
+      "id": 115,
+      "title": "Duas on various subjects",
+      "category": "other-duas",
+      "dua-ids": [
+        817,
+        818,
+        819,
+        820,
+        821,
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830,
+        831,
+        832,
+        833,
+        834,
+        835,
+        836,
+        837,
+        838,
+        839,
+        925
+      ],
+      "duas": [
+        {
+          "dua_id": 817,
+          "title": "Protection from the Dajjal (Hadith)",
+          "category_tags": [],
+          "introduction": "Whoever memorizes ten 'Ayat (Verses) from the beginning of Surat Al-Kahf, will be protected from the False Messiah. One can also say in every prayer after the final Tashahhud before ending the prayer, seeking the protection of Allah from the trials of the False Messiah (Dajjal).",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Muslim: 809",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 818,
+          "title": "Dua for protection from Shirk",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+          "audio": "/audio/dua/818.mp3",
+          "transliteration": "Allaahumma 'innee 'a'oodhu bika 'an 'ushrika bika wa 'anaa 'a'lamu, wa 'astaghfiruka limaa laa 'a'lamu",
+          "translation": "O Allah, I seek refuge in You lest I associate anything with You knowingly, and I seek Your forgiveness for what I know not.",
+          "reference": "Sahih. Adabul Mufrad: 716",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "\"حَدَّثَنَا عَبَّاسٌ النَّرْسِيُّ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ‏:‏ حَدَّثَنَا لَيْثٌ قَالَ‏:‏ أَخْبَرَنِي رَجُلٌ مِنْ أَهْلِ الْبَصْرَةِ قَالَ‏:‏ سَمِعْتُ مَعْقِلَ بْنَ يَسَارٍ يَقُولُ‏:‏ انْطَلَقْتُ مَعَ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللَّهُ عَنْهُ إِلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَ‏:‏ يَا أَبَا بَكْرٍ، لَلشِّرْكُ فِيكُمْ أَخْفَى مِنْ دَبِيبِ النَّمْلِ، فَقَالَ أَبُو بَكْرٍ‏:‏ وَهَلِ الشِّرْكُ إِلاَّ مَنْ جَعَلَ مَعَ اللهِ إِلَهًا آخَرَ‏؟‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم‏:‏ وَالَّذِي نَفْسِي بِيَدِهِ، لَلشِّرْكُ أَخْفَى مِنْ دَبِيبِ النَّمْلِ، أَلاَ أَدُلُّكَ عَلَى شَيْءٍ إِذَا قُلْتَهُ ذَهَبَ عَنْكَ قَلِيلُهُ وَكَثِيرُهُ‏؟‏ قَالَ‏:‏ قُلِ‏:‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لا أَعْلَمُ‏.‏",
+            "translation": "Maqil bin Yasar (ra) said that he came to the Prophet (ﷺ) with Abu Bakr (ra). He said, \"\"O Abu Bakr, polytheism enters your people more quietly (secretly) than the movement of ants.\"\" Abu Bakr asked, \"\"Is there a kind of polytheism besides associating anything with Allah?\"\" The Prophet (ﷺ) said,\"\" By him who has my life in his power, polytheism is more concealed than the movement of ants. Shall I not teach you something which if you say will eliminate minor or major (polytheism)?\"\" He then said, \"\"Say `O Allah! I seek refuge in you lest I associate anything with you while I know it, and I seek your forgiveness for what I do not know.’\"\" [Sahih (Albani). Adabul Mufrad: 716]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 819,
+          "title": "Response to May Allah Bless You ( Masnun Dua)",
+          "category_tags": [],
+          "introduction": "Aaishah (radhi-yAllahu 'anhaa) reported that the Messenger of Allah (sal-Allahu 'alayhe wa sallam) was given a sheep and he ordered for it's distribution. When the servant would come back [from distributing it] , 'Aaishah would ask: \"What did they say?\", he replied: \"They would supplicate:",
+          "arabic": "بَارَكَ اللَّهُ فِيكُمْ",
+          "audio": "/audio/dua/819.mp3",
+          "transliteration": "BaarakAllahu feekum",
+          "translation": "May Allah bless you all",
+          "reference": "Ibn As-Sunni (Page 138 , Hadith no. 278). Also see, Ibnul Qaiyyum's Al Wabilus Sayyer Page 304. Tahkeek, Bashir Mamud Uyyun.",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 820,
+          "title": "Dua for Protection from Bad Omens",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ",
+          "audio": "/audio/dua/820.mp3",
+          "transliteration": "Allaahumma laa tayra 'illaa tayruka, wa laa khayra 'illaa khayruka, wa laa 'ilaaha ghayruka",
+          "translation": "O Allah there is no portent other than Your portent, no goodness other than Your goodness, and none worthy of worship other than You. [1]\n\nHowever, the Prophet (ﷺ) liked to take good omens. That is why when he heard a good word or a good word from a man, he liked it and said, I have taken your good word from your mouth. [2]",
+          "reference": "[1] Sahih (Albani). Ahmad: 7045 [2] Abu Dawud: 3719, Ahmad: 9040. See also Al-Albani, Silsilatul-'Ahadith As-Sahihah 2/363, and it is with Abu Ash-Shaikh Al-Asfahani in 'Akhlaqun-Nabiyy, pg. 270.",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 821,
+          "title": "Virtues of Sending Blessings on Prophet ﷺ (Hadith)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) said: \"Whoever sends a prayer upon me, Allah sends ten upon him.\" [1] He (ﷺ) also said: \"Do not take my grave as a place of habitual ceremony. Send prayers upon me, for verily your prayers reach me wherever you are.\" [2] He (ﷺ) also said: \"The miser is one whom when I am mentioned to him, fails to send prayers upon me.\" [3] He (ﷺ) said: 'Allah has Angels who roam the earth and convey salaam to me from my ummah.'[4] He (ﷺ) also said: ''Whenever someone sends salaam upon me, Allah returns my soul to me so that I may return salaam to that person. [5]",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "[1] Muslim: 384 [2] Sahih (Albani). Abu Dawud: 2042 [3] Sahih (Albani). Tirmidhi: 3546 [4] Sahih (Albani). Nasai: 1282 [5] Hasan (Albani). Abu Dawud: 2041",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 822,
+          "title": "Dua when Slaughtering an Animal (Qurbani Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ [اَللَّهُمَّ مِنْكَ وَلَكَ] اَللَّهُمَّ تَقَبَّلْ مِنِّي",
+          "audio": "/audio/dua/822.mp3",
+          "transliteration": "Bismillaahi wAllahu 'Akbar [Allaahumma minka wa laka] Allaahumma taqabbal minnee",
+          "translation": "With the Name of Allah, Allah is the Most Great! [O Allah, from You and to You] O Allah, accept it from me.",
+          "reference": "Muslim 3/1557, No. 1967, Bayhaaqi 9/287 (This part is between the brackets)",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 823,
+          "title": "Dua for Safety from Shaytan at Night",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيـمِ",
+          "audio": "/audio/dua/823.mp3",
+          "transliteration": "A'oodhu billaahi minash-Shaytaanir-rajeem",
+          "translation": "I seek refuge in Allah from Satan the outcast.\n\nAlso \"If you hear the barking of dogs or the braying of asses at night, seek refuge in Allah for they see what you do not.\" [1]",
+          "reference": "Sahih. Abu Dawud: 5103",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ عَبْدَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيقَ الْحُمُرِ بِاللَّيْلِ فَتَعَوَّذُوا بِاللَّهِ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: When you hear the barking of dogs and the braying of asses at night, seek refuge in Allah, for they see which you do not see. [Sahih (Albani). Abu Dawud: 5103]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 824,
+          "title": "Dua for Safety from Evil (Masnun Dua)",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ مِنْ شَرِّ مَا خَلَقَ، وَبَرَأَ وَذَرَأَ، وَمِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وَمِنْ شَرِّ مَا يَعْرُجُ فِيهَا، وَمِنْ شَرِّ مَا ذَرَأَ فِي الْأَرْضِ، وَمِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وَمِنْ شَرِّ فِتَنِ اللَّيْلِ وَالنَّهَارِ، وَمِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+          "audio": "/audio/dua/824.mp3",
+          "transliteration": "A'oodhu bikalimaatil-laahit-taammaatil-latee laa yujaawizuhunna barrun wa laa faajirum min sharri maa khalaqa, wa bara'a wa dhara'a, wa min sharri maa yanzilu minas-samaa'i, wa min sharri maa ya'ruju feehaa, wa min sharri maa dhara'a fil-'ardhi, wa min sharri ma yakhruju minhaa, wa min sharri fitanil-layli wannahaari, wa min sharri kulli taariqin 'illaa taariqan yatruqu bikhayrin yaa Rahmaan",
+          "translation": "I take refuge within Allah\"s perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made and originated. [I take refuge] from the evil that descends from the sky and the evil that rises up to it. [I take refuge] from the evil that is spread on earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.",
+          "reference": "Sheikh Arnaut (R) regarded this chain of narration as Sahih in Takhriju lita’habiyyah (P.133)",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 825,
+          "title": "Dua for Forgiveness & Repentance",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) added: The person who says:",
+          "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيهِ",
+          "audio": "/audio/dua/825.mp3",
+          "transliteration": "Astaghfirullaahal-'Adheemal-ladhee laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoomu wa 'atoobu 'ilayhi",
+          "translation": "I seek Allah's forgiveness, besides whom, none has the right to be worshipped except He, The Ever Living, The Self-Subsisting and Supporter of all, and I turn to Him in repentance.\n\nAllah would forgive him even if he was one who fled during the advance of an army.\" [1] He (ﷺ) said: \"The nearest the Lord comes to His servant is in the middle of the night, so if you are able to be of those who remember Allah at that time, then be so.\" [2] He (ﷺ) also said: \"The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.\" [3] He (ﷺ) also said: \"Verily my heart becomes preoccupied, and verily I seek Allah\"s forgiveness a hundred times a day.\" [4]",
+          "reference": "[1] Sahih. Abu Dawud 1517 [2] Sahih. Tirmidhi 3579 [3] Muslim 482 [4] Muslim 2702",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَفْصُ بْنُ عُمَرَ الشَّنِّيُّ، حَدَّثَنِي أَبِي عُمَرُ بْنُ مُرَّةَ، قَالَ سَمِعْتُ بِلاَلَ بْنَ يَسَارِ بْنِ زَيْدٍ، مَوْلَى النَّبِيِّ صلى الله عليه وسلم قَالَ سَمِعْتُ أَبِي يُحَدِّثُنِيهِ عَنْ جَدِّي أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ قَالَ أَسْتَغْفِرُ اللَّهَ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ الْحَىُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ غُفِرَ لَهُ وَإِنْ كَانَ فَرَّ مِنَ الزَّحْفِ ‏\" ‏ ‏.‏",
+            "translation": "Narrated Zayd, the client of the Prophet: The Prophet (ﷺ) said: If anyone says: \"I ask pardon of Allah than Whom there is no deity, the Living, the eternal, and I turn to Him in repentance,\" he will be pardoned, even if he has fled in time of battle. [[1] Sahih (Albani). Abu Dawud: 1517 [2] Sahih (Albani). Tirmidhi: 3579 [3] Muslim: 482 [4] Muslim: 2702]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 826,
+          "title": "Dua Upon Seeing New Fruit",
+          "category_tags": [],
+          "introduction": "Abu Hurairah (RA) said that people used to bring new fruits to the Prophet (ﷺ). The Prophet (ﷺ) used to accept it and say:",
+          "arabic": "اَللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا",
+          "audio": "/audio/dua/826.mp3",
+          "transliteration": "Allaahumma baarik lanaa fee thamarinaa, wa baarik lanaa fee madeenatinaa wa baarik lanaa fee saa'inaa, wa baarik lanaa fee muddinaa",
+          "translation": "O Allah, bless us in our dates and bless us in our town, bless us in our Sa' and in our Mudd.",
+          "reference": "Muslim: 1373",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، - فِيمَا قُرِئَ عَلَيْهِ - عَنْ سُهَيْلِ بْنِ، أَبِي صَالِحٍ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ كَانَ النَّاسُ إِذَا رَأَوْا أَوَّلَ الثَّمَرِ جَاءُوا بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم فَإِذَا أَخَذَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا وَبَارِكْ لَنَا فِي مَدِينَتِنَا وَبَارِكْ لَنَا فِي صَاعِنَا وَبَارِكْ لَنَا فِي مُدِّنَا اللَّهُمَّ إِنَّ إِبْرَاهِيمَ عَبْدُكَ وَخَلِيلُكَ وَنَبِيُّكَ وَإِنِّي عَبْدُكَ وَنَبِيُّكَ وَإِنَّهُ دَعَاكَ لِمَكَّةَ وَإِنِّي أَدْعُوكَ لِلْمَدِينَةِ بِمِثْلِ مَا دَعَاكَ لِمَكَّةَ وَمِثْلِهِ مَعَهُ ‏\" ‏ ‏.‏ قَالَ ثُمَّ يَدْعُو أَصْغَرَ وَلِيدٍ لَهُ فَيُعْطِيهِ ذَلِكَ الثَّمَرَ‏.‏",
+            "translation": "Abu Huraira (Allah be pleased with him) reported that when the people saw the first fruit (of the season or of plantation) they brought it to Allah's Apostle (ﷺ). When he received it he said: O Allah, bless us in our fruits; and bless us in our city; and bless us in our sa's and bless us in our mudd. O Allah, Ibrahim was Thy servant, Thy friend, and Thy apostle; and I am Thy servant and Thy apostle. He (Ibrahim) made supplication to Thee for (the showering of blessings upon) Mecca, and I am making supplication to Thee for Medina just as he made supplication to Thee for Mecca, and the like of it in addition. He would then call to him the youngest child and give him these fruits. [Muslim: 1373]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 827,
+          "title": "Dua for Protection from Evil Character",
+          "category_tags": [],
+          "introduction": "To protect mind from attracting towards sins, prophet (ﷺ) used to say:",
+          "arabic": "اَللَّهُمَّ اِنِّي اَعُوذُ بِكَ مِنْ مُنْكَرَاتِ الْاَخْلَاقِ وَالْأَعْمَالِ وَالْأَهْوَاءِ",
+          "audio": "/audio/dua/827.mp3",
+          "transliteration": "Allaahumma inni a`udhu bika min munkaraatil-akhlaaqi wal-a`maali wal-ahwaa",
+          "translation": "O Allah, I seek refuge in You from evil character, evil actions, and evil desires.",
+          "reference": "Sahih. Tirmidhi: 3591",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا أَحْمَدُ بْنُ بَشِيرٍ، وَأَبُو أُسَامَةَ عَنْ مِسْعَرٍ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، عَنْ عَمِّهِ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ مُنْكَرَاتِ الأَخْلاَقِ وَالأَعْمَالِ وَالأَهْوَاءِ ‏\" ‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَعَمُّ زِيَادِ بْنِ عِلاَقَةَ هُوَ قُطْبَةُ بْنُ مَالِكٍ صَاحِبُ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+            "translation": "Ziyad bin `Ilaqah narrated from his uncle, that he said: “[The Prophet (ﷺ)] used to say: ‘O Allah, I seek refuge in You from evil character, evil actions, and evil desires (Allāhumma innī a`ūdhu bika min munkarātil-akhlāqi wal-a`māli wal-ahwā’).’” [Sahih (Albani). Tirmidhi: 3591]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 828,
+          "title": "Dua for Guarding Eyes, Ears, Tongue & Heart",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اِنِّي اَعُوذُ بِكَ مِنْ شَرِّ سَمْعِيْ وَمِنْ شَرِّ بَصَرِيْ وَمِنْ شَرِّ لِسَانِيْ وَمِنْ شَرِّ قَلْبِيْ مِنْ شَرِّ مَنِيِّيْ",
+          "audio": "/audio/dua/828.mp3",
+          "transliteration": "Allaahumma inni a`udhu bika min sharri sam`i wa min sharri basari, wa min sharri lisaani, wa min sharri qalbi, wa min sharri maniyyi",
+          "translation": "O Allah, indeed I seek refuge in You from the evil of my hearing and the evil of my sight, and the evil of my tongue and the evil of my heart, and the evil of my semen.",
+          "reference": "Sahih. Abu Dawud: 1551",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، ح وَحَدَّثَنَا أَحْمَدُ، حَدَّثَنَا وَكِيعٌ، - الْمَعْنَى - عَنْ سَعْدِ بْنِ أَوْسٍ، عَنْ بِلاَلٍ الْعَبْسِيِّ، عَنْ شُتَيْرِ بْنِ شَكَلٍ، عَنْ أَبِيهِ، فِي حَدِيثِ أَبِي أَحْمَدَ شَكَلِ بْنِ حُمَيْدٍ - قَالَ - قُلْتُ يَا رَسُولَ اللَّهِ عَلِّمْنِي دُعَاءً قَالَ ‏ \"‏ قُلِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ سَمْعِي وَمِنْ شَرِّ بَصَرِي وَمِنْ شَرِّ لِسَانِي وَمِنْ شَرِّ قَلْبِي وَمِنْ شَرِّ مَنِيِّي ‏\"‏ ‏.‏",
+            "translation": "Narrated Shakl ibn Humayd: I said: Messenger of Allah, teach me a supplication. He said: Say: \"O Allah, I seek refuge in Thee from the evil of what I hear, from the evil of what I see, from the evil of what I speak, from the evil of what I think, and from the evil of my semen\" (i.e. sexual passion). Sunan Abi Dawud 1551 [Sahih (Albani). Abu Daud: 1551]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 829,
+          "title": "Dua for obedience to Allah",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ مُصَرِّفَ الْقُلُوْبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ",
+          "audio": "/audio/dua/829.mp3",
+          "transliteration": "Allaahumma musarrifal-qulubi, sarrif qulubanaa 'alaa taa'atik",
+          "translation": "O Allah! Controller of the hearts, direct our hearts to Your obedience. [1]\n\nIn another narration, Rasulullah (ﷺ) used to say this more and more:",
+          "reference": "[1] Muslim : 2654 [2] Sahih (Albani). Tirmidhi: 2140",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 830,
+          "title": "Dua for Thanking someone in islam",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+          "audio": "/audio/dua/830.mp3",
+          "transliteration": "JazaakAllahu khayran",
+          "translation": "May Allah reward you with good.\n\nWe have seen that the believer never expects gratitude or recompense from anyone who benefits him. On the other hand, it is the duty of the beneficent believer to express gratitude to the benefactor, to praise him, to openly acknowledge his beneficence, and to pray for him. The Prophet (ﷺ) said: If someone does good to someone and he gives thanks to the benefactor by saying this, then it will be best appreciated.",
+          "reference": "Sahih. Tirmidhi: 2035",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ، بِمَكَّةَ وَإِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ قَالاَ حَدَّثَنَا الأَحْوَصُ بْنُ جَوَّابٍ، عَنْ سُعَيْرِ بْنِ الْخِمْسِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ صُنِعَ إِلَيْهِ مَعْرُوفٌ فَقَالَ لِفَاعِلِهِ جَزَاكَ اللَّهُ خَيْرًا فَقَدْ أَبْلَغَ فِي الثَّنَاءِ ‏\" ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ جَيِّدٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ أُسَامَةَ بْنِ زَيْدٍ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَقَدْ رُوِيَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَسَأَلْتُ مُحَمَّدًا فَلَمْ يَعْرِفْهُ ‏.‏ حَدَّثَنِي عَبْدُ الرَّحِيمِ بْنُ حَازِمٍ الْبَلْخِيُّ قَالَ سَمِعْتُ الْمَكِّيَّ بْنَ إِبْرَاهِيمَ يَقُولُ كُنَّا عِنْدَ ابْنِ جُرَيْجٍ الْمَكِّيِّ فَجَاءَ سَائِلٌ فَسَأَلَهُ فَقَالَ ابْنُ جُرَيْجٍ لِخَازِنِهِ أَعْطِهِ دِينَارًا ‏.‏ فَقَالَ مَا عِنْدِي إِلاَّ دِينَارٌ إِنْ أَعْطَيْتُهُ لَجُعْتَ وَعِيَالَكَ ‏.‏ قَالَ فَغَضِبَ وَقَالَ أَعْطِهِ ‏.‏ قَالَ الْمَكِّيُّ فَنَحْنُ عِنْدَ ابْنِ جُرَيْجٍ إِذْ جَاءَهُ رَجُلٌ بِكِتَابٍ وَصُرَّةٍ وَقَدْ بَعَثَ إِلَيْهِ بَعْضُ إِخْوَانِهِ وَفِي الْكِتَابِ إِنِّي قَدْ بَعَثْتُ خَمْسِينَ دِينَارًا ‏.‏ قَالَ فَحَلَّ ابْنُ جُرَيْجٍ الصُّرَّةَ فَعَدَّهَا فَإِذَا هِيَ أَحَدٌ وَخَمْسُونَ دِينَارًا ‏.‏ قَالَ فَقَالَ ابْنُ جُرَيْجٍ لِخَازِنِهِ قَدْ أَعْطَيْتَ وَاحِدًا فَرَدَّهُ اللَّهُ عَلَيْكَ وَزَادَكَ خَمْسِينَ دِينَارًا ‏.‏",
+            "translation": "Usamah bin Zaid narrated that the Messenger of Allah (s.a.w) said: \"Whoever some good was done to him, and he says: 'May Allah reward you in goodness' then he has done the most that he can of praise.\" [Sahih (Albani). Tirmidhi: 2035]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 831,
+          "title": "Dua for Looking in the Mirror",
+          "category_tags": [],
+          "introduction": "Rasul (ﷺ) used to say when watching himself in the mirror:",
+          "arabic": "اَللَّهُمَّ حَسَّنْتَ خَلْقِي فَأَحْسِنْ خُلُقِي",
+          "audio": "/audio/dua/831.mp3",
+          "transliteration": "Allaahumma hassanta khalqi fa a'hsin khuluqi",
+          "translation": "O Allah, just as You have made my external features beautiful, make my character beautiful as well.",
+          "reference": "Sahih (Albani). Musnad Ahmad: 5099",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 832,
+          "title": "Benefits of Sending Blessings on Prophet ﷺ (Hadith)",
+          "category_tags": [],
+          "introduction": "Narrated Abu Hurayrah (RA): The Prophet (ﷺ) said: If anyone invokes blessings on me once, Allah will bless him ten times.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Dawud: 1530",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 833,
+          "title": "Hadith on Sending Salat for Forgiveness",
+          "category_tags": [],
+          "introduction": "Ubayy ibn ka'b (RA) said: \"I said: 'O Messenger of Allah! Indeed I say very much Salat for you. How much of my Salat should I make for you?' He (ﷺ) said: 'As you wish.'\" [He said:] \"I said: 'A fourth?' He (ﷺ) said: 'As you wish. But if you add more it would be better for you.' I said: 'Then half?' He (ﷺ) said: 'As you wish. And if you add more it would be better [for you].'\" [He said:] \"I said: 'Then two-thirds? 'He (ﷺ) said: 'As you wish, but if you add more it would be better for you.' I said: 'Should I make all of my Salat for you?' He (ﷺ) said: 'Then your problems would be solved and your sins would be forgiven.' This hadith tell us to increase sending prayers upon the Prophet. Only authentically proved prayers from the Quran and Sunnah should be recited in this regard.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Tirmidhi: 2457",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 834,
+          "title": "Dua for Jannah and Protection",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) used to say:",
+          "arabic": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+          "audio": "/audio/dua/834.mp3",
+          "transliteration": "Allaahumma 'innee 'as'alukal-jannata wa 'A'oodhu bika minan-naar",
+          "translation": "O Allah, I ask You for Paradise and seek Your protection from the Fire.",
+          "reference": "Sahih. Abu Dawud: 792",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي صَالِحٍ، عَنْ بَعْضِ، أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لِرَجُلٍ ‏\"‏ كَيْفَ تَقُولُ فِي الصَّلاَةِ ‏\"‏ ‏.‏ قَالَ أَتَشَهَّدُ وَأَقُولُ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ أَمَا إِنِّي لاَ أُحْسِنُ دَنْدَنَتَكَ وَلاَ دَنْدَنَةَ مُعَاذٍ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ حَوْلَهَا نُدَنْدِنُ ‏\"‏ ‏.‏",
+            "translation": "Narrated Some Companions of the Prophet: AbuSalih reported on the authority of some Companions of the Prophet (ﷺ): The Prophet (ﷺ) said to a person: what do you say in prayer? He replied: I first recite tashahhud (supplication recited in sitting position), and then I say: O Allah, I ask Thee for Paradise, and I seek refuge in Thee from Hell-Fire, but I do not understand your sound and the sound of Mu'adh (what you say or he says in prayer). The Prophet (ﷺ) said: We too go around it (paradise and Hell-fire). [Sahih (Albani). Abu Dawud: 792]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 835,
+          "title": "Dua for Blessings in Wealth and Family",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ",
+          "audio": "/audio/dua/835.mp3",
+          "transliteration": "Allaahummakthir maa-lahu wa waladahu wa baarik lahu fiimaa a-'ataitahu",
+          "translation": "O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\n\nAnas ibn Malik (RA) said, \"My mother took me to the Messenger of Allah (ﷺ), and said, 'O Messenger of Allah!' Pray to Allah for this little servant of yours, Anas. Then the Prophet (ﷺ) said: (The dua is mentioned above)",
+          "reference": "Bukhari: 6344",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا حَرَمِيٌّ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَتْ أُمِّي يَا رَسُولَ اللَّهِ خَادِمُكَ أَنَسٌ ادْعُ اللَّهَ لَهُ‏.‏ قَالَ ‏ \"‏ اللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ ‏\" ‏‏.‏",
+            "translation": "Narrated Anas: My mother said, \"O Allah's Messenger (ﷺ)! Please invoke Allah on behalf of your servant.\" He said, \"O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\" a time of distress. [Bukhari: 6344]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 836,
+          "title": "Islamic Dhikr When surprised (SubhaanAllah)",
+          "category_tags": [],
+          "introduction": "Upon hearing astonishing thing, companions said:",
+          "arabic": "سُبْحَانَ اللَّهِ",
+          "audio": "/audio/dua/836.mp3",
+          "transliteration": "SubhaanAllah",
+          "translation": "Glory is to Allah.",
+          "reference": "Muslim: 6077",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "Error: Could not fetch",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 837,
+          "title": "Prophet’s Sunnah after Receiving Good News",
+          "category_tags": [],
+          "introduction": "When the Prophet (ﷺ) received any good news, he would prostrate to express his gratitude to Allah.",
+          "arabic": "",
+          "audio": "",
+          "transliteration": "",
+          "translation": "",
+          "reference": "Sahih (Albani). Abu Daud 2774",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 838,
+          "title": "Dua for Distress (Ya hayyu ya qayyum dua)",
+          "category_tags": [],
+          "introduction": "The Prophet (ﷺ) used to say when faced with any misfortune:",
+          "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+          "audio": "/audio/dua/838.mp3",
+          "transliteration": "Yaa Hayyu yaa Qayyoomu bira'hmatika 'astagheeth",
+          "translation": "O Ever Living, O Self-Subsisting and Supporter of all, by Your Mercy I seek help.",
+          "reference": "Hasan. Tirmidhi: 3524",
+          "hadith": {
+            "title": "Hadith about the Dua",
+            "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمٍ الْمُكْتِبُ، حَدَّثَنَا أَبُو بَدْرٍ، شُجَاعُ بْنُ الْوَلِيدِ عَنِ الرُّحَيْلِ بْنِ مُعَاوِيَةَ، أَخِي زُهَيْرِ بْنِ مُعَاوِيَةَ عَنِ الرَّقَاشِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا كَرَبَهُ أَمْرٌ قَالَ ‏\"‏ يَا حَىُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ ‏\"‏ ‏.‏ وَبِإِسْنَادِهِ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَلِظُّوا بِيَا ذَا الْجَلاَلِ وَالإِكْرَامِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ أَنَسٍ مِنْ غَيْرِ هَذَا الْوَجْهِ ‏.‏",
+            "translation": "Anas bin Malik said: “Whenever a matter would distress him, the Prophet (ﷺ) would say: ‘O Living, O Self-Sustaining Sustainer! In Your Mercy do I seek relief (Yā Ḥayyu yā Qayyūm, bi-raḥmatika astaghīth).’” And with this chain, that he said: “The Messenger of Allah (ﷺ) said: ‘Be constant with: “O Possessor of Majesty and Honor (Yā Dhal-Jalāli wal-Ikrām).’” [Hasan (Albani). Tirmidhi: 3524]"
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 839,
+          "title": "Prophet’s Dua Praising Allah all day",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَلْحَمْدُ لِلَّهِ عَدَدَ مَا خَلَقَ، وَالْحَمْدُ لِلَّهِ مِلْءَ مَا خَلَقَ، وَالْحَمْدُ لِلَّهِ عَدَدَ مَا فِي الْأَرْضِ وَالسَّمَاءِ، وَالْحَمْدُ لِلَّهِ مِلْءَ مَا فِي الْأَرْضِ وَالسَّمَاءِ، وَالْحَمْدُ لِلَّهِ عَدَدَ مَا أَحْصَى كِتَابُهُ، وَالْحَمْدُ لِلَّهِ عَدَدَ كُلِّ شَيْءٍ، وَالْحَمْدُ لِلَّهِ مِلْءَ كُلِّ شَيْءٍ سُبْحَانَ لِلَّهِ عَدَدَ مَا خَلَقَ، وَسُبْحَانَ لِلَّهِ مِلْءَ مَا خَلَقَ، وَسُبْحَانَ لِلَّهِ عَدَدَ مَا فِي الْأَرْضِ وَالسَّمَاءِ، وَسُبْحَانَ لِلَّهِ مِلْءَ مَا فِي الْأَرْضِ وَالسَّمَاءِ، وَسُبْحَانَ لِلَّهِ عَدَدَ مَا أَحْصَى كِتَابُهُ، وَسُبْحَانَ لِلَّهِ عَدَدَ كُلِّ شَيْءٍ، وَسُبْحَانَ لِلَّهِ مِلْءَ كُلِّ شَيْءٍ",
+          "audio": "",
+          "transliteration": "Alhamdulillahi 'Adada Ma Khalaqa, Walhamdulillahi Mil'a Ma Khalaqa, Walhamdulillahi 'Adada Ma fil Ardi Was Samayi, Walhamdulillahi Mil'a Ma fil Ardi Was Samayi, Walhamdullahi 'Adada Ma a’hsaa kitabuhu, Walhamdullahi 'Adada Kulli Shayin, Walhamdullahi Mil'a Kulli Shayin. Subhanallahi 'Adada Ma Khalaqa, Wa Subhanallahi Mil'a Ma Khalaqa, Wa Subhanallahi 'Adada Ma fil Ardi Was Samayi, Wa Subhanallahi Mil'a Ma fil Ardi Was Samayi, Wa Subhanallahi 'Adada Ma a’hsaa kitabuhu, Wa Subhanallahi 'Adada Kulli Shayin, Wa Subhanallahi Mil'a Kulli Shayin.",
+          "translation": "Praise be to Allah equal to His creation, praise be to Allah for the fullness of His creation, praise be to Allah equal to what is in the heavens and earth, praise be to Allah equal to what His Book has counted, praise be to Allah full of what His Book has counted, praise be to Allah equal to the quantity of all things and the praise of Allah are full of all things. I am glorifying Allah equal to His creation, I am glorifying Allah for the fullness of His creation, I am glorifying Allah equal to what is in the heavens and earth, I am glorifying Allah equal to what His Book has counted, pI am glorifying Allah full of what His Book has counted, I am glorifying Allah equal to the quantity of all things and I am glorifying Allah full of all things.\n\nThe Prophet (peace and blessings of Allaah be upon him) said to Abu Umama Bahili (may Allaah be pleased with him), “Shall I not teach you a du'aa/dhikr that is better than all day and night (naafil) dhikr? Learn this du'aa/dhikr yourself, and teach it to those who will come after you.\"",
+          "reference": "Sahih (Albani). Sahihul Jami: 2615",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        },
+        {
+          "dua_id": 925,
+          "title": "Dua for Forgiveness and Heart Purity",
+          "category_tags": [],
+          "introduction": "",
+          "arabic": "اَللَّهُمَّ اغْفِرْ ذَۢنْبِي وَطَهِّرْ قَلْبِي، وَحَصِّنْ فَرْجِي",
+          "audio": "",
+          "transliteration": "Allaahummaghfir dham-bee wa tah-hir qalbee, wa hassin far-jee",
+          "translation": "O Allah forgive my sin, cleanse my heart and guard my chastity.",
+          "reference": "Sahih (Albani). Musnad Ahmad: 22265",
+          "hadith": {
+            "title": "",
+            "arabic": "",
+            "translation": ""
+          },
+          "benefits": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "when_to_recite": {
+            "title": "",
+            "description": "",
+            "points": []
+          },
+          "how_to_perform": {
+            "title": "",
+            "description": "",
+            "steps": []
+          },
+          "faq": [],
+          "related_duas": []
+        }
+      ]
+    }
+  ]
+}

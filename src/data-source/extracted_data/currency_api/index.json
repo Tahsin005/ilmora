@@ -1,0 +1,28 @@
+{
+  "title": "Currency API Master Index",
+  "total_currencies_supported": 339,
+  "base_rates_available": [
+    "aed",
+    "aud",
+    "bdt",
+    "bhd",
+    "cad",
+    "chf",
+    "cny",
+    "egp",
+    "eur",
+    "gbp",
+    "idr",
+    "inr",
+    "jpy",
+    "kwd",
+    "myr",
+    "omr",
+    "pkr",
+    "qar",
+    "sar",
+    "sgd",
+    "try",
+    "usd"
+  ]
+}

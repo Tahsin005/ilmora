@@ -1,0 +1,506 @@
+{
+  "id": 53,
+  "name": "النجم",
+  "transliteration": "An-Najm",
+  "translation_en": "The Star",
+  "type": "meccan",
+  "total_verses": 62,
+  "verses": [
+    {
+      "id": 1,
+      "arabic": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+      "transliteration": "Waalnnajmi itha hawa",
+      "translation_en": "By the star when it descends",
+      "translation_bn": "নক্ষত্রের কসম, যখন অস্তমিত হয়।",
+      "translation_ur": "قسم ہے تارے کی جبکہ وہ غروب ہوا"
+    },
+    {
+      "id": 2,
+      "arabic": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+      "transliteration": "Ma dalla sahibukum wama ghawa",
+      "translation_en": "Your companion [Muhammad] has not strayed, nor has he erred",
+      "translation_bn": "তোমাদের সংগী পথভ্রষ্ট হননি এবং বিপথগামীও হননি।",
+      "translation_ur": "تمہارا رفیق نہ بھٹکا ہے نہ بہکا ہے"
+    },
+    {
+      "id": 3,
+      "arabic": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+      "transliteration": "Wama yantiqu AAani alhawa",
+      "translation_en": "Nor does he speak from [his own] inclination",
+      "translation_bn": "এবং প্রবৃত্তির তাড়নায় কথা বলেন না।",
+      "translation_ur": "وہ اپنی خواہش نفس سے نہیں بولتا"
+    },
+    {
+      "id": 4,
+      "arabic": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+      "transliteration": "In huwa illa wahyun yooha",
+      "translation_en": "It is not but a revelation revealed",
+      "translation_bn": "কোরআন ওহী, যা প্রত্যাদেশ হয়।",
+      "translation_ur": "یہ تو ایک وحی ہے جو اُس پر نازل کی جاتی ہے"
+    },
+    {
+      "id": 5,
+      "arabic": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+      "transliteration": "AAallamahu shadeedu alquwa",
+      "translation_en": "Taught to him by one intense in strength",
+      "translation_bn": "তাঁকে শিক্ষা দান করে এক শক্তিশালী ফেরেশতা",
+      "translation_ur": "اُسے زبردست قوت والے نے تعلیم دی ہے"
+    },
+    {
+      "id": 6,
+      "arabic": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+      "transliteration": "Thoo mirratin faistawa",
+      "translation_en": "One of soundness. And he rose to [his] true form",
+      "translation_bn": "সহজাত শক্তিসম্পন্ন, সে নিজ আকৃতিতে প্রকাশ পেল।",
+      "translation_ur": "جو بڑا صاحب حکمت ہے"
+    },
+    {
+      "id": 7,
+      "arabic": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+      "transliteration": "Wahuwa bialofuqi alaAAla",
+      "translation_en": "While he was in the higher [part of the] horizon",
+      "translation_bn": "উর্ধ্ব দিগন্তে",
+      "translation_ur": "وہ سامنے آ کھڑا ہوا جبکہ وہ بالائی افق پر تھا"
+    },
+    {
+      "id": 8,
+      "arabic": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "transliteration": "Thumma dana fatadalla",
+      "translation_en": "Then he approached and descended",
+      "translation_bn": "অতঃপর নিকটবর্তী হল ও ঝুলে গেল।",
+      "translation_ur": "پھر قریب آیا اور اوپر معلق ہو گیا"
+    },
+    {
+      "id": 9,
+      "arabic": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+      "transliteration": "Fakana qaba qawsayni aw adna",
+      "translation_en": "And was at a distance of two bow lengths or nearer",
+      "translation_bn": "তখন দুই ধনুকের ব্যবধান ছিল অথবা আরও কম।",
+      "translation_ur": "یہاں تک کہ دو کمانوں کے برابر یا اس سے کچھ کم فاصلہ رہ گیا"
+    },
+    {
+      "id": 10,
+      "arabic": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+      "transliteration": "Faawha ila AAabdihi ma awha",
+      "translation_en": "And he revealed to His Servant what he revealed",
+      "translation_bn": "তখন আল্লাহ তাঁর দাসের প্রতি যা প্রত্যাদেশ করবার, তা প্রত্যাদেশ করলেন।",
+      "translation_ur": "تب اُس نے اللہ کے بندے کو وحی پہنچائی جو وحی بھی اُسے پہنچانی تھی"
+    },
+    {
+      "id": 11,
+      "arabic": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+      "transliteration": "Ma kathaba alfuadu ma raa",
+      "translation_en": "The heart did not lie [about] what it saw",
+      "translation_bn": "রসূলের অন্তর মিথ্যা বলেনি যা সে দেখেছে।",
+      "translation_ur": "نظر نے جو کچھ دیکھا، دل نے اُس میں جھوٹ نہ ملایا"
+    },
+    {
+      "id": 12,
+      "arabic": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "transliteration": "Afatumaroonahu AAala ma yara",
+      "translation_en": "So will you dispute with him over what he saw",
+      "translation_bn": "তোমরা কি বিষয়ে বিতর্ক করবে যা সে দেখেছে",
+      "translation_ur": "اب کیا تم اُس چیز پر اُس سے جھگڑتے ہو جسے وہ آنکھوں سے دیکھتا ہے؟"
+    },
+    {
+      "id": 13,
+      "arabic": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+      "transliteration": "Walaqad raahu nazlatan okhra",
+      "translation_en": "And he certainly saw him in another descent",
+      "translation_bn": "নিশ্চয় সে তাকে আরেকবার দেখেছিল",
+      "translation_ur": "اور ایک مرتبہ پھر اُس نے"
+    },
+    {
+      "id": 14,
+      "arabic": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+      "transliteration": "AAinda sidrati almuntaha",
+      "translation_en": "At the Lote Tree of the Utmost Boundary",
+      "translation_bn": "সিদরাতুলমুন্তাহার নিকটে",
+      "translation_ur": "سدرۃالمنتہیٰ کے پاس اُس کو دیکھا"
+    },
+    {
+      "id": 15,
+      "arabic": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+      "transliteration": "AAindaha jannatu almawa",
+      "translation_en": "Near it is the Garden of Refuge",
+      "translation_bn": "যার কাছে অবস্থিত বসবাসের জান্নাত।",
+      "translation_ur": "جہاں پاس ہی جنت الماویٰ ہے"
+    },
+    {
+      "id": 16,
+      "arabic": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+      "transliteration": "Ith yaghsha alssidrata ma yaghsha",
+      "translation_en": "When there covered the Lote Tree that which covered [it]",
+      "translation_bn": "যখন বৃক্ষটি দ্বারা আচ্ছন্ন হওয়ার, তদ্দ্বারা আচ্ছন্ন ছিল।",
+      "translation_ur": "اُس وقت سدرہ پر چھا رہا تھا جو کچھ کہ چھا رہا تھا"
+    },
+    {
+      "id": 17,
+      "arabic": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+      "transliteration": "Ma zagha albasaru wama tagha",
+      "translation_en": "The sight [of the Prophet] did not swerve, nor did it transgress [its limit]",
+      "translation_bn": "তাঁর দৃষ্টিবিভ্রম হয় নি এবং সীমালংঘনও করেনি।",
+      "translation_ur": "نگاہ نہ چوندھیائی نہ حد سے متجاوز ہوئی"
+    },
+    {
+      "id": 18,
+      "arabic": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+      "transliteration": "Laqad raa min ayati rabbihi alkubra",
+      "translation_en": "He certainly saw of the greatest signs of his Lord",
+      "translation_bn": "নিশ্চয় সে তার পালনকর্তার মহান নিদর্শনাবলী অবলোকন করেছে।",
+      "translation_ur": "اور اس نے اپنے رب کی بڑی بڑی نشانیاں دیکھیں"
+    },
+    {
+      "id": 19,
+      "arabic": "أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ",
+      "transliteration": "Afaraaytumu allata waalAAuzza",
+      "translation_en": "So have you considered al-Lat and al-'Uzza",
+      "translation_bn": "তোমরা কি ভেবে দেখেছ লাত ও ওযযা সম্পর্কে।",
+      "translation_ur": "اب ذرا بتاؤ، تم نے کبھی اِس لات، اور اِس عزیٰ"
+    },
+    {
+      "id": 20,
+      "arabic": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+      "transliteration": "Wamanata alththalithata alokhra",
+      "translation_en": "And Manat, the third - the other one",
+      "translation_bn": "এবং তৃতীয় আরেকটি মানাত সম্পর্কে",
+      "translation_ur": "اور تیسری ایک اور دیوی منات کی حقیقت پر کچھ غور بھی کیا؟"
+    },
+    {
+      "id": 21,
+      "arabic": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+      "transliteration": "Alakumu alththakaru walahu alontha",
+      "translation_en": "Is the male for you and for Him the female",
+      "translation_bn": "পুত্র-সন্তান কি তোমাদের জন্যে এবং কন্যা-সন্তান আল্লাহর জন্য",
+      "translation_ur": "کیا بیٹے تمہارے لیے ہیں اور بیٹیاں خدا کے لیے؟"
+    },
+    {
+      "id": 22,
+      "arabic": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+      "transliteration": "Tilka ithan qismatun deeza",
+      "translation_en": "That, then, is an unjust division",
+      "translation_bn": "এমতাবস্থায় এটা তো হবে খুবই অসংগত বন্টন।",
+      "translation_ur": "یہ تو بڑی دھاندلی کی تقسیم ہوئی"
+    },
+    {
+      "id": 23,
+      "arabic": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+      "transliteration": "In hiya illa asmaon sammaytumooha antum waabaokum ma anzala Allahu biha min sultanin in yattabiAAoona illa alththanna wama tahwa alanfusu walaqad jaahum min rabbihimu alhuda",
+      "translation_en": "They are not but [mere] names you have named them - you and your forefathers - for which Allah has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance",
+      "translation_bn": "এগুলো কতগুলো নাম বৈ নয়, যা তোমরা এবং তোমাদের পূর্ব-পুরুষদের রেখেছ। এর সমর্থনে আল্লাহ কোন দলীল নাযিল করেননি। তারা অনুমান এবং প্রবৃত্তিরই অনুসরণ করে। অথচ তাদের কাছে তাদের পালনকর্তার পক্ষ থেকে পথ নির্দেশ এসেছে।",
+      "translation_ur": "دراصل یہ کچھ نہیں ہیں مگر بس چند نام جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں اللہ نے اِن کے لیے کوئی سند نازل نہیں کی حقیقت یہ ہے کہ لوگ محض وہم و گمان کی پیروی کر رہے ہیں اور خواہشات نفس کے مرید بنے ہوئے ہیں حالانکہ اُن کے رب کی طرف سے اُن کے پاس ہدایت آ چکی ہے"
+    },
+    {
+      "id": 24,
+      "arabic": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+      "transliteration": "Am lilinsani ma tamanna",
+      "translation_en": "Or is there for man whatever he wishes",
+      "translation_bn": "মানুষ যা চায়, তাই কি পায়",
+      "translation_ur": "کیا انسان جو کچھ چاہے اس کے لیے وحی حق ہے"
+    },
+    {
+      "id": 25,
+      "arabic": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+      "transliteration": "Falillahi alakhiratu waaloola",
+      "translation_en": "Rather, to Allah belongs the Hereafter and the first [life]",
+      "translation_bn": "অতএব, পরবর্তী ও পূর্ববর্তী সব মঙ্গলই আল্লাহর হাতে।",
+      "translation_ur": "دنیا اور آخرت کا مالک تو اللہ ہی ہے"
+    },
+    {
+      "id": 26,
+      "arabic": "۞وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+      "transliteration": "Wakam min malakin fee alssamawati la tughnee shafaAAatuhum shayan illa min baAAdi an yathana Allahu liman yashao wayarda",
+      "translation_en": "And how many angels there are in the heavens whose intercession will not avail at all except [only] after Allah has permitted [it] to whom He wills and approves",
+      "translation_bn": "আকাশে অনেক ফেরেশতা রয়েছে। তাদের কোন সুপারিশ ফলপ্রসূ হয় না যতক্ষণ আল্লাহ যার জন্যে ইচ্ছা ও যাকে পছন্দ করেন, অনুমতি না দেন।",
+      "translation_ur": "آسمانوں میں کتنے ہی فرشتے موجود ہیں، اُن کی شفاعت کچھ بھی کام نہیں آ سکتی جب تک کہ اللہ کسی ایسے شخص کے حق میں اُس کی اجازت نہ دے جس کے لیے وہ کوئی عرضداشت سننا چاہے اور اس کو پسند کرے"
+    },
+    {
+      "id": 27,
+      "arabic": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَـٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ",
+      "transliteration": "Inna allatheena la yuminoona bialakhirati layusammoona almalaikata tasmiyata alontha",
+      "translation_en": "Indeed, those who do not believe in the Hereafter name the angels female names",
+      "translation_bn": "যারা পরকালে বিশ্বাস করে না, তারাই ফেরেশতাকে নারীবাচক নাম দিয়ে থাকে।",
+      "translation_ur": "مگر جو لوگ آخرت کو نہیں مانتے وہ فرشتوں کو دیویوں کے ناموں سے موسوم کرتے ہیں"
+    },
+    {
+      "id": 28,
+      "arabic": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
+      "transliteration": "Wama lahum bihi min AAilmin in yattabiAAoona illa alththanna wainna alththanna la yughnee mina alhaqqi shayan",
+      "translation_en": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all",
+      "translation_bn": "অথচ এ বিষয়ে তাদের কোন জ্ঞান নেই। তারা কেবল অনুমানের উপর চলে। অথচ সত্যের ব্যাপারে অনুমান মোটেই ফলপ্রসূ নয়।",
+      "translation_ur": "حالانکہ اس معاملہ کا کوئی علم انہیں حاصل نہیں ہے، وہ محض گمان کی پیروی کر رہے ہیں، اور گمان حق کی جگہ کچھ بھی کام نہیں دے سکتا"
+    },
+    {
+      "id": 29,
+      "arabic": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "transliteration": "FaaAArid AAan man tawalla AAan thikrina walam yurid illa alhayata alddunya",
+      "translation_en": "So turn away from whoever turns his back on Our message and desires not except the worldly life",
+      "translation_bn": "অতএব যে আমার স্মরণে বিমুখ এবং কেবল পার্থিব জীবনই কামনা করে তার তরফ থেকে আপনি মুখ ফিরিয়ে নিন।",
+      "translation_ur": "پس اے نبیؐ، جو شخص ہمارے ذکر سے منہ پھیرتا ہے، اور دنیا کی زندگی کے سوا جسے کچھ مطلوب نہیں ہے، اُسے اس کے حال پر چھوڑ دو"
+    },
+    {
+      "id": 30,
+      "arabic": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ",
+      "transliteration": "Thalika mablaghuhum mina alAAilmi inna rabbaka huwa aAAlamu biman dalla AAan sabeelihi wahuwa aAAlamu bimani ihtada",
+      "translation_en": "That is their sum of knowledge. Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of who is guided",
+      "translation_bn": "তাদের জ্ঞানের পরিধি এ পর্যন্তই। নিশ্চয় আপনার পালনকর্তা ভাল জানেন, কে তাঁর পথ থেকে বিচ্যুত হয়েছে এবং তিনিই ভাল জানেন কে সুপথপ্রাপ্ত হয়েছে।",
+      "translation_ur": "اِن لوگوں کا مبلغ علم بس یہی کچھ ہے، یہ بات تیرا رب ہی زیادہ جانتا ہے کہ اُس کے راستے سے کون بھٹک گیا ہے اور کون سیدھے راستے پر ہے"
+    },
+    {
+      "id": 31,
+      "arabic": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+      "transliteration": "Walillahi ma fee alssamawati wama fee alardi liyajziya allatheena asaoo bima AAamiloo wayajziya allatheena ahsanoo bialhusna",
+      "translation_en": "And to Allah belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward]",
+      "translation_bn": "নভোমন্ডল ও ভূমন্ডলে যা কিছু আছে, সবই আল্লাহর, যাতে তিনি মন্দকর্মীদেরকে তাদের কর্মের প্রতিফল দেন এবং সৎকর্মীদেরকে দেন ভাল ফল।",
+      "translation_ur": "اور زمین اور آسمانوں کی ہر چیز کا مالک اللہ ہی ہے تاکہ اللہ برائی کرنے والوں کو ان کے عمل کا بدلہ دے اور اُن لوگوں کو اچھی جزا سے نوازے جنہوں نے نیک رویہ اختیار کیا ہے"
+    },
+    {
+      "id": 32,
+      "arabic": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَـٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "transliteration": "Allatheena yajtaniboona kabaira alithmi waalfawahisha illa allamama inna rabbaka wasiAAu almaghfirati huwa aAAlamu bikum ith anshaakum mina alardi waith antum ajinnatun fee butooni ommahatikum fala tuzakkoo anfusakum huwa aAAlamu bimani ittaqa",
+      "translation_en": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him",
+      "translation_bn": "যারা বড় বড় গোনাহ ও অশ্লীলকার্য থেকে বেঁচে থাকে ছোটখাট অপরাধ করলেও নিশ্চয় আপনার পালনকর্তার ক্ষমা সুদূর বিস্তৃত। তিনি তোমাদের সম্পর্কে ভাল জানেন, যখন তিনি তোমাদেরকে সৃষ্টি করেছেন মৃত্তিকা থেকে এবং যখন তোমরা মাতৃগর্ভে কচি শিশু ছিলে। অতএব তোমরা আত্নপ্রশংসা করো না। তিনি ভাল জানেন কে সংযমী।",
+      "translation_ur": "جو بڑے بڑے گناہوں اور کھلے کھلے قبیح افعال سے پرہیز کرتے ہیں، الا یہ کہ کچھ قصور اُن سے سرزد ہو جائے بلاشبہ تیرے رب کا دامن مغفرت بہت وسیع ہے وہ تمھیں اُس وقت سے خوب جانتا ہے جب اُس نے زمین سے تمہیں پیدا کیا اور جب تم اپنی ماؤں کے پیٹوں میں ابھی جنین ہی تھے پس اپنے نفس کی پاکی کے دعوے نہ کرو، وہی بہتر جانتا ہے کہ واقعی متقی کون ہے"
+    },
+    {
+      "id": 33,
+      "arabic": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ",
+      "transliteration": "Afaraayta allathee tawalla",
+      "translation_en": "Have you seen the one who turned away",
+      "translation_bn": "আপনি কি তাকে দেখেছেন, যে মুখ ফিরিয়ে নেয়।",
+      "translation_ur": "پھر اے نبیؐ، تم نے اُس شخص کو بھی دیکھا جو راہ خدا سے پھر گیا"
+    },
+    {
+      "id": 34,
+      "arabic": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
+      "transliteration": "WaaAAta qaleelan waakda",
+      "translation_en": "And gave a little and [then] refrained",
+      "translation_bn": "এবং দেয় সামান্যই ও পাষাণ হয়ে যায়।",
+      "translation_ur": "اور تھوڑا سا دے کر رک گیا"
+    },
+    {
+      "id": 35,
+      "arabic": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ",
+      "transliteration": "aAAindahu AAilmu alghaybi fahuwa yara",
+      "translation_en": "Does he have knowledge of the unseen, so he sees",
+      "translation_bn": "তার কাছে কি অদৃশ্যের জ্ঞান আছে যে, সে দেখে",
+      "translation_ur": "کیا اس کے پاس غیب کا علم ہے کہ وہ حقیقت کو دیکھ رہا ہے؟"
+    },
+    {
+      "id": 36,
+      "arabic": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ",
+      "transliteration": "Am lam yunabba bima fee suhufi moosa",
+      "translation_en": "Or has he not been informed of what was in the scriptures of Moses",
+      "translation_bn": "তাকে কি জানানো হয়নি যা আছে মূসার কিতাবে",
+      "translation_ur": "کیا اُسے اُن باتوں کی کوئی خبر نہیں پہنچی جو موسیٰؑ کے صحیفوں"
+    },
+    {
+      "id": 37,
+      "arabic": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ",
+      "transliteration": "Waibraheema allathee waffa",
+      "translation_en": "And [of] Abraham, who fulfilled [his obligations]",
+      "translation_bn": "এবং ইব্রাহীমের কিতাবে, যে তার দায়িত্ব পালন করেছিল",
+      "translation_ur": "اور اُس ابراہیمؑ کے صحیفوں میں بیان ہوئی ہیں جس نے وفا کا حق ادا کر دیا؟"
+    },
+    {
+      "id": 38,
+      "arabic": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
+      "transliteration": "Alla taziru waziratun wizra okhra",
+      "translation_en": "That no bearer of burdens will bear the burden of another",
+      "translation_bn": "কিতাবে এই আছে যে, কোন ব্যক্তি কারও গোনাহ নিজে বহন করবে না।",
+      "translation_ur": "یہ کہ کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا"
+    },
+    {
+      "id": 39,
+      "arabic": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+      "transliteration": "Waan laysa lilinsani illa ma saAAa",
+      "translation_en": "And that there is not for man except that [good] for which he strives",
+      "translation_bn": "এবং মানুষ তাই পায়, যা সে করে",
+      "translation_ur": "اور یہ کہ انسان کے لیے کچھ نہیں ہے مگر وہ جس کی اُس نے سعی کی ہے"
+    },
+    {
+      "id": 40,
+      "arabic": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ",
+      "transliteration": "Waanna saAAyahu sawfa yura",
+      "translation_en": "And that his effort is going to be seen",
+      "translation_bn": "তার কর্ম শীঘ্রই দেখা হবে।",
+      "translation_ur": "اور یہ کہ اس کی سعی عنقریب دیکھی جائے گی"
+    },
+    {
+      "id": 41,
+      "arabic": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ",
+      "transliteration": "Thumma yujzahu aljazaa alawfa",
+      "translation_en": "Then he will be recompensed for it with the fullest recompense",
+      "translation_bn": "অতঃপর তাকে পূর্ণ প্রতিদান দেয়া হবে।",
+      "translation_ur": "اور اس کی پوری جزا اسے دی جائے گی"
+    },
+    {
+      "id": 42,
+      "arabic": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ",
+      "transliteration": "Waanna ila rabbika almuntaha",
+      "translation_en": "And that to your Lord is the finality",
+      "translation_bn": "তোমার পালনকর্তার কাছে সবকিছুর সমাপ্তি",
+      "translation_ur": "اور یہ کہ آخر کار پہنچنا تیرے رب ہی کے پاس ہے"
+    },
+    {
+      "id": 43,
+      "arabic": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ",
+      "transliteration": "Waannahu huwa adhaka waabka",
+      "translation_en": "And that it is He who makes [one] laugh and weep",
+      "translation_bn": "এবং তিনিই হাসান ও কাঁদান",
+      "translation_ur": "اور یہ کہ اُسی نے ہنسایا اور اُسی نے رلایا"
+    },
+    {
+      "id": 44,
+      "arabic": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا",
+      "transliteration": "Waannahu huwa amata waahya",
+      "translation_en": "And that it is He who causes death and gives life",
+      "translation_bn": "এবং তিনিই মারেন ও বাঁচান",
+      "translation_ur": "اور یہ کہ اُسی نے موت دی اور اُسی نے زندگی بخشی"
+    },
+    {
+      "id": 45,
+      "arabic": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+      "transliteration": "Waannahu khalaqa alzzawjayni alththakara waalontha",
+      "translation_en": "And that He creates the two mates - the male and female",
+      "translation_bn": "এবং তিনিই সৃষ্টি করেন যুগল-পুরুষ ও নারী।",
+      "translation_ur": "اور یہ کہ اُسی نے نر اور مادہ کا جوڑا پیدا کیا"
+    },
+    {
+      "id": 46,
+      "arabic": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+      "transliteration": "Min nutfatin itha tumna",
+      "translation_en": "From a sperm-drop when it is emitted",
+      "translation_bn": "একবিন্দু বীর্য থেকে যখন স্খলিত করা হয়।",
+      "translation_ur": "ایک بوند سے جب وہ ٹپکائی جاتی ہے"
+    },
+    {
+      "id": 47,
+      "arabic": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+      "transliteration": "Waanna AAalayhi alnnashata alokhra",
+      "translation_en": "And that [incumbent] upon Him is the next creation",
+      "translation_bn": "পুনরুত্থানের দায়িত্ব তাঁরই",
+      "translation_ur": "اور یہ کہ دوسری زندگی بخشنا بھی اُسی کے ذمہ ہے"
+    },
+    {
+      "id": 48,
+      "arabic": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+      "transliteration": "Waannahu huwa aghna waaqna",
+      "translation_en": "And that it is He who enriches and suffices",
+      "translation_bn": "এবং তিনিই ধনবান করেন ও সম্পদ দান করেন।",
+      "translation_ur": "اور یہ کہ اُسی نے غنی کیا اور جائداد بخشی"
+    },
+    {
+      "id": 49,
+      "arabic": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+      "transliteration": "Waannahu huwa rabbu alshshiAAra",
+      "translation_en": "And that it is He who is the Lord of Sirius",
+      "translation_bn": "তিনি শিরা নক্ষত্রের মালিক।",
+      "translation_ur": "اور یہ کہ وہی شعریٰ کا رب ہے"
+    },
+    {
+      "id": 50,
+      "arabic": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ",
+      "transliteration": "Waannahu ahlaka AAadan aloola",
+      "translation_en": "And that He destroyed the first [people of] 'Aad",
+      "translation_bn": "তিনিই প্রথম আদ সম্প্রদায়কে ধ্বংস করেছেন",
+      "translation_ur": "اور یہ کہ اُسی نے عاد اولیٰ کو ہلاک کیا"
+    },
+    {
+      "id": 51,
+      "arabic": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ",
+      "transliteration": "Wathamooda fama abqa",
+      "translation_en": "And Thamud - and He did not spare [them]",
+      "translation_bn": "এবং সামুদকেও; অতঃপর কাউকে অব্যহতি দেননি।",
+      "translation_ur": "اور ثمود کو ایسا مٹایا کہ ان میں سے کسی کو باقی نہ چھوڑا"
+    },
+    {
+      "id": 52,
+      "arabic": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ",
+      "transliteration": "Waqawma noohin min qablu innahum kanoo hum athlama waatgha",
+      "translation_en": "And the people of Noah before. Indeed, it was they who were [even] more unjust and oppressing",
+      "translation_bn": "এবং তাদের পূর্বে নূহের সম্প্রদায়কে, তারা ছিল আরও জালেম ও অবাধ্য।",
+      "translation_ur": "اور اُن سے پہلے قوم نوحؑ کو تباہ کیا کیونکہ وہ تھے ہی سخت ظالم و سرکش لوگ"
+    },
+    {
+      "id": 53,
+      "arabic": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+      "transliteration": "Waalmutafikata ahwa",
+      "translation_en": "And the overturned towns He hurled down",
+      "translation_bn": "তিনিই জনপদকে শুন্যে উত্তোলন করে নিক্ষেপ করেছেন।",
+      "translation_ur": "اور اوندھی گرنے والی بستیوں کو اٹھا پھینکا"
+    },
+    {
+      "id": 54,
+      "arabic": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "transliteration": "Faghashshaha ma ghashsha",
+      "translation_en": "And covered them by that which He covered",
+      "translation_bn": "অতঃপর তাকে আচ্ছন্ন করে নেয় যা আচ্ছন্ন করার।",
+      "translation_ur": "پھر چھا دیا اُن پر وہ کچھ جو (تم جانتے ہی ہو کہ) کیا چھا دیا"
+    },
+    {
+      "id": 55,
+      "arabic": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "transliteration": "Fabiayyi alai rabbika tatamara",
+      "translation_en": "Then which of the favors of your Lord do you doubt",
+      "translation_bn": "অতঃপর তুমি তোমার পালনকর্তার কোন অনুগ্রহকে মিথ্যা বলবে",
+      "translation_ur": "پس اے مخاطب، اپنے رب کی کن کن نعمتوں میں تو شک کرے گا؟"
+    },
+    {
+      "id": 56,
+      "arabic": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+      "transliteration": "Hatha natheerun mina alnnuthuri aloola",
+      "translation_en": "This [Prophet] is a warner like the former warners",
+      "translation_bn": "অতীতের সতর্ককারীদের মধ্যে সে-ও একজন সতর্ককারী।",
+      "translation_ur": "یہ ایک تنبیہ ہے پہلے آئی ہوئی تنبیہات میں سے"
+    },
+    {
+      "id": 57,
+      "arabic": "أَزِفَتِ ٱلۡأٓزِفَةُ",
+      "transliteration": "Azifati alazifatu",
+      "translation_en": "The Approaching Day has approached",
+      "translation_bn": "কেয়ামত নিকটে এসে গেছে।",
+      "translation_ur": "آنے والی گھڑی قریب آ لگی ہے"
+    },
+    {
+      "id": 58,
+      "arabic": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "transliteration": "Laysa laha min dooni Allahi kashifatun",
+      "translation_en": "Of it, [from those] besides Allah, there is no remover",
+      "translation_bn": "আল্লাহ ব্যতীত কেউ একে প্রকাশ করতে সক্ষম নয়।",
+      "translation_ur": "اللہ کے سوا کوئی اُس کو ہٹا نے والا نہیں"
+    },
+    {
+      "id": 59,
+      "arabic": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ",
+      "transliteration": "Afamin hatha alhadeethi taAAjaboona",
+      "translation_en": "Then at this statement do you wonder",
+      "translation_bn": "তোমরা কি এই বিষয়ে আশ্চর্যবোধ করছ",
+      "translation_ur": "اب کیا یہی وہ باتیں ہیں جن پر تم اظہار تعجب کرتے ہو؟"
+    },
+    {
+      "id": 60,
+      "arabic": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+      "transliteration": "Watadhakoona wala tabkoona",
+      "translation_en": "And you laugh and do not weep",
+      "translation_bn": "এবং হাসছ-ক্রন্দন করছ না",
+      "translation_ur": "ہنستے ہو اور روتے نہیں ہو؟"
+    },
+    {
+      "id": 61,
+      "arabic": "وَأَنتُمۡ سَٰمِدُونَ",
+      "transliteration": "Waantum samidoona",
+      "translation_en": "While you are proudly sporting",
+      "translation_bn": "তোমরা ক্রীড়া-কৌতুক করছ",
+      "translation_ur": "اور گا بجا کر انہیں ٹالتے ہو؟"
+    },
+    {
+      "id": 62,
+      "arabic": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
+      "transliteration": "Faosjudoo lillahi waoAAbudoo",
+      "translation_en": "So prostrate to Allah and worship [Him]",
+      "translation_bn": "অতএব আল্লাহকে সেজদা কর এবং তাঁর এবাদত কর।",
+      "translation_ur": "جھک جاؤ اللہ کے آگے اور بندگی بجا لاؤ"
+    }
+  ]
+}
