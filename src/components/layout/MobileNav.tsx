@@ -13,11 +13,15 @@ import {
   Shield,
   Bookmark,
   X,
+  Download,
+  WifiOff,
 } from 'lucide-react';
 import { useSettings } from '../../hooks/useSettings';
+import { usePWA } from '../../hooks/usePWA';
 
 export const MobileNav: React.FC = () => {
   const { language } = useSettings();
+  const { isInstallable, isOffline, installApp } = usePWA();
   const [showMoreMenu, setShowMoreMenu] = useState(false);
 
   const MORE_ITEMS = [
@@ -68,6 +72,31 @@ export const MobileNav: React.FC = () => {
                 );
               })}
             </div>
+
+
+            {(isInstallable || isOffline) && (
+              <div className="pt-3 border-t border-white/[0.08] mt-3 space-y-2">
+                {isOffline && (
+                  <div className="flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/20 text-xs font-display">
+                    <WifiOff className="w-3.5 h-3.5 shrink-0" />
+                    <span>Operating in Offline Mode (Cached Data)</span>
+                  </div>
+                )}
+                {isInstallable && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setShowMoreMenu(false);
+                      installApp();
+                    }}
+                    className="w-full flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-primary/20 hover:bg-primary/30 text-primary border border-primary/35 font-display text-xs font-semibold shadow-md transition-all cursor-pointer"
+                  >
+                    <Download className="w-4 h-4" />
+                    <span>Install Ilmora App to Home Screen</span>
+                  </button>
+                )}
+              </div>
+            )}
           </div>
         </div>
       )}

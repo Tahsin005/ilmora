@@ -12,9 +12,12 @@ import {
   Shield,
   Bookmark,
   Languages,
+  Download,
+  WifiOff,
 } from 'lucide-react';
 import { type AppLanguage } from '../../context/settings-context';
 import { useSettings } from '../../hooks/useSettings';
+import { usePWA } from '../../hooks/usePWA';
 
 const NAV_ITEMS = [
   { to: '/', label: { en: 'Dashboard', bn: 'ড্যাশবোর্ড', ar: 'الرئيسية' }, icon: LayoutDashboard },
@@ -31,6 +34,7 @@ const NAV_ITEMS = [
 
 export const Sidebar: React.FC = () => {
   const { language, setLanguage } = useSettings();
+  const { isInstallable, isOffline, installApp } = usePWA();
 
   const handleLangToggle = (lang: AppLanguage) => {
     setLanguage(lang);
@@ -89,6 +93,26 @@ export const Sidebar: React.FC = () => {
 
 
       <div className="pt-3 border-t border-white/[0.06] space-y-2.5">
+
+        {isOffline && (
+          <div className="flex items-center justify-center gap-1.5 py-1.5 px-2.5 rounded-xl bg-amber-500/10 text-amber-400 border border-amber-500/20 text-[11px] font-display font-medium">
+            <WifiOff className="w-3.5 h-3.5 shrink-0" />
+            <span>Offline Mode (Cached)</span>
+          </div>
+        )}
+
+
+        {isInstallable && (
+          <button
+            type="button"
+            onClick={installApp}
+            className="w-full flex items-center justify-center gap-2 py-2 px-3 rounded-xl bg-primary/15 hover:bg-primary/25 text-primary border border-primary/30 font-display text-xs font-semibold shadow-sm transition-all duration-300 cursor-pointer"
+          >
+            <Download className="w-3.5 h-3.5" />
+            <span>Install Ilmora App</span>
+          </button>
+        )}
+
         <div className="flex items-center justify-between px-2 text-xs text-muted-foreground font-display">
           <span className="flex items-center gap-1.5 font-medium">
             <Languages className="w-3.5 h-3.5 text-primary" /> Language
@@ -100,8 +124,8 @@ export const Sidebar: React.FC = () => {
                 type="button"
                 onClick={() => handleLangToggle(l)}
                 className={`px-2.5 py-1 text-xs font-semibold rounded-lg transition-all duration-300 ${language === l
-                    ? 'bg-primary text-primary-foreground shadow-sm'
-                    : 'text-muted-foreground hover:text-foreground'
+                  ? 'bg-primary text-primary-foreground shadow-sm'
+                  : 'text-muted-foreground hover:text-foreground'
                   }`}
               >
                 {l.toUpperCase()}

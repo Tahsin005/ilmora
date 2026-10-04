@@ -1,0 +1,88 @@
+{
+  "id": "ilmora-islamic-companion",
+  "name": "Ilmora - Islamic Knowledge & Daily Deen Companion",
+  "short_name": "Ilmora",
+  "description": "A serene sanctuary for daily Islamic knowledge: Holy Quran, 40,000+ canonical Hadiths, 25 Prophet stories, live prayer times, Qibla compass, and daily supplications.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#050811",
+  "theme_color": "#10b981",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "lifestyle",
+    "education",
+    "books",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Holy Quran",
+      "short_name": "Quran",
+      "description": "Read and listen to the Holy Quran",
+      "url": "/quran",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Prayer Times & Qibla",
+      "short_name": "Prayers",
+      "description": "Check live prayer timetable and Kaaba compass",
+      "url": "/prayer-times",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Hadith Library",
+      "short_name": "Hadith",
+      "description": "Search authentic prophetic traditions",
+      "url": "/hadith",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Duas & Tasbeeh",
+      "short_name": "Duas",
+      "description": "Supplications and digital tasbeeh counter",
+      "url": "/duas",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Zakat Calculator",
+      "short_name": "Zakat",
+      "description": "Calculate annual 2.5% wealth obligation",
+      "url": "/zakat",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
